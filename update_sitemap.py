@@ -133,6 +133,8 @@ def generate_main_readme(sitemaps_with_urls):
     """生成主README文件的内容"""
     markdown = f"""# LabEx Sitemap Links
 
+[LabEx](https://labex.io) is a hands-on learning platform for Linux, DevOps, and Cybersecurity. Learn by doing with guided labs, courses, and tutorials. Get started for free!
+
 > Last updated: {datetime.now(UTC).strftime('%Y-%m-%d %H:%M UTC')}
 
 This repository maintains an auto-updated list of LabEx website sitemaps.
