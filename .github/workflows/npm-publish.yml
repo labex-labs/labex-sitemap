@@ -1,0 +1,25 @@
+name: Node.js Package
+
+on:
+  push:
+    tags:
+      - 'v*'  # 当推送以 v 开头的标签时触发
+
+jobs:
+  publish-npm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18.x'
+          registry-url: 'https://registry.npmjs.org'
+      
+      # 这一步会读取 package.json 中的版本
+      - name: Check version
+        run: echo "Version is $(node -p "require('./package.json').version")"
+      
+      # 发布到 npm
+      - run: npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}

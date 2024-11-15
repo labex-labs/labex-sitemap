@@ -1,0 +1,32 @@
+{
+    "name": "@labex/sitemap",
+    "version": "1.0.0",
+    "description": "A collection of LabEx website sitemaps",
+    "main": "index.js",
+    "files": [
+      "sitemaps",
+      "README.md"
+    ],
+    "scripts": {
+      "test": "echo \"No test specified\""
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/labex-labs/labex-sitemap.git"
+    },
+    "keywords": [
+      "labex",
+      "sitemap",
+      "learning",
+      "education"
+    ],
+    "author": "LabEx",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/labex-labs/labex-sitemap/issues"
+    },
+    "homepage": "https://github.com/labex-labs/labex-sitemap#readme",
+    "publishConfig": {
+      "access": "public"
+    }
+  }
