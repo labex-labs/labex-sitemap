@@ -33,6 +33,10 @@
   ],
   "author": "LabEx",
   "license": "MIT",
+  "homepage": "https://labex.io/",
+  "bugs": {
+    "url": "https://github.com/labex-labs/labex-sitemap/issues"
+  },
   "publishConfig": {
     "access": "public"
   }
