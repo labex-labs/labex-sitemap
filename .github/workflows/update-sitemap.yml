@@ -2,32 +2,32 @@ name: Update Sitemap Links
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # 每周日 UTC 00:00 运行
-  workflow_dispatch:      # 允许手动触发
+    - cron: "0 0 * * 0" # 每周日 UTC 00:00 运行
+  workflow_dispatch: # 允许手动触发
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - uses: actions/checkout@v3
-    
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
-    
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-    
-    - name: Update sitemap links
-      run: python update_sitemap.py
-    
-    - name: Commit and push if changed
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add README.md
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update sitemap links [skip ci]" && git push)
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Update sitemap links
+        run: python update_sitemap.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update sitemap links [skip ci]" && git push)
