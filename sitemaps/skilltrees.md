@@ -1,6 +1,6 @@
 # Skilltrees Sitemap Links
 
-> Last updated: 2024-11-15 07:35 UTC
+> Last updated: 2024-12-01 01:36 UTC
 
 This file contains all skilltrees related links from LabEx website.
 
@@ -9,6 +9,7 @@ This file contains all skilltrees related links from LabEx website.
 [skilltrees-sitemap.xml](https://labex.io/skilltrees-sitemap.xml)
 
 ## Links
+
 
 ### skilltrees
 
@@ -33,6 +34,7 @@ This file contains all skilltrees related links from LabEx website.
 - [linux](https://labex.io/skilltrees/linux)
 - [matplotlib](https://labex.io/skilltrees/matplotlib)
 - [ml](https://labex.io/skilltrees/ml)
+- [mongodb](https://labex.io/skilltrees/mongodb)
 - [mysql](https://labex.io/skilltrees/mysql)
 - [numpy](https://labex.io/skilltrees/numpy)
 - [pandas](https://labex.io/skilltrees/pandas)
@@ -154,6 +156,16 @@ This file contains all skilltrees related links from LabEx website.
 - [PlotCustomizationGroup](https://labex.io/skilltrees/matplotlib/groups/PlotCustomizationGroup)
 - [PlottingDataGroup](https://labex.io/skilltrees/matplotlib/groups/PlottingDataGroup)
 - [SpecializedPlotsGroup](https://labex.io/skilltrees/matplotlib/groups/SpecializedPlotsGroup)
+- [AggregationOperationsGroup](https://labex.io/skilltrees/mongodb/groups/AggregationOperationsGroup)
+- [ArrayandEmbeddedDocumentsGroup](https://labex.io/skilltrees/mongodb/groups/ArrayandEmbeddedDocumentsGroup)
+- [BasicOperationsGroup](https://labex.io/skilltrees/mongodb/groups/BasicOperationsGroup)
+- [DataImportExportGroup](https://labex.io/skilltrees/mongodb/groups/DataImportExportGroup)
+- [DataTypesGroup](https://labex.io/skilltrees/mongodb/groups/DataTypesGroup)
+- [ErrorHandlingGroup](https://labex.io/skilltrees/mongodb/groups/ErrorHandlingGroup)
+- [IndexingGroup](https://labex.io/skilltrees/mongodb/groups/IndexingGroup)
+- [QueryOperationsGroup](https://labex.io/skilltrees/mongodb/groups/QueryOperationsGroup)
+- [RelationshipsGroup](https://labex.io/skilltrees/mongodb/groups/RelationshipsGroup)
+- [SchemaDesignGroup](https://labex.io/skilltrees/mongodb/groups/SchemaDesignGroup)
 - [AdvancedFeaturesGroup](https://labex.io/skilltrees/mysql/groups/AdvancedFeaturesGroup)
 - [AdvancedQueryingandOptimizationGroup](https://labex.io/skilltrees/mysql/groups/AdvancedQueryingandOptimizationGroup)
 - [BasicKeywordsandStatementsGroup](https://labex.io/skilltrees/mysql/groups/BasicKeywordsandStatementsGroup)
@@ -827,6 +839,7 @@ This file contains all skilltrees related links from LabEx website.
 - [watch](https://labex.io/skilltrees/linux/groups/SystemInformationandMonitoringGroup/skills/watch)
 - [awk](https://labex.io/skilltrees/linux/groups/TextProcessingGroup/skills/awk)
 - [col](https://labex.io/skilltrees/linux/groups/TextProcessingGroup/skills/col)
+- [expr](https://labex.io/skilltrees/linux/groups/TextProcessingGroup/skills/expr)
 - [grep](https://labex.io/skilltrees/linux/groups/TextProcessingGroup/skills/grep)
 - [join](https://labex.io/skilltrees/linux/groups/TextProcessingGroup/skills/join)
 - [paste](https://labex.io/skilltrees/linux/groups/TextProcessingGroup/skills/paste)
@@ -892,6 +905,36 @@ This file contains all skilltrees related links from LabEx website.
 - [quiver-plots](https://labex.io/skilltrees/matplotlib/groups/SpecializedPlotsGroup/skills/quiver-plots)
 - [stream-plots](https://labex.io/skilltrees/matplotlib/groups/SpecializedPlotsGroup/skills/stream-plots)
 - [violin-plots](https://labex.io/skilltrees/matplotlib/groups/SpecializedPlotsGroup/skills/violin-plots)
+- [aggregate-group-totals](https://labex.io/skilltrees/mongodb/groups/AggregationOperationsGroup/skills/aggregate-group-totals)
+- [group-documents](https://labex.io/skilltrees/mongodb/groups/AggregationOperationsGroup/skills/group-documents)
+- [create-embedded-documents](https://labex.io/skilltrees/mongodb/groups/ArrayandEmbeddedDocumentsGroup/skills/create-embedded-documents)
+- [query-embedded-documents](https://labex.io/skilltrees/mongodb/groups/ArrayandEmbeddedDocumentsGroup/skills/query-embedded-documents)
+- [bulk-delete-documents](https://labex.io/skilltrees/mongodb/groups/BasicOperationsGroup/skills/bulk-delete-documents)
+- [bulk-insert-documents](https://labex.io/skilltrees/mongodb/groups/BasicOperationsGroup/skills/bulk-insert-documents)
+- [bulk-update-documents](https://labex.io/skilltrees/mongodb/groups/BasicOperationsGroup/skills/bulk-update-documents)
+- [create-database-collection](https://labex.io/skilltrees/mongodb/groups/BasicOperationsGroup/skills/create-database-collection)
+- [delete-document](https://labex.io/skilltrees/mongodb/groups/BasicOperationsGroup/skills/delete-document)
+- [insert-document](https://labex.io/skilltrees/mongodb/groups/BasicOperationsGroup/skills/insert-document)
+- [start-mongodb-shell](https://labex.io/skilltrees/mongodb/groups/BasicOperationsGroup/skills/start-mongodb-shell)
+- [update-document](https://labex.io/skilltrees/mongodb/groups/BasicOperationsGroup/skills/update-document)
+- [import-data-csv](https://labex.io/skilltrees/mongodb/groups/DataImportExportGroup/skills/import-data-csv)
+- [import-data-json](https://labex.io/skilltrees/mongodb/groups/DataImportExportGroup/skills/import-data-json)
+- [manage-array-elements](https://labex.io/skilltrees/mongodb/groups/DataTypesGroup/skills/manage-array-elements)
+- [use-numeric-data-types](https://labex.io/skilltrees/mongodb/groups/DataTypesGroup/skills/use-numeric-data-types)
+- [use-string-data-types](https://labex.io/skilltrees/mongodb/groups/DataTypesGroup/skills/use-string-data-types)
+- [work-with-array-data-types](https://labex.io/skilltrees/mongodb/groups/DataTypesGroup/skills/work-with-array-data-types)
+- [handle-connection-errors](https://labex.io/skilltrees/mongodb/groups/ErrorHandlingGroup/skills/handle-connection-errors)
+- [handle-write-errors](https://labex.io/skilltrees/mongodb/groups/ErrorHandlingGroup/skills/handle-write-errors)
+- [build-compound-index](https://labex.io/skilltrees/mongodb/groups/IndexingGroup/skills/build-compound-index)
+- [create-index](https://labex.io/skilltrees/mongodb/groups/IndexingGroup/skills/create-index)
+- [find-documents](https://labex.io/skilltrees/mongodb/groups/QueryOperationsGroup/skills/find-documents)
+- [project-fields](https://labex.io/skilltrees/mongodb/groups/QueryOperationsGroup/skills/project-fields)
+- [query-with-conditions](https://labex.io/skilltrees/mongodb/groups/QueryOperationsGroup/skills/query-with-conditions)
+- [sort-documents](https://labex.io/skilltrees/mongodb/groups/QueryOperationsGroup/skills/sort-documents)
+- [create-document-references](https://labex.io/skilltrees/mongodb/groups/RelationshipsGroup/skills/create-document-references)
+- [link-related-documents](https://labex.io/skilltrees/mongodb/groups/RelationshipsGroup/skills/link-related-documents)
+- [add-customer-information](https://labex.io/skilltrees/mongodb/groups/SchemaDesignGroup/skills/add-customer-information)
+- [design-order-schema](https://labex.io/skilltrees/mongodb/groups/SchemaDesignGroup/skills/design-order-schema)
 - [stored-procedures](https://labex.io/skilltrees/mysql/groups/AdvancedFeaturesGroup/skills/stored-procedures)
 - [views](https://labex.io/skilltrees/mysql/groups/AdvancedFeaturesGroup/skills/views)
 - [index](https://labex.io/skilltrees/mysql/groups/AdvancedQueryingandOptimizationGroup/skills/index)
@@ -1134,6 +1177,7 @@ This file contains all skilltrees related links from LabEx website.
 - [linux](https://labex.io/tutorials/category/linux)
 - [matplotlib](https://labex.io/tutorials/category/matplotlib)
 - [ml](https://labex.io/tutorials/category/ml)
+- [mongodb](https://labex.io/tutorials/category/mongodb)
 - [mysql](https://labex.io/tutorials/category/mysql)
 - [numpy](https://labex.io/tutorials/category/numpy)
 - [pandas](https://labex.io/tutorials/category/pandas)

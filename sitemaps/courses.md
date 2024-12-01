@@ -1,6 +1,6 @@
 # Courses Sitemap Links
 
-> Last updated: 2024-11-15 07:35 UTC
+> Last updated: 2024-12-01 01:36 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -9,6 +9,7 @@ This file contains all courses related links from LabEx website.
 [courses-sitemap.xml](https://labex.io/courses-sitemap.xml)
 
 ## Links
+
 
 ### courses
 
