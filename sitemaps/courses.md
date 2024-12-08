@@ -1,6 +1,6 @@
 # Courses Sitemap Links
 
-> Last updated: 2024-12-01 01:36 UTC
+> Last updated: 2024-12-08 01:23 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -19,15 +19,16 @@ This file contains all courses related links from LabEx website.
 - [basic-django](https://labex.io/courses/basic-django)
 - [cyber-security-with-hands-on-labs](https://labex.io/courses/cyber-security-with-hands-on-labs)
 - [foundations-of-deep-learning](https://labex.io/courses/foundations-of-deep-learning)
+- [git-practice-challenges](https://labex.io/courses/git-practice-challenges)
 - [git-practice-labs](https://labex.io/courses/git-practice-labs)
 - [java-practice-challenges](https://labex.io/courses/java-practice-challenges)
-- [java-practice-labs](https://labex.io/courses/java-practice-labs)
 - [kali-server-exploitation-in-action](https://labex.io/courses/kali-server-exploitation-in-action)
 - [kali-web-application-attacks-in-action](https://labex.io/courses/kali-web-application-attacks-in-action)
 - [labex-playground](https://labex.io/courses/labex-playground)
 - [linux-basic-commands-practice-online](https://labex.io/courses/linux-basic-commands-practice-online)
 - [linux-for-noobs](https://labex.io/courses/linux-for-noobs)
 - [linux-in-depth-mastery](https://labex.io/courses/linux-in-depth-mastery)
+- [linux-practice-challenges](https://labex.io/courses/linux-practice-challenges)
 - [linux-practice-labs](https://labex.io/courses/linux-practice-labs)
 - [linux-software-playgrounds](https://labex.io/courses/linux-software-playgrounds)
 - [mysql-practice-challenges](https://labex.io/courses/mysql-practice-challenges)
@@ -423,7 +424,6 @@ This file contains all courses related links from LabEx website.
 - [project-yin-book-encryption](https://labex.io/courses/project-yin-book-encryption)
 - [python-in-depth-mastery](https://labex.io/courses/python-in-depth-mastery)
 - [python-practice-challenges](https://labex.io/courses/python-practice-challenges)
-- [python-practice-labs](https://labex.io/courses/python-practice-labs)
 - [quick-start-with-algorithm](https://labex.io/courses/quick-start-with-algorithm)
 - [quick-start-with-ansible](https://labex.io/courses/quick-start-with-ansible)
 - [quick-start-with-c](https://labex.io/courses/quick-start-with-c)
@@ -454,8 +454,8 @@ This file contains all courses related links from LabEx website.
 - [quick-start-with-tensorflow](https://labex.io/courses/quick-start-with-tensorflow)
 - [quick-start-with-wireshark](https://labex.io/courses/quick-start-with-wireshark)
 - [react-practice-labs](https://labex.io/courses/react-practice-labs)
+- [rust-practice-labs](https://labex.io/courses/rust-practice-labs)
 - [shell-practice-challenges](https://labex.io/courses/shell-practice-challenges)
-- [shell-practice-labs](https://labex.io/courses/shell-practice-labs)
 - [supervised-learning-classification](https://labex.io/courses/supervised-learning-classification)
 - [supervised-learning-regression](https://labex.io/courses/supervised-learning-regression)
 - [the-advanced-python-mastery](https://labex.io/courses/the-advanced-python-mastery)
@@ -465,14 +465,11 @@ This file contains all courses related links from LabEx website.
 
 ### projects
 
-- [algorithm](https://labex.io/projects/category/algorithm)
 - [c](https://labex.io/projects/category/c)
 - [cpp](https://labex.io/projects/category/cpp)
 - [css](https://labex.io/projects/category/css)
 - [data-science](https://labex.io/projects/category/data-science)
 - [devops](https://labex.io/projects/category/devops)
-- [docker](https://labex.io/projects/category/docker)
-- [git](https://labex.io/projects/category/git)
 - [go](https://labex.io/projects/category/go)
 - [html](https://labex.io/projects/category/html)
 - [java](https://labex.io/projects/category/java)
