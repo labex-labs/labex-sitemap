@@ -1,6 +1,6 @@
 # Courses Sitemap Links
 
-> Last updated: 2024-12-08 01:23 UTC
+> Last updated: 2024-12-15 01:23 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -24,6 +24,7 @@ This file contains all courses related links from LabEx website.
 - [java-practice-challenges](https://labex.io/courses/java-practice-challenges)
 - [kali-server-exploitation-in-action](https://labex.io/courses/kali-server-exploitation-in-action)
 - [kali-web-application-attacks-in-action](https://labex.io/courses/kali-web-application-attacks-in-action)
+- [kubernetes-for-noobs](https://labex.io/courses/kubernetes-for-noobs)
 - [labex-playground](https://labex.io/courses/labex-playground)
 - [linux-basic-commands-practice-online](https://labex.io/courses/linux-basic-commands-practice-online)
 - [linux-for-noobs](https://labex.io/courses/linux-for-noobs)
@@ -424,6 +425,7 @@ This file contains all courses related links from LabEx website.
 - [project-yin-book-encryption](https://labex.io/courses/project-yin-book-encryption)
 - [python-in-depth-mastery](https://labex.io/courses/python-in-depth-mastery)
 - [python-practice-challenges](https://labex.io/courses/python-practice-challenges)
+- [python-practice-labs](https://labex.io/courses/python-practice-labs)
 - [quick-start-with-algorithm](https://labex.io/courses/quick-start-with-algorithm)
 - [quick-start-with-ansible](https://labex.io/courses/quick-start-with-ansible)
 - [quick-start-with-c](https://labex.io/courses/quick-start-with-c)
@@ -436,7 +438,6 @@ This file contains all courses related links from LabEx website.
 - [quick-start-with-html](https://labex.io/courses/quick-start-with-html)
 - [quick-start-with-java](https://labex.io/courses/quick-start-with-java)
 - [quick-start-with-javascript](https://labex.io/courses/quick-start-with-javascript)
-- [quick-start-with-jenkins](https://labex.io/courses/quick-start-with-jenkins)
 - [quick-start-with-jquery](https://labex.io/courses/quick-start-with-jquery)
 - [quick-start-with-kubernetes](https://labex.io/courses/quick-start-with-kubernetes)
 - [quick-start-with-linux](https://labex.io/courses/quick-start-with-linux)

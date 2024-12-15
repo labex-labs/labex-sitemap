@@ -1,6 +1,6 @@
 # Skilltrees Sitemap Links
 
-> Last updated: 2024-12-08 01:23 UTC
+> Last updated: 2024-12-15 01:23 UTC
 
 This file contains all skilltrees related links from LabEx website.
 
