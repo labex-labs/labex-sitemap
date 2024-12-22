@@ -1,6 +1,6 @@
 # Courses Sitemap Links
 
-> Last updated: 2024-12-15 01:23 UTC
+> Last updated: 2024-12-22 01:17 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -21,6 +21,8 @@ This file contains all courses related links from LabEx website.
 - [foundations-of-deep-learning](https://labex.io/courses/foundations-of-deep-learning)
 - [git-practice-challenges](https://labex.io/courses/git-practice-challenges)
 - [git-practice-labs](https://labex.io/courses/git-practice-labs)
+- [go-practice-challenges](https://labex.io/courses/go-practice-challenges)
+- [go-practice-labs](https://labex.io/courses/go-practice-labs)
 - [java-practice-challenges](https://labex.io/courses/java-practice-challenges)
 - [kali-server-exploitation-in-action](https://labex.io/courses/kali-server-exploitation-in-action)
 - [kali-web-application-attacks-in-action](https://labex.io/courses/kali-web-application-attacks-in-action)
