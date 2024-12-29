@@ -1,6 +1,6 @@
 # Pages Sitemap Links
 
-> Last updated: 2024-12-22 01:17 UTC
+> Last updated: 2024-12-29 01:18 UTC
 
 This file contains all pages related links from LabEx website.
 
@@ -10,10 +10,6 @@ This file contains all pages related links from LabEx website.
 
 ## Links
 
-
-### classroom
-
-- [skilltrees](https://labex.io/classroom/skilltrees)
 
 ### forgot-password
 
@@ -25,6 +21,7 @@ This file contains all pages related links from LabEx website.
 - [forgot-password](https://labex.io/forgot-password)
 - [forum](https://labex.io/forum)
 - [free-labs](https://labex.io/free-labs)
+- [interview-questions](https://labex.io/interview-questions)
 - [learn](https://labex.io/learn)
 - [login](https://labex.io/login)
 - [pricing](https://labex.io/pricing)

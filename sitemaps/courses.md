@@ -1,6 +1,6 @@
 # Courses Sitemap Links
 
-> Last updated: 2024-12-22 01:17 UTC
+> Last updated: 2024-12-29 01:18 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -16,13 +16,23 @@ This file contains all courses related links from LabEx website.
 - [100-numpy-exercises](https://labex.io/courses/100-numpy-exercises)
 - [100-pandas-exercises](https://labex.io/courses/100-pandas-exercises)
 - [a-beginner-guide-to-labex](https://labex.io/courses/a-beginner-guide-to-labex)
+- [algorithm-practice-challenges](https://labex.io/courses/algorithm-practice-challenges)
 - [basic-django](https://labex.io/courses/basic-django)
+- [c-practice-challenges](https://labex.io/courses/c-practice-challenges)
+- [c-practice-labs](https://labex.io/courses/c-practice-labs)
+- [c-programming-for-beginners](https://labex.io/courses/c-programming-for-beginners)
+- [cpp-practice-challenges](https://labex.io/courses/cpp-practice-challenges)
+- [cpp-practice-labs](https://labex.io/courses/cpp-practice-labs)
 - [cyber-security-with-hands-on-labs](https://labex.io/courses/cyber-security-with-hands-on-labs)
+- [docker-practice-challenges](https://labex.io/courses/docker-practice-challenges)
+- [docker-practice-labs](https://labex.io/courses/docker-practice-labs)
 - [foundations-of-deep-learning](https://labex.io/courses/foundations-of-deep-learning)
 - [git-practice-challenges](https://labex.io/courses/git-practice-challenges)
 - [git-practice-labs](https://labex.io/courses/git-practice-labs)
 - [go-practice-challenges](https://labex.io/courses/go-practice-challenges)
 - [go-practice-labs](https://labex.io/courses/go-practice-labs)
+- [hadoop-practice-challenges](https://labex.io/courses/hadoop-practice-challenges)
+- [hadoop-practice-labs](https://labex.io/courses/hadoop-practice-labs)
 - [java-practice-challenges](https://labex.io/courses/java-practice-challenges)
 - [kali-server-exploitation-in-action](https://labex.io/courses/kali-server-exploitation-in-action)
 - [kali-web-application-attacks-in-action](https://labex.io/courses/kali-web-application-attacks-in-action)
@@ -34,7 +44,14 @@ This file contains all courses related links from LabEx website.
 - [linux-practice-challenges](https://labex.io/courses/linux-practice-challenges)
 - [linux-practice-labs](https://labex.io/courses/linux-practice-labs)
 - [linux-software-playgrounds](https://labex.io/courses/linux-software-playgrounds)
+- [matplotlib-practice-labs](https://labex.io/courses/matplotlib-practice-labs)
+- [ml-practice-challenges](https://labex.io/courses/ml-practice-challenges)
+- [ml-practice-labs](https://labex.io/courses/ml-practice-labs)
 - [mysql-practice-challenges](https://labex.io/courses/mysql-practice-challenges)
+- [numpy-practice-challenges](https://labex.io/courses/numpy-practice-challenges)
+- [numpy-practice-labs](https://labex.io/courses/numpy-practice-labs)
+- [pandas-practice-challenges](https://labex.io/courses/pandas-practice-challenges)
+- [pandas-practice-labs](https://labex.io/courses/pandas-practice-labs)
 - [practical-python-programming](https://labex.io/courses/practical-python-programming)
 - [privilege-escalation-techniques-on-linux](https://labex.io/courses/privilege-escalation-techniques-on-linux)
 - [project-2048-web-game-using-jquery](https://labex.io/courses/project-2048-web-game-using-jquery)
@@ -456,14 +473,19 @@ This file contains all courses related links from LabEx website.
 - [quick-start-with-shell](https://labex.io/courses/quick-start-with-shell)
 - [quick-start-with-tensorflow](https://labex.io/courses/quick-start-with-tensorflow)
 - [quick-start-with-wireshark](https://labex.io/courses/quick-start-with-wireshark)
+- [react-practice-challenges](https://labex.io/courses/react-practice-challenges)
 - [react-practice-labs](https://labex.io/courses/react-practice-labs)
 - [rust-practice-labs](https://labex.io/courses/rust-practice-labs)
+- [seaborn-data-visualization-basics](https://labex.io/courses/seaborn-data-visualization-basics)
 - [shell-practice-challenges](https://labex.io/courses/shell-practice-challenges)
+- [sklearn-practice-challenges](https://labex.io/courses/sklearn-practice-challenges)
+- [sklearn-practice-labs](https://labex.io/courses/sklearn-practice-labs)
 - [supervised-learning-classification](https://labex.io/courses/supervised-learning-classification)
 - [supervised-learning-regression](https://labex.io/courses/supervised-learning-regression)
 - [the-advanced-python-mastery](https://labex.io/courses/the-advanced-python-mastery)
 - [thousands-python-interactive-challenges](https://labex.io/courses/thousands-python-interactive-challenges)
 - [unsupervised-learning-clustering](https://labex.io/courses/unsupervised-learning-clustering)
+- [web-development-interactive-challenges](https://labex.io/courses/web-development-interactive-challenges)
 - [web-vulnerability-mastery](https://labex.io/courses/web-vulnerability-mastery)
 
 ### projects
