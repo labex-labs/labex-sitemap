@@ -1,6 +1,6 @@
 # Courses Sitemap Links
 
-> Last updated: 2024-12-29 01:18 UTC
+> Last updated: 2025-01-05 01:17 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -33,7 +33,7 @@ This file contains all courses related links from LabEx website.
 - [go-practice-labs](https://labex.io/courses/go-practice-labs)
 - [hadoop-practice-challenges](https://labex.io/courses/hadoop-practice-challenges)
 - [hadoop-practice-labs](https://labex.io/courses/hadoop-practice-labs)
-- [java-practice-challenges](https://labex.io/courses/java-practice-challenges)
+- [java-exercises](https://labex.io/courses/java-exercises)
 - [kali-server-exploitation-in-action](https://labex.io/courses/kali-server-exploitation-in-action)
 - [kali-web-application-attacks-in-action](https://labex.io/courses/kali-web-application-attacks-in-action)
 - [kubernetes-for-noobs](https://labex.io/courses/kubernetes-for-noobs)
@@ -442,7 +442,6 @@ This file contains all courses related links from LabEx website.
 - [project-wish-sticky-note](https://labex.io/courses/project-wish-sticky-note)
 - [project-wuxu-reform-duration-calculation](https://labex.io/courses/project-wuxu-reform-duration-calculation)
 - [project-yin-book-encryption](https://labex.io/courses/project-yin-book-encryption)
-- [python-in-depth-mastery](https://labex.io/courses/python-in-depth-mastery)
 - [python-practice-challenges](https://labex.io/courses/python-practice-challenges)
 - [python-practice-labs](https://labex.io/courses/python-practice-labs)
 - [quick-start-with-algorithm](https://labex.io/courses/quick-start-with-algorithm)

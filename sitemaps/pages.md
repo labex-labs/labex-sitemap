@@ -1,6 +1,6 @@
 # Pages Sitemap Links
 
-> Last updated: 2024-12-29 01:18 UTC
+> Last updated: 2025-01-05 01:17 UTC
 
 This file contains all pages related links from LabEx website.
 
