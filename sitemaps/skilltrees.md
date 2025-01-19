@@ -1,6 +1,6 @@
 # Skilltrees Sitemap Links
 
-> Last updated: 2025-01-12 00:18 UTC
+> Last updated: 2025-01-19 00:18 UTC
 
 This file contains all skilltrees related links from LabEx website.
 
@@ -997,7 +997,6 @@ This file contains all skilltrees related links from LabEx website.
 - [arith-expansion](https://labex.io/skilltrees/shell/groups/AdvancedScriptingConceptsGroup/skills/arith-expansion)
 - [arith-ops](https://labex.io/skilltrees/shell/groups/AdvancedScriptingConceptsGroup/skills/arith-ops)
 - [cmd-substitution](https://labex.io/skilltrees/shell/groups/AdvancedScriptingConceptsGroup/skills/cmd-substitution)
-- [here-strings](https://labex.io/skilltrees/shell/groups/AdvancedScriptingConceptsGroup/skills/here-strings)
 - [read-input](https://labex.io/skilltrees/shell/groups/AdvancedScriptingConceptsGroup/skills/read-input)
 - [subshells](https://labex.io/skilltrees/shell/groups/AdvancedScriptingConceptsGroup/skills/subshells)
 - [comments](https://labex.io/skilltrees/shell/groups/BasicSyntaxandStructureGroup/skills/comments)
@@ -1011,7 +1010,6 @@ This file contains all skilltrees related links from LabEx website.
 - [until-loops](https://labex.io/skilltrees/shell/groups/ControlFlowGroup/skills/until-loops)
 - [while-loops](https://labex.io/skilltrees/shell/groups/ControlFlowGroup/skills/while-loops)
 - [func-def](https://labex.io/skilltrees/shell/groups/FunctionsandScopeGroup/skills/func-def)
-- [scope-vars](https://labex.io/skilltrees/shell/groups/FunctionsandScopeGroup/skills/scope-vars)
 - [exit-status-checks](https://labex.io/skilltrees/shell/groups/SystemInteractionandConfigurationGroup/skills/exit-status-checks)
 - [globbing-expansion](https://labex.io/skilltrees/shell/groups/SystemInteractionandConfigurationGroup/skills/globbing-expansion)
 - [shell-options](https://labex.io/skilltrees/shell/groups/SystemInteractionandConfigurationGroup/skills/shell-options)

@@ -1,6 +1,6 @@
 # Courses Sitemap Links
 
-> Last updated: 2025-01-12 00:18 UTC
+> Last updated: 2025-01-19 00:18 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -33,6 +33,7 @@ This file contains all courses related links from LabEx website.
 - [go-practice-labs](https://labex.io/courses/go-practice-labs)
 - [hadoop-practice-challenges](https://labex.io/courses/hadoop-practice-challenges)
 - [hadoop-practice-labs](https://labex.io/courses/hadoop-practice-labs)
+- [html-for-beginners](https://labex.io/courses/html-for-beginners)
 - [java-exercises](https://labex.io/courses/java-exercises)
 - [kali-server-exploitation-in-action](https://labex.io/courses/kali-server-exploitation-in-action)
 - [kali-web-application-attacks-in-action](https://labex.io/courses/kali-web-application-attacks-in-action)
