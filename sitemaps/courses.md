@@ -1,6 +1,6 @@
 # Courses Sitemap Links
 
-> Last updated: 2025-01-19 00:18 UTC
+> Last updated: 2025-01-26 00:16 UTC
 
 This file contains all courses related links from LabEx website.
 
