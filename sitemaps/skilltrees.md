@@ -1,6 +1,6 @@
 # Skilltrees Sitemap Links
 
-> Last updated: 2025-01-26 00:16 UTC
+> Last updated: 2025-02-02 00:17 UTC
 
 This file contains all skilltrees related links from LabEx website.
 
@@ -851,7 +851,6 @@ This file contains all skilltrees related links from LabEx website.
 - [drop-database](https://labex.io/skilltrees/mysql/groups/BasicKeywordsandStatementsGroup/skills/drop-database)
 - [drop-table](https://labex.io/skilltrees/mysql/groups/BasicKeywordsandStatementsGroup/skills/drop-table)
 - [insert](https://labex.io/skilltrees/mysql/groups/BasicKeywordsandStatementsGroup/skills/insert)
-- [rename](https://labex.io/skilltrees/mysql/groups/BasicKeywordsandStatementsGroup/skills/rename)
 - [select](https://labex.io/skilltrees/mysql/groups/BasicKeywordsandStatementsGroup/skills/select)
 - [source](https://labex.io/skilltrees/mysql/groups/BasicKeywordsandStatementsGroup/skills/source)
 - [update](https://labex.io/skilltrees/mysql/groups/BasicKeywordsandStatementsGroup/skills/update)
