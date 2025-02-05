@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # 允许手动触发
 
 jobs:
-  update-readme:
+  update-and-publish:
     runs-on: ubuntu-latest
 
     steps:
@@ -37,10 +37,25 @@ jobs:
           git config --local user.name "GitHub Action"
           git add .
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update sitemap links" && git push)
-          
+
       - name: Create and push tag
         if: success()
         run: |
           VERSION=${{ steps.package-version.outputs.version }}
           git tag "v${VERSION}"
           git push origin "v${VERSION}"
+
+      # NPM 发布步骤
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18.x"
+          registry-url: "https://registry.npmjs.org"
+
+      - name: Verify version
+        run: echo "Publishing version $(node -p "require('./package.json').version")"
+
+      - name: Publish to NPM
+        run: npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
