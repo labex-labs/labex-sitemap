@@ -2,7 +2,7 @@
 
 [LabEx](https://labex.io) is a hands-on learning platform for Linux, DevOps, and Cybersecurity. Learn by doing with guided labs, courses, and tutorials. Get started for free!
 
-> Last updated: 2025-02-05 00:59 UTC
+> Last updated: 2025-02-05 01:02 UTC
 
 This repository maintains an auto-updated list of LabEx website sitemaps.
 
