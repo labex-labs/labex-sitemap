@@ -1,6 +1,6 @@
 # Tutorials-Zh Sitemap Links
 
-> Last updated: 2025-02-05 01:02 UTC
+> Last updated: 2025-02-05 01:05 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
