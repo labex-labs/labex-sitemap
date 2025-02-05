@@ -25,9 +25,22 @@ jobs:
       - name: Update sitemap links
         run: python update_sitemap.py
 
+      - name: Get version from package.json
+        id: package-version
+        run: |
+          VERSION=$(node -p "require('./package.json').version")
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update sitemap links" && git push)
+          
+      - name: Create and push tag
+        if: success()
+        run: |
+          VERSION=${{ steps.package-version.outputs.version }}
+          git tag "v${VERSION}"
+          git push origin "v${VERSION}"
