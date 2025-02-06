@@ -90,7 +90,11 @@ def get_repository_structure():
 
 def generate_category_markdown(category, data):
     """生成每个类别的markdown内容"""
-    markdown = f"""# {category.title()} Sitemap Links
+    markdown = f"""---
+layout: default
+---
+
+# {category.title()} Sitemap Links
 
 > Last updated: {datetime.now(UTC).strftime('%Y-%m-%d %H:%M UTC')}
 
@@ -140,7 +144,11 @@ This file contains all {category.lower()} related links from LabEx website.
 
 def generate_main_readme(sitemaps_with_urls):
     """生成主README文件的内容"""
-    markdown = f"""# LabEx Sitemap Links
+    markdown = f"""---
+layout: default
+---
+
+# LabEx Sitemap Links
 
 [LabEx](https://labex.io) is a hands-on learning platform for Linux, DevOps, and Cybersecurity. Learn by doing with guided labs, courses, and tutorials. Get started for free!
 
