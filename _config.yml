@@ -1,4 +1,2 @@
 name: LabEx Sitemap Links
 markdown: GFM
-plugins:
-  - jekyll-postcss
