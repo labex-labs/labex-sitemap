@@ -4,7 +4,7 @@ layout: default
 
 # Pages Sitemap Links
 
-> Last updated: 2025-02-06 01:57 UTC
+> Last updated: 2025-02-06 02:17 UTC
 
 This file contains all pages related links from LabEx website.
 
@@ -33,14 +33,6 @@ This file contains all pages related links from LabEx website.
 - [projects](https://labex.io/projects)
 - [purpose](https://labex.io/purpose)
 - [register](https://labex.io/register)
-- [sitemap](https://labex.io/sitemap)
 - [teams](https://labex.io/teams)
 - [terms](https://labex.io/terms)
 - [tutorials](https://labex.io/tutorials)
-
-### sitemap
-
-- [courses](https://labex.io/sitemap/courses)
-- [projects](https://labex.io/sitemap/projects)
-- [skilltrees](https://labex.io/sitemap/skilltrees)
-- [tutorials](https://labex.io/sitemap/tutorials)
