@@ -164,7 +164,7 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
     for category, data in sorted(sitemaps_with_urls.items()):
         num_links = len(data["urls"])
         total_links += num_links
-        markdown += f"- [{category.title()}](sitemaps/{category.lower()}.md) ({num_links} links)\n"
+        markdown += f"- [{category.title()}](categories/{category.lower()}.md) ({num_links} links)\n"
 
     markdown += f"\n> **Total Links: {total_links}**\n"
 
@@ -179,7 +179,7 @@ def ensure_directory_exists(directory):
 def update_files(sitemaps_with_urls):
     """更新所有markdown文件"""
     # 确保sitemaps目录存在
-    ensure_directory_exists("sitemaps")
+    ensure_directory_exists("categories")
 
     # 更新主README
     main_content = generate_main_readme(sitemaps_with_urls)
@@ -189,7 +189,7 @@ def update_files(sitemaps_with_urls):
     # 更新每个类别的文件
     for category, data in sitemaps_with_urls.items():
         category_content = generate_category_markdown(category, data)
-        filename = f"sitemaps/{category.lower()}.md"
+        filename = f"categories/{category.lower()}.md"
         with open(filename, "w", encoding="utf-8") as f:
             f.write(category_content)
 
