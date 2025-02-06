@@ -1,2 +1,8 @@
 name: LabEx Sitemap Links
 markdown: GFM
+# 将 README.md 重命名为 index.md
+defaults:
+  - scope:
+      path: "README.md"
+    values:
+      permalink: /
