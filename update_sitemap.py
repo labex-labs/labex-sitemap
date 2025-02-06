@@ -168,19 +168,6 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 
     markdown += f"\n> **Total Links: {total_links}**\n"
 
-    # 追加固定链接
-    markdown += f"\n## Other Links\n"
-    markdown += f"- [LabEx](https://labex.io)\n"
-    markdown += f"- [LabEx Support](https://support.labex.io)\n"
-    markdown += f"- [LabEx Learn](https://labex.io/learn)\n"
-    markdown += f"- [LabEx Courses](https://labex.io/courses)\n"
-    markdown += f"- [LabEx Projects](https://labex.io/projects)\n"
-    markdown += f"- [LabEx x Alibaba Cloud](https://labex.io/alibaba)\n"
-    markdown += f"- [LabEx Tutorials](https://labex.io/tutorials)\n"
-    markdown += f"- [LabEx Forum](https://labex.io/forum)\n"
-    markdown += f"- [LabEx Business](https://labex.io/business)\n"
-    markdown += f"- [LabEx Affiliate Program](https://labex.io/questions/828)\n\n"
-
     return markdown
 
 

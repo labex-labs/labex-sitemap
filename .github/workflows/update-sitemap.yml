@@ -6,6 +6,8 @@ on:
   push:
     paths:
       - "update_sitemap.py"
+      - "_config.yml"
+      - "_layouts/default.html"
   workflow_dispatch: # 允许手动触发
 
 jobs:
