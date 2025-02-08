@@ -94,7 +94,7 @@ def generate_category_markdown(category, data):
 layout: default
 ---
 
-# {category.title()} Sitemap Links
+# {category.title()} Sitemap
 
 > Last updated: {datetime.now(UTC).strftime('%Y-%m-%d %H:%M UTC')}
 
@@ -148,7 +148,7 @@ def generate_main_readme(sitemaps_with_urls):
 layout: default
 ---
 
-# LabEx Sitemap Links
+# LabEx Sitemap
 
 [LabEx](https://labex.io) is a hands-on learning platform for Linux, DevOps, and Cybersecurity. Learn by doing with guided labs, courses, and tutorials. Get started for free!
 
