@@ -2,7 +2,7 @@ name: Update Sitemap Links
 
 on:
   schedule:
-    - cron: "0 0 * * 0" # 每周日 UTC 00:00 运行
+    - cron: "0 0 * * *" # 每天 UTC 00:00 运行
   push:
     paths:
       - "update_sitemap.py"
