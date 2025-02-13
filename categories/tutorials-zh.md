@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-02-12 00:02 UTC
+> Last updated: 2025-02-13 00:02 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -31,7 +31,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [ansible-ansible-get-url-module-290188](https://labex.io/zh/tutorials/ansible-ansible-get-url-module-290188) *(Last modified: 2025-02-10)*
 - [ansible-ansible-groups-inventory-290160](https://labex.io/zh/tutorials/ansible-ansible-groups-inventory-290160) *(Last modified: 2025-02-10)*
 - [ansible-ansible-hostvars-391846](https://labex.io/zh/tutorials/ansible-ansible-hostvars-391846) *(Last modified: 2025-02-09)*
-- [ansible-ansible-installation-on-ubuntu-67172](https://labex.io/zh/tutorials/ansible-ansible-installation-on-ubuntu-67172) *(Last modified: 2025-02-10)*
+- [ansible-ansible-installation-on-ubuntu-67172](https://labex.io/zh/tutorials/ansible-ansible-installation-on-ubuntu-67172) *(Last modified: 2025-02-12)*
 - [ansible-ansible-jinja2-templates-390470](https://labex.io/zh/tutorials/ansible-ansible-jinja2-templates-390470) *(Last modified: 2025-02-10)*
 - [ansible-ansible-local-action-module-290189](https://labex.io/zh/tutorials/ansible-ansible-local-action-module-290189) *(Last modified: 2025-02-10)*
 - [ansible-ansible-playbook-basics-390426](https://labex.io/zh/tutorials/ansible-ansible-playbook-basics-390426) *(Last modified: 2025-02-10)*
@@ -7226,7 +7226,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [kubernetes-kubernetes-expose-command-8452](https://labex.io/zh/tutorials/kubernetes-kubernetes-expose-command-8452) *(Last modified: 2025-02-10)*
 - [kubernetes-kubernetes-how-to-copy-file-from-pod-to-local-391332](https://labex.io/zh/tutorials/kubernetes-kubernetes-how-to-copy-file-from-pod-to-local-391332) *(Last modified: 2025-02-09)*
 - [kubernetes-kubernetes-how-to-get-logs-from-pod-391335](https://labex.io/zh/tutorials/kubernetes-kubernetes-how-to-get-logs-from-pod-391335) *(Last modified: 2025-02-09)*
-- [kubernetes-kubernetes-limitrange-resource-management-15819](https://labex.io/zh/tutorials/kubernetes-kubernetes-limitrange-resource-management-15819) *(Last modified: 2025-02-10)*
+- [kubernetes-kubernetes-limitrange-resource-management-15819](https://labex.io/zh/tutorials/kubernetes-kubernetes-limitrange-resource-management-15819) *(Last modified: 2025-02-12)*
 - [kubernetes-kubernetes-logs-command-8099](https://labex.io/zh/tutorials/kubernetes-kubernetes-logs-command-8099) *(Last modified: 2025-02-10)*
 - [kubernetes-kubernetes-port-forward-command-18494](https://labex.io/zh/tutorials/kubernetes-kubernetes-port-forward-command-18494) *(Last modified: 2025-02-10)*
 - [kubernetes-kubernetes-resource-quota-management-15823](https://labex.io/zh/tutorials/kubernetes-kubernetes-resource-quota-management-15823) *(Last modified: 2025-02-10)*
