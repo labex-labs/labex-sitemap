@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-02-19 00:02 UTC
+> Last updated: 2025-02-20 00:02 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -128,7 +128,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [ansible-how-to-resolve-failed-error-in-ansible-416163](https://labex.io/zh/tutorials/ansible-how-to-resolve-failed-error-in-ansible-416163) *(Last modified: 2025-02-09)*
 - [ansible-how-to-resolve-hosts-localhost-issue-in-ansible-415692](https://labex.io/zh/tutorials/ansible-how-to-resolve-hosts-localhost-issue-in-ansible-415692) *(Last modified: 2025-02-09)*
 - [ansible-how-to-resolve-no-inventory-was-parsed-error-in-ansible-417296](https://labex.io/zh/tutorials/ansible-how-to-resolve-no-inventory-was-parsed-error-in-ansible-417296) *(Last modified: 2025-02-09)*
-- [ansible-how-to-resolve-no-module-named-ansible-error-in-ansible-417297](https://labex.io/zh/tutorials/ansible-how-to-resolve-no-module-named-ansible-error-in-ansible-417297) *(Last modified: 2025-02-18)*
+- [ansible-how-to-resolve-no-module-named-ansible-error-in-ansible-417297](https://labex.io/zh/tutorials/ansible-how-to-resolve-no-module-named-ansible-error-in-ansible-417297) *(Last modified: 2025-02-19)*
 - [ansible-how-to-retrieve-file-metadata-using-ansible-stat-module-417419](https://labex.io/zh/tutorials/ansible-how-to-retrieve-file-metadata-using-ansible-stat-module-417419) *(Last modified: 2025-02-09)*
 - [ansible-how-to-run-an-ansible-playbook-to-copy-a-file-to-a-remote-host-414920](https://labex.io/zh/tutorials/ansible-how-to-run-an-ansible-playbook-to-copy-a-file-to-a-remote-host-414920) *(Last modified: 2025-02-09)*
 - [ansible-how-to-run-commands-on-target-hosts-with-ansible-command-module-415740](https://labex.io/zh/tutorials/ansible-how-to-run-commands-on-target-hosts-with-ansible-command-module-415740) *(Last modified: 2025-02-09)*
@@ -257,7 +257,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [c-compute-the-dot-and-cross-product-in-c-435158](https://labex.io/zh/tutorials/c-compute-the-dot-and-cross-product-in-c-435158) *(Last modified: 2025-02-16)*
 - [c-compute-the-hypotenuse-using-c-435159](https://labex.io/zh/tutorials/c-compute-the-hypotenuse-using-c-435159) *(Last modified: 2025-02-16)*
 - [c-compute-the-interquartile-range-iqr-in-c-435160](https://labex.io/zh/tutorials/c-compute-the-interquartile-range-iqr-in-c-435160) *(Last modified: 2025-02-16)*
-- [c-compute-the-inverse-of-a-matrix-in-c-435161](https://labex.io/zh/tutorials/c-compute-the-inverse-of-a-matrix-in-c-435161) *(Last modified: 2025-02-16)*
+- [c-compute-the-inverse-of-a-matrix-in-c-435161](https://labex.io/zh/tutorials/c-compute-the-inverse-of-a-matrix-in-c-435161) *(Last modified: 2025-02-19)*
 - [c-compute-the-median-of-a-dataset-in-c-435162](https://labex.io/zh/tutorials/c-compute-the-median-of-a-dataset-in-c-435162) *(Last modified: 2025-02-16)*
 - [c-compute-the-pearson-correlation-coefficient-in-c-435163](https://labex.io/zh/tutorials/c-compute-the-pearson-correlation-coefficient-in-c-435163) *(Last modified: 2025-02-16)*
 - [c-compute-the-perimeter-of-a-polygon-in-c-435164](https://labex.io/zh/tutorials/c-compute-the-perimeter-of-a-polygon-in-c-435164) *(Last modified: 2025-02-16)*
@@ -307,7 +307,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [c-evaluate-absolute-value-expressions-in-c-435174](https://labex.io/zh/tutorials/c-evaluate-absolute-value-expressions-in-c-435174) *(Last modified: 2025-02-16)*
 - [c-evaluate-finite-difference-approximations-in-c-435175](https://labex.io/zh/tutorials/c-evaluate-finite-difference-approximations-in-c-435175) *(Last modified: 2025-02-16)*
 - [c-evaluate-piecewise-functions-in-c-435176](https://labex.io/zh/tutorials/c-evaluate-piecewise-functions-in-c-435176) *(Last modified: 2025-02-16)*
-- [c-evaluate-polynomial-expressions-in-c-435177](https://labex.io/zh/tutorials/c-evaluate-polynomial-expressions-in-c-435177) *(Last modified: 2025-02-16)*
+- [c-evaluate-polynomial-expressions-in-c-435177](https://labex.io/zh/tutorials/c-evaluate-polynomial-expressions-in-c-435177) *(Last modified: 2025-02-19)*
 - [c-evaluate-rational-expressions-in-c-435178](https://labex.io/zh/tutorials/c-evaluate-rational-expressions-in-c-435178) *(Last modified: 2025-02-16)*
 - [c-factor-an-integer-into-primes-in-c-435179](https://labex.io/zh/tutorials/c-factor-an-integer-into-primes-in-c-435179) *(Last modified: 2025-02-16)*
 - [c-factors-of-a-given-number-123244](https://labex.io/zh/tutorials/c-factors-of-a-given-number-123244) *(Last modified: 2025-02-16)*
@@ -362,7 +362,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [c-how-to-clean-input-stream-safely-425505](https://labex.io/zh/tutorials/c-how-to-clean-input-stream-safely-425505) *(Last modified: 2025-02-09)*
 - [c-how-to-clear-input-stream-correctly-430987](https://labex.io/zh/tutorials/c-how-to-clear-input-stream-correctly-430987) *(Last modified: 2025-02-09)*
 - [c-how-to-compile-c-code-with-pointer-warnings-489748](https://labex.io/zh/tutorials/c-how-to-compile-c-code-with-pointer-warnings-489748) *(Last modified: 2025-02-13)*
-- [c-how-to-compile-c-program-with-external-library-419177](https://labex.io/zh/tutorials/c-how-to-compile-c-program-with-external-library-419177) *(Last modified: 2025-02-09)*
+- [c-how-to-compile-c-program-with-external-library-419177](https://labex.io/zh/tutorials/c-how-to-compile-c-program-with-external-library-419177) *(Last modified: 2025-02-19)*
 - [c-how-to-compile-c-programs-on-different-platforms-420647](https://labex.io/zh/tutorials/c-how-to-compile-c-programs-on-different-platforms-420647) *(Last modified: 2025-02-09)*
 - [c-how-to-compile-c-programs-with-external-libraries-419178](https://labex.io/zh/tutorials/c-how-to-compile-c-programs-with-external-libraries-419178) *(Last modified: 2025-02-09)*
 - [c-how-to-compile-legacy-c-input-methods-422195](https://labex.io/zh/tutorials/c-how-to-compile-legacy-c-input-methods-422195) *(Last modified: 2025-02-09)*
@@ -415,7 +415,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [c-how-to-fix-math-library-linking-errors-430818](https://labex.io/zh/tutorials/c-how-to-fix-math-library-linking-errors-430818) *(Last modified: 2025-02-09)*
 - [c-how-to-fix-static-variable-scope-issue-450027](https://labex.io/zh/tutorials/c-how-to-fix-static-variable-scope-issue-450027) *(Last modified: 2025-02-09)*
 - [c-how-to-fix-typo-in-variable-declaration-431250](https://labex.io/zh/tutorials/c-how-to-fix-typo-in-variable-declaration-431250) *(Last modified: 2025-02-09)*
-- [c-how-to-fix-undeclared-identifier-in-c-419180](https://labex.io/zh/tutorials/c-how-to-fix-undeclared-identifier-in-c-419180) *(Last modified: 2025-02-09)*
+- [c-how-to-fix-undeclared-identifier-in-c-419180](https://labex.io/zh/tutorials/c-how-to-fix-undeclared-identifier-in-c-419180) *(Last modified: 2025-02-19)*
 - [c-how-to-fix-undefined-library-references-419181](https://labex.io/zh/tutorials/c-how-to-fix-undefined-library-references-419181) *(Last modified: 2025-02-09)*
 - [c-how-to-fix-void-main-warning-in-c-435558](https://labex.io/zh/tutorials/c-how-to-fix-void-main-warning-in-c-435558) *(Last modified: 2025-02-09)*
 - [c-how-to-handle-array-index-safety-462097](https://labex.io/zh/tutorials/c-how-to-handle-array-index-safety-462097) *(Last modified: 2025-02-09)*
@@ -590,7 +590,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [c-how-to-use-static-variables-safely-464765](https://labex.io/zh/tutorials/c-how-to-use-static-variables-safely-464765) *(Last modified: 2025-02-09)*
 - [c-how-to-validate-character-input-correctly-425510](https://labex.io/zh/tutorials/c-how-to-validate-character-input-correctly-425510) *(Last modified: 2025-02-09)*
 - [c-how-to-validate-dynamic-memory-allocation-418774](https://labex.io/zh/tutorials/c-how-to-validate-dynamic-memory-allocation-418774) *(Last modified: 2025-02-09)*
-- [c-how-to-validate-input-in-c-programming-425511](https://labex.io/zh/tutorials/c-how-to-validate-input-in-c-programming-425511) *(Last modified: 2025-02-09)*
+- [c-how-to-validate-input-in-c-programming-425511](https://labex.io/zh/tutorials/c-how-to-validate-input-in-c-programming-425511) *(Last modified: 2025-02-19)*
 - [c-how-to-validate-input-in-c-programs-431011](https://labex.io/zh/tutorials/c-how-to-validate-input-in-c-programs-431011) *(Last modified: 2025-02-09)*
 - [c-how-to-validate-numeric-input-range-418498](https://labex.io/zh/tutorials/c-how-to-validate-numeric-input-range-418498) *(Last modified: 2025-02-09)*
 - [c-how-to-validate-pointer-comparisons-489751](https://labex.io/zh/tutorials/c-how-to-validate-pointer-comparisons-489751) *(Last modified: 2025-02-13)*
@@ -600,7 +600,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [c-how-to-write-portable-system-commands-420443](https://labex.io/zh/tutorials/c-how-to-write-portable-system-commands-420443) *(Last modified: 2025-02-09)*
 - [c-implement-conditionals-in-c-438331](https://labex.io/zh/tutorials/c-implement-conditionals-in-c-438331) *(Last modified: 2025-02-16)*
 - [c-implement-loops-in-c-438332](https://labex.io/zh/tutorials/c-implement-loops-in-c-438332) *(Last modified: 2025-02-16)*
-- [c-implement-the-sieve-of-eratosthenes-in-c-435190](https://labex.io/zh/tutorials/c-implement-the-sieve-of-eratosthenes-in-c-435190) *(Last modified: 2025-02-16)*
+- [c-implement-the-sieve-of-eratosthenes-in-c-435190](https://labex.io/zh/tutorials/c-implement-the-sieve-of-eratosthenes-in-c-435190) *(Last modified: 2025-02-19)*
 - [c-implementing-callback-functions-in-c-301493](https://labex.io/zh/tutorials/c-implementing-callback-functions-in-c-301493) *(Last modified: 2025-02-14)*
 - [c-implementing-doubly-linked-list-in-c-301499](https://labex.io/zh/tutorials/c-implementing-doubly-linked-list-in-c-301499) *(Last modified: 2025-02-14)*
 - [c-implementing-queue-data-structure-in-c-301501](https://labex.io/zh/tutorials/c-implementing-queue-data-structure-in-c-301501) *(Last modified: 2025-02-14)*
@@ -1858,7 +1858,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [cybersecurity-information-gathering-penetration-testing-416118](https://labex.io/zh/tutorials/cybersecurity-information-gathering-penetration-testing-416118) *(Last modified: 2025-02-16)*
 - [cybersecurity-magical-nmap-output-security-415928](https://labex.io/zh/tutorials/cybersecurity-magical-nmap-output-security-415928) *(Last modified: 2025-02-16)*
 - [cybersecurity-navigating-cyber-enchantments-with-nmap-415929](https://labex.io/zh/tutorials/cybersecurity-navigating-cyber-enchantments-with-nmap-415929) *(Last modified: 2025-02-16)*
-- [cybersecurity-network-analysis-with-wireshark-415958](https://labex.io/zh/tutorials/cybersecurity-network-analysis-with-wireshark-415958) *(Last modified: 2025-02-17)*
+- [cybersecurity-network-analysis-with-wireshark-415958](https://labex.io/zh/tutorials/cybersecurity-network-analysis-with-wireshark-415958) *(Last modified: 2025-02-19)*
 - [cybersecurity-network-scanning-with-nmap-415959](https://labex.io/zh/tutorials/cybersecurity-network-scanning-with-nmap-415959) *(Last modified: 2025-02-16)*
 - [cybersecurity-network-scanning-with-nmap-and-metasploit-416120](https://labex.io/zh/tutorials/cybersecurity-network-scanning-with-nmap-and-metasploit-416120) *(Last modified: 2025-02-16)*
 - [cybersecurity-ninjas-nmap-mastery-quest-415937](https://labex.io/zh/tutorials/cybersecurity-ninjas-nmap-mastery-quest-415937) *(Last modified: 2025-02-18)*
@@ -2584,7 +2584,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-find-commits-that-manipulated-a-specific-string-12773](https://labex.io/zh/tutorials/git-find-commits-that-manipulated-a-specific-string-12773) *(Last modified: 2025-02-16)*
 - [git-find-lost-files-12733](https://labex.io/zh/tutorials/git-find-lost-files-12733) *(Last modified: 2025-02-16)*
 - [git-fixing-automatic-merge-failures-in-version-control-systems-398437](https://labex.io/zh/tutorials/git-fixing-automatic-merge-failures-in-version-control-systems-398437) *(Last modified: 2025-02-07)*
-- [git-fixing-the-no-such-remote-origin-issue-in-a-git-repository-397730](https://labex.io/zh/tutorials/git-fixing-the-no-such-remote-origin-issue-in-a-git-repository-397730) *(Last modified: 2025-02-07)*
+- [git-fixing-the-no-such-remote-origin-issue-in-a-git-repository-397730](https://labex.io/zh/tutorials/git-fixing-the-no-such-remote-origin-issue-in-a-git-repository-397730) *(Last modified: 2025-02-19)*
 - [git-get-the-current-branch-name-12719](https://labex.io/zh/tutorials/git-get-the-current-branch-name-12719) *(Last modified: 2025-02-16)*
 - [git-git-branch-basic-operations-385163](https://labex.io/zh/tutorials/git-git-branch-basic-operations-385163) *(Last modified: 2025-02-16)*
 - [git-git-cherry-pick-code-changes-12744](https://labex.io/zh/tutorials/git-git-cherry-pick-code-changes-12744) *(Last modified: 2025-02-18)*
@@ -2602,8 +2602,8 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-add-and-commit-changes-in-git-417712](https://labex.io/zh/tutorials/git-how-to-add-and-commit-changes-in-git-417712) *(Last modified: 2025-02-07)*
 - [git-how-to-add-missing-remote-origin-434547](https://labex.io/zh/tutorials/git-how-to-add-missing-remote-origin-434547) *(Last modified: 2025-02-07)*
 - [git-how-to-address-error-unable-to-create-temporary-file-issue-in-git-417547](https://labex.io/zh/tutorials/git-how-to-address-error-unable-to-create-temporary-file-issue-in-git-417547) *(Last modified: 2025-02-07)*
-- [git-how-to-address-error-your-local-changes-would-be-overwritten-by-merge-in-git-417548](https://labex.io/zh/tutorials/git-how-to-address-error-your-local-changes-would-be-overwritten-by-merge-in-git-417548) *(Last modified: 2025-02-07)*
-- [git-how-to-address-fatal-bad-object-head-error-417639](https://labex.io/zh/tutorials/git-how-to-address-fatal-bad-object-head-error-417639) *(Last modified: 2025-02-07)*
+- [git-how-to-address-error-your-local-changes-would-be-overwritten-by-merge-in-git-417548](https://labex.io/zh/tutorials/git-how-to-address-error-your-local-changes-would-be-overwritten-by-merge-in-git-417548) *(Last modified: 2025-02-19)*
+- [git-how-to-address-fatal-bad-object-head-error-417639](https://labex.io/zh/tutorials/git-how-to-address-fatal-bad-object-head-error-417639) *(Last modified: 2025-02-19)*
 - [git-how-to-address-warning-lf-will-be-replaced-by-crlf-in-readme-md-417744](https://labex.io/zh/tutorials/git-how-to-address-warning-lf-will-be-replaced-by-crlf-in-readme-md-417744) *(Last modified: 2025-02-07)*
 - [git-how-to-align-git-eol-configurations-462655](https://labex.io/zh/tutorials/git-how-to-align-git-eol-configurations-462655) *(Last modified: 2025-02-07)*
 - [git-how-to-amend-git-commits-without-editing-changes-400126](https://labex.io/zh/tutorials/git-how-to-amend-git-commits-without-editing-changes-400126) *(Last modified: 2025-02-07)*
@@ -2629,7 +2629,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-check-git-repo-status-495761](https://labex.io/zh/tutorials/git-how-to-check-git-repo-status-495761) *(Last modified: 2025-02-13)*
 - [git-how-to-check-the-current-branch-414785](https://labex.io/zh/tutorials/git-how-to-check-the-current-branch-414785) *(Last modified: 2025-02-07)*
 - [git-how-to-check-the-current-git-working-directory-status-414506](https://labex.io/zh/tutorials/git-how-to-check-the-current-git-working-directory-status-414506) *(Last modified: 2025-02-07)*
-- [git-how-to-check-the-status-of-git-submodules-in-a-repository-415628](https://labex.io/zh/tutorials/git-how-to-check-the-status-of-git-submodules-in-a-repository-415628) *(Last modified: 2025-02-07)*
+- [git-how-to-check-the-status-of-git-submodules-in-a-repository-415628](https://labex.io/zh/tutorials/git-how-to-check-the-status-of-git-submodules-in-a-repository-415628) *(Last modified: 2025-02-19)*
 - [git-how-to-check-the-updated-git-configuration-settings-414955](https://labex.io/zh/tutorials/git-how-to-check-the-updated-git-configuration-settings-414955) *(Last modified: 2025-02-07)*
 - [git-how-to-checkout-files-from-another-branch-435731](https://labex.io/zh/tutorials/git-how-to-checkout-files-from-another-branch-435731) *(Last modified: 2025-02-07)*
 - [git-how-to-checkout-files-from-other-branches-435732](https://labex.io/zh/tutorials/git-how-to-checkout-files-from-other-branches-435732) *(Last modified: 2025-02-07)*
@@ -2645,7 +2645,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-clone-a-git-repository-and-navigate-to-it-using-the-command-line-414996](https://labex.io/zh/tutorials/git-how-to-clone-a-git-repository-and-navigate-to-it-using-the-command-line-414996) *(Last modified: 2025-02-07)*
 - [git-how-to-clone-a-git-repository-easily-392744](https://labex.io/zh/tutorials/git-how-to-clone-a-git-repository-easily-392744) *(Last modified: 2025-02-07)*
 - [git-how-to-clone-a-git-repository-from-a-specified-url-417921](https://labex.io/zh/tutorials/git-how-to-clone-a-git-repository-from-a-specified-url-417921) *(Last modified: 2025-02-07)*
-- [git-how-to-clone-a-git-repository-with-username-and-password-authentication-400166](https://labex.io/zh/tutorials/git-how-to-clone-a-git-repository-with-username-and-password-authentication-400166) *(Last modified: 2025-02-07)*
+- [git-how-to-clone-a-git-repository-with-username-and-password-authentication-400166](https://labex.io/zh/tutorials/git-how-to-clone-a-git-repository-with-username-and-password-authentication-400166) *(Last modified: 2025-02-19)*
 - [git-how-to-clone-git-repo-with-depth-419164](https://labex.io/zh/tutorials/git-how-to-clone-git-repo-with-depth-419164) *(Last modified: 2025-02-07)*
 - [git-how-to-clone-git-repositories-efficiently-391818](https://labex.io/zh/tutorials/git-how-to-clone-git-repositories-efficiently-391818) *(Last modified: 2025-02-07)*
 - [git-how-to-clone-git-submodules-418092](https://labex.io/zh/tutorials/git-how-to-clone-git-submodules-418092) *(Last modified: 2025-02-07)*
@@ -2745,7 +2745,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-effectively-use-the-github-actions-logo-411649](https://labex.io/zh/tutorials/git-how-to-effectively-use-the-github-actions-logo-411649) *(Last modified: 2025-02-07)*
 - [git-how-to-enable-git-autocorrect-to-handle-command-typos-417923](https://labex.io/zh/tutorials/git-how-to-enable-git-autocorrect-to-handle-command-typos-417923) *(Last modified: 2025-02-07)*
 - [git-how-to-ensure-a-clean-git-working-directory-state-415642](https://labex.io/zh/tutorials/git-how-to-ensure-a-clean-git-working-directory-state-415642) *(Last modified: 2025-02-07)*
-- [git-how-to-ensure-a-local-git-branch-is-up-to-date-with-the-remote-417426](https://labex.io/zh/tutorials/git-how-to-ensure-a-local-git-branch-is-up-to-date-with-the-remote-417426) *(Last modified: 2025-02-07)*
+- [git-how-to-ensure-a-local-git-branch-is-up-to-date-with-the-remote-417426](https://labex.io/zh/tutorials/git-how-to-ensure-a-local-git-branch-is-up-to-date-with-the-remote-417426) *(Last modified: 2025-02-19)*
 - [git-how-to-ensure-all-merged-local-branches-are-deleted-in-a-git-repository-417745](https://labex.io/zh/tutorials/git-how-to-ensure-all-merged-local-branches-are-deleted-in-a-git-repository-417745) *(Last modified: 2025-02-07)*
 - [git-how-to-exclude-files-from-git-commits-392846](https://labex.io/zh/tutorials/git-how-to-exclude-files-from-git-commits-392846) *(Last modified: 2025-02-07)*
 - [git-how-to-exit-git-bisect-mode-421886](https://labex.io/zh/tutorials/git-how-to-exit-git-bisect-mode-421886) *(Last modified: 2025-02-07)*
@@ -2763,7 +2763,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-fix-error-pathspec-file-txt-did-not-match-error-415818](https://labex.io/zh/tutorials/git-how-to-fix-error-pathspec-file-txt-did-not-match-error-415818) *(Last modified: 2025-02-07)*
 - [git-how-to-fix-fatal-ambiguous-argument-head-error-417413](https://labex.io/zh/tutorials/git-how-to-fix-fatal-ambiguous-argument-head-error-417413) *(Last modified: 2025-02-07)*
 - [git-how-to-fix-fatal-not-a-git-repository-error-415730](https://labex.io/zh/tutorials/git-how-to-fix-fatal-not-a-git-repository-error-415730) *(Last modified: 2025-02-07)*
-- [git-how-to-fix-fatal-unable-to-read-config-file-error-in-git-417550](https://labex.io/zh/tutorials/git-how-to-fix-fatal-unable-to-read-config-file-error-in-git-417550) *(Last modified: 2025-02-07)*
+- [git-how-to-fix-fatal-unable-to-read-config-file-error-in-git-417550](https://labex.io/zh/tutorials/git-how-to-fix-fatal-unable-to-read-config-file-error-in-git-417550) *(Last modified: 2025-02-19)*
 - [git-how-to-fix-git-authentication-errors-418790](https://labex.io/zh/tutorials/git-how-to-fix-git-authentication-errors-418790) *(Last modified: 2025-02-07)*
 - [git-how-to-fix-git-checkout-file-not-found-467321](https://labex.io/zh/tutorials/git-how-to-fix-git-checkout-file-not-found-467321) *(Last modified: 2025-02-07)*
 - [git-how-to-fix-git-clean-command-issues-419270](https://labex.io/zh/tutorials/git-how-to-fix-git-clean-command-issues-419270) *(Last modified: 2025-02-07)*
@@ -2793,7 +2793,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-fix-git-staged-file-removal-425768](https://labex.io/zh/tutorials/git-how-to-fix-git-staged-file-removal-425768) *(Last modified: 2025-02-07)*
 - [git-how-to-fix-git-staging-area-problem-419271](https://labex.io/zh/tutorials/git-how-to-fix-git-staging-area-problem-419271) *(Last modified: 2025-02-07)*
 - [git-how-to-fix-git-submodule-removal-permission-418644](https://labex.io/zh/tutorials/git-how-to-fix-git-submodule-removal-permission-418644) *(Last modified: 2025-02-07)*
-- [git-how-to-fix-missing-git-remote-files-on-local-machine-392755](https://labex.io/zh/tutorials/git-how-to-fix-missing-git-remote-files-on-local-machine-392755) *(Last modified: 2025-02-07)*
+- [git-how-to-fix-missing-git-remote-files-on-local-machine-392755](https://labex.io/zh/tutorials/git-how-to-fix-missing-git-remote-files-on-local-machine-392755) *(Last modified: 2025-02-19)*
 - [git-how-to-fix-no-matching-remote-head-error-when-updating-git-submodules-417754](https://labex.io/zh/tutorials/git-how-to-fix-no-matching-remote-head-error-when-updating-git-submodules-417754) *(Last modified: 2025-02-07)*
 - [git-how-to-fix-remote-branch-connectivity-425425](https://labex.io/zh/tutorials/git-how-to-fix-remote-branch-connectivity-425425) *(Last modified: 2025-02-07)*
 - [git-how-to-fix-remote-url-not-found-error-434551](https://labex.io/zh/tutorials/git-how-to-fix-remote-url-not-found-error-434551) *(Last modified: 2025-02-07)*
@@ -2807,10 +2807,10 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-handle-branch-name-collision-431361](https://labex.io/zh/tutorials/git-how-to-handle-branch-name-collision-431361) *(Last modified: 2025-02-07)*
 - [git-how-to-handle-branch-tracking-problems-419699](https://labex.io/zh/tutorials/git-how-to-handle-branch-tracking-problems-419699) *(Last modified: 2025-02-07)*
 - [git-how-to-handle-conflicts-during-git-cherry-pick-417328](https://labex.io/zh/tutorials/git-how-to-handle-conflicts-during-git-cherry-pick-417328) *(Last modified: 2025-02-07)*
-- [git-how-to-handle-conflicts-when-updating-git-submodules-417428](https://labex.io/zh/tutorials/git-how-to-handle-conflicts-when-updating-git-submodules-417428) *(Last modified: 2025-02-07)*
+- [git-how-to-handle-conflicts-when-updating-git-submodules-417428](https://labex.io/zh/tutorials/git-how-to-handle-conflicts-when-updating-git-submodules-417428) *(Last modified: 2025-02-19)*
 - [git-how-to-handle-diverged-git-commit-history-when-pushing-415412](https://labex.io/zh/tutorials/git-how-to-handle-diverged-git-commit-history-when-pushing-415412) *(Last modified: 2025-02-07)*
 - [git-how-to-handle-empty-git-stash-431070](https://labex.io/zh/tutorials/git-how-to-handle-empty-git-stash-431070) *(Last modified: 2025-02-07)*
-- [git-how-to-handle-error-untracked-working-tree-files-would-be-overwritten-by-checkout-in-git-417551](https://labex.io/zh/tutorials/git-how-to-handle-error-untracked-working-tree-files-would-be-overwritten-by-checkout-in-git-417551) *(Last modified: 2025-02-07)*
+- [git-how-to-handle-error-untracked-working-tree-files-would-be-overwritten-by-checkout-in-git-417551](https://labex.io/zh/tutorials/git-how-to-handle-error-untracked-working-tree-files-would-be-overwritten-by-checkout-in-git-417551) *(Last modified: 2025-02-19)*
 - [git-how-to-handle-errors-when-deleting-merged-local-branches-in-git-417746](https://labex.io/zh/tutorials/git-how-to-handle-errors-when-deleting-merged-local-branches-in-git-417746) *(Last modified: 2025-02-07)*
 - [git-how-to-handle-fatal-reference-is-not-a-tree-error-417641](https://labex.io/zh/tutorials/git-how-to-handle-fatal-reference-is-not-a-tree-error-417641) *(Last modified: 2025-02-07)*
 - [git-how-to-handle-git-add-file-permission-437308](https://labex.io/zh/tutorials/git-how-to-handle-git-add-file-permission-437308) *(Last modified: 2025-02-07)*
@@ -2823,7 +2823,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-handle-git-clone-unauthorized-437853](https://labex.io/zh/tutorials/git-how-to-handle-git-clone-unauthorized-437853) *(Last modified: 2025-02-07)*
 - [git-how-to-handle-git-commit-errors-446201](https://labex.io/zh/tutorials/git-how-to-handle-git-commit-errors-446201) *(Last modified: 2025-02-07)*
 - [git-how-to-handle-git-configuration-errors-425428](https://labex.io/zh/tutorials/git-how-to-handle-git-configuration-errors-425428) *(Last modified: 2025-02-07)*
-- [git-how-to-handle-git-connection-timeouts-419950](https://labex.io/zh/tutorials/git-how-to-handle-git-connection-timeouts-419950) *(Last modified: 2025-02-07)*
+- [git-how-to-handle-git-connection-timeouts-419950](https://labex.io/zh/tutorials/git-how-to-handle-git-connection-timeouts-419950) *(Last modified: 2025-02-19)*
 - [git-how-to-handle-git-filter-branch-errors-419166](https://labex.io/zh/tutorials/git-how-to-handle-git-filter-branch-errors-419166) *(Last modified: 2025-02-07)*
 - [git-how-to-handle-git-gc-object-cleanup-419042](https://labex.io/zh/tutorials/git-how-to-handle-git-gc-object-cleanup-419042) *(Last modified: 2025-02-07)*
 - [git-how-to-handle-git-init-command-failure-419353](https://labex.io/zh/tutorials/git-how-to-handle-git-init-command-failure-419353) *(Last modified: 2025-02-07)*
@@ -2852,7 +2852,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-handle-missing-remote-url-425659](https://labex.io/zh/tutorials/git-how-to-handle-missing-remote-url-425659) *(Last modified: 2025-02-07)*
 - [git-how-to-handle-nested-git-submodules-418096](https://labex.io/zh/tutorials/git-how-to-handle-nested-git-submodules-418096) *(Last modified: 2025-02-07)*
 - [git-how-to-handle-submodule-updates-during-a-git-pull-operation-417924](https://labex.io/zh/tutorials/git-how-to-handle-submodule-updates-during-a-git-pull-operation-417924) *(Last modified: 2025-02-07)*
-- [git-how-to-handle-untracked-files-in-diff-419781](https://labex.io/zh/tutorials/git-how-to-handle-untracked-files-in-diff-419781) *(Last modified: 2025-02-07)*
+- [git-how-to-handle-untracked-files-in-diff-419781](https://labex.io/zh/tutorials/git-how-to-handle-untracked-files-in-diff-419781) *(Last modified: 2025-02-19)*
 - [git-how-to-handle-unwanted-git-stashes-418097](https://labex.io/zh/tutorials/git-how-to-handle-unwanted-git-stashes-418097) *(Last modified: 2025-02-07)*
 - [git-how-to-handle-vim-write-permission-461400](https://labex.io/zh/tutorials/git-how-to-handle-vim-write-permission-461400) *(Last modified: 2025-02-07)*
 - [git-how-to-identify-and-retrieve-deleted-commits-in-git-415499](https://labex.io/zh/tutorials/git-how-to-identify-and-retrieve-deleted-commits-in-git-415499) *(Last modified: 2025-02-07)*
@@ -2861,7 +2861,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-identify-the-author-and-timestamp-of-a-git-commit-414801](https://labex.io/zh/tutorials/git-how-to-identify-the-author-and-timestamp-of-a-git-commit-414801) *(Last modified: 2025-02-07)*
 - [git-how-to-identify-the-commit-hash-for-git-cherry-pick-417330](https://labex.io/zh/tutorials/git-how-to-identify-the-commit-hash-for-git-cherry-pick-417330) *(Last modified: 2025-02-07)*
 - [git-how-to-identify-the-current-git-stash-417926](https://labex.io/zh/tutorials/git-how-to-identify-the-current-git-stash-417926) *(Last modified: 2025-02-07)*
-- [git-how-to-ignore-exe-files-in-a-git-repository-using-gitignore-392944](https://labex.io/zh/tutorials/git-how-to-ignore-exe-files-in-a-git-repository-using-gitignore-392944) *(Last modified: 2025-02-07)*
+- [git-how-to-ignore-exe-files-in-a-git-repository-using-gitignore-392944](https://labex.io/zh/tutorials/git-how-to-ignore-exe-files-in-a-git-repository-using-gitignore-392944) *(Last modified: 2025-02-19)*
 - [git-how-to-implement-advanced-git-branch-management-392727](https://labex.io/zh/tutorials/git-how-to-implement-advanced-git-branch-management-392727) *(Last modified: 2025-02-07)*
 - [git-how-to-implement-advanced-git-branch-strategies-392805](https://labex.io/zh/tutorials/git-how-to-implement-advanced-git-branch-strategies-392805) *(Last modified: 2025-02-07)*
 - [git-how-to-implement-advanced-git-rebase-techniques-393133](https://labex.io/zh/tutorials/git-how-to-implement-advanced-git-rebase-techniques-393133) *(Last modified: 2025-02-07)*
@@ -2996,7 +2996,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-modify-git-identity-settings-434552](https://labex.io/zh/tutorials/git-how-to-modify-git-identity-settings-434552) *(Last modified: 2025-02-07)*
 - [git-how-to-modify-git-remote-repository-link-419702](https://labex.io/zh/tutorials/git-how-to-modify-git-remote-repository-link-419702) *(Last modified: 2025-02-07)*
 - [git-how-to-modify-previous-git-commit-425660](https://labex.io/zh/tutorials/git-how-to-modify-previous-git-commit-425660) *(Last modified: 2025-02-07)*
-- [git-how-to-move-changes-from-one-git-stash-to-another-415014](https://labex.io/zh/tutorials/git-how-to-move-changes-from-one-git-stash-to-another-415014) *(Last modified: 2025-02-07)*
+- [git-how-to-move-changes-from-one-git-stash-to-another-415014](https://labex.io/zh/tutorials/git-how-to-move-changes-from-one-git-stash-to-another-415014) *(Last modified: 2025-02-19)*
 - [git-how-to-navigate-and-control-git-branches-392746](https://labex.io/zh/tutorials/git-how-to-navigate-and-control-git-branches-392746) *(Last modified: 2025-02-07)*
 - [git-how-to-navigate-git-bisect-process-421888](https://labex.io/zh/tutorials/git-how-to-navigate-git-bisect-process-421888) *(Last modified: 2025-02-07)*
 - [git-how-to-navigate-git-branches-efficiently-393169](https://labex.io/zh/tutorials/git-how-to-navigate-git-branches-efficiently-393169) *(Last modified: 2025-02-07)*
@@ -3044,7 +3044,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-rectify-common-git-command-typos-417931](https://labex.io/zh/tutorials/git-how-to-rectify-common-git-command-typos-417931) *(Last modified: 2025-02-07)*
 - [git-how-to-remove-a-git-submodule-414973](https://labex.io/zh/tutorials/git-how-to-remove-a-git-submodule-414973) *(Last modified: 2025-02-07)*
 - [git-how-to-remove-branch-with-uncommitted-work-426174](https://labex.io/zh/tutorials/git-how-to-remove-branch-with-uncommitted-work-426174) *(Last modified: 2025-02-07)*
-- [git-how-to-remove-cached-files-with-git-398319](https://labex.io/zh/tutorials/git-how-to-remove-cached-files-with-git-398319) *(Last modified: 2025-02-07)*
+- [git-how-to-remove-cached-files-with-git-398319](https://labex.io/zh/tutorials/git-how-to-remove-cached-files-with-git-398319) *(Last modified: 2025-02-19)*
 - [git-how-to-remove-files-from-git-staging-area-391732](https://labex.io/zh/tutorials/git-how-to-remove-files-from-git-staging-area-391732) *(Last modified: 2025-02-07)*
 - [git-how-to-remove-git-branch-safely-426175](https://labex.io/zh/tutorials/git-how-to-remove-git-branch-safely-426175) *(Last modified: 2025-02-07)*
 - [git-how-to-remove-sensitive-files-safely-419171](https://labex.io/zh/tutorials/git-how-to-remove-sensitive-files-safely-419171) *(Last modified: 2025-02-07)*
@@ -3065,13 +3065,13 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-resolve-conflicts-when-merging-changes-from-a-remote-git-branch-414839](https://labex.io/zh/tutorials/git-how-to-resolve-conflicts-when-merging-changes-from-a-remote-git-branch-414839) *(Last modified: 2025-02-07)*
 - [git-how-to-resolve-conflicts-when-rebasing-in-git-392895](https://labex.io/zh/tutorials/git-how-to-resolve-conflicts-when-rebasing-in-git-392895) *(Last modified: 2025-02-07)*
 - [git-how-to-resolve-error-failed-to-push-some-refs-to-error-415819](https://labex.io/zh/tutorials/git-how-to-resolve-error-failed-to-push-some-refs-to-error-415819) *(Last modified: 2025-02-07)*
-- [git-how-to-resolve-fatal-unable-to-auto-detect-email-address-error-417552](https://labex.io/zh/tutorials/git-how-to-resolve-fatal-unable-to-auto-detect-email-address-error-417552) *(Last modified: 2025-02-07)*
+- [git-how-to-resolve-fatal-unable-to-auto-detect-email-address-error-417552](https://labex.io/zh/tutorials/git-how-to-resolve-fatal-unable-to-auto-detect-email-address-error-417552) *(Last modified: 2025-02-19)*
 - [git-how-to-resolve-git-bisect-bad-bad-revision-issue-417755](https://labex.io/zh/tutorials/git-how-to-resolve-git-bisect-bad-bad-revision-issue-417755) *(Last modified: 2025-02-07)*
-- [git-how-to-resolve-git-branch-ahead-of-origin-413775](https://labex.io/zh/tutorials/git-how-to-resolve-git-branch-ahead-of-origin-413775) *(Last modified: 2025-02-07)*
+- [git-how-to-resolve-git-branch-ahead-of-origin-413775](https://labex.io/zh/tutorials/git-how-to-resolve-git-branch-ahead-of-origin-413775) *(Last modified: 2025-02-19)*
 - [git-how-to-resolve-git-branch-error-419172](https://labex.io/zh/tutorials/git-how-to-resolve-git-branch-error-419172) *(Last modified: 2025-02-07)*
 - [git-how-to-resolve-git-branch-purge-errors-434197](https://labex.io/zh/tutorials/git-how-to-resolve-git-branch-purge-errors-434197) *(Last modified: 2025-02-07)*
 - [git-how-to-resolve-git-certificate-validation-437786](https://labex.io/zh/tutorials/git-how-to-resolve-git-certificate-validation-437786) *(Last modified: 2025-02-07)*
-- [git-how-to-resolve-git-changes-not-staged-for-commit-413778](https://labex.io/zh/tutorials/git-how-to-resolve-git-changes-not-staged-for-commit-413778) *(Last modified: 2025-02-07)*
+- [git-how-to-resolve-git-changes-not-staged-for-commit-413778](https://labex.io/zh/tutorials/git-how-to-resolve-git-changes-not-staged-for-commit-413778) *(Last modified: 2025-02-19)*
 - [git-how-to-resolve-git-checkout-invalid-reference-437310](https://labex.io/zh/tutorials/git-how-to-resolve-git-checkout-invalid-reference-437310) *(Last modified: 2025-02-07)*
 - [git-how-to-resolve-git-clean-permission-errors-419276](https://labex.io/zh/tutorials/git-how-to-resolve-git-clean-permission-errors-419276) *(Last modified: 2025-02-07)*
 - [git-how-to-resolve-git-clone-authentication-418649](https://labex.io/zh/tutorials/git-how-to-resolve-git-clone-authentication-418649) *(Last modified: 2025-02-07)*
@@ -3189,7 +3189,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-track-git-releases-with-tags-390556](https://labex.io/zh/tutorials/git-how-to-track-git-releases-with-tags-390556) *(Last modified: 2025-02-07)*
 - [git-how-to-track-git-submodule-versions-418103](https://labex.io/zh/tutorials/git-how-to-track-git-submodule-versions-418103) *(Last modified: 2025-02-07)*
 - [git-how-to-track-software-versions-with-git-tags-394996](https://labex.io/zh/tutorials/git-how-to-track-software-versions-with-git-tags-394996) *(Last modified: 2025-02-07)*
-- [git-how-to-troubleshoot-error-unable-to-create-file-permission-denied-in-git-417748](https://labex.io/zh/tutorials/git-how-to-troubleshoot-error-unable-to-create-file-permission-denied-in-git-417748) *(Last modified: 2025-02-07)*
+- [git-how-to-troubleshoot-error-unable-to-create-file-permission-denied-in-git-417748](https://labex.io/zh/tutorials/git-how-to-troubleshoot-error-unable-to-create-file-permission-denied-in-git-417748) *(Last modified: 2025-02-19)*
 - [git-how-to-troubleshoot-fatal-no-such-path-error-417644](https://labex.io/zh/tutorials/git-how-to-troubleshoot-fatal-no-such-path-error-417644) *(Last modified: 2025-02-07)*
 - [git-how-to-troubleshoot-git-add-command-failure-419278](https://labex.io/zh/tutorials/git-how-to-troubleshoot-git-add-command-failure-419278) *(Last modified: 2025-02-07)*
 - [git-how-to-troubleshoot-git-author-errors-434554](https://labex.io/zh/tutorials/git-how-to-troubleshoot-git-author-errors-434554) *(Last modified: 2025-02-07)*
@@ -3225,10 +3225,10 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-undo-a-commit-on-github-392947](https://labex.io/zh/tutorials/git-how-to-undo-a-commit-on-github-392947) *(Last modified: 2025-02-07)*
 - [git-how-to-undo-a-committed-git-change-392730](https://labex.io/zh/tutorials/git-how-to-undo-a-committed-git-change-392730) *(Last modified: 2025-02-07)*
 - [git-how-to-undo-a-committed-git-push-and-revert-changes-411662](https://labex.io/zh/tutorials/git-how-to-undo-a-committed-git-push-and-revert-changes-411662) *(Last modified: 2025-02-07)*
-- [git-how-to-undo-a-git-cherry-pick-operation-417333](https://labex.io/zh/tutorials/git-how-to-undo-a-git-cherry-pick-operation-417333) *(Last modified: 2025-02-07)*
+- [git-how-to-undo-a-git-cherry-pick-operation-417333](https://labex.io/zh/tutorials/git-how-to-undo-a-git-cherry-pick-operation-417333) *(Last modified: 2025-02-19)*
 - [git-how-to-undo-a-git-commit-that-has-not-been-pushed-417756](https://labex.io/zh/tutorials/git-how-to-undo-a-git-commit-that-has-not-been-pushed-417756) *(Last modified: 2025-02-07)*
 - [git-how-to-undo-and-recover-from-a-git-rebase-400161](https://labex.io/zh/tutorials/git-how-to-undo-and-recover-from-a-git-rebase-400161) *(Last modified: 2025-02-07)*
-- [git-how-to-undo-and-remove-a-specific-git-commit-from-current-branch-392832](https://labex.io/zh/tutorials/git-how-to-undo-and-remove-a-specific-git-commit-from-current-branch-392832) *(Last modified: 2025-02-07)*
+- [git-how-to-undo-and-remove-a-specific-git-commit-from-current-branch-392832](https://labex.io/zh/tutorials/git-how-to-undo-and-remove-a-specific-git-commit-from-current-branch-392832) *(Last modified: 2025-02-19)*
 - [git-how-to-undo-git-changes-safely-470279](https://labex.io/zh/tutorials/git-how-to-undo-git-changes-safely-470279) *(Last modified: 2025-02-09)*
 - [git-how-to-undo-git-commit-but-keep-changes-392512](https://labex.io/zh/tutorials/git-how-to-undo-git-commit-but-keep-changes-392512) *(Last modified: 2025-02-07)*
 - [git-how-to-undo-git-commits-before-pushing-to-remote-398128](https://labex.io/zh/tutorials/git-how-to-undo-git-commits-before-pushing-to-remote-398128) *(Last modified: 2025-02-07)*
@@ -3246,14 +3246,14 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-use-git-amend-to-update-a-previous-commit-415414](https://labex.io/zh/tutorials/git-how-to-use-git-amend-to-update-a-previous-commit-415414) *(Last modified: 2025-02-07)*
 - [git-how-to-use-git-author-flag-correctly-419252](https://labex.io/zh/tutorials/git-how-to-use-git-author-flag-correctly-419252) *(Last modified: 2025-02-07)*
 - [git-how-to-use-git-diff-to-ignore-whitespace-changes-397748](https://labex.io/zh/tutorials/git-how-to-use-git-diff-to-ignore-whitespace-changes-397748) *(Last modified: 2025-02-07)*
-- [git-how-to-use-git-fsck-command-to-find-and-restore-lost-git-data-415502](https://labex.io/zh/tutorials/git-how-to-use-git-fsck-command-to-find-and-restore-lost-git-data-415502) *(Last modified: 2025-02-07)*
+- [git-how-to-use-git-fsck-command-to-find-and-restore-lost-git-data-415502](https://labex.io/zh/tutorials/git-how-to-use-git-fsck-command-to-find-and-restore-lost-git-data-415502) *(Last modified: 2025-02-19)*
 - [git-how-to-use-git-ignore-files-for-cleaner-code-repositories-392884](https://labex.io/zh/tutorials/git-how-to-use-git-ignore-files-for-cleaner-code-repositories-392884) *(Last modified: 2025-02-07)*
 - [git-how-to-use-git-log-command-with-date-range-options-414998](https://labex.io/zh/tutorials/git-how-to-use-git-log-command-with-date-range-options-414998) *(Last modified: 2025-02-07)*
 - [git-how-to-use-git-push-to-update-your-codebase-392976](https://labex.io/zh/tutorials/git-how-to-use-git-push-to-update-your-codebase-392976) *(Last modified: 2025-02-07)*
 - [git-how-to-use-git-rebase-interactive-autosquash-for-managing-fixup-commits-415569](https://labex.io/zh/tutorials/git-how-to-use-git-rebase-interactive-autosquash-for-managing-fixup-commits-415569) *(Last modified: 2025-02-07)*
 - [git-how-to-use-git-rerere-to-resolve-merge-conflicts-effortlessly-411648](https://labex.io/zh/tutorials/git-how-to-use-git-rerere-to-resolve-merge-conflicts-effortlessly-411648) *(Last modified: 2025-02-07)*
 - [git-how-to-use-git-rev-parse-for-efficient-version-control-398393](https://labex.io/zh/tutorials/git-how-to-use-git-rev-parse-for-efficient-version-control-398393) *(Last modified: 2025-02-07)*
-- [git-how-to-use-git-rm-cached-to-remove-a-file-from-the-git-index-417574](https://labex.io/zh/tutorials/git-how-to-use-git-rm-cached-to-remove-a-file-from-the-git-index-417574) *(Last modified: 2025-02-07)*
+- [git-how-to-use-git-rm-cached-to-remove-a-file-from-the-git-index-417574](https://labex.io/zh/tutorials/git-how-to-use-git-rm-cached-to-remove-a-file-from-the-git-index-417574) *(Last modified: 2025-02-19)*
 - [git-how-to-use-git-s-autocorrect-to-improve-workflow-417720](https://labex.io/zh/tutorials/git-how-to-use-git-s-autocorrect-to-improve-workflow-417720) *(Last modified: 2025-02-07)*
 - [git-how-to-use-git-stash-with-multiple-branches-418264](https://labex.io/zh/tutorials/git-how-to-use-git-stash-with-multiple-branches-418264) *(Last modified: 2025-02-07)*
 - [git-how-to-use-git-tags-for-version-control-392591](https://labex.io/zh/tutorials/git-how-to-use-git-tags-for-version-control-392591) *(Last modified: 2025-02-07)*
@@ -3289,10 +3289,10 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-view-git-commit-history-within-a-date-range-415000](https://labex.io/zh/tutorials/git-how-to-view-git-commit-history-within-a-date-range-415000) *(Last modified: 2025-02-07)*
 - [git-how-to-view-git-commit-log-418156](https://labex.io/zh/tutorials/git-how-to-view-git-commit-log-418156) *(Last modified: 2025-02-07)*
 - [git-how-to-view-the-changes-in-a-git-stash-415015](https://labex.io/zh/tutorials/git-how-to-view-the-changes-in-a-git-stash-415015) *(Last modified: 2025-02-07)*
-- [git-how-to-view-the-commit-history-of-a-remote-git-branch-414840](https://labex.io/zh/tutorials/git-how-to-view-the-commit-history-of-a-remote-git-branch-414840) *(Last modified: 2025-02-07)*
+- [git-how-to-view-the-commit-history-of-a-remote-git-branch-414840](https://labex.io/zh/tutorials/git-how-to-view-the-commit-history-of-a-remote-git-branch-414840) *(Last modified: 2025-02-19)*
 - [git-how-to-view-the-current-status-of-a-git-repository-415182](https://labex.io/zh/tutorials/git-how-to-view-the-current-status-of-a-git-repository-415182) *(Last modified: 2025-02-07)*
 - [git-how-to-view-the-differences-between-the-working-directory-and-staging-area-415704](https://labex.io/zh/tutorials/git-how-to-view-the-differences-between-the-working-directory-and-staging-area-415704) *(Last modified: 2025-02-07)*
-- [git-how-to-view-your-git-username-in-terminal-398375](https://labex.io/zh/tutorials/git-how-to-view-your-git-username-in-terminal-398375) *(Last modified: 2025-02-07)*
+- [git-how-to-view-your-git-username-in-terminal-398375](https://labex.io/zh/tutorials/git-how-to-view-your-git-username-in-terminal-398375) *(Last modified: 2025-02-19)*
 - [git-how-to-write-better-git-commit-messages-392945](https://labex.io/zh/tutorials/git-how-to-write-better-git-commit-messages-392945) *(Last modified: 2025-02-07)*
 - [git-how-to-write-meaningful-git-commits-393108](https://labex.io/zh/tutorials/git-how-to-write-meaningful-git-commits-393108) *(Last modified: 2025-02-07)*
 - [git-how-to-write-powerful-git-commits-391338](https://labex.io/zh/tutorials/git-how-to-write-powerful-git-commits-391338) *(Last modified: 2025-02-07)*
@@ -3324,7 +3324,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-rename-a-branch-12751](https://labex.io/zh/tutorials/git-rename-a-branch-12751) *(Last modified: 2025-02-16)*
 - [git-rename-remote-branch-12752](https://labex.io/zh/tutorials/git-rename-remote-branch-12752) *(Last modified: 2025-02-16)*
 - [git-reset-local-master-branch-to-match-remote-12753](https://labex.io/zh/tutorials/git-reset-local-master-branch-to-match-remote-12753) *(Last modified: 2025-02-16)*
-- [git-resolving-cannot-delete-branch-checked-out-error-in-git-411666](https://labex.io/zh/tutorials/git-resolving-cannot-delete-branch-checked-out-error-in-git-411666) *(Last modified: 2025-02-07)*
+- [git-resolving-cannot-delete-branch-checked-out-error-in-git-411666](https://labex.io/zh/tutorials/git-resolving-cannot-delete-branch-checked-out-error-in-git-411666) *(Last modified: 2025-02-19)*
 - [git-resolving-git-rebase-conflicts-caused-by-unstaged-changes-413756](https://labex.io/zh/tutorials/git-resolving-git-rebase-conflicts-caused-by-unstaged-changes-413756) *(Last modified: 2025-02-07)*
 - [git-resolving-merge-conflicts-after-a-forced-git-pull-400167](https://labex.io/zh/tutorials/git-resolving-merge-conflicts-after-a-forced-git-pull-400167) *(Last modified: 2025-02-07)*
 - [git-resolving-the-fatal-master-is-already-checked-out-git-error-392723](https://labex.io/zh/tutorials/git-resolving-the-fatal-master-is-already-checked-out-git-error-392723) *(Last modified: 2025-02-07)*
@@ -4548,7 +4548,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [java-check-file-readability-and-writability-117414](https://labex.io/zh/tutorials/java-check-file-readability-and-writability-117414) *(Last modified: 2025-02-16)*
 - [java-check-if-a-file-exists-117390](https://labex.io/zh/tutorials/java-check-if-a-file-exists-117390) *(Last modified: 2025-02-16)*
 - [java-check-if-directory-exists-117392](https://labex.io/zh/tutorials/java-check-if-directory-exists-117392) *(Last modified: 2025-02-16)*
-- [java-check-if-input-is-integer-117391](https://labex.io/zh/tutorials/java-check-if-input-is-integer-117391) *(Last modified: 2025-02-17)*
+- [java-check-if-input-is-integer-117391](https://labex.io/zh/tutorials/java-check-if-input-is-integer-117391) *(Last modified: 2025-02-19)*
 - [java-checking-if-a-string-is-numeric-117415](https://labex.io/zh/tutorials/java-checking-if-a-string-is-numeric-117415) *(Last modified: 2025-02-16)*
 - [java-checking-lowercase-characters-in-java-117535](https://labex.io/zh/tutorials/java-checking-lowercase-characters-in-java-117535) *(Last modified: 2025-02-16)*
 - [java-checking-palindromes-in-java-117978](https://labex.io/zh/tutorials/java-checking-palindromes-in-java-117978) *(Last modified: 2025-02-16)*
@@ -6790,11 +6790,11 @@ This file contains all tutorials-zh related links from LabEx website.
 - [jenkins-how-to-install-missing-plugins-in-jenkins-415718](https://labex.io/zh/tutorials/jenkins-how-to-install-missing-plugins-in-jenkins-415718) *(Last modified: 2025-02-13)*
 - [jenkins-how-to-integrate-jenkins-docker-with-other-devops-tools-414502](https://labex.io/zh/tutorials/jenkins-how-to-integrate-jenkins-docker-with-other-devops-tools-414502) *(Last modified: 2025-02-13)*
 - [jenkins-how-to-log-in-to-jenkins-securely-400130](https://labex.io/zh/tutorials/jenkins-how-to-log-in-to-jenkins-securely-400130) *(Last modified: 2025-02-13)*
-- [jenkins-how-to-log-in-to-jenkins-with-the-correct-credentials-415683](https://labex.io/zh/tutorials/jenkins-how-to-log-in-to-jenkins-with-the-correct-credentials-415683) *(Last modified: 2025-02-13)*
+- [jenkins-how-to-log-in-to-jenkins-with-the-correct-credentials-415683](https://labex.io/zh/tutorials/jenkins-how-to-log-in-to-jenkins-with-the-correct-credentials-415683) *(Last modified: 2025-02-19)*
 - [jenkins-how-to-manage-jenkins-docker-container-lifecycle-414503](https://labex.io/zh/tutorials/jenkins-how-to-manage-jenkins-docker-container-lifecycle-414503) *(Last modified: 2025-02-13)*
 - [jenkins-how-to-manage-users-in-jenkins-414784](https://labex.io/zh/tutorials/jenkins-how-to-manage-users-in-jenkins-414784) *(Last modified: 2025-02-13)*
 - [jenkins-how-to-resolve-unauthorized-access-error-in-jenkins-415719](https://labex.io/zh/tutorials/jenkins-how-to-resolve-unauthorized-access-error-in-jenkins-415719) *(Last modified: 2025-02-13)*
-- [jenkins-how-to-set-jenkins-to-start-automatically-on-system-boot-415720](https://labex.io/zh/tutorials/jenkins-how-to-set-jenkins-to-start-automatically-on-system-boot-415720) *(Last modified: 2025-02-13)*
+- [jenkins-how-to-set-jenkins-to-start-automatically-on-system-boot-415720](https://labex.io/zh/tutorials/jenkins-how-to-set-jenkins-to-start-automatically-on-system-boot-415720) *(Last modified: 2025-02-19)*
 - [jenkins-how-to-set-up-jenkins-docker-environment-414504](https://labex.io/zh/tutorials/jenkins-how-to-set-up-jenkins-docker-environment-414504) *(Last modified: 2025-02-13)*
 - [jenkins-how-to-start-docker-service-on-linux-for-jenkins-415669](https://labex.io/zh/tutorials/jenkins-how-to-start-docker-service-on-linux-for-jenkins-415669) *(Last modified: 2025-02-13)*
 - [jenkins-how-to-verify-jenkins-docker-image-version-415670](https://labex.io/zh/tutorials/jenkins-how-to-verify-jenkins-docker-image-version-415670) *(Last modified: 2025-02-13)*
@@ -6893,7 +6893,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [kubernetes-how-to-configure-kubernetes-horizontalpodautoscaler-for-optimal-scaling-415481](https://labex.io/zh/tutorials/kubernetes-how-to-configure-kubernetes-horizontalpodautoscaler-for-optimal-scaling-415481) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-configure-kubernetes-hpa-with-custom-metrics-415480](https://labex.io/zh/tutorials/kubernetes-how-to-configure-kubernetes-hpa-with-custom-metrics-415480) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-configure-kubernetes-ingress-for-advanced-routing-392839](https://labex.io/zh/tutorials/kubernetes-how-to-configure-kubernetes-ingress-for-advanced-routing-392839) *(Last modified: 2025-02-09)*
-- [kubernetes-how-to-configure-kubernetes-jobs-for-parallel-processing-414879](https://labex.io/zh/tutorials/kubernetes-how-to-configure-kubernetes-jobs-for-parallel-processing-414879) *(Last modified: 2025-02-13)*
+- [kubernetes-how-to-configure-kubernetes-jobs-for-parallel-processing-414879](https://labex.io/zh/tutorials/kubernetes-how-to-configure-kubernetes-jobs-for-parallel-processing-414879) *(Last modified: 2025-02-19)*
 - [kubernetes-how-to-configure-kubernetes-network-driver-435466](https://labex.io/zh/tutorials/kubernetes-how-to-configure-kubernetes-network-driver-435466) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-configure-kubernetes-network-policies-434711](https://labex.io/zh/tutorials/kubernetes-how-to-configure-kubernetes-network-policies-434711) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-configure-kubernetes-network-policy-434742](https://labex.io/zh/tutorials/kubernetes-how-to-configure-kubernetes-network-policy-434742) *(Last modified: 2025-02-09)*
@@ -6959,7 +6959,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [kubernetes-how-to-diagnose-nginx-container-issues-419131](https://labex.io/zh/tutorials/kubernetes-how-to-diagnose-nginx-container-issues-419131) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-diagnose-node-communication-failure-418386](https://labex.io/zh/tutorials/kubernetes-how-to-diagnose-node-communication-failure-418386) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-display-kubernetes-version-data-419314](https://labex.io/zh/tutorials/kubernetes-how-to-display-kubernetes-version-data-419314) *(Last modified: 2025-02-09)*
-- [kubernetes-how-to-display-pod-cpu-and-memory-usage-in-a-namespace-415632](https://labex.io/zh/tutorials/kubernetes-how-to-display-pod-cpu-and-memory-usage-in-a-namespace-415632) *(Last modified: 2025-02-09)*
+- [kubernetes-how-to-display-pod-cpu-and-memory-usage-in-a-namespace-415632](https://labex.io/zh/tutorials/kubernetes-how-to-display-pod-cpu-and-memory-usage-in-a-namespace-415632) *(Last modified: 2025-02-19)*
 - [kubernetes-how-to-easily-scale-and-manage-kubernetes-deployments-415503](https://labex.io/zh/tutorials/kubernetes-how-to-easily-scale-and-manage-kubernetes-deployments-415503) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-effectively-manage-and-troubleshoot-kubernetes-exec-418666](https://labex.io/zh/tutorials/kubernetes-how-to-effectively-manage-and-troubleshoot-kubernetes-exec-418666) *(Last modified: 2025-02-13)*
 - [kubernetes-how-to-effectively-manage-kubernetes-deployments-398439](https://labex.io/zh/tutorials/kubernetes-how-to-effectively-manage-kubernetes-deployments-398439) *(Last modified: 2025-02-09)*
@@ -6986,7 +6986,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [kubernetes-how-to-fix-kubernetes-cluster-connection-435468](https://labex.io/zh/tutorials/kubernetes-how-to-fix-kubernetes-cluster-connection-435468) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-fix-kubernetes-permission-issues-418659](https://labex.io/zh/tutorials/kubernetes-how-to-fix-kubernetes-permission-issues-418659) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-fix-kubernetes-service-configuration-418387](https://labex.io/zh/tutorials/kubernetes-how-to-fix-kubernetes-service-configuration-418387) *(Last modified: 2025-02-09)*
-- [kubernetes-how-to-fix-kubernetes-volume-permission-issue-419133](https://labex.io/zh/tutorials/kubernetes-how-to-fix-kubernetes-volume-permission-issue-419133) *(Last modified: 2025-02-09)*
+- [kubernetes-how-to-fix-kubernetes-volume-permission-issue-419133](https://labex.io/zh/tutorials/kubernetes-how-to-fix-kubernetes-volume-permission-issue-419133) *(Last modified: 2025-02-19)*
 - [kubernetes-how-to-fix-minikube-docker-permission-error-434771](https://labex.io/zh/tutorials/kubernetes-how-to-fix-minikube-docker-permission-error-434771) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-fix-minikube-driver-access-rights-435469](https://labex.io/zh/tutorials/kubernetes-how-to-fix-minikube-driver-access-rights-435469) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-fix-rbac-permission-denied-419499](https://labex.io/zh/tutorials/kubernetes-how-to-fix-rbac-permission-denied-419499) *(Last modified: 2025-02-09)*
@@ -6996,7 +6996,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [kubernetes-how-to-handle-errors-when-creating-a-configmap-415772](https://labex.io/zh/tutorials/kubernetes-how-to-handle-errors-when-creating-a-configmap-415772) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-handle-kubectl-connection-problems-434772](https://labex.io/zh/tutorials/kubernetes-how-to-handle-kubectl-connection-problems-434772) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-handle-kubernetes-cluster-initialization-435470](https://labex.io/zh/tutorials/kubernetes-how-to-handle-kubernetes-cluster-initialization-435470) *(Last modified: 2025-02-09)*
-- [kubernetes-how-to-handle-kubernetes-job-failure-417507](https://labex.io/zh/tutorials/kubernetes-how-to-handle-kubernetes-job-failure-417507) *(Last modified: 2025-02-09)*
+- [kubernetes-how-to-handle-kubernetes-job-failure-417507](https://labex.io/zh/tutorials/kubernetes-how-to-handle-kubernetes-job-failure-417507) *(Last modified: 2025-02-19)*
 - [kubernetes-how-to-handle-kubernetes-pod-failures-419485](https://labex.io/zh/tutorials/kubernetes-how-to-handle-kubernetes-pod-failures-419485) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-handle-kubernetes-scheduling-errors-418660](https://labex.io/zh/tutorials/kubernetes-how-to-handle-kubernetes-scheduling-errors-418660) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-handle-node-affinity-constraints-418601](https://labex.io/zh/tutorials/kubernetes-how-to-handle-node-affinity-constraints-418601) *(Last modified: 2025-02-09)*
@@ -7091,7 +7091,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [kubernetes-how-to-modify-an-existing-taint-with-different-effect-on-a-node-in-kubernetes-415850](https://labex.io/zh/tutorials/kubernetes-how-to-modify-an-existing-taint-with-different-effect-on-a-node-in-kubernetes-415850) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-modify-pod-annotation-values-418739](https://labex.io/zh/tutorials/kubernetes-how-to-modify-pod-annotation-values-418739) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-monitor-and-optimize-kubernetes-resource-utilization-415077](https://labex.io/zh/tutorials/kubernetes-how-to-monitor-and-optimize-kubernetes-resource-utilization-415077) *(Last modified: 2025-02-09)*
-- [kubernetes-how-to-monitor-kubernetes-job-status-and-logs-414877](https://labex.io/zh/tutorials/kubernetes-how-to-monitor-kubernetes-job-status-and-logs-414877) *(Last modified: 2025-02-09)*
+- [kubernetes-how-to-monitor-kubernetes-job-status-and-logs-414877](https://labex.io/zh/tutorials/kubernetes-how-to-monitor-kubernetes-job-status-and-logs-414877) *(Last modified: 2025-02-19)*
 - [kubernetes-how-to-monitor-kubernetes-pod-logs-dynamically-419032](https://labex.io/zh/tutorials/kubernetes-how-to-monitor-kubernetes-pod-logs-dynamically-419032) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-navigate-kubernetes-clusters-with-k9s-391998](https://labex.io/zh/tutorials/kubernetes-how-to-navigate-kubernetes-clusters-with-k9s-391998) *(Last modified: 2025-02-13)*
 - [kubernetes-how-to-optimize-and-monitor-kubernetes-workloads-419320](https://labex.io/zh/tutorials/kubernetes-how-to-optimize-and-monitor-kubernetes-workloads-419320) *(Last modified: 2025-02-09)*
@@ -7139,7 +7139,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [kubernetes-how-to-retrieve-and-manage-kubernetes-secrets-419029](https://labex.io/zh/tutorials/kubernetes-how-to-retrieve-and-manage-kubernetes-secrets-419029) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-retrieve-kubernetes-cluster-version-414810](https://labex.io/zh/tutorials/kubernetes-how-to-retrieve-kubernetes-cluster-version-414810) *(Last modified: 2025-02-13)*
 - [kubernetes-how-to-retrieve-kubernetes-node-size-in-a-namespace-393044](https://labex.io/zh/tutorials/kubernetes-how-to-retrieve-kubernetes-node-size-in-a-namespace-393044) *(Last modified: 2025-02-13)*
-- [kubernetes-how-to-retrieve-the-pod-name-in-a-kubernetes-deployment-415675](https://labex.io/zh/tutorials/kubernetes-how-to-retrieve-the-pod-name-in-a-kubernetes-deployment-415675) *(Last modified: 2025-02-13)*
+- [kubernetes-how-to-retrieve-the-pod-name-in-a-kubernetes-deployment-415675](https://labex.io/zh/tutorials/kubernetes-how-to-retrieve-the-pod-name-in-a-kubernetes-deployment-415675) *(Last modified: 2025-02-19)*
 - [kubernetes-how-to-route-traffic-with-ingress-419322](https://labex.io/zh/tutorials/kubernetes-how-to-route-traffic-with-ingress-419322) *(Last modified: 2025-02-13)*
 - [kubernetes-how-to-run-kubernetes-batch-jobs-effectively-419315](https://labex.io/zh/tutorials/kubernetes-how-to-run-kubernetes-batch-jobs-effectively-419315) *(Last modified: 2025-02-09)*
 - [kubernetes-how-to-scale-a-kubernetes-web-application-deployment-415007](https://labex.io/zh/tutorials/kubernetes-how-to-scale-a-kubernetes-web-application-deployment-415007) *(Last modified: 2025-02-13)*
@@ -7167,7 +7167,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [kubernetes-how-to-target-specific-pod-container-419035](https://labex.io/zh/tutorials/kubernetes-how-to-target-specific-pod-container-419035) *(Last modified: 2025-02-13)*
 - [kubernetes-how-to-track-kubernetes-events-391994](https://labex.io/zh/tutorials/kubernetes-how-to-track-kubernetes-events-391994) *(Last modified: 2025-02-13)*
 - [kubernetes-how-to-track-kubernetes-port-connections-419037](https://labex.io/zh/tutorials/kubernetes-how-to-track-kubernetes-port-connections-419037) *(Last modified: 2025-02-13)*
-- [kubernetes-how-to-transfer-files-in-kubernetes-pods-391734](https://labex.io/zh/tutorials/kubernetes-how-to-transfer-files-in-kubernetes-pods-391734) *(Last modified: 2025-02-13)*
+- [kubernetes-how-to-transfer-files-in-kubernetes-pods-391734](https://labex.io/zh/tutorials/kubernetes-how-to-transfer-files-in-kubernetes-pods-391734) *(Last modified: 2025-02-19)*
 - [kubernetes-how-to-troubleshoot-a-kubernetes-application-415382](https://labex.io/zh/tutorials/kubernetes-how-to-troubleshoot-a-kubernetes-application-415382) *(Last modified: 2025-02-13)*
 - [kubernetes-how-to-troubleshoot-a-kubernetes-daemonset-415607](https://labex.io/zh/tutorials/kubernetes-how-to-troubleshoot-a-kubernetes-daemonset-415607) *(Last modified: 2025-02-13)*
 - [kubernetes-how-to-troubleshoot-and-optimize-kubernetes-network-performance-418599](https://labex.io/zh/tutorials/kubernetes-how-to-troubleshoot-and-optimize-kubernetes-network-performance-418599) *(Last modified: 2025-02-09)*
@@ -7222,7 +7222,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [kubernetes-how-to-verify-the-status-of-a-kubernetes-web-application-deployment-415008](https://labex.io/zh/tutorials/kubernetes-how-to-verify-the-status-of-a-kubernetes-web-application-deployment-415008) *(Last modified: 2025-02-13)*
 - [kubernetes-how-to-view-pod-container-metrics-418980](https://labex.io/zh/tutorials/kubernetes-how-to-view-pod-container-metrics-418980) *(Last modified: 2025-02-13)*
 - [kubernetes-how-to-view-the-kubernetes-kubeconfig-file-415217](https://labex.io/zh/tutorials/kubernetes-how-to-view-the-kubernetes-kubeconfig-file-415217) *(Last modified: 2025-02-13)*
-- [kubernetes-how-to-view-the-taints-applied-to-a-kubernetes-node-414820](https://labex.io/zh/tutorials/kubernetes-how-to-view-the-taints-applied-to-a-kubernetes-node-414820) *(Last modified: 2025-02-13)*
+- [kubernetes-how-to-view-the-taints-applied-to-a-kubernetes-node-414820](https://labex.io/zh/tutorials/kubernetes-how-to-view-the-taints-applied-to-a-kubernetes-node-414820) *(Last modified: 2025-02-19)*
 - [kubernetes-how-to-wait-for-a-kubernetes-pod-to-be-ready-before-executing-a-command-415090](https://labex.io/zh/tutorials/kubernetes-how-to-wait-for-a-kubernetes-pod-to-be-ready-before-executing-a-command-415090) *(Last modified: 2025-02-13)*
 - [kubernetes-how-to-write-kubernetes-deployment-manifest-434720](https://labex.io/zh/tutorials/kubernetes-how-to-write-kubernetes-deployment-manifest-434720) *(Last modified: 2025-02-13)*
 - [kubernetes-implement-kubernetes-deployment-strategies-392585](https://labex.io/zh/tutorials/kubernetes-implement-kubernetes-deployment-strategies-392585) *(Last modified: 2025-02-13)*
@@ -7370,7 +7370,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-find-linux-command-locations-quickly-417674](https://labex.io/zh/tutorials/linux-find-linux-command-locations-quickly-417674) *(Last modified: 2025-02-07)*
 - [linux-get-help-on-linux-commands-18000](https://labex.io/zh/tutorials/linux-get-help-on-linux-commands-18000) *(Last modified: 2025-02-16)*
 - [linux-get-program-that-satisfies-the-condition-301473](https://labex.io/zh/tutorials/linux-get-program-that-satisfies-the-condition-301473) *(Last modified: 2025-02-14)*
-- [linux-getting-started-with-linux-446315](https://labex.io/zh/tutorials/linux-getting-started-with-linux-446315) *(Last modified: 2025-02-16)*
+- [linux-getting-started-with-linux-446315](https://labex.io/zh/tutorials/linux-getting-started-with-linux-446315) *(Last modified: 2025-02-19)*
 - [linux-hadoop-installation-and-deployment-272321](https://labex.io/zh/tutorials/linux-hadoop-installation-and-deployment-272321) *(Last modified: 2025-02-16)*
 - [linux-harness-the-linux-date-command-400155](https://labex.io/zh/tutorials/linux-harness-the-linux-date-command-400155) *(Last modified: 2025-02-07)*
 - [linux-harness-the-power-of-the-linux-cat-command-421533](https://labex.io/zh/tutorials/linux-harness-the-power-of-the-linux-cat-command-421533) *(Last modified: 2025-02-07)*
@@ -7571,7 +7571,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-how-to-craft-captivating-ascii-art-banners-with-figlet-419330](https://labex.io/zh/tutorials/linux-how-to-craft-captivating-ascii-art-banners-with-figlet-419330) *(Last modified: 2025-02-07)*
 - [linux-how-to-create-a-basic-linux-shell-script-409820](https://labex.io/zh/tutorials/linux-how-to-create-a-basic-linux-shell-script-409820) *(Last modified: 2025-02-07)*
 - [linux-how-to-create-a-directory-structure-in-linux-409823](https://labex.io/zh/tutorials/linux-how-to-create-a-directory-structure-in-linux-409823) *(Last modified: 2025-02-07)*
-- [linux-how-to-create-a-directory-with-spaces-in-the-name-in-linux-417527](https://labex.io/zh/tutorials/linux-how-to-create-a-directory-with-spaces-in-the-name-in-linux-417527) *(Last modified: 2025-02-07)*
+- [linux-how-to-create-a-directory-with-spaces-in-the-name-in-linux-417527](https://labex.io/zh/tutorials/linux-how-to-create-a-directory-with-spaces-in-the-name-in-linux-417527) *(Last modified: 2025-02-19)*
 - [linux-how-to-create-a-dynamic-text-file-columnizing-script-in-linux-415213](https://labex.io/zh/tutorials/linux-how-to-create-a-dynamic-text-file-columnizing-script-in-linux-415213) *(Last modified: 2025-02-07)*
 - [linux-how-to-create-a-new-group-in-the-linux-system-409825](https://labex.io/zh/tutorials/linux-how-to-create-a-new-group-in-the-linux-system-409825) *(Last modified: 2025-02-07)*
 - [linux-how-to-create-a-new-text-file-using-the-nano-editor-in-linux-414969](https://labex.io/zh/tutorials/linux-how-to-create-a-new-text-file-using-the-nano-editor-in-linux-414969) *(Last modified: 2025-02-07)*
@@ -7761,7 +7761,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-how-to-execute-seamless-linux-directory-migrations-420845](https://labex.io/zh/tutorials/linux-how-to-execute-seamless-linux-directory-migrations-420845) *(Last modified: 2025-02-07)*
 - [linux-how-to-execute-sudo-group-modifications-434223](https://labex.io/zh/tutorials/linux-how-to-execute-sudo-group-modifications-434223) *(Last modified: 2025-02-07)*
 - [linux-how-to-exit-text-editing-in-linux-435575](https://labex.io/zh/tutorials/linux-how-to-exit-text-editing-in-linux-435575) *(Last modified: 2025-02-07)*
-- [linux-how-to-exit-the-less-command-and-return-to-the-shell-in-linux-409846](https://labex.io/zh/tutorials/linux-how-to-exit-the-less-command-and-return-to-the-shell-in-linux-409846) *(Last modified: 2025-02-07)*
+- [linux-how-to-exit-the-less-command-and-return-to-the-shell-in-linux-409846](https://labex.io/zh/tutorials/linux-how-to-exit-the-less-command-and-return-to-the-shell-in-linux-409846) *(Last modified: 2025-02-19)*
 - [linux-how-to-explore-and-manage-linux-directory-structures-392781](https://labex.io/zh/tutorials/linux-how-to-explore-and-manage-linux-directory-structures-392781) *(Last modified: 2025-02-07)*
 - [linux-how-to-explore-and-understand-linux-file-system-architecture-392963](https://labex.io/zh/tutorials/linux-how-to-explore-and-understand-linux-file-system-architecture-392963) *(Last modified: 2025-02-07)*
 - [linux-how-to-explore-file-metadata-in-linux-425779](https://labex.io/zh/tutorials/linux-how-to-explore-file-metadata-in-linux-425779) *(Last modified: 2025-02-07)*
@@ -7848,7 +7848,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-how-to-get-absolute-path-in-bash-420934](https://labex.io/zh/tutorials/linux-how-to-get-absolute-path-in-bash-420934) *(Last modified: 2025-02-07)*
 - [linux-how-to-get-code-statistics-quickly-421917](https://labex.io/zh/tutorials/linux-how-to-get-code-statistics-quickly-421917) *(Last modified: 2025-02-07)*
 - [linux-how-to-get-linux-username-quickly-437735](https://labex.io/zh/tutorials/linux-how-to-get-linux-username-quickly-437735) *(Last modified: 2025-02-07)*
-- [linux-how-to-go-to-the-next-or-previous-search-result-with-the-less-command-in-linux-409856](https://labex.io/zh/tutorials/linux-how-to-go-to-the-next-or-previous-search-result-with-the-less-command-in-linux-409856) *(Last modified: 2025-02-07)*
+- [linux-how-to-go-to-the-next-or-previous-search-result-with-the-less-command-in-linux-409856](https://labex.io/zh/tutorials/linux-how-to-go-to-the-next-or-previous-search-result-with-the-less-command-in-linux-409856) *(Last modified: 2025-02-19)*
 - [linux-how-to-grant-permission-to-create-a-new-linux-group-409857](https://labex.io/zh/tutorials/linux-how-to-grant-permission-to-create-a-new-linux-group-409857) *(Last modified: 2025-02-07)*
 - [linux-how-to-grant-read-and-write-access-to-file-owner-415758](https://labex.io/zh/tutorials/linux-how-to-grant-read-and-write-access-to-file-owner-415758) *(Last modified: 2025-02-07)*
 - [linux-how-to-grant-sudo-permissions-to-a-user-in-linux-415564](https://labex.io/zh/tutorials/linux-how-to-grant-sudo-permissions-to-a-user-in-linux-415564) *(Last modified: 2025-02-07)*
@@ -7882,7 +7882,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-how-to-handle-log-file-parsing-issues-425809](https://labex.io/zh/tutorials/linux-how-to-handle-log-file-parsing-issues-425809) *(Last modified: 2025-02-07)*
 - [linux-how-to-handle-missing-linux-utilities-420755](https://labex.io/zh/tutorials/linux-how-to-handle-missing-linux-utilities-420755) *(Last modified: 2025-02-07)*
 - [linux-how-to-handle-mixed-field-separators-425156](https://labex.io/zh/tutorials/linux-how-to-handle-mixed-field-separators-425156) *(Last modified: 2025-02-07)*
-- [linux-how-to-handle-no-such-file-or-directory-error-415661](https://labex.io/zh/tutorials/linux-how-to-handle-no-such-file-or-directory-error-415661) *(Last modified: 2025-02-07)*
+- [linux-how-to-handle-no-such-file-or-directory-error-415661](https://labex.io/zh/tutorials/linux-how-to-handle-no-such-file-or-directory-error-415661) *(Last modified: 2025-02-19)*
 - [linux-how-to-handle-non-existent-commands-using-which-in-linux-417669](https://labex.io/zh/tutorials/linux-how-to-handle-non-existent-commands-using-which-in-linux-417669) *(Last modified: 2025-02-07)*
 - [linux-how-to-handle-password-authentication-failed-error-during-sftp-login-in-linux-417341](https://labex.io/zh/tutorials/linux-how-to-handle-password-authentication-failed-error-during-sftp-login-in-linux-417341) *(Last modified: 2025-02-07)*
 - [linux-how-to-handle-permission-issues-with-ps-419055](https://labex.io/zh/tutorials/linux-how-to-handle-permission-issues-with-ps-419055) *(Last modified: 2025-02-07)*
@@ -7953,7 +7953,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-how-to-install-python-libraries-431305](https://labex.io/zh/tutorials/linux-how-to-install-python-libraries-431305) *(Last modified: 2025-02-07)*
 - [linux-how-to-install-tar-package-420530](https://labex.io/zh/tutorials/linux-how-to-install-tar-package-420530) *(Last modified: 2025-02-07)*
 - [linux-how-to-install-the-bc-command-in-linux-414536](https://labex.io/zh/tutorials/linux-how-to-install-the-bc-command-in-linux-414536) *(Last modified: 2025-02-18)*
-- [linux-how-to-install-the-diff-utility-on-linux-415585](https://labex.io/zh/tutorials/linux-how-to-install-the-diff-utility-on-linux-415585) *(Last modified: 2025-02-07)*
+- [linux-how-to-install-the-diff-utility-on-linux-415585](https://labex.io/zh/tutorials/linux-how-to-install-the-diff-utility-on-linux-415585) *(Last modified: 2025-02-19)*
 - [linux-how-to-install-the-sed-package-in-linux-417824](https://labex.io/zh/tutorials/linux-how-to-install-the-sed-package-in-linux-417824) *(Last modified: 2025-02-07)*
 - [linux-how-to-install-whisper-cli-on-linux-437909](https://labex.io/zh/tutorials/linux-how-to-install-whisper-cli-on-linux-437909) *(Last modified: 2025-02-18)*
 - [linux-how-to-interpret-and-automate-linux-command-output-409833](https://labex.io/zh/tutorials/linux-how-to-interpret-and-automate-linux-command-output-409833) *(Last modified: 2025-02-07)*
@@ -8211,7 +8211,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-how-to-modify-the-linux-hostname-across-the-network-409953](https://labex.io/zh/tutorials/linux-how-to-modify-the-linux-hostname-across-the-network-409953) *(Last modified: 2025-02-07)*
 - [linux-how-to-modify-user-sudo-capabilities-420281](https://labex.io/zh/tutorials/linux-how-to-modify-user-sudo-capabilities-420281) *(Last modified: 2025-02-07)*
 - [linux-how-to-monitor-and-analyze-network-connections-with-the-netstat-command-409859](https://labex.io/zh/tutorials/linux-how-to-monitor-and-analyze-network-connections-with-the-netstat-command-409859) *(Last modified: 2025-02-07)*
-- [linux-how-to-monitor-and-manage-file-changes-in-a-linux-environment-409923](https://labex.io/zh/tutorials/linux-how-to-monitor-and-manage-file-changes-in-a-linux-environment-409923) *(Last modified: 2025-02-07)*
+- [linux-how-to-monitor-and-manage-file-changes-in-a-linux-environment-409923](https://labex.io/zh/tutorials/linux-how-to-monitor-and-manage-file-changes-in-a-linux-environment-409923) *(Last modified: 2025-02-19)*
 - [linux-how-to-monitor-and-manage-linux-process-states-419014](https://labex.io/zh/tutorials/linux-how-to-monitor-and-manage-linux-process-states-419014) *(Last modified: 2025-02-07)*
 - [linux-how-to-monitor-disk-space-using-the-df-command-in-linux-409882](https://labex.io/zh/tutorials/linux-how-to-monitor-disk-space-using-the-df-command-in-linux-409882) *(Last modified: 2025-02-07)*
 - [linux-how-to-monitor-linux-storage-capacity-421921](https://labex.io/zh/tutorials/linux-how-to-monitor-linux-storage-capacity-421921) *(Last modified: 2025-02-07)*
@@ -8337,7 +8337,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-how-to-reference-linux-home-folder-434126](https://labex.io/zh/tutorials/linux-how-to-reference-linux-home-folder-434126) *(Last modified: 2025-02-07)*
 - [linux-how-to-reference-linux-system-directories-438378](https://labex.io/zh/tutorials/linux-how-to-reference-linux-system-directories-438378) *(Last modified: 2025-02-07)*
 - [linux-how-to-reload-linux-services-efficiently-391589](https://labex.io/zh/tutorials/linux-how-to-reload-linux-services-efficiently-391589) *(Last modified: 2025-02-07)*
-- [linux-how-to-remove-a-linux-cron-job-414905](https://labex.io/zh/tutorials/linux-how-to-remove-a-linux-cron-job-414905) *(Last modified: 2025-02-07)*
+- [linux-how-to-remove-a-linux-cron-job-414905](https://labex.io/zh/tutorials/linux-how-to-remove-a-linux-cron-job-414905) *(Last modified: 2025-02-19)*
 - [linux-how-to-remove-control-line-characters-418211](https://labex.io/zh/tutorials/linux-how-to-remove-control-line-characters-418211) *(Last modified: 2025-02-07)*
 - [linux-how-to-remove-directories-with-rm-command-420843](https://labex.io/zh/tutorials/linux-how-to-remove-directories-with-rm-command-420843) *(Last modified: 2025-02-07)*
 - [linux-how-to-remove-duplicate-lines-in-files-437870](https://labex.io/zh/tutorials/linux-how-to-remove-duplicate-lines-in-files-437870) *(Last modified: 2025-02-07)*
@@ -8460,7 +8460,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-how-to-sort-and-remove-duplicates-from-command-output-415093](https://labex.io/zh/tutorials/linux-how-to-sort-and-remove-duplicates-from-command-output-415093) *(Last modified: 2025-02-07)*
 - [linux-how-to-sort-by-specific-column-in-linux-437913](https://labex.io/zh/tutorials/linux-how-to-sort-by-specific-column-in-linux-437913) *(Last modified: 2025-02-07)*
 - [linux-how-to-sort-data-with-custom-delimiters-in-linux-409938](https://labex.io/zh/tutorials/linux-how-to-sort-data-with-custom-delimiters-in-linux-409938) *(Last modified: 2025-02-07)*
-- [linux-how-to-sort-processes-by-different-criteria-in-htop-415299](https://labex.io/zh/tutorials/linux-how-to-sort-processes-by-different-criteria-in-htop-415299) *(Last modified: 2025-02-07)*
+- [linux-how-to-sort-processes-by-different-criteria-in-htop-415299](https://labex.io/zh/tutorials/linux-how-to-sort-processes-by-different-criteria-in-htop-415299) *(Last modified: 2025-02-19)*
 - [linux-how-to-sort-unique-entries-in-linux-437873](https://labex.io/zh/tutorials/linux-how-to-sort-unique-entries-in-linux-437873) *(Last modified: 2025-02-07)*
 - [linux-how-to-spawn-detached-linux-processes-419882](https://labex.io/zh/tutorials/linux-how-to-spawn-detached-linux-processes-419882) *(Last modified: 2025-02-07)*
 - [linux-how-to-specify-block-size-and-copy-count-when-using-the-dd-command-409917](https://labex.io/zh/tutorials/linux-how-to-specify-block-size-and-copy-count-when-using-the-dd-command-409917) *(Last modified: 2025-02-07)*
@@ -8651,7 +8651,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-how-to-use-you-get-for-downloading-media-from-restricted-websites-409950](https://labex.io/zh/tutorials/linux-how-to-use-you-get-for-downloading-media-from-restricted-websites-409950) *(Last modified: 2025-02-07)*
 - [linux-how-to-use-zip-command-effectively-425785](https://labex.io/zh/tutorials/linux-how-to-use-zip-command-effectively-425785) *(Last modified: 2025-02-07)*
 - [linux-how-to-utilize-grep-for-advanced-text-filtering-in-linux-417920](https://labex.io/zh/tutorials/linux-how-to-utilize-grep-for-advanced-text-filtering-in-linux-417920) *(Last modified: 2025-02-07)*
-- [linux-how-to-validate-and-verify-zip-archives-in-linux-409952](https://labex.io/zh/tutorials/linux-how-to-validate-and-verify-zip-archives-in-linux-409952) *(Last modified: 2025-02-07)*
+- [linux-how-to-validate-and-verify-zip-archives-in-linux-409952](https://labex.io/zh/tutorials/linux-how-to-validate-and-verify-zip-archives-in-linux-409952) *(Last modified: 2025-02-19)*
 - [linux-how-to-validate-command-syntax-420734](https://labex.io/zh/tutorials/linux-how-to-validate-command-syntax-420734) *(Last modified: 2025-02-07)*
 - [linux-how-to-validate-linux-file-changes-435788](https://labex.io/zh/tutorials/linux-how-to-validate-linux-file-changes-435788) *(Last modified: 2025-02-07)*
 - [linux-how-to-validate-linux-hostname-setup-420166](https://labex.io/zh/tutorials/linux-how-to-validate-linux-hostname-setup-420166) *(Last modified: 2025-02-07)*
@@ -8727,7 +8727,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-alias-command-with-practical-examples-422542](https://labex.io/zh/tutorials/linux-linux-alias-command-with-practical-examples-422542) *(Last modified: 2025-02-07)*
 - [linux-linux-amixer-command-with-practical-examples-422543](https://labex.io/zh/tutorials/linux-linux-amixer-command-with-practical-examples-422543) *(Last modified: 2025-02-07)*
 - [linux-linux-apachectl-command-with-practical-examples-422544](https://labex.io/zh/tutorials/linux-linux-apachectl-command-with-practical-examples-422544) *(Last modified: 2025-02-07)*
-- [linux-linux-aplay-command-with-practical-examples-422545](https://labex.io/zh/tutorials/linux-linux-aplay-command-with-practical-examples-422545) *(Last modified: 2025-02-07)*
+- [linux-linux-aplay-command-with-practical-examples-422545](https://labex.io/zh/tutorials/linux-linux-aplay-command-with-practical-examples-422545) *(Last modified: 2025-02-19)*
 - [linux-linux-aplaymidi-command-with-practical-examples-422546](https://labex.io/zh/tutorials/linux-linux-aplaymidi-command-with-practical-examples-422546) *(Last modified: 2025-02-07)*
 - [linux-linux-apmd-command-with-practical-examples-422547](https://labex.io/zh/tutorials/linux-linux-apmd-command-with-practical-examples-422547) *(Last modified: 2025-02-07)*
 - [linux-linux-apropos-command-with-practical-examples-422548](https://labex.io/zh/tutorials/linux-linux-apropos-command-with-practical-examples-422548) *(Last modified: 2025-02-07)*
@@ -8755,7 +8755,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-background-management-271231](https://labex.io/zh/tutorials/linux-linux-background-management-271231) *(Last modified: 2025-02-16)*
 - [linux-linux-background-running-271233](https://labex.io/zh/tutorials/linux-linux-background-running-271233) *(Last modified: 2025-02-16)*
 - [linux-linux-badblocks-command-with-practical-examples-422568](https://labex.io/zh/tutorials/linux-linux-badblocks-command-with-practical-examples-422568) *(Last modified: 2025-02-07)*
-- [linux-linux-banner-command-with-practical-examples-422569](https://labex.io/zh/tutorials/linux-linux-banner-command-with-practical-examples-422569) *(Last modified: 2025-02-07)*
+- [linux-linux-banner-command-with-practical-examples-422569](https://labex.io/zh/tutorials/linux-linux-banner-command-with-practical-examples-422569) *(Last modified: 2025-02-19)*
 - [linux-linux-basename-command-with-practical-examples-422570](https://labex.io/zh/tutorials/linux-linux-basename-command-with-practical-examples-422570) *(Last modified: 2025-02-07)*
 - [linux-linux-bash-command-with-practical-examples-422571](https://labex.io/zh/tutorials/linux-linux-bash-command-with-practical-examples-422571) *(Last modified: 2025-02-07)*
 - [linux-linux-batch-command-with-practical-examples-422572](https://labex.io/zh/tutorials/linux-linux-batch-command-with-practical-examples-422572) *(Last modified: 2025-02-07)*
@@ -9014,7 +9014,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-line-merging-271349](https://labex.io/zh/tutorials/linux-linux-line-merging-271349) *(Last modified: 2025-02-16)*
 - [linux-linux-line-numbering-271345](https://labex.io/zh/tutorials/linux-linux-line-numbering-271345) *(Last modified: 2025-02-16)*
 - [linux-linux-link-creating-271321](https://labex.io/zh/tutorials/linux-linux-link-creating-271321) *(Last modified: 2025-02-16)*
-- [linux-linux-ln-command-with-practical-examples-422760](https://labex.io/zh/tutorials/linux-linux-ln-command-with-practical-examples-422760) *(Last modified: 2025-02-07)*
+- [linux-linux-ln-command-with-practical-examples-422760](https://labex.io/zh/tutorials/linux-linux-ln-command-with-practical-examples-422760) *(Last modified: 2025-02-19)*
 - [linux-linux-lndir-command-with-practical-examples-422761](https://labex.io/zh/tutorials/linux-linux-lndir-command-with-practical-examples-422761) *(Last modified: 2025-02-07)*
 - [linux-linux-loadkeys-command-with-practical-examples-422762](https://labex.io/zh/tutorials/linux-linux-loadkeys-command-with-practical-examples-422762) *(Last modified: 2025-02-07)*
 - [linux-linux-locale-command-with-practical-examples-422763](https://labex.io/zh/tutorials/linux-linux-locale-command-with-practical-examples-422763) *(Last modified: 2025-02-07)*
@@ -9039,7 +9039,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-lsmod-command-with-practical-examples-422780](https://labex.io/zh/tutorials/linux-linux-lsmod-command-with-practical-examples-422780) *(Last modified: 2025-02-07)*
 - [linux-linux-lsof-command-with-practical-examples-422781](https://labex.io/zh/tutorials/linux-linux-lsof-command-with-practical-examples-422781) *(Last modified: 2025-02-07)*
 - [linux-linux-lspci-command-with-practical-examples-422782](https://labex.io/zh/tutorials/linux-linux-lspci-command-with-practical-examples-422782) *(Last modified: 2025-02-07)*
-- [linux-linux-lsusb-command-with-practical-examples-422783](https://labex.io/zh/tutorials/linux-linux-lsusb-command-with-practical-examples-422783) *(Last modified: 2025-02-18)*
+- [linux-linux-lsusb-command-with-practical-examples-422783](https://labex.io/zh/tutorials/linux-linux-lsusb-command-with-practical-examples-422783) *(Last modified: 2025-02-19)*
 - [linux-linux-ltrace-command-with-practical-examples-422784](https://labex.io/zh/tutorials/linux-linux-ltrace-command-with-practical-examples-422784) *(Last modified: 2025-02-07)*
 - [linux-linux-mailq-command-with-practical-examples-422785](https://labex.io/zh/tutorials/linux-linux-mailq-command-with-practical-examples-422785) *(Last modified: 2025-02-07)*
 - [linux-linux-make-command-with-practical-examples-422786](https://labex.io/zh/tutorials/linux-linux-make-command-with-practical-examples-422786) *(Last modified: 2025-02-07)*
@@ -9231,7 +9231,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-strace-command-with-practical-examples-422933](https://labex.io/zh/tutorials/linux-linux-strace-command-with-practical-examples-422933) *(Last modified: 2025-02-07)*
 - [linux-linux-stream-editing-271375](https://labex.io/zh/tutorials/linux-linux-stream-editing-271375) *(Last modified: 2025-02-16)*
 - [linux-linux-strings-command-with-practical-examples-422934](https://labex.io/zh/tutorials/linux-linux-strings-command-with-practical-examples-422934) *(Last modified: 2025-02-07)*
-- [linux-linux-stty-command-with-practical-examples-422935](https://labex.io/zh/tutorials/linux-linux-stty-command-with-practical-examples-422935) *(Last modified: 2025-02-18)*
+- [linux-linux-stty-command-with-practical-examples-422935](https://labex.io/zh/tutorials/linux-linux-stty-command-with-practical-examples-422935) *(Last modified: 2025-02-19)*
 - [linux-linux-su-command-with-practical-examples-422936](https://labex.io/zh/tutorials/linux-linux-su-command-with-practical-examples-422936) *(Last modified: 2025-02-07)*
 - [linux-linux-sudo-command-with-practical-examples-422937](https://labex.io/zh/tutorials/linux-linux-sudo-command-with-practical-examples-422937) *(Last modified: 2025-02-07)*
 - [linux-linux-sum-command-with-practical-examples-422938](https://labex.io/zh/tutorials/linux-linux-sum-command-with-practical-examples-422938) *(Last modified: 2025-02-07)*
@@ -9274,7 +9274,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-top-command-with-practical-examples-422961](https://labex.io/zh/tutorials/linux-linux-top-command-with-practical-examples-422961) *(Last modified: 2025-02-07)*
 - [linux-linux-tr-command-character-translating-219198](https://labex.io/zh/tutorials/linux-linux-tr-command-character-translating-219198) *(Last modified: 2025-02-16)*
 - [linux-linux-tr-command-with-practical-examples-422963](https://labex.io/zh/tutorials/linux-linux-tr-command-with-practical-examples-422963) *(Last modified: 2025-02-07)*
-- [linux-linux-tracepath-command-with-practical-examples-422964](https://labex.io/zh/tutorials/linux-linux-tracepath-command-with-practical-examples-422964) *(Last modified: 2025-02-07)*
+- [linux-linux-tracepath-command-with-practical-examples-422964](https://labex.io/zh/tutorials/linux-linux-tracepath-command-with-practical-examples-422964) *(Last modified: 2025-02-19)*
 - [linux-linux-traceroute-command-with-practical-examples-422965](https://labex.io/zh/tutorials/linux-linux-traceroute-command-with-practical-examples-422965) *(Last modified: 2025-02-07)*
 - [linux-linux-tree-command-with-practical-examples-422966](https://labex.io/zh/tutorials/linux-linux-tree-command-with-practical-examples-422966) *(Last modified: 2025-02-07)*
 - [linux-linux-tty-command-with-practical-examples-422967](https://labex.io/zh/tutorials/linux-linux-tty-command-with-practical-examples-422967) *(Last modified: 2025-02-07)*
@@ -9410,8 +9410,8 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-terminate-processes-in-linux-44](https://labex.io/zh/tutorials/linux-terminate-processes-in-linux-44) *(Last modified: 2025-02-16)*
 - [linux-text-processing-and-regular-expressions-18003](https://labex.io/zh/tutorials/linux-text-processing-and-regular-expressions-18003) *(Last modified: 2025-02-16)*
 - [linux-transcribe-media-to-text-with-whisper-289658](https://labex.io/zh/tutorials/linux-transcribe-media-to-text-with-whisper-289658) *(Last modified: 2025-02-16)*
-- [linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859](https://labex.io/zh/tutorials/linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859) *(Last modified: 2025-02-07)*
-- [linux-troubleshooting-su-authentication-failures-on-linux-392816](https://labex.io/zh/tutorials/linux-troubleshooting-su-authentication-failures-on-linux-392816) *(Last modified: 2025-02-07)*
+- [linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859](https://labex.io/zh/tutorials/linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859) *(Last modified: 2025-02-19)*
+- [linux-troubleshooting-su-authentication-failures-on-linux-392816](https://labex.io/zh/tutorials/linux-troubleshooting-su-authentication-failures-on-linux-392816) *(Last modified: 2025-02-19)*
 - [linux-understand-and-manage-linux-file-permissions-420757](https://labex.io/zh/tutorials/linux-understand-and-manage-linux-file-permissions-420757) *(Last modified: 2025-02-07)*
 - [linux-understand-and-manage-the-linux-file-system-hierarchy-400142](https://labex.io/zh/tutorials/linux-understand-and-manage-the-linux-file-system-hierarchy-400142) *(Last modified: 2025-02-07)*
 - [linux-understand-and-utilize-linux-script-interpreters-419335](https://labex.io/zh/tutorials/linux-understand-and-utilize-linux-script-interpreters-419335) *(Last modified: 2025-02-07)*
@@ -12949,7 +12949,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [python-iterative-process-fundamentals-132726](https://labex.io/zh/tutorials/python-iterative-process-fundamentals-132726) *(Last modified: 2025-02-16)*
 - [python-iterator-and-generator-84](https://labex.io/zh/tutorials/python-iterator-and-generator-84) *(Last modified: 2025-02-16)*
 - [python-k-nearest-neighbors-regression-algorithm-implementation-300234](https://labex.io/zh/tutorials/python-k-nearest-neighbors-regression-algorithm-implementation-300234) *(Last modified: 2025-02-14)*
-- [python-key-of-max-value-13677](https://labex.io/zh/tutorials/python-key-of-max-value-13677) *(Last modified: 2025-02-18)*
+- [python-key-of-max-value-13677](https://labex.io/zh/tutorials/python-key-of-max-value-13677) *(Last modified: 2025-02-19)*
 - [python-key-of-min-value-13678](https://labex.io/zh/tutorials/python-key-of-min-value-13678) *(Last modified: 2025-02-08)*
 - [python-labeled-bar-charts-with-matplotlib-48573](https://labex.io/zh/tutorials/python-labeled-bar-charts-with-matplotlib-48573) *(Last modified: 2025-02-16)*
 - [python-labeling-ticks-using-engineering-notation-48711](https://labex.io/zh/tutorials/python-labeling-ticks-using-engineering-notation-48711) *(Last modified: 2025-02-16)*
