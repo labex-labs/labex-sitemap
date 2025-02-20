@@ -2,15 +2,15 @@
 layout: default
 ---
 
-# Pages Sitemap
+# Pages-Zh Sitemap
 
 > Last updated: 2025-02-20 06:40 UTC
 
-This file contains all pages related links from LabEx website.
+This file contains all pages-zh related links from LabEx website.
 
 ## Sitemap
 
-[pages-sitemap.xml](https://labex.io/pages-sitemap.xml)
+[pages-zh-sitemap.xml](https://labex.io/pages-zh-sitemap.xml)
 
 ## Links
 
