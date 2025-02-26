@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ru Sitemap
 
-> Last updated: 2025-02-25 00:02 UTC
+> Last updated: 2025-02-26 00:03 UTC
 
 This file contains all courses-ru related links from LabEx website.
 
@@ -490,3 +490,23 @@ This file contains all courses-ru related links from LabEx website.
 - [unsupervised-learning-clustering](https://labex.io/ru/courses/unsupervised-learning-clustering)
 - [web-development-interactive-challenges](https://labex.io/ru/courses/web-development-interactive-challenges)
 - [web-vulnerability-mastery](https://labex.io/ru/courses/web-vulnerability-mastery)
+- [c](https://labex.io/ru/projects/category/c)
+- [cpp](https://labex.io/ru/projects/category/cpp)
+- [css](https://labex.io/ru/projects/category/css)
+- [data-science](https://labex.io/ru/projects/category/data-science)
+- [devops](https://labex.io/ru/projects/category/devops)
+- [go](https://labex.io/ru/projects/category/go)
+- [html](https://labex.io/ru/projects/category/html)
+- [java](https://labex.io/ru/projects/category/java)
+- [javascript](https://labex.io/ru/projects/category/javascript)
+- [linux](https://labex.io/ru/projects/category/linux)
+- [matplotlib](https://labex.io/ru/projects/category/matplotlib)
+- [ml](https://labex.io/ru/projects/category/ml)
+- [mysql](https://labex.io/ru/projects/category/mysql)
+- [numpy](https://labex.io/ru/projects/category/numpy)
+- [pandas](https://labex.io/ru/projects/category/pandas)
+- [python](https://labex.io/ru/projects/category/python)
+- [react](https://labex.io/ru/projects/category/react)
+- [shell](https://labex.io/ru/projects/category/shell)
+- [sklearn](https://labex.io/ru/projects/category/sklearn)
+- [web-development](https://labex.io/ru/projects/category/web-development)

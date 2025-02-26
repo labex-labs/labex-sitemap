@@ -6,19 +6,19 @@ layout: default
 
 [LabEx](https://labex.io) is a hands-on learning platform for Linux, DevOps, and Cybersecurity. Learn by doing with guided labs, courses, and tutorials. Get started for free!
 
-> Last updated: 2025-02-25 00:02 UTC
+> Last updated: 2025-02-26 00:03 UTC
 
 This repository maintains an auto-updated list of LabEx website sitemaps.
 
 ## Categories
 
 - [Courses](categories/courses.md) (494 links)
-- [Courses-De](categories/courses-de.md) (473 links)
-- [Courses-Es](categories/courses-es.md) (473 links)
-- [Courses-Fr](categories/courses-fr.md) (473 links)
-- [Courses-Ja](categories/courses-ja.md) (473 links)
-- [Courses-Ru](categories/courses-ru.md) (473 links)
-- [Courses-Zh](categories/courses-zh.md) (473 links)
+- [Courses-De](categories/courses-de.md) (493 links)
+- [Courses-Es](categories/courses-es.md) (493 links)
+- [Courses-Fr](categories/courses-fr.md) (493 links)
+- [Courses-Ja](categories/courses-ja.md) (493 links)
+- [Courses-Ru](categories/courses-ru.md) (493 links)
+- [Courses-Zh](categories/courses-zh.md) (493 links)
 - [Freelabs](categories/freelabs.md) (27 links)
 - [Interview](categories/interview.md) (46 links)
 - [Pages](categories/pages.md) (19 links)
@@ -30,12 +30,18 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Pages-Zh](categories/pages-zh.md) (19 links)
 - [Questions](categories/questions.md) (1724 links)
 - [Skilltrees](categories/skilltrees.md) (1048 links)
-- [Tutorials](categories/tutorials.md) (14317 links)
-- [Tutorials-De](categories/tutorials-de.md) (2863 links)
-- [Tutorials-Es](categories/tutorials-es.md) (2869 links)
-- [Tutorials-Fr](categories/tutorials-fr.md) (2869 links)
-- [Tutorials-Ja](categories/tutorials-ja.md) (2869 links)
-- [Tutorials-Ru](categories/tutorials-ru.md) (2869 links)
-- [Tutorials-Zh](categories/tutorials-zh.md) (14170 links)
+- [Skilltrees-De](categories/skilltrees-de.md) (1048 links)
+- [Skilltrees-Es](categories/skilltrees-es.md) (1048 links)
+- [Skilltrees-Fr](categories/skilltrees-fr.md) (1048 links)
+- [Skilltrees-Ja](categories/skilltrees-ja.md) (1048 links)
+- [Skilltrees-Ru](categories/skilltrees-ru.md) (1048 links)
+- [Skilltrees-Zh](categories/skilltrees-zh.md) (1048 links)
+- [Tutorials](categories/tutorials.md) (14331 links)
+- [Tutorials-De](categories/tutorials-de.md) (3548 links)
+- [Tutorials-Es](categories/tutorials-es.md) (3559 links)
+- [Tutorials-Fr](categories/tutorials-fr.md) (3783 links)
+- [Tutorials-Ja](categories/tutorials-ja.md) (3557 links)
+- [Tutorials-Ru](categories/tutorials-ru.md) (3558 links)
+- [Tutorials-Zh](categories/tutorials-zh.md) (14171 links)
 
-> **Total Links: 49086**
+> **Total Links: 59175**
