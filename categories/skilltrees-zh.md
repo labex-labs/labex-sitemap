@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Zh Sitemap
 
-> Last updated: 2025-03-05 00:03 UTC
+> Last updated: 2025-03-06 00:04 UTC
 
 This file contains all skilltrees-zh related links from LabEx website.
 
