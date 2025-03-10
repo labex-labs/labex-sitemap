@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2025-03-09 00:03 UTC
+> Last updated: 2025-03-10 00:03 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -4574,7 +4574,7 @@ This file contains all tutorials related links from LabEx website.
 - [html-wish-sticky-note-app-with-vue-js-445638](https://labex.io/tutorials/html-wish-sticky-note-app-with-vue-js-445638) *(Last modified: 2025-02-20)*
 - [html-your-first-html-lab-92740](https://labex.io/tutorials/html-your-first-html-lab-92740) *(Last modified: 2025-03-08)*
 - [installing-binaries-with-cargo-install-100430](https://labex.io/tutorials/installing-binaries-with-cargo-install-100430) *(Last modified: 2025-03-08)*
-- [java-abstraction-and-interface-178542](https://labex.io/tutorials/java-abstraction-and-interface-178542) *(Last modified: 2025-03-08)*
+- [java-abstraction-and-interface-178542](https://labex.io/tutorials/java-abstraction-and-interface-178542) *(Last modified: 2025-03-09)*
 - [java-access-modifiers-and-inheritance-178543](https://labex.io/tutorials/java-access-modifiers-and-inheritance-178543) *(Last modified: 2025-03-08)*
 - [java-add-elements-to-array-and-arraylist-117386](https://labex.io/tutorials/java-add-elements-to-array-and-arraylist-117386) *(Last modified: 2025-03-08)*
 - [java-adding-a-newline-character-to-a-string-117387](https://labex.io/tutorials/java-adding-a-newline-character-to-a-string-117387) *(Last modified: 2025-03-08)*
@@ -9248,7 +9248,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-linux-od-command-with-practical-examples-422848](https://labex.io/tutorials/linux-linux-od-command-with-practical-examples-422848) *(Last modified: 2025-03-01)*
 - [linux-linux-output-multiplexing-271399](https://labex.io/tutorials/linux-linux-output-multiplexing-271399) *(Last modified: 2025-03-08)*
 - [linux-linux-ownership-changing-271243](https://labex.io/tutorials/linux-linux-ownership-changing-271243) *(Last modified: 2025-03-08)*
-- [linux-linux-package-handling-271225](https://labex.io/tutorials/linux-linux-package-handling-271225) *(Last modified: 2025-03-08)*
+- [linux-linux-package-handling-271225](https://labex.io/tutorials/linux-linux-package-handling-271225) *(Last modified: 2025-03-09)*
 - [linux-linux-pacman-command-with-practical-examples-422849](https://labex.io/tutorials/linux-linux-pacman-command-with-practical-examples-422849) *(Last modified: 2025-03-01)*
 - [linux-linux-parted-command-with-practical-examples-422850](https://labex.io/tutorials/linux-linux-parted-command-with-practical-examples-422850) *(Last modified: 2025-03-01)*
 - [linux-linux-passwd-command-with-practical-examples-422851](https://labex.io/tutorials/linux-linux-passwd-command-with-practical-examples-422851) *(Last modified: 2025-03-01)*
