@@ -6,7 +6,7 @@ layout: default
 
 [LabEx](https://labex.io) is a hands-on learning platform for Linux, DevOps, and Cybersecurity. Learn by doing with guided labs, courses, and tutorials. Get started for free!
 
-> Last updated: 2025-03-12 00:03 UTC
+> Last updated: 2025-03-13 00:04 UTC
 
 This repository maintains an auto-updated list of LabEx website sitemaps.
 
@@ -29,7 +29,7 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Pages-Ru](categories/pages-ru.md) (9 links)
 - [Pages-Zh](categories/pages-zh.md) (19 links)
 - [Questions](categories/questions.md) (1724 links)
-- [Skilltrees](categories/skilltrees.md) (1048 links)
+- [Skilltrees](categories/skilltrees.md) (0 links)
 - [Skilltrees-De](categories/skilltrees-de.md) (1048 links)
 - [Skilltrees-Es](categories/skilltrees-es.md) (1048 links)
 - [Skilltrees-Fr](categories/skilltrees-fr.md) (1048 links)
@@ -44,4 +44,4 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Tutorials-Ru](categories/tutorials-ru.md) (5824 links)
 - [Tutorials-Zh](categories/tutorials-zh.md) (14186 links)
 
-> **Total Links: 70327**
+> **Total Links: 69279**
