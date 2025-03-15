@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-03-14 00:03 UTC
+> Last updated: 2025-03-15 00:04 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -6839,7 +6839,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [kubernetes-explore-and-debug-kubernetes-applications-434645](https://labex.io/zh/tutorials/kubernetes-explore-and-debug-kubernetes-applications-434645) *(Last modified: 2025-03-13)*
 - [kubernetes-explore-the-kubernetes-cluster-434519](https://labex.io/zh/tutorials/kubernetes-explore-the-kubernetes-cluster-434519) *(Last modified: 2025-03-13)*
 - [kubernetes-exploring-the-differences-between-docker-and-kubernetes-392749](https://labex.io/zh/tutorials/kubernetes-exploring-the-differences-between-docker-and-kubernetes-392749) *(Last modified: 2025-03-01)*
-- [kubernetes-expose-kubernetes-applications-434647](https://labex.io/zh/tutorials/kubernetes-expose-kubernetes-applications-434647) *(Last modified: 2025-03-13)*
+- [kubernetes-expose-kubernetes-applications-434647](https://labex.io/zh/tutorials/kubernetes-expose-kubernetes-applications-434647) *(Last modified: 2025-03-14)*
 - [kubernetes-how-to-access-minikube-services-for-spring-boot-applications-392848](https://labex.io/zh/tutorials/kubernetes-how-to-access-minikube-services-for-spring-boot-applications-392848) *(Last modified: 2025-03-01)*
 - [kubernetes-how-to-access-the-last-n-lines-from-logs-in-programming-392836](https://labex.io/zh/tutorials/kubernetes-how-to-access-the-last-n-lines-from-logs-in-programming-392836) *(Last modified: 2025-03-01)*
 - [kubernetes-how-to-add-all-files-to-kubeconfig-in-a-folder-392824](https://labex.io/zh/tutorials/kubernetes-how-to-add-all-files-to-kubeconfig-in-a-folder-392824) *(Last modified: 2025-03-01)*
@@ -7276,7 +7276,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [kubernetes-run-pods-with-jobs-and-cronjobs-11300](https://labex.io/zh/tutorials/kubernetes-run-pods-with-jobs-and-cronjobs-11300) *(Last modified: 2025-03-13)*
 - [kubernetes-running-containers-in-pods-14998](https://labex.io/zh/tutorials/kubernetes-running-containers-in-pods-14998) *(Last modified: 2025-03-13)*
 - [kubernetes-running-pod-with-daemonsets-8454](https://labex.io/zh/tutorials/kubernetes-running-pod-with-daemonsets-8454) *(Last modified: 2025-03-13)*
-- [kubernetes-scale-and-load-balance-applications-434648](https://labex.io/zh/tutorials/kubernetes-scale-and-load-balance-applications-434648) *(Last modified: 2025-03-13)*
+- [kubernetes-scale-and-load-balance-applications-434648](https://labex.io/zh/tutorials/kubernetes-scale-and-load-balance-applications-434648) *(Last modified: 2025-03-14)*
 - [kubernetes-scaling-and-managing-pods-with-deployments-9675](https://labex.io/zh/tutorials/kubernetes-scaling-and-managing-pods-with-deployments-9675) *(Last modified: 2025-03-13)*
 - [kubernetes-scheduing-with-node-affinity-18468](https://labex.io/zh/tutorials/kubernetes-scheduing-with-node-affinity-18468) *(Last modified: 2025-03-13)*
 - [kubernetes-scheduing-with-node-selectors-15001](https://labex.io/zh/tutorials/kubernetes-scheduing-with-node-selectors-15001) *(Last modified: 2025-03-13)*
@@ -7343,7 +7343,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-customize-linux-environment-variables-415750](https://labex.io/zh/tutorials/linux-customize-linux-environment-variables-415750) *(Last modified: 2025-03-01)*
 - [linux-customize-the-tail-command-output-in-linux-417364](https://labex.io/zh/tutorials/linux-customize-the-tail-command-output-in-linux-417364) *(Last modified: 2025-03-01)*
 - [linux-customizing-linux-file-listing-301467](https://labex.io/zh/tutorials/linux-customizing-linux-file-listing-301467) *(Last modified: 2025-02-21)*
-- [linux-data-stream-redirection-17995](https://labex.io/zh/tutorials/linux-data-stream-redirection-17995) *(Last modified: 2025-03-13)*
+- [linux-data-stream-redirection-17995](https://labex.io/zh/tutorials/linux-data-stream-redirection-17995) *(Last modified: 2025-03-14)*
 - [linux-deploy-alpine-linux-for-lightweight-systems-392969](https://labex.io/zh/tutorials/linux-deploy-alpine-linux-for-lightweight-systems-392969) *(Last modified: 2025-03-01)*
 - [linux-deploy-linux-essential-commands-and-architecture-391558](https://labex.io/zh/tutorials/linux-deploy-linux-essential-commands-and-architecture-391558) *(Last modified: 2025-03-01)*
 - [linux-detect-and-handle-eof-in-linux-programming-392553](https://labex.io/zh/tutorials/linux-detect-and-handle-eof-in-linux-programming-392553) *(Last modified: 2025-03-01)*
@@ -7374,9 +7374,9 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-fast-searching-with-ripgrep-384504](https://labex.io/zh/tutorials/linux-fast-searching-with-ripgrep-384504) *(Last modified: 2025-03-13)*
 - [linux-file-and-directory-operations-17997](https://labex.io/zh/tutorials/linux-file-and-directory-operations-17997) *(Last modified: 2025-03-13)*
 - [linux-file-contents-and-comparing-270251](https://labex.io/zh/tutorials/linux-file-contents-and-comparing-270251) *(Last modified: 2025-03-13)*
-- [linux-file-packaging-and-compression-385413](https://labex.io/zh/tutorials/linux-file-packaging-and-compression-385413) *(Last modified: 2025-03-13)*
+- [linux-file-packaging-and-compression-385413](https://labex.io/zh/tutorials/linux-file-packaging-and-compression-385413) *(Last modified: 2025-03-14)*
 - [linux-file-structure-visualization-with-tre-384505](https://labex.io/zh/tutorials/linux-file-structure-visualization-with-tre-384505) *(Last modified: 2025-03-13)*
-- [linux-file-system-and-disk-management-17999](https://labex.io/zh/tutorials/linux-file-system-and-disk-management-17999) *(Last modified: 2025-03-13)*
+- [linux-file-system-and-disk-management-17999](https://labex.io/zh/tutorials/linux-file-system-and-disk-management-17999) *(Last modified: 2025-03-14)*
 - [linux-find-linux-command-locations-quickly-417674](https://labex.io/zh/tutorials/linux-find-linux-command-locations-quickly-417674) *(Last modified: 2025-03-01)*
 - [linux-get-help-on-linux-commands-18000](https://labex.io/zh/tutorials/linux-get-help-on-linux-commands-18000) *(Last modified: 2025-03-13)*
 - [linux-get-program-that-satisfies-the-condition-301473](https://labex.io/zh/tutorials/linux-get-program-that-satisfies-the-condition-301473) *(Last modified: 2025-02-21)*
@@ -8763,7 +8763,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-autoupdate-command-with-practical-examples-422566](https://labex.io/zh/tutorials/linux-linux-autoupdate-command-with-practical-examples-422566) *(Last modified: 2025-03-01)*
 - [linux-linux-awk-command-text-processing-388493](https://labex.io/zh/tutorials/linux-linux-awk-command-text-processing-388493) *(Last modified: 2025-03-13)*
 - [linux-linux-awk-command-with-practical-examples-422567](https://labex.io/zh/tutorials/linux-linux-awk-command-with-practical-examples-422567) *(Last modified: 2025-03-01)*
-- [linux-linux-background-management-271231](https://labex.io/zh/tutorials/linux-linux-background-management-271231) *(Last modified: 2025-03-13)*
+- [linux-linux-background-management-271231](https://labex.io/zh/tutorials/linux-linux-background-management-271231) *(Last modified: 2025-03-14)*
 - [linux-linux-background-running-271233](https://labex.io/zh/tutorials/linux-linux-background-running-271233) *(Last modified: 2025-03-13)*
 - [linux-linux-badblocks-command-with-practical-examples-422568](https://labex.io/zh/tutorials/linux-linux-badblocks-command-with-practical-examples-422568) *(Last modified: 2025-03-01)*
 - [linux-linux-banner-command-with-practical-examples-422569](https://labex.io/zh/tutorials/linux-linux-banner-command-with-practical-examples-422569) *(Last modified: 2025-03-01)*
@@ -8815,7 +8815,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-comm-command-with-practical-examples-422613](https://labex.io/zh/tutorials/linux-linux-comm-command-with-practical-examples-422613) *(Last modified: 2025-03-01)*
 - [linux-linux-command-assistance-271301](https://labex.io/zh/tutorials/linux-linux-command-assistance-271301) *(Last modified: 2025-03-13)*
 - [linux-linux-command-building-271449](https://labex.io/zh/tutorials/linux-linux-command-building-271449) *(Last modified: 2025-03-13)*
-- [linux-linux-command-locating-271443](https://labex.io/zh/tutorials/linux-linux-command-locating-271443) *(Last modified: 2025-03-13)*
+- [linux-linux-command-locating-271443](https://labex.io/zh/tutorials/linux-linux-command-locating-271443) *(Last modified: 2025-03-14)*
 - [linux-linux-command-repeating-271435](https://labex.io/zh/tutorials/linux-linux-command-repeating-271435) *(Last modified: 2025-03-13)*
 - [linux-linux-command-timing-271405](https://labex.io/zh/tutorials/linux-linux-command-timing-271405) *(Last modified: 2025-03-13)*
 - [linux-linux-common-line-comparison-271251](https://labex.io/zh/tutorials/linux-linux-common-line-comparison-271251) *(Last modified: 2025-03-13)*
@@ -8912,7 +8912,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-file-converting-copying-271263](https://labex.io/zh/tutorials/linux-linux-file-converting-copying-271263) *(Last modified: 2025-03-13)*
 - [linux-linux-file-copying-271253](https://labex.io/zh/tutorials/linux-linux-file-copying-271253) *(Last modified: 2025-03-13)*
 - [linux-linux-file-creating-updating-271409](https://labex.io/zh/tutorials/linux-linux-file-creating-updating-271409) *(Last modified: 2025-03-13)*
-- [linux-linux-file-difference-viewing-271431](https://labex.io/zh/tutorials/linux-linux-file-difference-viewing-271431) *(Last modified: 2025-03-13)*
+- [linux-linux-file-difference-viewing-271431](https://labex.io/zh/tutorials/linux-linux-file-difference-viewing-271431) *(Last modified: 2025-03-14)*
 - [linux-linux-file-end-display-271395](https://labex.io/zh/tutorials/linux-linux-file-end-display-271395) *(Last modified: 2025-03-13)*
 - [linux-linux-file-joining-271313](https://labex.io/zh/tutorials/linux-linux-file-joining-271313) *(Last modified: 2025-03-13)*
 - [linux-linux-file-locating-271323](https://labex.io/zh/tutorials/linux-linux-file-locating-271323) *(Last modified: 2025-03-13)*
@@ -8950,10 +8950,10 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-graphical-text-editing-271289](https://labex.io/zh/tutorials/linux-linux-graphical-text-editing-271289) *(Last modified: 2025-03-13)*
 - [linux-linux-grep-command-pattern-searching-219192](https://labex.io/zh/tutorials/linux-linux-grep-command-pattern-searching-219192) *(Last modified: 2025-03-13)*
 - [linux-linux-grep-command-with-practical-examples-422703](https://labex.io/zh/tutorials/linux-linux-grep-command-with-practical-examples-422703) *(Last modified: 2025-03-01)*
-- [linux-linux-group-adding-271293](https://labex.io/zh/tutorials/linux-linux-group-adding-271293) *(Last modified: 2025-03-13)*
+- [linux-linux-group-adding-271293](https://labex.io/zh/tutorials/linux-linux-group-adding-271293) *(Last modified: 2025-03-14)*
 - [linux-linux-group-changing-271239](https://labex.io/zh/tutorials/linux-linux-group-changing-271239) *(Last modified: 2025-03-13)*
 - [linux-linux-group-displaying-271297](https://labex.io/zh/tutorials/linux-linux-group-displaying-271297) *(Last modified: 2025-03-13)*
-- [linux-linux-group-removing-271295](https://labex.io/zh/tutorials/linux-linux-group-removing-271295) *(Last modified: 2025-03-13)*
+- [linux-linux-group-removing-271295](https://labex.io/zh/tutorials/linux-linux-group-removing-271295) *(Last modified: 2025-03-14)*
 - [linux-linux-groupadd-command-with-practical-examples-422704](https://labex.io/zh/tutorials/linux-linux-groupadd-command-with-practical-examples-422704) *(Last modified: 2025-03-01)*
 - [linux-linux-groupdel-command-with-practical-examples-422705](https://labex.io/zh/tutorials/linux-linux-groupdel-command-with-practical-examples-422705) *(Last modified: 2025-03-01)*
 - [linux-linux-groupmod-command-with-practical-examples-422706](https://labex.io/zh/tutorials/linux-linux-groupmod-command-with-practical-examples-422706) *(Last modified: 2025-03-01)*
@@ -9196,7 +9196,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-rwho-command-with-practical-examples-422899](https://labex.io/zh/tutorials/linux-linux-rwho-command-with-practical-examples-422899) *(Last modified: 2025-03-01)*
 - [linux-linux-sar-command-with-practical-examples-422900](https://labex.io/zh/tutorials/linux-linux-sar-command-with-practical-examples-422900) *(Last modified: 2025-03-01)*
 - [linux-linux-scp-command-with-practical-examples-422901](https://labex.io/zh/tutorials/linux-linux-scp-command-with-practical-examples-422901) *(Last modified: 2025-03-01)*
-- [linux-linux-screen-clearing-271245](https://labex.io/zh/tutorials/linux-linux-screen-clearing-271245) *(Last modified: 2025-03-13)*
+- [linux-linux-screen-clearing-271245](https://labex.io/zh/tutorials/linux-linux-screen-clearing-271245) *(Last modified: 2025-03-14)*
 - [linux-linux-screen-command-with-practical-examples-422902](https://labex.io/zh/tutorials/linux-linux-screen-command-with-practical-examples-422902) *(Last modified: 2025-03-01)*
 - [linux-linux-script-command-with-practical-examples-422903](https://labex.io/zh/tutorials/linux-linux-script-command-with-practical-examples-422903) *(Last modified: 2025-03-01)*
 - [linux-linux-script-executing-271387](https://labex.io/zh/tutorials/linux-linux-script-executing-271387) *(Last modified: 2025-03-13)*
@@ -9267,7 +9267,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-tee-command-with-practical-examples-422953](https://labex.io/zh/tutorials/linux-linux-tee-command-with-practical-examples-422953) *(Last modified: 2025-03-01)*
 - [linux-linux-telnet-command-with-practical-examples-422954](https://labex.io/zh/tutorials/linux-linux-telnet-command-with-practical-examples-422954) *(Last modified: 2025-03-01)*
 - [linux-linux-testparm-command-with-practical-examples-422955](https://labex.io/zh/tutorials/linux-linux-testparm-command-with-practical-examples-422955) *(Last modified: 2025-03-01)*
-- [linux-linux-text-columnizing-271249](https://labex.io/zh/tutorials/linux-linux-text-columnizing-271249) *(Last modified: 2025-03-13)*
+- [linux-linux-text-columnizing-271249](https://labex.io/zh/tutorials/linux-linux-text-columnizing-271249) *(Last modified: 2025-03-14)*
 - [linux-linux-text-counting-271437](https://labex.io/zh/tutorials/linux-linux-text-counting-271437) *(Last modified: 2025-03-13)*
 - [linux-linux-text-cutting-271259](https://labex.io/zh/tutorials/linux-linux-text-cutting-271259) *(Last modified: 2025-03-13)*
 - [linux-linux-text-display-271273](https://labex.io/zh/tutorials/linux-linux-text-display-271273) *(Last modified: 2025-03-13)*
@@ -9413,15 +9413,15 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-restore-access-to-website-301487](https://labex.io/zh/tutorials/linux-restore-access-to-website-301487) *(Last modified: 2025-02-21)*
 - [linux-searching-for-specific-files-301489](https://labex.io/zh/tutorials/linux-searching-for-specific-files-301489) *(Last modified: 2025-02-21)*
 - [linux-secure-file-transfer-basics-40](https://labex.io/zh/tutorials/linux-secure-file-transfer-basics-40) *(Last modified: 2025-03-13)*
-- [linux-sequence-control-and-pipeline-17994](https://labex.io/zh/tutorials/linux-sequence-control-and-pipeline-17994) *(Last modified: 2025-03-13)*
+- [linux-sequence-control-and-pipeline-17994](https://labex.io/zh/tutorials/linux-sequence-control-and-pipeline-17994) *(Last modified: 2025-03-14)*
 - [linux-server-privilege-escalation-416129](https://labex.io/zh/tutorials/linux-server-privilege-escalation-416129) *(Last modified: 2025-03-13)*
 - [linux-set-up-scheduled-tasks-47](https://labex.io/zh/tutorials/linux-set-up-scheduled-tasks-47) *(Last modified: 2025-03-13)*
 - [linux-setting-up-a-lamp-server-372834](https://labex.io/zh/tutorials/linux-setting-up-a-lamp-server-372834) *(Last modified: 2025-03-13)*
-- [linux-simple-text-processing-18004](https://labex.io/zh/tutorials/linux-simple-text-processing-18004) *(Last modified: 2025-03-13)*
-- [linux-software-installation-on-linux-18005](https://labex.io/zh/tutorials/linux-software-installation-on-linux-18005) *(Last modified: 2025-03-13)*
+- [linux-simple-text-processing-18004](https://labex.io/zh/tutorials/linux-simple-text-processing-18004) *(Last modified: 2025-03-14)*
+- [linux-software-installation-on-linux-18005](https://labex.io/zh/tutorials/linux-software-installation-on-linux-18005) *(Last modified: 2025-03-14)*
 - [linux-terminate-processes-by-name-and-id-31](https://labex.io/zh/tutorials/linux-terminate-processes-by-name-and-id-31) *(Last modified: 2025-03-13)*
 - [linux-terminate-processes-in-linux-44](https://labex.io/zh/tutorials/linux-terminate-processes-in-linux-44) *(Last modified: 2025-03-13)*
-- [linux-text-processing-and-regular-expressions-18003](https://labex.io/zh/tutorials/linux-text-processing-and-regular-expressions-18003) *(Last modified: 2025-03-13)*
+- [linux-text-processing-and-regular-expressions-18003](https://labex.io/zh/tutorials/linux-text-processing-and-regular-expressions-18003) *(Last modified: 2025-03-14)*
 - [linux-transcribe-media-to-text-with-whisper-289658](https://labex.io/zh/tutorials/linux-transcribe-media-to-text-with-whisper-289658) *(Last modified: 2025-03-13)*
 - [linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859](https://labex.io/zh/tutorials/linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859) *(Last modified: 2025-03-13)*
 - [linux-troubleshooting-su-authentication-failures-on-linux-392816](https://labex.io/zh/tutorials/linux-troubleshooting-su-authentication-failures-on-linux-392816) *(Last modified: 2025-03-13)*
