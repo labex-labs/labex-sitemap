@@ -4,7 +4,7 @@ layout: default
 
 # Courses Sitemap
 
-> Last updated: 2025-03-19 00:04 UTC
+> Last updated: 2025-03-20 00:04 UTC
 
 This file contains all courses related links from LabEx website.
 

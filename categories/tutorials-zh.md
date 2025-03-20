@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-03-19 00:04 UTC
+> Last updated: 2025-03-20 00:04 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -25,7 +25,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [ansible-ansible-conditionals-and-loops-390455](https://labex.io/zh/tutorials/ansible-ansible-conditionals-and-loops-390455) *(Last modified: 2025-03-18)*
 - [ansible-ansible-configuration-390437](https://labex.io/zh/tutorials/ansible-ansible-configuration-390437) *(Last modified: 2025-03-18)*
 - [ansible-ansible-copy-module-289653](https://labex.io/zh/tutorials/ansible-ansible-copy-module-289653) *(Last modified: 2025-03-18)*
-- [ansible-ansible-cron-module-290157](https://labex.io/zh/tutorials/ansible-ansible-cron-module-290157) *(Last modified: 2025-03-18)*
+- [ansible-ansible-cron-module-290157](https://labex.io/zh/tutorials/ansible-ansible-cron-module-290157) *(Last modified: 2025-03-19)*
 - [ansible-ansible-fetch-module-290159](https://labex.io/zh/tutorials/ansible-ansible-fetch-module-290159) *(Last modified: 2025-03-18)*
 - [ansible-ansible-file-module-289654](https://labex.io/zh/tutorials/ansible-ansible-file-module-289654) *(Last modified: 2025-03-18)*
 - [ansible-ansible-get-url-module-290188](https://labex.io/zh/tutorials/ansible-ansible-get-url-module-290188) *(Last modified: 2025-03-18)*
@@ -671,8 +671,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [c-work-with-floating-point-arithmetic-in-c-435202](https://labex.io/zh/tutorials/c-work-with-floating-point-arithmetic-in-c-435202) *(Last modified: 2025-03-18)*
 - [c-work-with-long-integer-arithmetic-in-c-435203](https://labex.io/zh/tutorials/c-work-with-long-integer-arithmetic-in-c-435203) *(Last modified: 2025-03-18)*
 - [c-your-first-c-lab-391824](https://labex.io/zh/tutorials/c-your-first-c-lab-391824) *(Last modified: 2025-03-18)*
-- [conduct-xss-vulnerability-experiments-with-hackbar-416153](https://labex.io/zh/tutorials/conduct-xss-vulnerability-experiments-with-hackbar-416153) *(Last modified: 2025-03-18)*
-- [construction-brute-force-web-password-cracking-289569](https://labex.io/zh/tutorials/construction-brute-force-web-password-cracking-289569) *(Last modified: 2025-03-18)*
+- [construction-brute-force-web-password-cracking-289569](https://labex.io/zh/tutorials/construction-brute-force-web-password-cracking-289569) *(Last modified: 2025-03-19)*
 - [construction-reflected-cross-site-scripting-xss-attack-289562](https://labex.io/zh/tutorials/construction-reflected-cross-site-scripting-xss-attack-289562) *(Last modified: 2025-03-18)*
 - [cpp-add-two-matrices-96171](https://labex.io/zh/tutorials/cpp-add-two-matrices-96171) *(Last modified: 2025-03-18)*
 - [cpp-adding-two-numbers-program-96120](https://labex.io/zh/tutorials/cpp-adding-two-numbers-program-96120) *(Last modified: 2025-03-18)*
@@ -1122,7 +1121,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [cpp-your-first-c-lab-391803](https://labex.io/zh/tutorials/cpp-your-first-c-lab-391803) *(Last modified: 2025-03-18)*
 - [create-backdoor-and-clear-traces-on-target-machine-in-nmap-416135](https://labex.io/zh/tutorials/create-backdoor-and-clear-traces-on-target-machine-in-nmap-416135) *(Last modified: 2025-03-18)*
 - [create-interactive-css-popout-menu-35230](https://labex.io/zh/tutorials/create-interactive-css-popout-menu-35230) *(Last modified: 2025-03-18)*
-- [css-3d-rotating-cube-165641](https://labex.io/zh/tutorials/css-3d-rotating-cube-165641) *(Last modified: 2025-03-18)*
+- [css-3d-rotating-cube-165641](https://labex.io/zh/tutorials/css-3d-rotating-cube-165641) *(Last modified: 2025-03-19)*
 - [css-accessible-offscreen-element-hiding-35227](https://labex.io/zh/tutorials/css-accessible-offscreen-element-hiding-35227) *(Last modified: 2025-03-18)*
 - [css-animated-checkbox-styling-with-css-35185](https://labex.io/zh/tutorials/css-animated-checkbox-styling-with-css-35185) *(Last modified: 2025-03-18)*
 - [css-animated-social-sharing-buttons-with-css-179618](https://labex.io/zh/tutorials/css-animated-social-sharing-buttons-with-css-179618) *(Last modified: 2025-03-18)*
@@ -1852,7 +1851,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [cybersecurity-learn-nmap-basic-command-syntax-415919](https://labex.io/zh/tutorials/cybersecurity-learn-nmap-basic-command-syntax-415919) *(Last modified: 2025-03-18)*
 - [cybersecurity-learn-nmap-fundamentals-and-scanning-techniques-415937](https://labex.io/zh/tutorials/cybersecurity-learn-nmap-fundamentals-and-scanning-techniques-415937) *(Last modified: 2025-03-18)*
 - [cybersecurity-learn-nmap-fundamentals-for-network-scanning-415922](https://labex.io/zh/tutorials/cybersecurity-learn-nmap-fundamentals-for-network-scanning-415922) *(Last modified: 2025-03-18)*
-- [cybersecurity-learn-nmap-installation-and-basic-usage-415924](https://labex.io/zh/tutorials/cybersecurity-learn-nmap-installation-and-basic-usage-415924) *(Last modified: 2025-03-18)*
+- [cybersecurity-learn-nmap-installation-and-basic-usage-415924](https://labex.io/zh/tutorials/cybersecurity-learn-nmap-installation-and-basic-usage-415924) *(Last modified: 2025-03-19)*
 - [cybersecurity-learn-nmap-network-port-scanning-415936](https://labex.io/zh/tutorials/cybersecurity-learn-nmap-network-port-scanning-415936) *(Last modified: 2025-03-18)*
 - [cybersecurity-learn-nmap-network-scanning-basics-415927](https://labex.io/zh/tutorials/cybersecurity-learn-nmap-network-scanning-basics-415927) *(Last modified: 2025-03-18)*
 - [cybersecurity-learn-nmap-os-and-version-detection-techniques-415925](https://labex.io/zh/tutorials/cybersecurity-learn-nmap-os-and-version-detection-techniques-415925) *(Last modified: 2025-03-18)*
@@ -1876,7 +1875,6 @@ This file contains all tutorials-zh related links from LabEx website.
 - [cybersecurity-use-tshark-for-network-traffic-analysis-415942](https://labex.io/zh/tutorials/cybersecurity-use-tshark-for-network-traffic-analysis-415942) *(Last modified: 2025-03-18)*
 - [cybersecurity-what-is-the-difference-between-capture-filter-and-display-filter-in-wireshark-415622](https://labex.io/zh/tutorials/cybersecurity-what-is-the-difference-between-capture-filter-and-display-filter-in-wireshark-415622) *(Last modified: 2025-03-16)*
 - [determine-java-identifier-start-character-117527](https://labex.io/zh/tutorials/determine-java-identifier-start-character-117527) *(Last modified: 2025-03-18)*
-- [develop-a-metasploit-scanner-in-nmap-416123](https://labex.io/zh/tutorials/develop-a-metasploit-scanner-in-nmap-416123) *(Last modified: 2025-03-18)*
 - [displaying-query-results-using-el-expressions-300360](https://labex.io/zh/tutorials/displaying-query-results-using-el-expressions-300360) *(Last modified: 2025-03-16)*
 - [django-add-a-stylesheet-and-an-image-153746](https://labex.io/zh/tutorials/django-add-a-stylesheet-and-an-image-153746) *(Last modified: 2025-03-18)*
 - [django-create-some-automated-tests-153745](https://labex.io/zh/tutorials/django-create-some-automated-tests-153745) *(Last modified: 2025-03-18)*
@@ -2489,14 +2487,10 @@ This file contains all tutorials-zh related links from LabEx website.
 - [docker-working-with-docker-images-388939](https://labex.io/zh/tutorials/docker-working-with-docker-images-388939) *(Last modified: 2025-03-18)*
 - [docker-working-with-docker-volumes-389189](https://labex.io/zh/tutorials/docker-working-with-docker-volumes-389189) *(Last modified: 2025-03-18)*
 - [docker-your-first-docker-lab-92719](https://labex.io/zh/tutorials/docker-your-first-docker-lab-92719) *(Last modified: 2025-03-18)*
-- [escalate-privileges-to-root-via-intermediate-user-in-nmap-416146](https://labex.io/zh/tutorials/escalate-privileges-to-root-via-intermediate-user-in-nmap-416146) *(Last modified: 2025-03-18)*
 - [escalate-privileges-using-etc-shadow-file-in-linux-416142](https://labex.io/zh/tutorials/escalate-privileges-using-etc-shadow-file-in-linux-416142) *(Last modified: 2025-03-18)*
 - [exploit-file-inclusion-vulnerabilities-with-nmap-416152](https://labex.io/zh/tutorials/exploit-file-inclusion-vulnerabilities-with-nmap-416152) *(Last modified: 2025-03-18)*
-- [exploit-file-upload-vulnerabilities-with-nmap-416154](https://labex.io/zh/tutorials/exploit-file-upload-vulnerabilities-with-nmap-416154) *(Last modified: 2025-03-18)*
-- [exploit-nfs-misconfiguration-for-root-access-with-nmap-416131](https://labex.io/zh/tutorials/exploit-nfs-misconfiguration-for-root-access-with-nmap-416131) *(Last modified: 2025-03-18)*
 - [exploit-sql-injection-vulnerabilities-in-nmap-416137](https://labex.io/zh/tutorials/exploit-sql-injection-vulnerabilities-in-nmap-416137) *(Last modified: 2025-03-18)*
 - [exploit-sql-injection-vulnerabilities-in-nmap-416149](https://labex.io/zh/tutorials/exploit-sql-injection-vulnerabilities-in-nmap-416149) *(Last modified: 2025-03-18)*
-- [exploit-suid-binaries-for-privilege-escalation-in-linux-416147](https://labex.io/zh/tutorials/exploit-suid-binaries-for-privilege-escalation-in-linux-416147) *(Last modified: 2025-03-18)*
 - [explore-code-injection-vulnerabilities-in-web-applications-416156](https://labex.io/zh/tutorials/explore-code-injection-vulnerabilities-in-web-applications-416156) *(Last modified: 2025-03-18)*
 - [explore-linux-privilege-escalation-tools-in-nmap-416143](https://labex.io/zh/tutorials/explore-linux-privilege-escalation-tools-in-nmap-416143) *(Last modified: 2025-03-18)*
 - [explore-metasploit-framework-basics-416119](https://labex.io/zh/tutorials/explore-metasploit-framework-basics-416119) *(Last modified: 2025-03-18)*
@@ -4546,7 +4540,6 @@ This file contains all tutorials-zh related links from LabEx website.
 - [html-web-based-html-presentation-builder-445678](https://labex.io/zh/tutorials/html-web-based-html-presentation-builder-445678) *(Last modified: 2025-03-16)*
 - [html-wish-sticky-note-app-with-vue-js-445638](https://labex.io/zh/tutorials/html-wish-sticky-note-app-with-vue-js-445638) *(Last modified: 2025-03-16)*
 - [html-your-first-html-lab-92740](https://labex.io/zh/tutorials/html-your-first-html-lab-92740) *(Last modified: 2025-03-18)*
-- [inject-windows-backdoor-into-adobe-pdf-in-nmap-416134](https://labex.io/zh/tutorials/inject-windows-backdoor-into-adobe-pdf-in-nmap-416134) *(Last modified: 2025-03-18)*
 - [installing-binaries-with-cargo-install-100430](https://labex.io/zh/tutorials/installing-binaries-with-cargo-install-100430) *(Last modified: 2025-03-18)*
 - [java-abstraction-and-interface-178542](https://labex.io/zh/tutorials/java-abstraction-and-interface-178542) *(Last modified: 2025-03-18)*
 - [java-access-modifiers-and-inheritance-178543](https://labex.io/zh/tutorials/java-access-modifiers-and-inheritance-178543) *(Last modified: 2025-03-18)*
@@ -7334,7 +7327,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-copy-files-efficiently-in-linux-417785](https://labex.io/zh/tutorials/linux-copy-files-efficiently-in-linux-417785) *(Last modified: 2025-03-16)*
 - [linux-copy-large-files-with-preserved-structure-301465](https://labex.io/zh/tutorials/linux-copy-large-files-with-preserved-structure-301465) *(Last modified: 2025-03-16)*
 - [linux-count-lines-of-code-with-cloc-273383](https://labex.io/zh/tutorials/linux-count-lines-of-code-with-cloc-273383) *(Last modified: 2025-03-18)*
-- [linux-crafting-striking-terminal-text-with-figlet-272383](https://labex.io/zh/tutorials/linux-crafting-striking-terminal-text-with-figlet-272383) *(Last modified: 2025-03-18)*
+- [linux-crafting-striking-terminal-text-with-figlet-272383](https://labex.io/zh/tutorials/linux-crafting-striking-terminal-text-with-figlet-272383) *(Last modified: 2025-03-19)*
 - [linux-create-and-edit-files-with-vi-editor-392949](https://labex.io/zh/tutorials/linux-create-and-edit-files-with-vi-editor-392949) *(Last modified: 2025-03-16)*
 - [linux-create-and-manage-file-timestamps-with-the-linux-touch-command-409913](https://labex.io/zh/tutorials/linux-create-and-manage-file-timestamps-with-the-linux-touch-command-409913) *(Last modified: 2025-03-16)*
 - [linux-create-and-manage-files-with-the-linux-touch-command-422962](https://labex.io/zh/tutorials/linux-create-and-manage-files-with-the-linux-touch-command-422962) *(Last modified: 2025-03-16)*
@@ -9226,7 +9219,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-setsid-command-with-practical-examples-422913](https://labex.io/zh/tutorials/linux-linux-setsid-command-with-practical-examples-422913) *(Last modified: 2025-03-16)*
 - [linux-linux-sfdisk-command-with-practical-examples-422914](https://labex.io/zh/tutorials/linux-linux-sfdisk-command-with-practical-examples-422914) *(Last modified: 2025-03-16)*
 - [linux-linux-sh-command-with-practical-examples-422915](https://labex.io/zh/tutorials/linux-linux-sh-command-with-practical-examples-422915) *(Last modified: 2025-03-16)*
-- [linux-linux-shell-exiting-271277](https://labex.io/zh/tutorials/linux-linux-shell-exiting-271277) *(Last modified: 2025-03-18)*
+- [linux-linux-shell-exiting-271277](https://labex.io/zh/tutorials/linux-linux-shell-exiting-271277) *(Last modified: 2025-03-19)*
 - [linux-linux-shell-setting-271379](https://labex.io/zh/tutorials/linux-linux-shell-setting-271379) *(Last modified: 2025-03-18)*
 - [linux-linux-showkey-command-with-practical-examples-422916](https://labex.io/zh/tutorials/linux-linux-showkey-command-with-practical-examples-422916) *(Last modified: 2025-03-16)*
 - [linux-linux-shred-command-with-practical-examples-422917](https://labex.io/zh/tutorials/linux-linux-shred-command-with-practical-examples-422917) *(Last modified: 2025-03-16)*
@@ -10158,49 +10151,62 @@ This file contains all tutorials-zh related links from LabEx website.
 - [mysql-sql-database-creation-and-non-equijoin-query-301392](https://labex.io/zh/tutorials/mysql-sql-database-creation-and-non-equijoin-query-301392) *(Last modified: 2025-03-16)*
 - [mysql-top-5-countries-by-land-area-301420](https://labex.io/zh/tutorials/mysql-top-5-countries-by-land-area-301420) *(Last modified: 2025-03-16)*
 - [mysql-updating-student-gpa-in-mysql-database-301424](https://labex.io/zh/tutorials/mysql-updating-student-gpa-in-mysql-database-301424) *(Last modified: 2025-03-16)*
-- [nmap-adjust-packet-rates-in-nmap-547086](https://labex.io/zh/tutorials/nmap-adjust-packet-rates-in-nmap-547086) *(Last modified: 2025-03-18)*
-- [nmap-analyze-scan-statistics-in-nmap-547087](https://labex.io/zh/tutorials/nmap-analyze-scan-statistics-in-nmap-547087) *(Last modified: 2025-03-18)*
-- [nmap-automate-scans-with-nmap-547088](https://labex.io/zh/tutorials/nmap-automate-scans-with-nmap-547088) *(Last modified: 2025-03-18)*
-- [nmap-combine-os-and-service-detection-in-nmap-547089](https://labex.io/zh/tutorials/nmap-combine-os-and-service-detection-in-nmap-547089) *(Last modified: 2025-03-18)*
-- [nmap-combine-tcp-and-udp-scanning-in-nmap-547090](https://labex.io/zh/tutorials/nmap-combine-tcp-and-udp-scanning-in-nmap-547090) *(Last modified: 2025-03-18)*
-- [nmap-compare-scan-results-in-nmap-547091](https://labex.io/zh/tutorials/nmap-compare-scan-results-in-nmap-547091) *(Last modified: 2025-03-18)*
-- [nmap-conduct-port-scanning-with-nmap-530176](https://labex.io/zh/tutorials/nmap-conduct-port-scanning-with-nmap-530176) *(Last modified: 2025-03-18)*
-- [nmap-conduct-tcp-ack-scanning-in-nmap-547092](https://labex.io/zh/tutorials/nmap-conduct-tcp-ack-scanning-in-nmap-547092) *(Last modified: 2025-03-18)*
-- [nmap-conduct-tcp-fin-scanning-in-nmap-547093](https://labex.io/zh/tutorials/nmap-conduct-tcp-fin-scanning-in-nmap-547093) *(Last modified: 2025-03-18)*
-- [nmap-convert-output-formats-in-nmap-547094](https://labex.io/zh/tutorials/nmap-convert-output-formats-in-nmap-547094) *(Last modified: 2025-03-18)*
-- [nmap-detect-service-banners-in-nmap-547095](https://labex.io/zh/tutorials/nmap-detect-service-banners-in-nmap-547095) *(Last modified: 2025-03-18)*
-- [nmap-detect-services-and-versions-in-nmap-530177](https://labex.io/zh/tutorials/nmap-detect-services-and-versions-in-nmap-530177) *(Last modified: 2025-03-18)*
-- [nmap-detect-ssl-certificates-in-nmap-547096](https://labex.io/zh/tutorials/nmap-detect-ssl-certificates-in-nmap-547096) *(Last modified: 2025-03-18)*
-- [nmap-enumerate-dns-records-in-nmap-547097](https://labex.io/zh/tutorials/nmap-enumerate-dns-records-in-nmap-547097) *(Last modified: 2025-03-18)*
-- [nmap-enumerate-http-services-in-nmap-547098](https://labex.io/zh/tutorials/nmap-enumerate-http-services-in-nmap-547098) *(Last modified: 2025-03-18)*
-- [nmap-enumerate-smb-services-in-nmap-547099](https://labex.io/zh/tutorials/nmap-enumerate-smb-services-in-nmap-547099) *(Last modified: 2025-03-18)*
-- [nmap-evade-firewalls-and-ids-with-nmap-530178](https://labex.io/zh/tutorials/nmap-evade-firewalls-and-ids-with-nmap-530178) *(Last modified: 2025-03-18)*
-- [nmap-execute-tcp-null-scanning-in-nmap-547100](https://labex.io/zh/tutorials/nmap-execute-tcp-null-scanning-in-nmap-547100) *(Last modified: 2025-03-18)*
-- [nmap-execute-udp-scanning-with-nmap-530179](https://labex.io/zh/tutorials/nmap-execute-udp-scanning-with-nmap-530179) *(Last modified: 2025-03-18)*
+- [nmap-adjust-packet-rates-in-nmap-547086](https://labex.io/zh/tutorials/nmap-adjust-packet-rates-in-nmap-547086) *(Last modified: 2025-03-19)*
+- [nmap-analyze-scan-statistics-in-nmap-547087](https://labex.io/zh/tutorials/nmap-analyze-scan-statistics-in-nmap-547087) *(Last modified: 2025-03-19)*
+- [nmap-automate-scans-with-nmap-547088](https://labex.io/zh/tutorials/nmap-automate-scans-with-nmap-547088) *(Last modified: 2025-03-19)*
+- [nmap-combine-os-and-service-detection-in-nmap-547089](https://labex.io/zh/tutorials/nmap-combine-os-and-service-detection-in-nmap-547089) *(Last modified: 2025-03-19)*
+- [nmap-combine-tcp-and-udp-scanning-in-nmap-547090](https://labex.io/zh/tutorials/nmap-combine-tcp-and-udp-scanning-in-nmap-547090) *(Last modified: 2025-03-19)*
+- [nmap-compare-scan-results-in-nmap-547091](https://labex.io/zh/tutorials/nmap-compare-scan-results-in-nmap-547091) *(Last modified: 2025-03-19)*
+- [nmap-conduct-port-scanning-with-nmap-530176](https://labex.io/zh/tutorials/nmap-conduct-port-scanning-with-nmap-530176) *(Last modified: 2025-03-19)*
+- [nmap-conduct-tcp-ack-scanning-in-nmap-547092](https://labex.io/zh/tutorials/nmap-conduct-tcp-ack-scanning-in-nmap-547092) *(Last modified: 2025-03-19)*
+- [nmap-conduct-tcp-fin-scanning-in-nmap-547093](https://labex.io/zh/tutorials/nmap-conduct-tcp-fin-scanning-in-nmap-547093) *(Last modified: 2025-03-19)*
+- [nmap-conduct-xss-vulnerability-experiments-with-hackbar-416153](https://labex.io/zh/tutorials/nmap-conduct-xss-vulnerability-experiments-with-hackbar-416153) *(Last modified: 2025-03-19)*
+- [nmap-convert-output-formats-in-nmap-547094](https://labex.io/zh/tutorials/nmap-convert-output-formats-in-nmap-547094) *(Last modified: 2025-03-19)*
+- [nmap-detect-service-banners-in-nmap-547095](https://labex.io/zh/tutorials/nmap-detect-service-banners-in-nmap-547095) *(Last modified: 2025-03-19)*
+- [nmap-detect-services-and-versions-in-nmap-530177](https://labex.io/zh/tutorials/nmap-detect-services-and-versions-in-nmap-530177) *(Last modified: 2025-03-19)*
+- [nmap-detect-ssl-certificates-in-nmap-547096](https://labex.io/zh/tutorials/nmap-detect-ssl-certificates-in-nmap-547096) *(Last modified: 2025-03-19)*
+- [nmap-develop-a-metasploit-scanner-in-nmap-416123](https://labex.io/zh/tutorials/nmap-develop-a-metasploit-scanner-in-nmap-416123) *(Last modified: 2025-03-19)*
+- [nmap-enumerate-dns-records-in-nmap-547097](https://labex.io/zh/tutorials/nmap-enumerate-dns-records-in-nmap-547097) *(Last modified: 2025-03-19)*
+- [nmap-enumerate-http-services-in-nmap-547098](https://labex.io/zh/tutorials/nmap-enumerate-http-services-in-nmap-547098) *(Last modified: 2025-03-19)*
+- [nmap-enumerate-smb-services-in-nmap-547099](https://labex.io/zh/tutorials/nmap-enumerate-smb-services-in-nmap-547099) *(Last modified: 2025-03-19)*
+- [nmap-escalate-privileges-to-root-via-intermediate-user-in-nmap-416146](https://labex.io/zh/tutorials/nmap-escalate-privileges-to-root-via-intermediate-user-in-nmap-416146) *(Last modified: 2025-03-19)*
+- [nmap-evade-firewalls-and-ids-with-nmap-530178](https://labex.io/zh/tutorials/nmap-evade-firewalls-and-ids-with-nmap-530178) *(Last modified: 2025-03-19)*
+- [nmap-execute-tcp-null-scanning-in-nmap-547100](https://labex.io/zh/tutorials/nmap-execute-tcp-null-scanning-in-nmap-547100) *(Last modified: 2025-03-19)*
+- [nmap-execute-udp-scanning-with-nmap-530179](https://labex.io/zh/tutorials/nmap-execute-udp-scanning-with-nmap-530179) *(Last modified: 2025-03-19)*
+- [nmap-exploit-file-upload-vulnerabilities-with-nmap-416154](https://labex.io/zh/tutorials/nmap-exploit-file-upload-vulnerabilities-with-nmap-416154) *(Last modified: 2025-03-19)*
+- [nmap-exploit-nfs-misconfiguration-for-root-access-with-nmap-416131](https://labex.io/zh/tutorials/nmap-exploit-nfs-misconfiguration-for-root-access-with-nmap-416131) *(Last modified: 2025-03-19)*
+- [nmap-exploit-suid-binaries-for-privilege-escalation-in-linux-416147](https://labex.io/zh/tutorials/nmap-exploit-suid-binaries-for-privilege-escalation-in-linux-416147) *(Last modified: 2025-03-19)*
 - [nmap-explore-nmap-help-and-options-in-nmap-547101](https://labex.io/zh/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101) *(Last modified: 2025-03-18)*
-- [nmap-identify-operating-systems-with-nmap-530180](https://labex.io/zh/tutorials/nmap-identify-operating-systems-with-nmap-530180) *(Last modified: 2025-03-18)*
+- [nmap-find-open-port-on-luna-server-548697](https://labex.io/zh/tutorials/nmap-find-open-port-on-luna-server-548697) *(Last modified: 2025-03-19)*
+- [nmap-identify-operating-systems-with-nmap-530180](https://labex.io/zh/tutorials/nmap-identify-operating-systems-with-nmap-530180) *(Last modified: 2025-03-19)*
+- [nmap-inject-windows-backdoor-into-adobe-pdf-in-nmap-416134](https://labex.io/zh/tutorials/nmap-inject-windows-backdoor-into-adobe-pdf-in-nmap-416134) *(Last modified: 2025-03-19)*
 - [nmap-install-nmap-on-linux-530181](https://labex.io/zh/tutorials/nmap-install-nmap-on-linux-530181) *(Last modified: 2025-03-18)*
-- [nmap-manage-output-formats-in-nmap-530182](https://labex.io/zh/tutorials/nmap-manage-output-formats-in-nmap-530182) *(Last modified: 2025-03-18)*
-- [nmap-optimize-scan-timing-and-performance-in-nmap-530183](https://labex.io/zh/tutorials/nmap-optimize-scan-timing-and-performance-in-nmap-530183) *(Last modified: 2025-03-18)*
-- [nmap-perform-advanced-host-discovery-in-nmap-547102](https://labex.io/zh/tutorials/nmap-perform-advanced-host-discovery-in-nmap-547102) *(Last modified: 2025-03-18)*
-- [nmap-perform-aggressive-scanning-in-nmap-547103](https://labex.io/zh/tutorials/nmap-perform-aggressive-scanning-in-nmap-547103) *(Last modified: 2025-03-18)*
-- [nmap-perform-comprehensive-scanning-in-nmap-547104](https://labex.io/zh/tutorials/nmap-perform-comprehensive-scanning-in-nmap-547104) *(Last modified: 2025-03-18)*
-- [nmap-perform-host-discovery-with-nmap-530184](https://labex.io/zh/tutorials/nmap-perform-host-discovery-with-nmap-530184) *(Last modified: 2025-03-18)*
-- [nmap-perform-idle-scanning-in-nmap-547105](https://labex.io/zh/tutorials/nmap-perform-idle-scanning-in-nmap-547105) *(Last modified: 2025-03-18)*
-- [nmap-perform-tcp-xmas-scanning-in-nmap-547106](https://labex.io/zh/tutorials/nmap-perform-tcp-xmas-scanning-in-nmap-547106) *(Last modified: 2025-03-18)*
-- [nmap-perform-window-scanning-in-nmap-547107](https://labex.io/zh/tutorials/nmap-perform-window-scanning-in-nmap-547107) *(Last modified: 2025-03-18)*
-- [nmap-randomize-targets-in-nmap-547108](https://labex.io/zh/tutorials/nmap-randomize-targets-in-nmap-547108) *(Last modified: 2025-03-18)*
-- [nmap-scan-for-vulnerabilities-in-nmap-547109](https://labex.io/zh/tutorials/nmap-scan-for-vulnerabilities-in-nmap-547109) *(Last modified: 2025-03-18)*
-- [nmap-scan-ipv6-targets-in-nmap-547110](https://labex.io/zh/tutorials/nmap-scan-ipv6-targets-in-nmap-547110) *(Last modified: 2025-03-18)*
-- [nmap-scan-specific-hosts-in-nmap-547111](https://labex.io/zh/tutorials/nmap-scan-specific-hosts-in-nmap-547111) *(Last modified: 2025-03-18)*
-- [nmap-scan-with-custom-ports-in-nmap-547112](https://labex.io/zh/tutorials/nmap-scan-with-custom-ports-in-nmap-547112) *(Last modified: 2025-03-18)*
-- [nmap-simulate-network-conditions-in-nmap-547113](https://labex.io/zh/tutorials/nmap-simulate-network-conditions-in-nmap-547113) *(Last modified: 2025-03-18)*
-- [nmap-simulate-real-world-scenarios-in-nmap-547114](https://labex.io/zh/tutorials/nmap-simulate-real-world-scenarios-in-nmap-547114) *(Last modified: 2025-03-18)*
-- [nmap-specify-targets-for-scanning-in-nmap-530185](https://labex.io/zh/tutorials/nmap-specify-targets-for-scanning-in-nmap-530185) *(Last modified: 2025-03-18)*
-- [nmap-spoof-mac-addresses-in-nmap-547116](https://labex.io/zh/tutorials/nmap-spoof-mac-addresses-in-nmap-547116) *(Last modified: 2025-03-18)*
-- [nmap-troubleshoot-nmap-scans-547117](https://labex.io/zh/tutorials/nmap-troubleshoot-nmap-scans-547117) *(Last modified: 2025-03-18)*
+- [nmap-manage-output-formats-in-nmap-530182](https://labex.io/zh/tutorials/nmap-manage-output-formats-in-nmap-530182) *(Last modified: 2025-03-19)*
+- [nmap-optimize-scan-timing-and-performance-in-nmap-530183](https://labex.io/zh/tutorials/nmap-optimize-scan-timing-and-performance-in-nmap-530183) *(Last modified: 2025-03-19)*
+- [nmap-perform-advanced-host-discovery-in-nmap-547102](https://labex.io/zh/tutorials/nmap-perform-advanced-host-discovery-in-nmap-547102) *(Last modified: 2025-03-19)*
+- [nmap-perform-aggressive-scanning-in-nmap-547103](https://labex.io/zh/tutorials/nmap-perform-aggressive-scanning-in-nmap-547103) *(Last modified: 2025-03-19)*
+- [nmap-perform-brute-force-attacks-on-ssh-and-vnc-with-metasploit-in-nmap-416127](https://labex.io/zh/tutorials/nmap-perform-brute-force-attacks-on-ssh-and-vnc-with-metasploit-in-nmap-416127) *(Last modified: 2025-03-19)*
+- [nmap-perform-comprehensive-scanning-in-nmap-547104](https://labex.io/zh/tutorials/nmap-perform-comprehensive-scanning-in-nmap-547104) *(Last modified: 2025-03-19)*
+- [nmap-perform-host-discovery-with-nmap-530184](https://labex.io/zh/tutorials/nmap-perform-host-discovery-with-nmap-530184) *(Last modified: 2025-03-19)*
+- [nmap-perform-idle-scanning-in-nmap-547105](https://labex.io/zh/tutorials/nmap-perform-idle-scanning-in-nmap-547105) *(Last modified: 2025-03-19)*
+- [nmap-perform-privilege-escalation-on-linux-machine-with-nmap-416129](https://labex.io/zh/tutorials/nmap-perform-privilege-escalation-on-linux-machine-with-nmap-416129) *(Last modified: 2025-03-19)*
+- [nmap-perform-tcp-xmas-scanning-in-nmap-547106](https://labex.io/zh/tutorials/nmap-perform-tcp-xmas-scanning-in-nmap-547106) *(Last modified: 2025-03-19)*
+- [nmap-perform-window-scanning-in-nmap-547107](https://labex.io/zh/tutorials/nmap-perform-window-scanning-in-nmap-547107) *(Last modified: 2025-03-19)*
+- [nmap-randomize-targets-in-nmap-547108](https://labex.io/zh/tutorials/nmap-randomize-targets-in-nmap-547108) *(Last modified: 2025-03-19)*
+- [nmap-save-nmap-output-to-xml-548705](https://labex.io/zh/tutorials/nmap-save-nmap-output-to-xml-548705) *(Last modified: 2025-03-19)*
+- [nmap-scan-for-vulnerabilities-in-nmap-547109](https://labex.io/zh/tutorials/nmap-scan-for-vulnerabilities-in-nmap-547109) *(Last modified: 2025-03-19)*
+- [nmap-scan-ipv6-targets-in-nmap-547110](https://labex.io/zh/tutorials/nmap-scan-ipv6-targets-in-nmap-547110) *(Last modified: 2025-03-19)*
+- [nmap-scan-specific-hosts-in-nmap-547111](https://labex.io/zh/tutorials/nmap-scan-specific-hosts-in-nmap-547111) *(Last modified: 2025-03-19)*
+- [nmap-scan-target-from-file-548715](https://labex.io/zh/tutorials/nmap-scan-target-from-file-548715) *(Last modified: 2025-03-19)*
+- [nmap-scan-with-custom-ports-in-nmap-547112](https://labex.io/zh/tutorials/nmap-scan-with-custom-ports-in-nmap-547112) *(Last modified: 2025-03-19)*
+- [nmap-simulate-network-conditions-in-nmap-547113](https://labex.io/zh/tutorials/nmap-simulate-network-conditions-in-nmap-547113) *(Last modified: 2025-03-19)*
+- [nmap-simulate-real-world-scenarios-in-nmap-547114](https://labex.io/zh/tutorials/nmap-simulate-real-world-scenarios-in-nmap-547114) *(Last modified: 2025-03-19)*
+- [nmap-specify-targets-for-scanning-in-nmap-530185](https://labex.io/zh/tutorials/nmap-specify-targets-for-scanning-in-nmap-530185) *(Last modified: 2025-03-19)*
+- [nmap-spoof-mac-addresses-in-nmap-547116](https://labex.io/zh/tutorials/nmap-spoof-mac-addresses-in-nmap-547116) *(Last modified: 2025-03-19)*
+- [nmap-troubleshoot-nmap-scans-547117](https://labex.io/zh/tutorials/nmap-troubleshoot-nmap-scans-547117) *(Last modified: 2025-03-19)*
 - [nmap-understand-nmap-command-syntax-530159](https://labex.io/zh/tutorials/nmap-understand-nmap-command-syntax-530159) *(Last modified: 2025-03-18)*
-- [nmap-utilize-nmap-scripting-engine-530187](https://labex.io/zh/tutorials/nmap-utilize-nmap-scripting-engine-530187) *(Last modified: 2025-03-18)*
+- [nmap-utilize-nmap-scripting-engine-530187](https://labex.io/zh/tutorials/nmap-utilize-nmap-scripting-engine-530187) *(Last modified: 2025-03-19)*
+- [nmap-verify-service-version-locally-548693](https://labex.io/zh/tutorials/nmap-verify-service-version-locally-548693) *(Last modified: 2025-03-19)*
 - [numpy-creating-a-numpy-array-using-existing-data-86398](https://labex.io/zh/tutorials/numpy-creating-a-numpy-array-using-existing-data-86398) *(Last modified: 2025-03-18)*
 - [numpy-creating-empty-zeroes-and-ones-arrays-86395](https://labex.io/zh/tutorials/numpy-creating-empty-zeroes-and-ones-arrays-86395) *(Last modified: 2025-03-18)*
 - [numpy-creating-numpy-arrays-from-numerical-ranges-86396](https://labex.io/zh/tutorials/numpy-creating-numpy-arrays-from-numerical-ranges-86396) *(Last modified: 2025-03-18)*
@@ -10300,8 +10306,6 @@ This file contains all tutorials-zh related links from LabEx website.
 - [pandas-pandas-series-bool-method-68752](https://labex.io/zh/tutorials/pandas-pandas-series-bool-method-68752) *(Last modified: 2025-03-18)*
 - [pandas-scaling-large-datasets-65453](https://labex.io/zh/tutorials/pandas-scaling-large-datasets-65453) *(Last modified: 2025-03-18)*
 - [pandas-your-first-pandas-lab-92727](https://labex.io/zh/tutorials/pandas-your-first-pandas-lab-92727) *(Last modified: 2025-03-18)*
-- [perform-brute-force-attacks-on-ssh-and-vnc-with-metasploit-in-nmap-416127](https://labex.io/zh/tutorials/perform-brute-force-attacks-on-ssh-and-vnc-with-metasploit-in-nmap-416127) *(Last modified: 2025-03-18)*
-- [perform-privilege-escalation-on-linux-machine-with-nmap-416129](https://labex.io/zh/tutorials/perform-privilege-escalation-on-linux-machine-with-nmap-416129) *(Last modified: 2025-03-18)*
 - [perform-sql-injection-experiments-in-nmap-416150](https://labex.io/zh/tutorials/perform-sql-injection-experiments-in-nmap-416150) *(Last modified: 2025-03-18)*
 - [perform-wildcard-injection-in-nmap-for-privilege-escalation-416144](https://labex.io/zh/tutorials/perform-wildcard-injection-in-nmap-for-privilege-escalation-416144) *(Last modified: 2025-03-18)*
 - [practice-linux-commands-hands-on-labs-398420](https://labex.io/zh/tutorials/practice-linux-commands-hands-on-labs-398420) *(Last modified: 2025-03-16)*
@@ -13215,7 +13219,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [python-numpy-arrays-and-data-types-4996](https://labex.io/zh/tutorials/python-numpy-arrays-and-data-types-4996) *(Last modified: 2025-03-18)*
 - [python-numpy-copy-and-view-86421](https://labex.io/zh/tutorials/python-numpy-copy-and-view-86421) *(Last modified: 2025-03-18)*
 - [python-numpy-count-function-86423](https://labex.io/zh/tutorials/python-numpy-count-function-86423) *(Last modified: 2025-03-18)*
-- [python-numpy-einsum-for-scientific-computing-4991](https://labex.io/zh/tutorials/python-numpy-einsum-for-scientific-computing-4991) *(Last modified: 2025-03-18)*
+- [python-numpy-einsum-for-scientific-computing-4991](https://labex.io/zh/tutorials/python-numpy-einsum-for-scientific-computing-4991) *(Last modified: 2025-03-19)*
 - [python-numpy-empty-function-86431](https://labex.io/zh/tutorials/python-numpy-empty-function-86431) *(Last modified: 2025-03-18)*
 - [python-numpy-encode-function-86433](https://labex.io/zh/tutorials/python-numpy-encode-function-86433) *(Last modified: 2025-03-18)*
 - [python-numpy-eye-function-86435](https://labex.io/zh/tutorials/python-numpy-eye-function-86435) *(Last modified: 2025-03-18)*
@@ -14001,7 +14005,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [secure-your-kubernetes-cluster-with-cks-certification-390332](https://labex.io/zh/tutorials/secure-your-kubernetes-cluster-with-cks-certification-390332) *(Last modified: 2025-03-16)*
 - [shell-arithmetic-operations-in-shell-388813](https://labex.io/zh/tutorials/shell-arithmetic-operations-in-shell-388813) *(Last modified: 2025-03-18)*
 - [shell-bash-file-existence-checks-391736](https://labex.io/zh/tutorials/shell-bash-file-existence-checks-391736) *(Last modified: 2025-03-16)*
-- [shell-bash-function-return-values-391153](https://labex.io/zh/tutorials/shell-bash-function-return-values-391153) *(Last modified: 2025-03-18)*
+- [shell-bash-function-return-values-391153](https://labex.io/zh/tutorials/shell-bash-function-return-values-391153) *(Last modified: 2025-03-19)*
 - [shell-bash-getopt-391993](https://labex.io/zh/tutorials/shell-bash-getopt-391993) *(Last modified: 2025-03-18)*
 - [shell-bash-regex-matching-391551](https://labex.io/zh/tutorials/shell-bash-regex-matching-391551) *(Last modified: 2025-03-18)*
 - [shell-bash-script-techniques-for-handling-directory-existence-393047](https://labex.io/zh/tutorials/shell-bash-script-techniques-for-handling-directory-existence-393047) *(Last modified: 2025-03-16)*
@@ -14242,6 +14246,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [sql-student-grade-management-system-301414](https://labex.io/zh/tutorials/sql-student-grade-management-system-301414) *(Last modified: 2025-03-16)*
 - [sql-view-for-course-information-301432](https://labex.io/zh/tutorials/sql-view-for-course-information-301432) *(Last modified: 2025-03-16)*
 - [sql-wuxu-reform-duration-calculation-301436](https://labex.io/zh/tutorials/sql-wuxu-reform-duration-calculation-301436) *(Last modified: 2025-03-16)*
+- [uncover-the-secret-port-548724](https://labex.io/zh/tutorials/uncover-the-secret-port-548724) *(Last modified: 2025-03-19)*
 - [understand-and-exploit-command-injection-vulnerabilities-in-nmap-416155](https://labex.io/zh/tutorials/understand-and-exploit-command-injection-vulnerabilities-in-nmap-416155) *(Last modified: 2025-03-18)*
 - [understand-file-inclusion-vulnerabilities-in-web-applications-416151](https://labex.io/zh/tutorials/understand-file-inclusion-vulnerabilities-in-web-applications-416151) *(Last modified: 2025-03-18)*
 - [upgrade-simple-shell-to-interactive-shell-in-nmap-416148](https://labex.io/zh/tutorials/upgrade-simple-shell-to-interactive-shell-in-nmap-416148) *(Last modified: 2025-03-18)*
