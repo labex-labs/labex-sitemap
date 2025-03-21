@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Ru Sitemap
 
-> Last updated: 2025-03-20 00:04 UTC
+> Last updated: 2025-03-21 00:03 UTC
 
 This file contains all skilltrees-ru related links from LabEx website.
 
@@ -36,6 +36,7 @@ This file contains all skilltrees-ru related links from LabEx website.
 - [ml](https://labex.io/ru/skilltrees/ml)
 - [mongodb](https://labex.io/ru/skilltrees/mongodb)
 - [mysql](https://labex.io/ru/skilltrees/mysql)
+- [nmap](https://labex.io/ru/skilltrees/nmap)
 - [numpy](https://labex.io/ru/skilltrees/numpy)
 - [pandas](https://labex.io/ru/skilltrees/pandas)
 - [python](https://labex.io/ru/skilltrees/python)
@@ -62,6 +63,7 @@ This file contains all skilltrees-ru related links from LabEx website.
 - [ml](https://labex.io/ru/tutorials/category/ml)
 - [mongodb](https://labex.io/ru/tutorials/category/mongodb)
 - [mysql](https://labex.io/ru/tutorials/category/mysql)
+- [nmap](https://labex.io/ru/tutorials/category/nmap)
 - [numpy](https://labex.io/ru/tutorials/category/numpy)
 - [pandas](https://labex.io/ru/tutorials/category/pandas)
 - [python](https://labex.io/ru/tutorials/category/python)
@@ -188,6 +190,7 @@ This file contains all skilltrees-ru related links from LabEx website.
 - [DatabaseFunctionsandDataTypesGroup](https://labex.io/ru/skilltrees/mysql/groups/DatabaseFunctionsandDataTypesGroup)
 - [SystemManagementToolsGroup](https://labex.io/ru/skilltrees/mysql/groups/SystemManagementToolsGroup)
 - [TransactionManagementandSecurityGroup](https://labex.io/ru/skilltrees/mysql/groups/TransactionManagementandSecurityGroup)
+- [NmapGroup](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup)
 - [AdvancedFeaturesGroup](https://labex.io/ru/skilltrees/numpy/groups/AdvancedFeaturesGroup)
 - [ArrayBasicsGroup](https://labex.io/ru/skilltrees/numpy/groups/ArrayBasicsGroup)
 - [ArrayManipulationGroup](https://labex.io/ru/skilltrees/numpy/groups/ArrayManipulationGroup)
@@ -877,6 +880,26 @@ This file contains all skilltrees-ru related links from LabEx website.
 - [grant-permission](https://labex.io/ru/skilltrees/mysql/groups/TransactionManagementandSecurityGroup/skills/grant-permission)
 - [identified-by](https://labex.io/ru/skilltrees/mysql/groups/TransactionManagementandSecurityGroup/skills/identified-by)
 - [revoke-permission](https://labex.io/ru/skilltrees/mysql/groups/TransactionManagementandSecurityGroup/skills/revoke-permission)
+- [basic-syntax](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/basic-syntax)
+- [common-ports](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/common-ports)
+- [firewall-evasion](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/firewall-evasion)
+- [host-discovery](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/host-discovery)
+- [installation](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/installation)
+- [os-version-detection](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/os-version-detection)
+- [output-formats](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/output-formats)
+- [port-scanning](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/port-scanning)
+- [save-output](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/save-output)
+- [scan-types](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/scan-types)
+- [script-management](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/script-management)
+- [scripting-basics](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/scripting-basics)
+- [service-detection](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/service-detection)
+- [stealth-scanning](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/stealth-scanning)
+- [syn-scan](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/syn-scan)
+- [target-specification](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/target-specification)
+- [tcp-connect-scan](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/tcp-connect-scan)
+- [timing-performance](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/timing-performance)
+- [udp-scanning](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/udp-scanning)
+- [verbosity](https://labex.io/ru/skilltrees/nmap/groups/NmapGroup/skills/verbosity)
 - [sort-search](https://labex.io/ru/skilltrees/numpy/groups/AdvancedFeaturesGroup/skills/sort-search)
 - [ufuncs](https://labex.io/ru/skilltrees/numpy/groups/AdvancedFeaturesGroup/skills/ufuncs)
 - [1d-array](https://labex.io/ru/skilltrees/numpy/groups/ArrayBasicsGroup/skills/1d-array)
