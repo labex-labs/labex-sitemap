@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ja Sitemap
 
-> Last updated: 2025-03-23 00:03 UTC
+> Last updated: 2025-03-24 00:04 UTC
 
 This file contains all tutorials-ja related links from LabEx website.
 
@@ -2795,7 +2795,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [javascript-truth-check-collection-28672](https://labex.io/ja/tutorials/javascript-truth-check-collection-28672) *(Last modified: 2025-03-20)*
 - [javascript-type-of-value-28673](https://labex.io/ja/tutorials/javascript-type-of-value-28673) *(Last modified: 2025-03-20)*
 - [javascript-unary-function-arity-28674](https://labex.io/ja/tutorials/javascript-unary-function-arity-28674) *(Last modified: 2025-03-20)*
-- [javascript-understand-html-heading-tags-451082](https://labex.io/ja/tutorials/javascript-understand-html-heading-tags-451082) *(Last modified: 2025-03-20)*
+- [javascript-understand-html-heading-tags-451082](https://labex.io/ja/tutorials/javascript-understand-html-heading-tags-451082) *(Last modified: 2025-03-22)*
 - [javascript-unescape-html-characters-with-javascript-28677](https://labex.io/ja/tutorials/javascript-unescape-html-characters-with-javascript-28677) *(Last modified: 2025-03-20)*
 - [javascript-unflatten-nested-javascript-objects-28678](https://labex.io/ja/tutorials/javascript-unflatten-nested-javascript-objects-28678) *(Last modified: 2025-03-20)*
 - [javascript-unfold-function-in-javascript-28679](https://labex.io/ja/tutorials/javascript-unfold-function-in-javascript-28679) *(Last modified: 2025-03-20)*
@@ -3275,7 +3275,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [linux-linux-sed-command-with-practical-examples-422906](https://labex.io/ja/tutorials/linux-linux-sed-command-with-practical-examples-422906) *(Last modified: 2025-03-16)*
 - [linux-linux-server-information-retrieval-301475](https://labex.io/ja/tutorials/linux-linux-server-information-retrieval-301475) *(Last modified: 2025-03-16)*
 - [linux-linux-service-managing-271377](https://labex.io/ja/tutorials/linux-linux-service-managing-271377) *(Last modified: 2025-03-20)*
-- [linux-linux-shell-exiting-271277](https://labex.io/ja/tutorials/linux-linux-shell-exiting-271277) *(Last modified: 2025-03-20)*
+- [linux-linux-shell-exiting-271277](https://labex.io/ja/tutorials/linux-linux-shell-exiting-271277) *(Last modified: 2025-03-22)*
 - [linux-linux-shell-setting-271379](https://labex.io/ja/tutorials/linux-linux-shell-setting-271379) *(Last modified: 2025-03-20)*
 - [linux-linux-shred-command-with-practical-examples-422917](https://labex.io/ja/tutorials/linux-linux-shred-command-with-practical-examples-422917) *(Last modified: 2025-03-16)*
 - [linux-linux-simple-text-editing-271339](https://labex.io/ja/tutorials/linux-linux-simple-text-editing-271339) *(Last modified: 2025-03-20)*
@@ -3311,7 +3311,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [linux-linux-user-identifying-271445](https://labex.io/ja/tutorials/linux-linux-user-identifying-271445) *(Last modified: 2025-03-20)*
 - [linux-linux-user-modifying-271427](https://labex.io/ja/tutorials/linux-linux-user-modifying-271427) *(Last modified: 2025-03-20)*
 - [linux-linux-user-removing-271425](https://labex.io/ja/tutorials/linux-linux-user-removing-271425) *(Last modified: 2025-03-20)*
-- [linux-linux-user-switching-271391](https://labex.io/ja/tutorials/linux-linux-user-switching-271391) *(Last modified: 2025-03-20)*
+- [linux-linux-user-switching-271391](https://labex.io/ja/tutorials/linux-linux-user-switching-271391) *(Last modified: 2025-03-22)*
 - [linux-linux-variable-declaring-271265](https://labex.io/ja/tutorials/linux-linux-variable-declaring-271265) *(Last modified: 2025-03-20)*
 - [linux-linux-variable-exporting-271279](https://labex.io/ja/tutorials/linux-linux-variable-exporting-271279) *(Last modified: 2025-03-20)*
 - [linux-linux-variable-unsetting-271419](https://labex.io/ja/tutorials/linux-linux-variable-unsetting-271419) *(Last modified: 2025-03-20)*
@@ -3342,7 +3342,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [linux-setting-up-a-lamp-server-372834](https://labex.io/ja/tutorials/linux-setting-up-a-lamp-server-372834) *(Last modified: 2025-03-20)*
 - [linux-simple-text-processing-18004](https://labex.io/ja/tutorials/linux-simple-text-processing-18004) *(Last modified: 2025-03-20)*
 - [linux-software-installation-on-linux-18005](https://labex.io/ja/tutorials/linux-software-installation-on-linux-18005) *(Last modified: 2025-03-20)*
-- [linux-terminate-processes-by-name-and-id-31](https://labex.io/ja/tutorials/linux-terminate-processes-by-name-and-id-31) *(Last modified: 2025-03-20)*
+- [linux-terminate-processes-by-name-and-id-31](https://labex.io/ja/tutorials/linux-terminate-processes-by-name-and-id-31) *(Last modified: 2025-03-23)*
 - [linux-terminate-processes-in-linux-44](https://labex.io/ja/tutorials/linux-terminate-processes-in-linux-44) *(Last modified: 2025-03-20)*
 - [linux-text-processing-and-regular-expressions-18003](https://labex.io/ja/tutorials/linux-text-processing-and-regular-expressions-18003) *(Last modified: 2025-03-20)*
 - [linux-transcribe-media-to-text-with-whisper-289658](https://labex.io/ja/tutorials/linux-transcribe-media-to-text-with-whisper-289658) *(Last modified: 2025-03-20)*
@@ -3905,7 +3905,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [nmap-simulate-real-world-scenarios-in-nmap-547114](https://labex.io/ja/tutorials/nmap-simulate-real-world-scenarios-in-nmap-547114) *(Last modified: 2025-03-19)*
 - [nmap-specify-targets-for-scanning-in-nmap-530185](https://labex.io/ja/tutorials/nmap-specify-targets-for-scanning-in-nmap-530185) *(Last modified: 2025-03-19)*
 - [nmap-spoof-mac-addresses-in-nmap-547116](https://labex.io/ja/tutorials/nmap-spoof-mac-addresses-in-nmap-547116) *(Last modified: 2025-03-19)*
-- [nmap-troubleshoot-nmap-scans-547117](https://labex.io/ja/tutorials/nmap-troubleshoot-nmap-scans-547117) *(Last modified: 2025-03-19)*
+- [nmap-troubleshoot-nmap-scans-547117](https://labex.io/ja/tutorials/nmap-troubleshoot-nmap-scans-547117) *(Last modified: 2025-03-22)*
 - [nmap-understand-nmap-command-syntax-530159](https://labex.io/ja/tutorials/nmap-understand-nmap-command-syntax-530159) *(Last modified: 2025-03-20)*
 - [nmap-utilize-nmap-scripting-engine-530187](https://labex.io/ja/tutorials/nmap-utilize-nmap-scripting-engine-530187) *(Last modified: 2025-03-19)*
 - [nmap-verify-service-version-locally-548693](https://labex.io/ja/tutorials/nmap-verify-service-version-locally-548693) *(Last modified: 2025-03-20)*

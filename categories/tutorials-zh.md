@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-03-23 00:03 UTC
+> Last updated: 2025-03-24 00:04 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -9417,7 +9417,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-setting-up-a-lamp-server-372834](https://labex.io/zh/tutorials/linux-setting-up-a-lamp-server-372834) *(Last modified: 2025-03-20)*
 - [linux-simple-text-processing-18004](https://labex.io/zh/tutorials/linux-simple-text-processing-18004) *(Last modified: 2025-03-20)*
 - [linux-software-installation-on-linux-18005](https://labex.io/zh/tutorials/linux-software-installation-on-linux-18005) *(Last modified: 2025-03-20)*
-- [linux-terminate-processes-by-name-and-id-31](https://labex.io/zh/tutorials/linux-terminate-processes-by-name-and-id-31) *(Last modified: 2025-03-20)*
+- [linux-terminate-processes-by-name-and-id-31](https://labex.io/zh/tutorials/linux-terminate-processes-by-name-and-id-31) *(Last modified: 2025-03-23)*
 - [linux-terminate-processes-in-linux-44](https://labex.io/zh/tutorials/linux-terminate-processes-in-linux-44) *(Last modified: 2025-03-20)*
 - [linux-text-processing-and-regular-expressions-18003](https://labex.io/zh/tutorials/linux-text-processing-and-regular-expressions-18003) *(Last modified: 2025-03-20)*
 - [linux-transcribe-media-to-text-with-whisper-289658](https://labex.io/zh/tutorials/linux-transcribe-media-to-text-with-whisper-289658) *(Last modified: 2025-03-20)*
