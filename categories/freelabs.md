@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs Sitemap
 
-> Last updated: 2025-03-25 00:04 UTC
+> Last updated: 2025-03-26 00:04 UTC
 
 This file contains all freelabs related links from LabEx website.
 
@@ -45,3 +45,4 @@ This file contains all freelabs related links from LabEx website.
 - [shell](https://labex.io/free-labs/shell)
 - [sklearn](https://labex.io/free-labs/sklearn)
 - [web-development](https://labex.io/free-labs/web-development)
+- [wireshark](https://labex.io/free-labs/wireshark)
