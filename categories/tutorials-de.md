@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-De Sitemap
 
-> Last updated: 2025-03-26 00:04 UTC
+> Last updated: 2025-03-27 00:03 UTC
 
 This file contains all tutorials-de related links from LabEx website.
 
@@ -1064,7 +1064,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [git-change-the-last-commit-s-author-12708](https://labex.io/de/tutorials/git-change-the-last-commit-s-author-12708) *(Last modified: 2025-03-25)*
 - [git-change-the-last-commit-s-message-12768](https://labex.io/de/tutorials/git-change-the-last-commit-s-message-12768) *(Last modified: 2025-03-25)*
 - [git-change-the-remote-url-12705](https://labex.io/de/tutorials/git-change-the-remote-url-12705) *(Last modified: 2025-03-25)*
-- [git-clone-a-repository-387454](https://labex.io/de/tutorials/git-clone-a-repository-387454) *(Last modified: 2025-03-25)*
+- [git-clone-a-repository-387454](https://labex.io/de/tutorials/git-clone-a-repository-387454) *(Last modified: 2025-03-26)*
 - [git-clone-missing-submodules-12706](https://labex.io/de/tutorials/git-clone-missing-submodules-12706) *(Last modified: 2025-03-25)*
 - [git-configure-git-user-information-12712](https://labex.io/de/tutorials/git-configure-git-user-information-12712) *(Last modified: 2025-03-25)*
 - [git-configure-line-endings-12736](https://labex.io/de/tutorials/git-configure-line-endings-12736) *(Last modified: 2025-03-25)*
@@ -3149,7 +3149,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-linux-background-running-271233](https://labex.io/de/tutorials/linux-linux-background-running-271233) *(Last modified: 2025-03-25)*
 - [linux-linux-banner-command-with-practical-examples-422569](https://labex.io/de/tutorials/linux-linux-banner-command-with-practical-examples-422569) *(Last modified: 2025-03-16)*
 - [linux-linux-cat-command-file-concatenating-210986](https://labex.io/de/tutorials/linux-linux-cat-command-file-concatenating-210986) *(Last modified: 2025-03-25)*
-- [linux-linux-cd-command-directory-changing-209733](https://labex.io/de/tutorials/linux-linux-cd-command-directory-changing-209733) *(Last modified: 2025-03-25)*
+- [linux-linux-cd-command-directory-changing-209733](https://labex.io/de/tutorials/linux-linux-cd-command-directory-changing-209733) *(Last modified: 2025-03-26)*
 - [linux-linux-character-translating-271411](https://labex.io/de/tutorials/linux-linux-character-translating-271411) *(Last modified: 2025-03-25)*
 - [linux-linux-chattr-command-with-practical-examples-422594](https://labex.io/de/tutorials/linux-linux-chattr-command-with-practical-examples-422594) *(Last modified: 2025-03-16)*
 - [linux-linux-command-assistance-271301](https://labex.io/de/tutorials/linux-linux-command-assistance-271301) *(Last modified: 2025-03-25)*
@@ -3167,7 +3167,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-linux-deploy-lnmp-7787](https://labex.io/de/tutorials/linux-linux-deploy-lnmp-7787) *(Last modified: 2025-03-25)*
 - [linux-linux-df-command-disk-space-reporting-219188](https://labex.io/de/tutorials/linux-linux-df-command-disk-space-reporting-219188) *(Last modified: 2025-03-25)*
 - [linux-linux-diff-command-file-comparing-219189](https://labex.io/de/tutorials/linux-linux-diff-command-file-comparing-219189) *(Last modified: 2025-03-25)*
-- [linux-linux-directory-changing-271237](https://labex.io/de/tutorials/linux-linux-directory-changing-271237) *(Last modified: 2025-03-25)*
+- [linux-linux-directory-changing-271237](https://labex.io/de/tutorials/linux-linux-directory-changing-271237) *(Last modified: 2025-03-26)*
 - [linux-linux-directory-creating-271331](https://labex.io/de/tutorials/linux-linux-directory-creating-271331) *(Last modified: 2025-03-25)*
 - [linux-linux-directory-displaying-271365](https://labex.io/de/tutorials/linux-linux-directory-displaying-271365) *(Last modified: 2025-03-25)*
 - [linux-linux-directory-tree-display-271413](https://labex.io/de/tutorials/linux-linux-directory-tree-display-271413) *(Last modified: 2025-03-25)*
@@ -3253,7 +3253,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-linux-patch-applying-271351](https://labex.io/de/tutorials/linux-linux-patch-applying-271351) *(Last modified: 2025-03-25)*
 - [linux-linux-pattern-based-killing-271359](https://labex.io/de/tutorials/linux-linux-pattern-based-killing-271359) *(Last modified: 2025-03-25)*
 - [linux-linux-pattern-searching-271291](https://labex.io/de/tutorials/linux-linux-pattern-searching-271291) *(Last modified: 2025-03-25)*
-- [linux-linux-permission-modifying-271241](https://labex.io/de/tutorials/linux-linux-permission-modifying-271241) *(Last modified: 2025-03-25)*
+- [linux-linux-permission-modifying-271241](https://labex.io/de/tutorials/linux-linux-permission-modifying-271241) *(Last modified: 2025-03-26)*
 - [linux-linux-privilege-granting-271393](https://labex.io/de/tutorials/linux-linux-privilege-granting-271393) *(Last modified: 2025-03-25)*
 - [linux-linux-process-displaying-271363](https://labex.io/de/tutorials/linux-linux-process-displaying-271363) *(Last modified: 2025-03-25)*
 - [linux-linux-process-management-46](https://labex.io/de/tutorials/linux-linux-process-management-46) *(Last modified: 2025-03-25)*
@@ -3265,7 +3265,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-linux-rm-command-file-removing-209741](https://labex.io/de/tutorials/linux-linux-rm-command-file-removing-209741) *(Last modified: 2025-03-25)*
 - [linux-linux-screen-clearing-271245](https://labex.io/de/tutorials/linux-linux-screen-clearing-271245) *(Last modified: 2025-03-25)*
 - [linux-linux-script-executing-271387](https://labex.io/de/tutorials/linux-linux-script-executing-271387) *(Last modified: 2025-03-25)*
-- [linux-linux-secure-connecting-271389](https://labex.io/de/tutorials/linux-linux-secure-connecting-271389) *(Last modified: 2025-03-25)*
+- [linux-linux-secure-connecting-271389](https://labex.io/de/tutorials/linux-linux-secure-connecting-271389) *(Last modified: 2025-03-26)*
 - [linux-linux-secure-copying-271373](https://labex.io/de/tutorials/linux-linux-secure-copying-271373) *(Last modified: 2025-03-16)*
 - [linux-linux-secure-file-transferring-271381](https://labex.io/de/tutorials/linux-linux-secure-file-transferring-271381) *(Last modified: 2025-03-16)*
 - [linux-linux-sed-command-with-practical-examples-422906](https://labex.io/de/tutorials/linux-linux-sed-command-with-practical-examples-422906) *(Last modified: 2025-03-16)*
@@ -4887,7 +4887,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [python-main-program-introduction-132718](https://labex.io/de/tutorials/python-main-program-introduction-132718) *(Last modified: 2025-03-25)*
 - [python-major-and-minor-ticks-in-matplotlib-48816](https://labex.io/de/tutorials/python-major-and-minor-ticks-in-matplotlib-48816) *(Last modified: 2025-03-25)*
 - [python-make-a-custom-container-132444](https://labex.io/de/tutorials/python-make-a-custom-container-132444) *(Last modified: 2025-03-25)*
-- [python-make-a-new-primitive-type-132443](https://labex.io/de/tutorials/python-make-a-new-primitive-type-132443) *(Last modified: 2025-03-25)*
+- [python-make-a-new-primitive-type-132443](https://labex.io/de/tutorials/python-make-a-new-primitive-type-132443) *(Last modified: 2025-03-26)*
 - [python-managing-specific-dates-in-a-year-302743](https://labex.io/de/tutorials/python-managing-specific-dates-in-a-year-302743) *(Last modified: 2025-03-16)*
 - [python-manipulate-various-built-in-python-objects-132391](https://labex.io/de/tutorials/python-manipulate-various-built-in-python-objects-132391) *(Last modified: 2025-03-25)*
 - [python-map-dictionary-values-13685](https://labex.io/de/tutorials/python-map-dictionary-values-13685) *(Last modified: 2025-03-18)*

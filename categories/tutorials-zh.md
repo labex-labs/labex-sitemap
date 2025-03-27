@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-03-26 00:04 UTC
+> Last updated: 2025-03-27 00:03 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -2534,7 +2534,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-change-the-last-commit-s-message-12768](https://labex.io/zh/tutorials/git-change-the-last-commit-s-message-12768) *(Last modified: 2025-03-25)*
 - [git-change-the-remote-url-12705](https://labex.io/zh/tutorials/git-change-the-remote-url-12705) *(Last modified: 2025-03-25)*
 - [git-changing-the-name-of-your-github-repository-step-by-step-398328](https://labex.io/zh/tutorials/git-changing-the-name-of-your-github-repository-step-by-step-398328) *(Last modified: 2025-03-16)*
-- [git-clone-a-repository-387454](https://labex.io/zh/tutorials/git-clone-a-repository-387454) *(Last modified: 2025-03-25)*
+- [git-clone-a-repository-387454](https://labex.io/zh/tutorials/git-clone-a-repository-387454) *(Last modified: 2025-03-26)*
 - [git-clone-missing-submodules-12706](https://labex.io/zh/tutorials/git-clone-missing-submodules-12706) *(Last modified: 2025-03-25)*
 - [git-cloning-a-git-repo-and-accessing-different-branches-411497](https://labex.io/zh/tutorials/git-cloning-a-git-repo-and-accessing-different-branches-411497) *(Last modified: 2025-03-16)*
 - [git-cloning-git-repositories-for-version-control-management-394869](https://labex.io/zh/tutorials/git-cloning-git-repositories-for-version-control-management-394869) *(Last modified: 2025-03-16)*
@@ -8789,7 +8789,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-cat-command-file-concatenating-210986](https://labex.io/zh/tutorials/linux-linux-cat-command-file-concatenating-210986) *(Last modified: 2025-03-25)*
 - [linux-linux-cat-command-with-practical-examples-422589](https://labex.io/zh/tutorials/linux-linux-cat-command-with-practical-examples-422589) *(Last modified: 2025-03-16)*
 - [linux-linux-cc-command-with-practical-examples-422590](https://labex.io/zh/tutorials/linux-linux-cc-command-with-practical-examples-422590) *(Last modified: 2025-03-16)*
-- [linux-linux-cd-command-directory-changing-209733](https://labex.io/zh/tutorials/linux-linux-cd-command-directory-changing-209733) *(Last modified: 2025-03-25)*
+- [linux-linux-cd-command-directory-changing-209733](https://labex.io/zh/tutorials/linux-linux-cd-command-directory-changing-209733) *(Last modified: 2025-03-26)*
 - [linux-linux-cd-command-with-practical-examples-422591](https://labex.io/zh/tutorials/linux-linux-cd-command-with-practical-examples-422591) *(Last modified: 2025-03-16)*
 - [linux-linux-cfdisk-command-with-practical-examples-422592](https://labex.io/zh/tutorials/linux-linux-cfdisk-command-with-practical-examples-422592) *(Last modified: 2025-03-16)*
 - [linux-linux-chage-command-with-practical-examples-422593](https://labex.io/zh/tutorials/linux-linux-chage-command-with-practical-examples-422593) *(Last modified: 2025-03-16)*
@@ -8854,7 +8854,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-dip-command-with-practical-examples-422637](https://labex.io/zh/tutorials/linux-linux-dip-command-with-practical-examples-422637) *(Last modified: 2025-03-16)*
 - [linux-linux-dir-command-with-practical-examples-422638](https://labex.io/zh/tutorials/linux-linux-dir-command-with-practical-examples-422638) *(Last modified: 2025-03-16)*
 - [linux-linux-dircolors-command-with-practical-examples-422639](https://labex.io/zh/tutorials/linux-linux-dircolors-command-with-practical-examples-422639) *(Last modified: 2025-03-16)*
-- [linux-linux-directory-changing-271237](https://labex.io/zh/tutorials/linux-linux-directory-changing-271237) *(Last modified: 2025-03-25)*
+- [linux-linux-directory-changing-271237](https://labex.io/zh/tutorials/linux-linux-directory-changing-271237) *(Last modified: 2025-03-26)*
 - [linux-linux-directory-creating-271331](https://labex.io/zh/tutorials/linux-linux-directory-creating-271331) *(Last modified: 2025-03-25)*
 - [linux-linux-directory-displaying-271365](https://labex.io/zh/tutorials/linux-linux-directory-displaying-271365) *(Last modified: 2025-03-25)*
 - [linux-linux-directory-tree-display-271413](https://labex.io/zh/tutorials/linux-linux-directory-tree-display-271413) *(Last modified: 2025-03-25)*
@@ -9141,7 +9141,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-pattern-based-killing-271359](https://labex.io/zh/tutorials/linux-linux-pattern-based-killing-271359) *(Last modified: 2025-03-25)*
 - [linux-linux-pattern-searching-271291](https://labex.io/zh/tutorials/linux-linux-pattern-searching-271291) *(Last modified: 2025-03-25)*
 - [linux-linux-perl-command-with-practical-examples-422854](https://labex.io/zh/tutorials/linux-linux-perl-command-with-practical-examples-422854) *(Last modified: 2025-03-16)*
-- [linux-linux-permission-modifying-271241](https://labex.io/zh/tutorials/linux-linux-permission-modifying-271241) *(Last modified: 2025-03-25)*
+- [linux-linux-permission-modifying-271241](https://labex.io/zh/tutorials/linux-linux-permission-modifying-271241) *(Last modified: 2025-03-26)*
 - [linux-linux-pgrep-command-with-practical-examples-422855](https://labex.io/zh/tutorials/linux-linux-pgrep-command-with-practical-examples-422855) *(Last modified: 2025-03-16)*
 - [linux-linux-pico-command-with-practical-examples-422856](https://labex.io/zh/tutorials/linux-linux-pico-command-with-practical-examples-422856) *(Last modified: 2025-03-16)*
 - [linux-linux-pidof-command-with-practical-examples-422857](https://labex.io/zh/tutorials/linux-linux-pidof-command-with-practical-examples-422857) *(Last modified: 2025-03-16)*
@@ -9202,7 +9202,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-script-executing-271387](https://labex.io/zh/tutorials/linux-linux-script-executing-271387) *(Last modified: 2025-03-25)*
 - [linux-linux-scriptreplay-command-with-practical-examples-422904](https://labex.io/zh/tutorials/linux-linux-scriptreplay-command-with-practical-examples-422904) *(Last modified: 2025-03-16)*
 - [linux-linux-sdiff-command-with-practical-examples-422905](https://labex.io/zh/tutorials/linux-linux-sdiff-command-with-practical-examples-422905) *(Last modified: 2025-03-16)*
-- [linux-linux-secure-connecting-271389](https://labex.io/zh/tutorials/linux-linux-secure-connecting-271389) *(Last modified: 2025-03-25)*
+- [linux-linux-secure-connecting-271389](https://labex.io/zh/tutorials/linux-linux-secure-connecting-271389) *(Last modified: 2025-03-26)*
 - [linux-linux-secure-copying-271373](https://labex.io/zh/tutorials/linux-linux-secure-copying-271373) *(Last modified: 2025-03-16)*
 - [linux-linux-secure-file-transferring-271381](https://labex.io/zh/tutorials/linux-linux-secure-file-transferring-271381) *(Last modified: 2025-03-16)*
 - [linux-linux-sed-command-with-practical-examples-422906](https://labex.io/zh/tutorials/linux-linux-sed-command-with-practical-examples-422906) *(Last modified: 2025-03-16)*
@@ -13043,7 +13043,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [python-main-program-introduction-132718](https://labex.io/zh/tutorials/python-main-program-introduction-132718) *(Last modified: 2025-03-25)*
 - [python-major-and-minor-ticks-in-matplotlib-48816](https://labex.io/zh/tutorials/python-major-and-minor-ticks-in-matplotlib-48816) *(Last modified: 2025-03-25)*
 - [python-make-a-custom-container-132444](https://labex.io/zh/tutorials/python-make-a-custom-container-132444) *(Last modified: 2025-03-25)*
-- [python-make-a-new-primitive-type-132443](https://labex.io/zh/tutorials/python-make-a-new-primitive-type-132443) *(Last modified: 2025-03-25)*
+- [python-make-a-new-primitive-type-132443](https://labex.io/zh/tutorials/python-make-a-new-primitive-type-132443) *(Last modified: 2025-03-26)*
 - [python-managing-specific-dates-in-a-year-302743](https://labex.io/zh/tutorials/python-managing-specific-dates-in-a-year-302743) *(Last modified: 2025-03-16)*
 - [python-manipulate-various-built-in-python-objects-132391](https://labex.io/zh/tutorials/python-manipulate-various-built-in-python-objects-132391) *(Last modified: 2025-03-25)*
 - [python-map-dictionary-values-13685](https://labex.io/zh/tutorials/python-map-dictionary-values-13685) *(Last modified: 2025-03-18)*
