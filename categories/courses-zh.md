@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Zh Sitemap
 
-> Last updated: 2025-03-28 00:03 UTC
+> Last updated: 2025-03-29 00:03 UTC
 
 This file contains all courses-zh related links from LabEx website.
 
@@ -27,7 +27,7 @@ This file contains all courses-zh related links from LabEx website.
 - [c-programming-for-beginners](https://labex.io/zh/courses/c-programming-for-beginners)
 - [cpp-practice-challenges](https://labex.io/zh/courses/cpp-practice-challenges)
 - [cpp-practice-labs](https://labex.io/zh/courses/cpp-practice-labs)
-- [cyber-security-with-hands-on-labs](https://labex.io/zh/courses/cyber-security-with-hands-on-labs)
+- [cybersecurity-labs-for-beginners](https://labex.io/zh/courses/cybersecurity-labs-for-beginners)
 - [docker-practice-challenges](https://labex.io/zh/courses/docker-practice-challenges)
 - [docker-practice-labs](https://labex.io/zh/courses/docker-practice-labs)
 - [foundations-of-deep-learning](https://labex.io/zh/courses/foundations-of-deep-learning)

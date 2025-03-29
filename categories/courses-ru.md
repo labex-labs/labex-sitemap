@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ru Sitemap
 
-> Last updated: 2025-03-28 00:03 UTC
+> Last updated: 2025-03-29 00:03 UTC
 
 This file contains all courses-ru related links from LabEx website.
 
@@ -27,7 +27,7 @@ This file contains all courses-ru related links from LabEx website.
 - [c-programming-for-beginners](https://labex.io/ru/courses/c-programming-for-beginners)
 - [cpp-practice-challenges](https://labex.io/ru/courses/cpp-practice-challenges)
 - [cpp-practice-labs](https://labex.io/ru/courses/cpp-practice-labs)
-- [cyber-security-with-hands-on-labs](https://labex.io/ru/courses/cyber-security-with-hands-on-labs)
+- [cybersecurity-labs-for-beginners](https://labex.io/ru/courses/cybersecurity-labs-for-beginners)
 - [docker-practice-challenges](https://labex.io/ru/courses/docker-practice-challenges)
 - [docker-practice-labs](https://labex.io/ru/courses/docker-practice-labs)
 - [foundations-of-deep-learning](https://labex.io/ru/courses/foundations-of-deep-learning)
