@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ja Sitemap
 
-> Last updated: 2025-03-30 00:04 UTC
+> Last updated: 2025-03-31 00:04 UTC
 
 This file contains all tutorials-ja related links from LabEx website.
 
@@ -563,7 +563,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [css-create-css3-transitions-with-timing-functions-451032](https://labex.io/ja/tutorials/css-create-css3-transitions-with-timing-functions-451032) *(Last modified: 2025-03-29)*
 - [css-create-fixed-positioning-layout-in-css-451033](https://labex.io/ja/tutorials/css-create-fixed-positioning-layout-in-css-451033) *(Last modified: 2025-03-29)*
 - [css-create-html-form-elements-with-input-types-451034](https://labex.io/ja/tutorials/css-create-html-form-elements-with-input-types-451034) *(Last modified: 2025-03-29)*
-- [css-create-html-lists-with-different-styles-451035](https://labex.io/ja/tutorials/css-create-html-lists-with-different-styles-451035) *(Last modified: 2025-03-29)*
+- [css-create-html-lists-with-different-styles-451035](https://labex.io/ja/tutorials/css-create-html-lists-with-different-styles-451035) *(Last modified: 2025-03-30)*
 - [css-create-html-tables-with-basic-attributes-451036](https://labex.io/ja/tutorials/css-create-html-tables-with-basic-attributes-451036) *(Last modified: 2025-03-29)*
 - [css-create-rotating-card-with-css-35235](https://labex.io/ja/tutorials/css-create-rotating-card-with-css-35235) *(Last modified: 2025-03-29)*
 - [css-create-rounded-corners-with-css-border-radius-451040](https://labex.io/ja/tutorials/css-create-rounded-corners-with-css-border-radius-451040) *(Last modified: 2025-03-29)*
@@ -1155,7 +1155,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [git-tagging-your-project-s-history-387763](https://labex.io/ja/tutorials/git-tagging-your-project-s-history-387763) *(Last modified: 2025-03-29)*
 - [git-the-time-traveler-s-dilemma-387733](https://labex.io/ja/tutorials/git-the-time-traveler-s-dilemma-387733) *(Last modified: 2025-03-29)*
 - [git-the-time-traveler-s-suitcase-387725](https://labex.io/ja/tutorials/git-the-time-traveler-s-suitcase-387725) *(Last modified: 2025-03-29)*
-- [git-the-time-traveling-developer-387759](https://labex.io/ja/tutorials/git-the-time-traveling-developer-387759) *(Last modified: 2025-03-29)*
+- [git-the-time-traveling-developer-387759](https://labex.io/ja/tutorials/git-the-time-traveling-developer-387759) *(Last modified: 2025-03-30)*
 - [git-time-machine-identity-configuration-387720](https://labex.io/ja/tutorials/git-time-machine-identity-configuration-387720) *(Last modified: 2025-03-29)*
 - [git-tracking-bugs-in-git-codebase-12739](https://labex.io/ja/tutorials/git-tracking-bugs-in-git-codebase-12739) *(Last modified: 2025-03-29)*
 - [git-understanding-the-git-merge-no-fast-forward-approach-411661](https://labex.io/ja/tutorials/git-understanding-the-git-merge-no-fast-forward-approach-411661) *(Last modified: 2025-03-16)*
@@ -2903,7 +2903,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [learn-sudo-privilege-escalation-methods-in-nmap-416145](https://labex.io/ja/tutorials/learn-sudo-privilege-escalation-methods-in-nmap-416145) *(Last modified: 2025-03-29)*
 - [line-with-text-48806](https://labex.io/ja/tutorials/line-with-text-48806) *(Last modified: 2025-03-29)*
 - [linux-add-logging-to-the-system-monitor-299447](https://labex.io/ja/tutorials/linux-add-logging-to-the-system-monitor-299447) *(Last modified: 2025-03-29)*
-- [linux-add-new-user-and-group-17987](https://labex.io/ja/tutorials/linux-add-new-user-and-group-17987) *(Last modified: 2025-03-29)*
+- [linux-add-new-user-and-group-17987](https://labex.io/ja/tutorials/linux-add-new-user-and-group-17987) *(Last modified: 2025-03-30)*
 - [linux-analyze-historical-commands-17988](https://labex.io/ja/tutorials/linux-analyze-historical-commands-17988) *(Last modified: 2025-03-29)*
 - [linux-analyzing-disk-usage-7775](https://labex.io/ja/tutorials/linux-analyzing-disk-usage-7775) *(Last modified: 2025-03-29)*
 - [linux-analyzing-path-directories-385344](https://labex.io/ja/tutorials/linux-analyzing-path-directories-385344) *(Last modified: 2025-03-29)*
@@ -3135,7 +3135,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [linux-introductory-labex-programming-tutorial-189472](https://labex.io/ja/tutorials/linux-introductory-labex-programming-tutorial-189472) *(Last modified: 2025-03-29)*
 - [linux-json-data-processing-with-jq-279945](https://labex.io/ja/tutorials/linux-json-data-processing-with-jq-279945) *(Last modified: 2025-03-29)*
 - [linux-linux-aplay-command-with-practical-examples-422545](https://labex.io/ja/tutorials/linux-linux-aplay-command-with-practical-examples-422545) *(Last modified: 2025-03-16)*
-- [linux-linux-arithmetic-calculations-271229](https://labex.io/ja/tutorials/linux-linux-arithmetic-calculations-271229) *(Last modified: 2025-03-29)*
+- [linux-linux-arithmetic-calculations-271229](https://labex.io/ja/tutorials/linux-linux-arithmetic-calculations-271229) *(Last modified: 2025-03-30)*
 - [linux-linux-awk-command-text-processing-388493](https://labex.io/ja/tutorials/linux-linux-awk-command-text-processing-388493) *(Last modified: 2025-03-29)*
 - [linux-linux-background-management-271231](https://labex.io/ja/tutorials/linux-linux-background-management-271231) *(Last modified: 2025-03-29)*
 - [linux-linux-background-running-271233](https://labex.io/ja/tutorials/linux-linux-background-running-271233) *(Last modified: 2025-03-29)*

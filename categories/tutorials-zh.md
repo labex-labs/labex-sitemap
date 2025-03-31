@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-03-30 00:04 UTC
+> Last updated: 2025-03-31 00:04 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -1187,7 +1187,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [css-create-css3-transitions-with-timing-functions-451032](https://labex.io/zh/tutorials/css-create-css3-transitions-with-timing-functions-451032) *(Last modified: 2025-03-29)*
 - [css-create-fixed-positioning-layout-in-css-451033](https://labex.io/zh/tutorials/css-create-fixed-positioning-layout-in-css-451033) *(Last modified: 2025-03-29)*
 - [css-create-html-form-elements-with-input-types-451034](https://labex.io/zh/tutorials/css-create-html-form-elements-with-input-types-451034) *(Last modified: 2025-03-29)*
-- [css-create-html-lists-with-different-styles-451035](https://labex.io/zh/tutorials/css-create-html-lists-with-different-styles-451035) *(Last modified: 2025-03-29)*
+- [css-create-html-lists-with-different-styles-451035](https://labex.io/zh/tutorials/css-create-html-lists-with-different-styles-451035) *(Last modified: 2025-03-30)*
 - [css-create-html-tables-with-basic-attributes-451036](https://labex.io/zh/tutorials/css-create-html-tables-with-basic-attributes-451036) *(Last modified: 2025-03-29)*
 - [css-create-rotating-card-with-css-35235](https://labex.io/zh/tutorials/css-create-rotating-card-with-css-35235) *(Last modified: 2025-03-29)*
 - [css-create-rounded-corners-with-css-border-radius-451040](https://labex.io/zh/tutorials/css-create-rounded-corners-with-css-border-radius-451040) *(Last modified: 2025-03-29)*
@@ -2811,7 +2811,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-the-role-of-the-git-commit-command-in-software-development-398349](https://labex.io/zh/tutorials/git-the-role-of-the-git-commit-command-in-software-development-398349) *(Last modified: 2025-03-16)*
 - [git-the-time-traveler-s-dilemma-387733](https://labex.io/zh/tutorials/git-the-time-traveler-s-dilemma-387733) *(Last modified: 2025-03-29)*
 - [git-the-time-traveler-s-suitcase-387725](https://labex.io/zh/tutorials/git-the-time-traveler-s-suitcase-387725) *(Last modified: 2025-03-29)*
-- [git-the-time-traveling-developer-387759](https://labex.io/zh/tutorials/git-the-time-traveling-developer-387759) *(Last modified: 2025-03-29)*
+- [git-the-time-traveling-developer-387759](https://labex.io/zh/tutorials/git-the-time-traveling-developer-387759) *(Last modified: 2025-03-30)*
 - [git-time-machine-identity-configuration-387720](https://labex.io/zh/tutorials/git-time-machine-identity-configuration-387720) *(Last modified: 2025-03-29)*
 - [git-tracking-bugs-in-git-codebase-12739](https://labex.io/zh/tutorials/git-tracking-bugs-in-git-codebase-12739) *(Last modified: 2025-03-29)*
 - [git-troubleshoot-gitignore-not-working-in-git-391597](https://labex.io/zh/tutorials/git-troubleshoot-gitignore-not-working-in-git-391597) *(Last modified: 2025-03-01)*
@@ -6838,7 +6838,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-a-step-by-step-guide-to-uncompressing-linux-zip-archives-392960](https://labex.io/zh/tutorials/linux-a-step-by-step-guide-to-uncompressing-linux-zip-archives-392960) *(Last modified: 2025-03-16)*
 - [linux-a-step-by-step-tutorial-for-relocating-files-to-linux-392880](https://labex.io/zh/tutorials/linux-a-step-by-step-tutorial-for-relocating-files-to-linux-392880) *(Last modified: 2025-03-16)*
 - [linux-add-logging-to-the-system-monitor-299447](https://labex.io/zh/tutorials/linux-add-logging-to-the-system-monitor-299447) *(Last modified: 2025-03-29)*
-- [linux-add-new-user-and-group-17987](https://labex.io/zh/tutorials/linux-add-new-user-and-group-17987) *(Last modified: 2025-03-29)*
+- [linux-add-new-user-and-group-17987](https://labex.io/zh/tutorials/linux-add-new-user-and-group-17987) *(Last modified: 2025-03-30)*
 - [linux-analyze-code-quality-with-the-cloc-tool-421925](https://labex.io/zh/tutorials/linux-analyze-code-quality-with-the-cloc-tool-421925) *(Last modified: 2025-03-16)*
 - [linux-analyze-historical-commands-17988](https://labex.io/zh/tutorials/linux-analyze-historical-commands-17988) *(Last modified: 2025-03-29)*
 - [linux-analyze-programming-language-usage-with-linux-tools-421924](https://labex.io/zh/tutorials/linux-analyze-programming-language-usage-with-linux-tools-421924) *(Last modified: 2025-03-16)*
@@ -8313,7 +8313,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-aptitude-command-with-practical-examples-422551](https://labex.io/zh/tutorials/linux-linux-aptitude-command-with-practical-examples-422551) *(Last modified: 2025-03-16)*
 - [linux-linux-ar-command-with-practical-examples-422552](https://labex.io/zh/tutorials/linux-linux-ar-command-with-practical-examples-422552) *(Last modified: 2025-03-16)*
 - [linux-linux-arch-command-with-practical-examples-422553](https://labex.io/zh/tutorials/linux-linux-arch-command-with-practical-examples-422553) *(Last modified: 2025-03-16)*
-- [linux-linux-arithmetic-calculations-271229](https://labex.io/zh/tutorials/linux-linux-arithmetic-calculations-271229) *(Last modified: 2025-03-29)*
+- [linux-linux-arithmetic-calculations-271229](https://labex.io/zh/tutorials/linux-linux-arithmetic-calculations-271229) *(Last modified: 2025-03-30)*
 - [linux-linux-arp-command-with-practical-examples-422554](https://labex.io/zh/tutorials/linux-linux-arp-command-with-practical-examples-422554) *(Last modified: 2025-03-16)*
 - [linux-linux-arpwatch-command-with-practical-examples-422555](https://labex.io/zh/tutorials/linux-linux-arpwatch-command-with-practical-examples-422555) *(Last modified: 2025-03-16)*
 - [linux-linux-aspell-command-with-practical-examples-422556](https://labex.io/zh/tutorials/linux-linux-aspell-command-with-practical-examples-422556) *(Last modified: 2025-03-16)*
