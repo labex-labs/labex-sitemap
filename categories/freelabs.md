@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs Sitemap
 
-> Last updated: 2025-04-01 00:03 UTC
+> Last updated: 2025-04-02 00:03 UTC
 
 This file contains all freelabs related links from LabEx website.
 
@@ -29,6 +29,7 @@ This file contains all freelabs related links from LabEx website.
 - [git](https://labex.io/free-labs/git)
 - [go](https://labex.io/free-labs/go)
 - [html](https://labex.io/free-labs/html)
+- [hydra](https://labex.io/free-labs/hydra)
 - [java](https://labex.io/free-labs/java)
 - [javascript](https://labex.io/free-labs/javascript)
 - [kubernetes](https://labex.io/free-labs/kubernetes)

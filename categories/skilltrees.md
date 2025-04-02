@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees Sitemap
 
-> Last updated: 2025-04-01 00:03 UTC
+> Last updated: 2025-04-02 00:03 UTC
 
 This file contains all skilltrees related links from LabEx website.
 
@@ -28,6 +28,7 @@ This file contains all skilltrees related links from LabEx website.
 - [git](https://labex.io/skilltrees/git)
 - [go](https://labex.io/skilltrees/go)
 - [html](https://labex.io/skilltrees/html)
+- [hydra](https://labex.io/skilltrees/hydra)
 - [java](https://labex.io/skilltrees/java)
 - [javascript](https://labex.io/skilltrees/javascript)
 - [kubernetes](https://labex.io/skilltrees/kubernetes)
@@ -103,6 +104,7 @@ This file contains all skilltrees related links from LabEx website.
 - [MultimediaandGraphicsGroup](https://labex.io/skilltrees/html/groups/MultimediaandGraphicsGroup)
 - [TablesGroup](https://labex.io/skilltrees/html/groups/TablesGroup)
 - [TextContentandFormattingGroup](https://labex.io/skilltrees/html/groups/TextContentandFormattingGroup)
+- [HydraGroup](https://labex.io/skilltrees/hydra/groups/HydraGroup)
 - [BasicSyntaxGroup](https://labex.io/skilltrees/java/groups/BasicSyntaxGroup)
 - [ConcurrentandNetworkProgrammingGroup](https://labex.io/skilltrees/java/groups/ConcurrentandNetworkProgrammingGroup)
 - [DataStructuresGroup](https://labex.io/skilltrees/java/groups/DataStructuresGroup)
@@ -476,6 +478,31 @@ This file contains all skilltrees related links from LabEx website.
 - [quotes](https://labex.io/skilltrees/html/groups/TextContentandFormattingGroup/skills/quotes)
 - [text-dir](https://labex.io/skilltrees/html/groups/TextContentandFormattingGroup/skills/text-dir)
 - [text-head](https://labex.io/skilltrees/html/groups/TextContentandFormattingGroup/skills/text-head)
+- [basic-structure](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/basic-structure)
+- [combination-attack](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/combination-attack)
+- [custom-port](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/custom-port)
+- [error-handling](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/error-handling)
+- [ftp-attack](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/ftp-attack)
+- [http-form](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/http-form)
+- [installation](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/installation)
+- [multiple-targets](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/multiple-targets)
+- [output-saving](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/output-saving)
+- [password-creation](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/password-creation)
+- [proxy-config](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/proxy-config)
+- [rate-control](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/rate-control)
+- [service-options](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/service-options)
+- [session-management](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/session-management)
+- [single-password](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/single-password)
+- [single-username](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/single-username)
+- [ssh-attack](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/ssh-attack)
+- [success-detection](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/success-detection)
+- [target-ip](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/target-ip)
+- [target-service](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/target-service)
+- [task-limit](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/task-limit)
+- [timeout-setting](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/timeout-setting)
+- [troubleshooting](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/troubleshooting)
+- [username-creation](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/username-creation)
+- [verbose-mode](https://labex.io/skilltrees/hydra/groups/HydraGroup/skills/verbose-mode)
 - [booleans](https://labex.io/skilltrees/java/groups/BasicSyntaxGroup/skills/booleans)
 - [break-continue](https://labex.io/skilltrees/java/groups/BasicSyntaxGroup/skills/break-continue)
 - [comments](https://labex.io/skilltrees/java/groups/BasicSyntaxGroup/skills/comments)
@@ -1053,6 +1080,7 @@ This file contains all skilltrees related links from LabEx website.
 - [git](https://labex.io/tutorials/category/git)
 - [go](https://labex.io/tutorials/category/go)
 - [html](https://labex.io/tutorials/category/html)
+- [hydra](https://labex.io/tutorials/category/hydra)
 - [java](https://labex.io/tutorials/category/java)
 - [javascript](https://labex.io/tutorials/category/javascript)
 - [kubernetes](https://labex.io/tutorials/category/kubernetes)
