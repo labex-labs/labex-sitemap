@@ -6,7 +6,7 @@ layout: default
 
 [LabEx](https://labex.io) is a hands-on learning platform for Linux, DevOps, and Cybersecurity. Learn by doing with guided labs, courses, and tutorials. Get started for free!
 
-> Last updated: 2025-04-02 00:03 UTC
+> Last updated: 2025-04-03 00:03 UTC
 
 This repository maintains an auto-updated list of LabEx website sitemaps.
 
@@ -36,12 +36,12 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Skilltrees-Ja](categories/skilltrees-ja.md) (1078 links)
 - [Skilltrees-Ru](categories/skilltrees-ru.md) (1078 links)
 - [Skilltrees-Zh](categories/skilltrees-zh.md) (1078 links)
-- [Tutorials](categories/tutorials.md) (14646 links)
-- [Tutorials-De](categories/tutorials-de.md) (6114 links)
-- [Tutorials-Es](categories/tutorials-es.md) (6114 links)
-- [Tutorials-Fr](categories/tutorials-fr.md) (6114 links)
-- [Tutorials-Ja](categories/tutorials-ja.md) (6114 links)
-- [Tutorials-Ru](categories/tutorials-ru.md) (6114 links)
-- [Tutorials-Zh](categories/tutorials-zh.md) (14476 links)
+- [Tutorials](categories/tutorials.md) (14666 links)
+- [Tutorials-De](categories/tutorials-de.md) (6134 links)
+- [Tutorials-Es](categories/tutorials-es.md) (6134 links)
+- [Tutorials-Fr](categories/tutorials-fr.md) (6134 links)
+- [Tutorials-Ja](categories/tutorials-ja.md) (6134 links)
+- [Tutorials-Ru](categories/tutorials-ru.md) (6134 links)
+- [Tutorials-Zh](categories/tutorials-zh.md) (14496 links)
 
-> **Total Links: 72573**
+> **Total Links: 72713**
