@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs Sitemap
 
-> Last updated: 2025-04-03 00:03 UTC
+> Last updated: 2025-04-04 00:03 UTC
 
 This file contains all freelabs related links from LabEx website.
 
@@ -19,11 +19,13 @@ This file contains all freelabs related links from LabEx website.
 
 - [alibabacloud](https://labex.io/free-labs/alibabacloud)
 - [ansible](https://labex.io/free-labs/ansible)
+- [bigdata](https://labex.io/free-labs/bigdata)
 - [c](https://labex.io/free-labs/c)
 - [cpp](https://labex.io/free-labs/cpp)
 - [css](https://labex.io/free-labs/css)
 - [cybersecurity](https://labex.io/free-labs/cybersecurity)
 - [data-science](https://labex.io/free-labs/data-science)
+- [database](https://labex.io/free-labs/database)
 - [devops](https://labex.io/free-labs/devops)
 - [docker](https://labex.io/free-labs/docker)
 - [git](https://labex.io/free-labs/git)

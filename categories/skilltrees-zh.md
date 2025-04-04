@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Zh Sitemap
 
-> Last updated: 2025-04-03 00:03 UTC
+> Last updated: 2025-04-04 00:03 UTC
 
 This file contains all skilltrees-zh related links from LabEx website.
 
@@ -18,11 +18,13 @@ This file contains all skilltrees-zh related links from LabEx website.
 ### zh
 
 - [ansible](https://labex.io/zh/skilltrees/ansible)
+- [bigdata](https://labex.io/zh/skilltrees/bigdata)
 - [c](https://labex.io/zh/skilltrees/c)
 - [cpp](https://labex.io/zh/skilltrees/cpp)
 - [css](https://labex.io/zh/skilltrees/css)
 - [cybersecurity](https://labex.io/zh/skilltrees/cybersecurity)
 - [data-science](https://labex.io/zh/skilltrees/data-science)
+- [database](https://labex.io/zh/skilltrees/database)
 - [devops](https://labex.io/zh/skilltrees/devops)
 - [docker](https://labex.io/zh/skilltrees/docker)
 - [git](https://labex.io/zh/skilltrees/git)
@@ -47,11 +49,13 @@ This file contains all skilltrees-zh related links from LabEx website.
 - [web-development](https://labex.io/zh/skilltrees/web-development)
 - [wireshark](https://labex.io/zh/skilltrees/wireshark)
 - [ansible](https://labex.io/zh/tutorials/category/ansible)
+- [bigdata](https://labex.io/zh/tutorials/category/bigdata)
 - [c](https://labex.io/zh/tutorials/category/c)
 - [cpp](https://labex.io/zh/tutorials/category/cpp)
 - [css](https://labex.io/zh/tutorials/category/css)
 - [cybersecurity](https://labex.io/zh/tutorials/category/cybersecurity)
 - [data-science](https://labex.io/zh/tutorials/category/data-science)
+- [database](https://labex.io/zh/tutorials/category/database)
 - [devops](https://labex.io/zh/tutorials/category/devops)
 - [docker](https://labex.io/zh/tutorials/category/docker)
 - [git](https://labex.io/zh/tutorials/category/git)

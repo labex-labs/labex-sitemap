@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees Sitemap
 
-> Last updated: 2025-04-03 00:03 UTC
+> Last updated: 2025-04-04 00:03 UTC
 
 This file contains all skilltrees related links from LabEx website.
 
@@ -18,11 +18,13 @@ This file contains all skilltrees related links from LabEx website.
 ### skilltrees
 
 - [ansible](https://labex.io/skilltrees/ansible)
+- [bigdata](https://labex.io/skilltrees/bigdata)
 - [c](https://labex.io/skilltrees/c)
 - [cpp](https://labex.io/skilltrees/cpp)
 - [css](https://labex.io/skilltrees/css)
 - [cybersecurity](https://labex.io/skilltrees/cybersecurity)
 - [data-science](https://labex.io/skilltrees/data-science)
+- [database](https://labex.io/skilltrees/database)
 - [devops](https://labex.io/skilltrees/devops)
 - [docker](https://labex.io/skilltrees/docker)
 - [git](https://labex.io/skilltrees/git)
@@ -1070,11 +1072,13 @@ This file contains all skilltrees related links from LabEx website.
 ### tutorials
 
 - [ansible](https://labex.io/tutorials/category/ansible)
+- [bigdata](https://labex.io/tutorials/category/bigdata)
 - [c](https://labex.io/tutorials/category/c)
 - [cpp](https://labex.io/tutorials/category/cpp)
 - [css](https://labex.io/tutorials/category/css)
 - [cybersecurity](https://labex.io/tutorials/category/cybersecurity)
 - [data-science](https://labex.io/tutorials/category/data-science)
+- [database](https://labex.io/tutorials/category/database)
 - [devops](https://labex.io/tutorials/category/devops)
 - [docker](https://labex.io/tutorials/category/docker)
 - [git](https://labex.io/tutorials/category/git)
