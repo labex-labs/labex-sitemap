@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-04-04 00:03 UTC
+> Last updated: 2025-04-05 00:03 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -9751,16 +9751,36 @@ This file contains all tutorials-zh related links from LabEx website.
 - [mysql-managing-database-indexes-in-mysql-301274](https://labex.io/zh/tutorials/mysql-managing-database-indexes-in-mysql-301274) *(Last modified: 2025-03-16)*
 - [mysql-modify-primary-key-of-countrylanguage-table-301358](https://labex.io/zh/tutorials/mysql-modify-primary-key-of-countrylanguage-table-301358) *(Last modified: 2025-03-16)*
 - [mysql-modify-student-table-attributes-301360](https://labex.io/zh/tutorials/mysql-modify-student-table-attributes-301360) *(Last modified: 2025-03-16)*
+- [mysql-mysql-backup-and-recovery-550902](https://labex.io/zh/tutorials/mysql-mysql-backup-and-recovery-550902) *(Last modified: 2025-04-04)*
+- [mysql-mysql-common-table-expressions-ctes-550903](https://labex.io/zh/tutorials/mysql-mysql-common-table-expressions-ctes-550903) *(Last modified: 2025-04-04)*
+- [mysql-mysql-configuration-and-tuning-550904](https://labex.io/zh/tutorials/mysql-mysql-configuration-and-tuning-550904) *(Last modified: 2025-04-04)*
 - [mysql-mysql-data-aggregation-and-grouping-418304](https://labex.io/zh/tutorials/mysql-mysql-data-aggregation-and-grouping-418304) *(Last modified: 2025-04-01)*
 - [mysql-mysql-data-filtering-and-sorting-418305](https://labex.io/zh/tutorials/mysql-mysql-data-filtering-and-sorting-418305) *(Last modified: 2025-04-01)*
 - [mysql-mysql-database-access-challenge-418300](https://labex.io/zh/tutorials/mysql-mysql-database-access-challenge-418300) *(Last modified: 2025-04-01)*
 - [mysql-mysql-database-administration-essentials-301428](https://labex.io/zh/tutorials/mysql-mysql-database-administration-essentials-301428) *(Last modified: 2025-03-16)*
 - [mysql-mysql-database-management-301338](https://labex.io/zh/tutorials/mysql-mysql-database-management-301338) *(Last modified: 2025-03-16)*
 - [mysql-mysql-database-management-fundamentals-301326](https://labex.io/zh/tutorials/mysql-mysql-database-management-fundamentals-301326) *(Last modified: 2025-04-01)*
+- [mysql-mysql-error-handling-and-logging-550905](https://labex.io/zh/tutorials/mysql-mysql-error-handling-and-logging-550905) *(Last modified: 2025-04-04)*
+- [mysql-mysql-event-scheduler-550906](https://labex.io/zh/tutorials/mysql-mysql-event-scheduler-550906) *(Last modified: 2025-04-04)*
+- [mysql-mysql-full-text-search-capabilities-550907](https://labex.io/zh/tutorials/mysql-mysql-full-text-search-capabilities-550907) *(Last modified: 2025-04-04)*
+- [mysql-mysql-functions-and-custom-logic-550908](https://labex.io/zh/tutorials/mysql-mysql-functions-and-custom-logic-550908) *(Last modified: 2025-04-04)*
+- [mysql-mysql-import-and-export-operations-550909](https://labex.io/zh/tutorials/mysql-mysql-import-and-export-operations-550909) *(Last modified: 2025-04-04)*
+- [mysql-mysql-indexes-and-performance-optimization-550910](https://labex.io/zh/tutorials/mysql-mysql-indexes-and-performance-optimization-550910) *(Last modified: 2025-04-04)*
+- [mysql-mysql-json-data-handling-550911](https://labex.io/zh/tutorials/mysql-mysql-json-data-handling-550911) *(Last modified: 2025-04-04)*
 - [mysql-mysql-multi-table-operations-418306](https://labex.io/zh/tutorials/mysql-mysql-multi-table-operations-418306) *(Last modified: 2025-04-01)*
+- [mysql-mysql-partitioning-for-large-datasets-550912](https://labex.io/zh/tutorials/mysql-mysql-partitioning-for-large-datasets-550912) *(Last modified: 2025-04-04)*
+- [mysql-mysql-replication-basics-550913](https://labex.io/zh/tutorials/mysql-mysql-replication-basics-550913) *(Last modified: 2025-04-04)*
 - [mysql-mysql-sales-data-analysis-challenge-418301](https://labex.io/zh/tutorials/mysql-mysql-sales-data-analysis-challenge-418301) *(Last modified: 2025-04-01)*
+- [mysql-mysql-security-best-practices-550914](https://labex.io/zh/tutorials/mysql-mysql-security-best-practices-550914) *(Last modified: 2025-04-04)*
+- [mysql-mysql-stored-procedures-basics-550915](https://labex.io/zh/tutorials/mysql-mysql-stored-procedures-basics-550915) *(Last modified: 2025-04-04)*
+- [mysql-mysql-subqueries-and-nested-operations-550916](https://labex.io/zh/tutorials/mysql-mysql-subqueries-and-nested-operations-550916) *(Last modified: 2025-04-04)*
 - [mysql-mysql-table-structure-and-data-types-418307](https://labex.io/zh/tutorials/mysql-mysql-table-structure-and-data-types-418307) *(Last modified: 2025-04-01)*
+- [mysql-mysql-temporary-tables-and-session-data-550917](https://labex.io/zh/tutorials/mysql-mysql-temporary-tables-and-session-data-550917) *(Last modified: 2025-04-04)*
+- [mysql-mysql-transactions-and-data-integrity-550918](https://labex.io/zh/tutorials/mysql-mysql-transactions-and-data-integrity-550918) *(Last modified: 2025-04-04)*
+- [mysql-mysql-triggers-for-automation-550919](https://labex.io/zh/tutorials/mysql-mysql-triggers-for-automation-550919) *(Last modified: 2025-04-04)*
 - [mysql-mysql-user-and-privileges-management-418308](https://labex.io/zh/tutorials/mysql-mysql-user-and-privileges-management-418308) *(Last modified: 2025-04-01)*
+- [mysql-mysql-views-and-virtual-tables-550920](https://labex.io/zh/tutorials/mysql-mysql-views-and-virtual-tables-550920) *(Last modified: 2025-04-04)*
+- [mysql-mysql-window-functions-550921](https://labex.io/zh/tutorials/mysql-mysql-window-functions-550921) *(Last modified: 2025-04-04)*
 - [mysql-obtain-pi-with-two-decimals-301368](https://labex.io/zh/tutorials/mysql-obtain-pi-with-two-decimals-301368) *(Last modified: 2025-03-16)*
 - [mysql-online-mysql-playground-372916](https://labex.io/zh/tutorials/mysql-online-mysql-playground-372916) *(Last modified: 2025-04-01)*
 - [mysql-print-current-login-user-information-301374](https://labex.io/zh/tutorials/mysql-print-current-login-user-information-301374) *(Last modified: 2025-03-16)*
@@ -10311,6 +10331,30 @@ This file contains all tutorials-zh related links from LabEx website.
 - [pandas-your-first-pandas-lab-92727](https://labex.io/zh/tutorials/pandas-your-first-pandas-lab-92727) *(Last modified: 2025-04-01)*
 - [perform-sql-injection-experiments-in-nmap-416150](https://labex.io/zh/tutorials/perform-sql-injection-experiments-in-nmap-416150) *(Last modified: 2025-04-01)*
 - [perform-wildcard-injection-in-nmap-for-privilege-escalation-416144](https://labex.io/zh/tutorials/perform-wildcard-injection-in-nmap-for-privilege-escalation-416144) *(Last modified: 2025-04-01)*
+- [postgresql-basic-data-operations-in-postgresql-550897](https://labex.io/zh/tutorials/postgresql-basic-data-operations-in-postgresql-550897) *(Last modified: 2025-04-04)*
+- [postgresql-data-filtering-and-simple-queries-in-postgresql-550898](https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550898) *(Last modified: 2025-04-04)*
+- [postgresql-database-management-basics-with-postgresql-550899](https://labex.io/zh/tutorials/postgresql-database-management-basics-with-postgresql-550899) *(Last modified: 2025-04-04)*
+- [postgresql-installation-and-initial-setup-of-postgresql-550900](https://labex.io/zh/tutorials/postgresql-installation-and-initial-setup-of-postgresql-550900) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-advanced-data-types-550947](https://labex.io/zh/tutorials/postgresql-postgresql-advanced-data-types-550947) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-advanced-query-writing-550948](https://labex.io/zh/tutorials/postgresql-postgresql-advanced-query-writing-550948) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-backup-and-restore-550949](https://labex.io/zh/tutorials/postgresql-postgresql-backup-and-restore-550949) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-date-and-time-operations-550951](https://labex.io/zh/tutorials/postgresql-postgresql-date-and-time-operations-550951) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-error-handling-550952](https://labex.io/zh/tutorials/postgresql-postgresql-error-handling-550952) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-event-trigger-setup-550953](https://labex.io/zh/tutorials/postgresql-postgresql-event-trigger-setup-550953) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-full-text-search-550954](https://labex.io/zh/tutorials/postgresql-postgresql-full-text-search-550954) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-index-optimization-550955](https://labex.io/zh/tutorials/postgresql-postgresql-index-optimization-550955) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-json-jsonb-advanced-operations-550956](https://labex.io/zh/tutorials/postgresql-postgresql-json-jsonb-advanced-operations-550956) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-pgbouncer-connection-pooling-550957](https://labex.io/zh/tutorials/postgresql-postgresql-pgbouncer-connection-pooling-550957) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-postgis-extension-550958](https://labex.io/zh/tutorials/postgresql-postgresql-postgis-extension-550958) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-relationships-and-joins-550959](https://labex.io/zh/tutorials/postgresql-postgresql-relationships-and-joins-550959) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-role-and-permission-management-550960](https://labex.io/zh/tutorials/postgresql-postgresql-role-and-permission-management-550960) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-stored-function-development-550961](https://labex.io/zh/tutorials/postgresql-postgresql-stored-function-development-550961) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-streaming-replication-550962](https://labex.io/zh/tutorials/postgresql-postgresql-streaming-replication-550962) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-table-creation-and-data-types-550901](https://labex.io/zh/tutorials/postgresql-postgresql-table-creation-and-data-types-550901) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-table-partitioning-550963](https://labex.io/zh/tutorials/postgresql-postgresql-table-partitioning-550963) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-transaction-management-550964](https://labex.io/zh/tutorials/postgresql-postgresql-transaction-management-550964) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-trigger-automation-550965](https://labex.io/zh/tutorials/postgresql-postgresql-trigger-automation-550965) *(Last modified: 2025-04-04)*
+- [postgresql-postgresql-views-management-550966](https://labex.io/zh/tutorials/postgresql-postgresql-views-management-550966) *(Last modified: 2025-04-04)*
 - [practice-linux-commands-hands-on-labs-398420](https://labex.io/zh/tutorials/practice-linux-commands-hands-on-labs-398420) *(Last modified: 2025-03-16)*
 - [python-3d-box-surface-plot-48587](https://labex.io/zh/tutorials/python-3d-box-surface-plot-48587) *(Last modified: 2025-04-01)*
 - [python-3d-plot-projection-types-48883](https://labex.io/zh/tutorials/python-3d-plot-projection-types-48883) *(Last modified: 2025-04-01)*
