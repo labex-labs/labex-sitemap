@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs Sitemap
 
-> Last updated: 2025-04-07 00:03 UTC
+> Last updated: 2025-04-08 00:04 UTC
 
 This file contains all freelabs related links from LabEx website.
 
@@ -43,6 +43,7 @@ This file contains all freelabs related links from LabEx website.
 - [nmap](https://labex.io/free-labs/nmap)
 - [numpy](https://labex.io/free-labs/numpy)
 - [pandas](https://labex.io/free-labs/pandas)
+- [postgresql](https://labex.io/free-labs/postgresql)
 - [python](https://labex.io/free-labs/python)
 - [react](https://labex.io/free-labs/react)
 - [shell](https://labex.io/free-labs/shell)
