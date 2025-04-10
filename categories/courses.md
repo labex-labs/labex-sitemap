@@ -4,7 +4,7 @@ layout: default
 
 # Courses Sitemap
 
-> Last updated: 2025-04-09 00:04 UTC
+> Last updated: 2025-04-10 00:03 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -479,6 +479,7 @@ This file contains all courses related links from LabEx website.
 - [quick-start-with-wireshark](https://labex.io/courses/quick-start-with-wireshark)
 - [react-practice-challenges](https://labex.io/courses/react-practice-challenges)
 - [react-practice-labs](https://labex.io/courses/react-practice-labs)
+- [redis-for-beginners](https://labex.io/courses/redis-for-beginners)
 - [rust-practice-labs](https://labex.io/courses/rust-practice-labs)
 - [seaborn-data-visualization-basics](https://labex.io/courses/seaborn-data-visualization-basics)
 - [shell-practice-challenges](https://labex.io/courses/shell-practice-challenges)

@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ru Sitemap
 
-> Last updated: 2025-04-09 00:04 UTC
+> Last updated: 2025-04-10 00:03 UTC
 
 This file contains all courses-ru related links from LabEx website.
 
@@ -478,6 +478,7 @@ This file contains all courses-ru related links from LabEx website.
 - [quick-start-with-wireshark](https://labex.io/ru/courses/quick-start-with-wireshark)
 - [react-practice-challenges](https://labex.io/ru/courses/react-practice-challenges)
 - [react-practice-labs](https://labex.io/ru/courses/react-practice-labs)
+- [redis-for-beginners](https://labex.io/ru/courses/redis-for-beginners)
 - [rust-practice-labs](https://labex.io/ru/courses/rust-practice-labs)
 - [seaborn-data-visualization-basics](https://labex.io/ru/courses/seaborn-data-visualization-basics)
 - [shell-practice-challenges](https://labex.io/ru/courses/shell-practice-challenges)
