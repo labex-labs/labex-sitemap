@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Fr Sitemap
 
-> Last updated: 2025-04-10 00:03 UTC
+> Last updated: 2025-04-11 00:04 UTC
 
 This file contains all skilltrees-fr related links from LabEx website.
 
@@ -45,6 +45,7 @@ This file contains all skilltrees-fr related links from LabEx website.
 - [postgresql](https://labex.io/fr/skilltrees/postgresql)
 - [python](https://labex.io/fr/skilltrees/python)
 - [react](https://labex.io/fr/skilltrees/react)
+- [redis](https://labex.io/fr/skilltrees/redis)
 - [shell](https://labex.io/fr/skilltrees/shell)
 - [sklearn](https://labex.io/fr/skilltrees/sklearn)
 - [web-development](https://labex.io/fr/skilltrees/web-development)
@@ -77,6 +78,7 @@ This file contains all skilltrees-fr related links from LabEx website.
 - [postgresql](https://labex.io/fr/tutorials/category/postgresql)
 - [python](https://labex.io/fr/tutorials/category/python)
 - [react](https://labex.io/fr/tutorials/category/react)
+- [redis](https://labex.io/fr/tutorials/category/redis)
 - [shell](https://labex.io/fr/tutorials/category/shell)
 - [sklearn](https://labex.io/fr/tutorials/category/sklearn)
 - [web-development](https://labex.io/fr/tutorials/category/web-development)
@@ -233,6 +235,7 @@ This file contains all skilltrees-fr related links from LabEx website.
 - [RoutingGroup](https://labex.io/fr/skilltrees/react/groups/RoutingGroup)
 - [StateManagementGroup](https://labex.io/fr/skilltrees/react/groups/StateManagementGroup)
 - [StylingGroup](https://labex.io/fr/skilltrees/react/groups/StylingGroup)
+- [RedisGroup](https://labex.io/fr/skilltrees/redis/groups/RedisGroup)
 - [AdvancedScriptingConceptsGroup](https://labex.io/fr/skilltrees/shell/groups/AdvancedScriptingConceptsGroup)
 - [BasicSyntaxandStructureGroup](https://labex.io/fr/skilltrees/shell/groups/BasicSyntaxandStructureGroup)
 - [ControlFlowGroup](https://labex.io/fr/skilltrees/shell/groups/ControlFlowGroup)
@@ -1056,6 +1059,26 @@ This file contains all skilltrees-fr related links from LabEx website.
 - [context-state](https://labex.io/fr/skilltrees/react/groups/StateManagementGroup/skills/context-state)
 - [use-state-reducer](https://labex.io/fr/skilltrees/react/groups/StateManagementGroup/skills/use-state-reducer)
 - [css-in-react](https://labex.io/fr/skilltrees/react/groups/StylingGroup/skills/css-in-react)
+- [access-cli](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/access-cli)
+- [add-left](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/add-left)
+- [add-right](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/add-right)
+- [count-list](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/count-list)
+- [decrement-int](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/decrement-int)
+- [delete-set](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/delete-set)
+- [expire-key](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/expire-key)
+- [fetch-range](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/fetch-range)
+- [fetch-string](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/fetch-string)
+- [increment-int](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/increment-int)
+- [insert-set](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/insert-set)
+- [launch-server](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/launch-server)
+- [remove-key](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/remove-key)
+- [remove-left](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/remove-left)
+- [remove-right](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/remove-right)
+- [setup-redis](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/setup-redis)
+- [store-string](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/store-string)
+- [verify-key](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/verify-key)
+- [verify-set](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/verify-set)
+- [view-set](https://labex.io/fr/skilltrees/redis/groups/RedisGroup/skills/view-set)
 - [adv-redirection](https://labex.io/fr/skilltrees/shell/groups/AdvancedScriptingConceptsGroup/skills/adv-redirection)
 - [arith-expansion](https://labex.io/fr/skilltrees/shell/groups/AdvancedScriptingConceptsGroup/skills/arith-expansion)
 - [arith-ops](https://labex.io/fr/skilltrees/shell/groups/AdvancedScriptingConceptsGroup/skills/arith-ops)
