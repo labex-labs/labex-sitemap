@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2025-04-11 00:04 UTC
+> Last updated: 2025-04-12 00:03 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -2904,7 +2904,7 @@ This file contains all tutorials related links from LabEx website.
 - [go-concurrent-goroutine-synchronization-15510](https://labex.io/tutorials/go-concurrent-goroutine-synchronization-15510) *(Last modified: 2025-04-10)*
 - [go-craft-a-personalized-go-greeting-435633](https://labex.io/tutorials/go-craft-a-personalized-go-greeting-435633) *(Last modified: 2025-04-10)*
 - [go-craft-book-inventory-variables-435684](https://labex.io/tutorials/go-craft-book-inventory-variables-435684) *(Last modified: 2025-04-10)*
-- [go-creating-and-importing-go-packages-149064](https://labex.io/tutorials/go-creating-and-importing-go-packages-149064) *(Last modified: 2025-04-10)*
+- [go-creating-and-importing-go-packages-149064](https://labex.io/tutorials/go-creating-and-importing-go-packages-149064) *(Last modified: 2025-04-11)*
 - [go-creating-and-manipulating-go-maps-15487](https://labex.io/tutorials/go-creating-and-manipulating-go-maps-15487) *(Last modified: 2025-04-10)*
 - [go-creating-closures-with-anonymous-functions-in-go-15461](https://labex.io/tutorials/go-creating-closures-with-anonymous-functions-in-go-15461) *(Last modified: 2025-04-10)*
 - [go-data-processing-with-operators-in-golang-149066](https://labex.io/tutorials/go-data-processing-with-operators-in-golang-149066) *(Last modified: 2025-04-10)*
@@ -3578,7 +3578,7 @@ This file contains all tutorials related links from LabEx website.
 - [go-multidimensional-arrays-in-golang-149076](https://labex.io/tutorials/go-multidimensional-arrays-in-golang-149076) *(Last modified: 2025-04-10)*
 - [go-multiple-return-values-15489](https://labex.io/tutorials/go-multiple-return-values-15489) *(Last modified: 2025-04-10)*
 - [go-non-blocking-channel-operations-15491](https://labex.io/tutorials/go-non-blocking-channel-operations-15491) *(Last modified: 2025-04-10)*
-- [go-numerical-types-in-golang-149067](https://labex.io/tutorials/go-numerical-types-in-golang-149067) *(Last modified: 2025-04-10)*
+- [go-numerical-types-in-golang-149067](https://labex.io/tutorials/go-numerical-types-in-golang-149067) *(Last modified: 2025-04-11)*
 - [go-online-golang-playground-372913](https://labex.io/tutorials/go-online-golang-playground-372913) *(Last modified: 2025-04-10)*
 - [go-parse-numbers-in-go-15492](https://labex.io/tutorials/go-parse-numbers-in-go-15492) *(Last modified: 2025-04-10)*
 - [go-parsing-urls-in-go-15525](https://labex.io/tutorials/go-parsing-urls-in-go-15525) *(Last modified: 2025-04-10)*
@@ -6492,11 +6492,11 @@ This file contains all tutorials related links from LabEx website.
 - [jquery-implement-user-login-function-445664](https://labex.io/tutorials/jquery-implement-user-login-function-445664) *(Last modified: 2025-03-16)*
 - [jquery-introduction-to-effects-153791](https://labex.io/tutorials/jquery-introduction-to-effects-153791) *(Last modified: 2025-04-10)*
 - [jquery-jquery-event-basics-153789](https://labex.io/tutorials/jquery-jquery-event-basics-153789) *(Last modified: 2025-04-10)*
-- [kali-basic-networking-tools-in-kali-552191](https://labex.io/tutorials/kali-basic-networking-tools-in-kali-552191) *(Last modified: 2025-04-10)*
-- [kali-exploring-kali-s-security-tools-552192](https://labex.io/tutorials/kali-exploring-kali-s-security-tools-552192) *(Last modified: 2025-04-10)*
-- [kali-managing-users-and-system-in-kali-552193](https://labex.io/tutorials/kali-managing-users-and-system-in-kali-552193) *(Last modified: 2025-04-10)*
-- [kali-navigating-and-managing-files-in-kali-552194](https://labex.io/tutorials/kali-navigating-and-managing-files-in-kali-552194) *(Last modified: 2025-04-10)*
-- [kali-setting-up-your-kali-linux-environment-552195](https://labex.io/tutorials/kali-setting-up-your-kali-linux-environment-552195) *(Last modified: 2025-04-10)*
+- [kali-basic-networking-tools-in-kali-552191](https://labex.io/tutorials/kali-basic-networking-tools-in-kali-552191) *(Last modified: 2025-04-11)*
+- [kali-exploring-kali-s-security-tools-552192](https://labex.io/tutorials/kali-exploring-kali-s-security-tools-552192) *(Last modified: 2025-04-11)*
+- [kali-managing-users-and-system-in-kali-552193](https://labex.io/tutorials/kali-managing-users-and-system-in-kali-552193) *(Last modified: 2025-04-11)*
+- [kali-navigating-and-managing-files-in-kali-552194](https://labex.io/tutorials/kali-navigating-and-managing-files-in-kali-552194) *(Last modified: 2025-04-11)*
+- [kali-setting-up-your-kali-linux-environment-552195](https://labex.io/tutorials/kali-setting-up-your-kali-linux-environment-552195) *(Last modified: 2025-04-11)*
 - [kubernetes-choosing-the-right-kubernetes-service-type-for-your-application-411645](https://labex.io/tutorials/kubernetes-choosing-the-right-kubernetes-service-type-for-your-application-411645) *(Last modified: 2025-03-16)*
 - [kubernetes-comprehensive-kubernetes-course-master-container-orchestration-391847](https://labex.io/tutorials/kubernetes-comprehensive-kubernetes-course-master-container-orchestration-391847) *(Last modified: 2025-04-09)*
 - [kubernetes-configure-kubernetes-proxy-for-network-routing-391799](https://labex.io/tutorials/kubernetes-configure-kubernetes-proxy-for-network-routing-391799) *(Last modified: 2025-03-16)*

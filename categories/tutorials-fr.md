@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Fr Sitemap
 
-> Last updated: 2025-04-11 00:04 UTC
+> Last updated: 2025-04-12 00:03 UTC
 
 This file contains all tutorials-fr related links from LabEx website.
 
@@ -1201,7 +1201,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [go-concurrent-goroutine-synchronization-15510](https://labex.io/fr/tutorials/go-concurrent-goroutine-synchronization-15510) *(Last modified: 2025-04-10)*
 - [go-craft-a-personalized-go-greeting-435633](https://labex.io/fr/tutorials/go-craft-a-personalized-go-greeting-435633) *(Last modified: 2025-04-10)*
 - [go-craft-book-inventory-variables-435684](https://labex.io/fr/tutorials/go-craft-book-inventory-variables-435684) *(Last modified: 2025-04-10)*
-- [go-creating-and-importing-go-packages-149064](https://labex.io/fr/tutorials/go-creating-and-importing-go-packages-149064) *(Last modified: 2025-04-10)*
+- [go-creating-and-importing-go-packages-149064](https://labex.io/fr/tutorials/go-creating-and-importing-go-packages-149064) *(Last modified: 2025-04-11)*
 - [go-creating-and-manipulating-go-maps-15487](https://labex.io/fr/tutorials/go-creating-and-manipulating-go-maps-15487) *(Last modified: 2025-04-10)*
 - [go-creating-closures-with-anonymous-functions-in-go-15461](https://labex.io/fr/tutorials/go-creating-closures-with-anonymous-functions-in-go-15461) *(Last modified: 2025-04-10)*
 - [go-data-processing-with-operators-in-golang-149066](https://labex.io/fr/tutorials/go-data-processing-with-operators-in-golang-149066) *(Last modified: 2025-04-10)*
@@ -1343,7 +1343,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [go-multidimensional-arrays-in-golang-149076](https://labex.io/fr/tutorials/go-multidimensional-arrays-in-golang-149076) *(Last modified: 2025-04-10)*
 - [go-multiple-return-values-15489](https://labex.io/fr/tutorials/go-multiple-return-values-15489) *(Last modified: 2025-04-10)*
 - [go-non-blocking-channel-operations-15491](https://labex.io/fr/tutorials/go-non-blocking-channel-operations-15491) *(Last modified: 2025-04-10)*
-- [go-numerical-types-in-golang-149067](https://labex.io/fr/tutorials/go-numerical-types-in-golang-149067) *(Last modified: 2025-04-10)*
+- [go-numerical-types-in-golang-149067](https://labex.io/fr/tutorials/go-numerical-types-in-golang-149067) *(Last modified: 2025-04-11)*
 - [go-online-golang-playground-372913](https://labex.io/fr/tutorials/go-online-golang-playground-372913) *(Last modified: 2025-04-10)*
 - [go-parse-numbers-in-go-15492](https://labex.io/fr/tutorials/go-parse-numbers-in-go-15492) *(Last modified: 2025-04-10)*
 - [go-parsing-urls-in-go-15525](https://labex.io/fr/tutorials/go-parsing-urls-in-go-15525) *(Last modified: 2025-04-10)*
@@ -2835,6 +2835,11 @@ This file contains all tutorials-fr related links from LabEx website.
 - [jquery-implement-user-login-function-445664](https://labex.io/fr/tutorials/jquery-implement-user-login-function-445664) *(Last modified: 2025-03-16)*
 - [jquery-introduction-to-effects-153791](https://labex.io/fr/tutorials/jquery-introduction-to-effects-153791) *(Last modified: 2025-04-10)*
 - [jquery-jquery-event-basics-153789](https://labex.io/fr/tutorials/jquery-jquery-event-basics-153789) *(Last modified: 2025-04-10)*
+- [kali-basic-networking-tools-in-kali-552191](https://labex.io/fr/tutorials/kali-basic-networking-tools-in-kali-552191) *(Last modified: 2025-04-11)*
+- [kali-exploring-kali-s-security-tools-552192](https://labex.io/fr/tutorials/kali-exploring-kali-s-security-tools-552192) *(Last modified: 2025-04-11)*
+- [kali-managing-users-and-system-in-kali-552193](https://labex.io/fr/tutorials/kali-managing-users-and-system-in-kali-552193) *(Last modified: 2025-04-11)*
+- [kali-navigating-and-managing-files-in-kali-552194](https://labex.io/fr/tutorials/kali-navigating-and-managing-files-in-kali-552194) *(Last modified: 2025-04-11)*
+- [kali-setting-up-your-kali-linux-environment-552195](https://labex.io/fr/tutorials/kali-setting-up-your-kali-linux-environment-552195) *(Last modified: 2025-04-11)*
 - [kubernetes-configuring-apps-with-configmaps-9689](https://labex.io/fr/tutorials/kubernetes-configuring-apps-with-configmaps-9689) *(Last modified: 2025-04-10)*
 - [kubernetes-configuring-apps-with-secrets-8448](https://labex.io/fr/tutorials/kubernetes-configuring-apps-with-secrets-8448) *(Last modified: 2025-04-10)*
 - [kubernetes-connecting-pods-with-kubernetes-services-15815](https://labex.io/fr/tutorials/kubernetes-connecting-pods-with-kubernetes-services-15815) *(Last modified: 2025-04-10)*
