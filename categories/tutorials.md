@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2025-04-12 00:03 UTC
+> Last updated: 2025-04-13 00:27 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -713,7 +713,7 @@ This file contains all tutorials related links from LabEx website.
 - [capture-packets-in-tshark-549928](https://labex.io/tutorials/capture-packets-in-tshark-549928) *(Last modified: 2025-03-28)*
 - [construction-brute-force-web-password-cracking-289569](https://labex.io/tutorials/construction-brute-force-web-password-cracking-289569) *(Last modified: 2025-03-27)*
 - [construction-reflected-cross-site-scripting-xss-attack-289562](https://labex.io/tutorials/construction-reflected-cross-site-scripting-xss-attack-289562) *(Last modified: 2025-03-27)*
-- [convert-and-calculate-numeric-types-435824](https://labex.io/tutorials/convert-and-calculate-numeric-types-435824) *(Last modified: 2025-04-10)*
+- [convert-and-calculate-numeric-types-435824](https://labex.io/tutorials/convert-and-calculate-numeric-types-435824) *(Last modified: 2025-04-12)*
 - [cpp-add-two-matrices-96171](https://labex.io/tutorials/cpp-add-two-matrices-96171) *(Last modified: 2025-04-10)*
 - [cpp-adding-two-numbers-program-96120](https://labex.io/tutorials/cpp-adding-two-numbers-program-96120) *(Last modified: 2025-04-10)*
 - [cpp-basic-syntax-of-c-178534](https://labex.io/tutorials/cpp-basic-syntax-of-c-178534) *(Last modified: 2025-04-10)*
@@ -8721,7 +8721,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-linux-iwconfig-command-with-practical-examples-422747](https://labex.io/tutorials/linux-linux-iwconfig-command-with-practical-examples-422747) *(Last modified: 2025-03-16)*
 - [linux-linux-jed-command-with-practical-examples-422748](https://labex.io/tutorials/linux-linux-jed-command-with-practical-examples-422748) *(Last modified: 2025-03-16)*
 - [linux-linux-job-foregrounding-271281](https://labex.io/tutorials/linux-linux-job-foregrounding-271281) *(Last modified: 2025-04-10)*
-- [linux-linux-job-managing-271311](https://labex.io/tutorials/linux-linux-job-managing-271311) *(Last modified: 2025-04-10)*
+- [linux-linux-job-managing-271311](https://labex.io/tutorials/linux-linux-job-managing-271311) *(Last modified: 2025-04-12)*
 - [linux-linux-job-scheduling-271255](https://labex.io/tutorials/linux-linux-job-scheduling-271255) *(Last modified: 2025-04-10)*
 - [linux-linux-jobs-command-with-practical-examples-422749](https://labex.io/tutorials/linux-linux-jobs-command-with-practical-examples-422749) *(Last modified: 2025-03-16)*
 - [linux-linux-joe-command-with-practical-examples-422750](https://labex.io/tutorials/linux-linux-joe-command-with-practical-examples-422750) *(Last modified: 2025-03-16)*
