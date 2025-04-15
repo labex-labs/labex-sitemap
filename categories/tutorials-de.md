@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-De Sitemap
 
-> Last updated: 2025-04-14 00:04 UTC
+> Last updated: 2025-04-15 00:04 UTC
 
 This file contains all tutorials-de related links from LabEx website.
 
@@ -2836,10 +2836,15 @@ This file contains all tutorials-de related links from LabEx website.
 - [jquery-introduction-to-effects-153791](https://labex.io/de/tutorials/jquery-introduction-to-effects-153791) *(Last modified: 2025-04-13)*
 - [jquery-jquery-event-basics-153789](https://labex.io/de/tutorials/jquery-jquery-event-basics-153789) *(Last modified: 2025-04-13)*
 - [kali-basic-networking-tools-in-kali-552191](https://labex.io/de/tutorials/kali-basic-networking-tools-in-kali-552191) *(Last modified: 2025-04-13)*
-- [kali-exploring-kali-s-security-tools-552192](https://labex.io/de/tutorials/kali-exploring-kali-s-security-tools-552192) *(Last modified: 2025-04-13)*
+- [kali-build-tool-directory-structure-552274](https://labex.io/de/tutorials/kali-build-tool-directory-structure-552274) *(Last modified: 2025-04-14)*
+- [kali-create-user-account-in-kali-552291](https://labex.io/de/tutorials/kali-create-user-account-in-kali-552291) *(Last modified: 2025-04-14)*
+- [kali-exploring-kali-s-security-tools-552192](https://labex.io/de/tutorials/kali-exploring-kali-s-security-tools-552192) *(Last modified: 2025-04-14)*
 - [kali-managing-users-and-system-in-kali-552193](https://labex.io/de/tutorials/kali-managing-users-and-system-in-kali-552193) *(Last modified: 2025-04-13)*
 - [kali-navigating-and-managing-files-in-kali-552194](https://labex.io/de/tutorials/kali-navigating-and-managing-files-in-kali-552194) *(Last modified: 2025-04-13)*
+- [kali-scan-network-ports-with-nmap-552280](https://labex.io/de/tutorials/kali-scan-network-ports-with-nmap-552280) *(Last modified: 2025-04-14)*
 - [kali-setting-up-your-kali-linux-environment-552195](https://labex.io/de/tutorials/kali-setting-up-your-kali-linux-environment-552195) *(Last modified: 2025-04-13)*
+- [kali-start-metasploit-console-552287](https://labex.io/de/tutorials/kali-start-metasploit-console-552287) *(Last modified: 2025-04-14)*
+- [kali-verify-kali-linux-version-552268](https://labex.io/de/tutorials/kali-verify-kali-linux-version-552268) *(Last modified: 2025-04-14)*
 - [kubernetes-configuring-apps-with-configmaps-9689](https://labex.io/de/tutorials/kubernetes-configuring-apps-with-configmaps-9689) *(Last modified: 2025-04-13)*
 - [kubernetes-configuring-apps-with-secrets-8448](https://labex.io/de/tutorials/kubernetes-configuring-apps-with-secrets-8448) *(Last modified: 2025-04-13)*
 - [kubernetes-connecting-pods-with-kubernetes-services-15815](https://labex.io/de/tutorials/kubernetes-connecting-pods-with-kubernetes-services-15815) *(Last modified: 2025-04-13)*
@@ -3257,7 +3262,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-linux-minicom-command-with-practical-examples-422802](https://labex.io/de/tutorials/linux-linux-minicom-command-with-practical-examples-422802) *(Last modified: 2025-03-16)*
 - [linux-linux-mkdir-command-directory-creating-209739](https://labex.io/de/tutorials/linux-linux-mkdir-command-directory-creating-209739) *(Last modified: 2025-04-13)*
 - [linux-linux-mmd-command-with-practical-examples-422816](https://labex.io/de/tutorials/linux-linux-mmd-command-with-practical-examples-422816) *(Last modified: 2025-03-16)*
-- [linux-linux-more-command-file-scrolling-214299](https://labex.io/de/tutorials/linux-linux-more-command-file-scrolling-214299) *(Last modified: 2025-04-13)*
+- [linux-linux-more-command-file-scrolling-214299](https://labex.io/de/tutorials/linux-linux-more-command-file-scrolling-214299) *(Last modified: 2025-04-14)*
 - [linux-linux-mtools-command-with-practical-examples-422829](https://labex.io/de/tutorials/linux-linux-mtools-command-with-practical-examples-422829) *(Last modified: 2025-03-16)*
 - [linux-linux-mv-command-file-moving-and-renaming-209743](https://labex.io/de/tutorials/linux-linux-mv-command-file-moving-and-renaming-209743) *(Last modified: 2025-04-13)*
 - [linux-linux-nc-netcat-command-with-practical-examples-422835](https://labex.io/de/tutorials/linux-linux-nc-netcat-command-with-practical-examples-422835) *(Last modified: 2025-04-13)*
@@ -6044,7 +6049,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [shell-enabling-executable-permissions-for-scripts-across-operating-systems-392603](https://labex.io/de/tutorials/shell-enabling-executable-permissions-for-scripts-across-operating-systems-392603) *(Last modified: 2025-03-16)*
 - [shell-file-system-explorer-388898](https://labex.io/de/tutorials/shell-file-system-explorer-388898) *(Last modified: 2025-04-13)*
 - [shell-file-system-operations-in-shell-388821](https://labex.io/de/tutorials/shell-file-system-operations-in-shell-388821) *(Last modified: 2025-04-13)*
-- [shell-finding-the-pirate-s-treasure-388807](https://labex.io/de/tutorials/shell-finding-the-pirate-s-treasure-388807) *(Last modified: 2025-04-13)*
+- [shell-finding-the-pirate-s-treasure-388807](https://labex.io/de/tutorials/shell-finding-the-pirate-s-treasure-388807) *(Last modified: 2025-04-14)*
 - [shell-four-function-calculator-388893](https://labex.io/de/tutorials/shell-four-function-calculator-388893) *(Last modified: 2025-04-13)*
 - [shell-how-to-access-the-current-directory-in-a-shell-script-415047](https://labex.io/de/tutorials/shell-how-to-access-the-current-directory-in-a-shell-script-415047) *(Last modified: 2025-03-16)*
 - [shell-how-to-address-invalid-command-error-in-shell-415651](https://labex.io/de/tutorials/shell-how-to-address-invalid-command-error-in-shell-415651) *(Last modified: 2025-03-16)*

@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-04-14 00:04 UTC
+> Last updated: 2025-04-15 00:04 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -6375,10 +6375,15 @@ This file contains all tutorials-zh related links from LabEx website.
 - [jquery-introduction-to-effects-153791](https://labex.io/zh/tutorials/jquery-introduction-to-effects-153791) *(Last modified: 2025-04-13)*
 - [jquery-jquery-event-basics-153789](https://labex.io/zh/tutorials/jquery-jquery-event-basics-153789) *(Last modified: 2025-04-13)*
 - [kali-basic-networking-tools-in-kali-552191](https://labex.io/zh/tutorials/kali-basic-networking-tools-in-kali-552191) *(Last modified: 2025-04-13)*
-- [kali-exploring-kali-s-security-tools-552192](https://labex.io/zh/tutorials/kali-exploring-kali-s-security-tools-552192) *(Last modified: 2025-04-13)*
+- [kali-build-tool-directory-structure-552274](https://labex.io/zh/tutorials/kali-build-tool-directory-structure-552274) *(Last modified: 2025-04-14)*
+- [kali-create-user-account-in-kali-552291](https://labex.io/zh/tutorials/kali-create-user-account-in-kali-552291) *(Last modified: 2025-04-14)*
+- [kali-exploring-kali-s-security-tools-552192](https://labex.io/zh/tutorials/kali-exploring-kali-s-security-tools-552192) *(Last modified: 2025-04-14)*
 - [kali-managing-users-and-system-in-kali-552193](https://labex.io/zh/tutorials/kali-managing-users-and-system-in-kali-552193) *(Last modified: 2025-04-13)*
 - [kali-navigating-and-managing-files-in-kali-552194](https://labex.io/zh/tutorials/kali-navigating-and-managing-files-in-kali-552194) *(Last modified: 2025-04-13)*
+- [kali-scan-network-ports-with-nmap-552280](https://labex.io/zh/tutorials/kali-scan-network-ports-with-nmap-552280) *(Last modified: 2025-04-14)*
 - [kali-setting-up-your-kali-linux-environment-552195](https://labex.io/zh/tutorials/kali-setting-up-your-kali-linux-environment-552195) *(Last modified: 2025-04-13)*
+- [kali-start-metasploit-console-552287](https://labex.io/zh/tutorials/kali-start-metasploit-console-552287) *(Last modified: 2025-04-14)*
+- [kali-verify-kali-linux-version-552268](https://labex.io/zh/tutorials/kali-verify-kali-linux-version-552268) *(Last modified: 2025-04-14)*
 - [kubernetes-choosing-the-right-kubernetes-service-type-for-your-application-411645](https://labex.io/zh/tutorials/kubernetes-choosing-the-right-kubernetes-service-type-for-your-application-411645) *(Last modified: 2025-03-16)*
 - [kubernetes-comprehensive-kubernetes-course-master-container-orchestration-391847](https://labex.io/zh/tutorials/kubernetes-comprehensive-kubernetes-course-master-container-orchestration-391847) *(Last modified: 2025-04-09)*
 - [kubernetes-configure-kubernetes-proxy-for-network-routing-391799](https://labex.io/zh/tutorials/kubernetes-configure-kubernetes-proxy-for-network-routing-391799) *(Last modified: 2025-03-16)*
@@ -8688,7 +8693,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-mmove-command-with-practical-examples-422818](https://labex.io/zh/tutorials/linux-linux-mmove-command-with-practical-examples-422818) *(Last modified: 2025-03-16)*
 - [linux-linux-modinfo-command-with-practical-examples-422819](https://labex.io/zh/tutorials/linux-linux-modinfo-command-with-practical-examples-422819) *(Last modified: 2025-03-16)*
 - [linux-linux-modprobe-command-with-practical-examples-422820](https://labex.io/zh/tutorials/linux-linux-modprobe-command-with-practical-examples-422820) *(Last modified: 2025-03-16)*
-- [linux-linux-more-command-file-scrolling-214299](https://labex.io/zh/tutorials/linux-linux-more-command-file-scrolling-214299) *(Last modified: 2025-04-13)*
+- [linux-linux-more-command-file-scrolling-214299](https://labex.io/zh/tutorials/linux-linux-more-command-file-scrolling-214299) *(Last modified: 2025-04-14)*
 - [linux-linux-more-command-with-practical-examples-422821](https://labex.io/zh/tutorials/linux-linux-more-command-with-practical-examples-422821) *(Last modified: 2025-03-16)*
 - [linux-linux-mount-command-with-practical-examples-422822](https://labex.io/zh/tutorials/linux-linux-mount-command-with-practical-examples-422822) *(Last modified: 2025-03-16)*
 - [linux-linux-mpartition-command-with-practical-examples-422823](https://labex.io/zh/tutorials/linux-linux-mpartition-command-with-practical-examples-422823) *(Last modified: 2025-03-16)*
@@ -14123,7 +14128,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [shell-extracting-substrings-efficiently-in-coding-392815](https://labex.io/zh/tutorials/shell-extracting-substrings-efficiently-in-coding-392815) *(Last modified: 2025-03-16)*
 - [shell-file-system-explorer-388898](https://labex.io/zh/tutorials/shell-file-system-explorer-388898) *(Last modified: 2025-04-13)*
 - [shell-file-system-operations-in-shell-388821](https://labex.io/zh/tutorials/shell-file-system-operations-in-shell-388821) *(Last modified: 2025-04-13)*
-- [shell-finding-the-pirate-s-treasure-388807](https://labex.io/zh/tutorials/shell-finding-the-pirate-s-treasure-388807) *(Last modified: 2025-04-13)*
+- [shell-finding-the-pirate-s-treasure-388807](https://labex.io/zh/tutorials/shell-finding-the-pirate-s-treasure-388807) *(Last modified: 2025-04-14)*
 - [shell-four-function-calculator-388893](https://labex.io/zh/tutorials/shell-four-function-calculator-388893) *(Last modified: 2025-04-13)*
 - [shell-handling-bash-return-codes-for-robust-shell-scripting-400153](https://labex.io/zh/tutorials/shell-handling-bash-return-codes-for-robust-shell-scripting-400153) *(Last modified: 2025-03-16)*
 - [shell-harnessing-the-power-of-bash-shell-regular-expressions-394878](https://labex.io/zh/tutorials/shell-harnessing-the-power-of-bash-shell-regular-expressions-394878) *(Last modified: 2025-03-16)*
