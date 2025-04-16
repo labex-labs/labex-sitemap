@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ru Sitemap
 
-> Last updated: 2025-04-15 00:04 UTC
+> Last updated: 2025-04-16 00:03 UTC
 
 This file contains all tutorials-ru related links from LabEx website.
 
@@ -689,7 +689,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [determine-java-identifier-start-character-117527](https://labex.io/ru/tutorials/determine-java-identifier-start-character-117527) *(Last modified: 2025-04-13)*
 - [displaying-query-results-using-el-expressions-300360](https://labex.io/ru/tutorials/displaying-query-results-using-el-expressions-300360) *(Last modified: 2025-03-16)*
 - [django-add-a-stylesheet-and-an-image-153746](https://labex.io/ru/tutorials/django-add-a-stylesheet-and-an-image-153746) *(Last modified: 2025-04-13)*
-- [django-create-some-automated-tests-153745](https://labex.io/ru/tutorials/django-create-some-automated-tests-153745) *(Last modified: 2025-04-13)*
+- [django-create-some-automated-tests-153745](https://labex.io/ru/tutorials/django-create-some-automated-tests-153745) *(Last modified: 2025-04-15)*
 - [django-creating-the-public-interface-views-153743](https://labex.io/ru/tutorials/django-creating-the-public-interface-views-153743) *(Last modified: 2025-04-13)*
 - [django-creation-of-a-basic-poll-application-153741](https://labex.io/ru/tutorials/django-creation-of-a-basic-poll-application-153741) *(Last modified: 2025-04-13)*
 - [django-customizing-django-s-admin-site-153747](https://labex.io/ru/tutorials/django-customizing-django-s-admin-site-153747) *(Last modified: 2025-04-13)*
@@ -905,7 +905,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [docker-quickly-set-up-a-docker-container-server-392820](https://labex.io/ru/tutorials/docker-quickly-set-up-a-docker-container-server-392820) *(Last modified: 2025-03-16)*
 - [docker-resolving-the-docker-compose-command-not-found-error-390530](https://labex.io/ru/tutorials/docker-resolving-the-docker-compose-command-not-found-error-390530) *(Last modified: 2025-04-13)*
 - [docker-run-your-first-container-388943](https://labex.io/ru/tutorials/docker-run-your-first-container-388943) *(Last modified: 2025-04-13)*
-- [docker-running-your-first-container-148982](https://labex.io/ru/tutorials/docker-running-your-first-container-148982) *(Last modified: 2025-04-13)*
+- [docker-running-your-first-container-148982](https://labex.io/ru/tutorials/docker-running-your-first-container-148982) *(Last modified: 2025-04-15)*
 - [docker-step-by-step-guide-to-cloning-a-docker-container-image-392927](https://labex.io/ru/tutorials/docker-step-by-step-guide-to-cloning-a-docker-container-image-392927) *(Last modified: 2025-04-13)*
 - [docker-troubleshoot-and-fix-docker-compose-build-hanging-at-startup-392991](https://labex.io/ru/tutorials/docker-troubleshoot-and-fix-docker-compose-build-hanging-at-startup-392991) *(Last modified: 2025-03-16)*
 - [docker-troubleshoot-zsh-command-not-found-docker-compose-with-docker-compose-390523](https://labex.io/ru/tutorials/docker-troubleshoot-zsh-command-not-found-docker-compose-with-docker-compose-390523) *(Last modified: 2025-04-13)*
@@ -976,7 +976,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [git-configure-the-git-text-editor-12759](https://labex.io/ru/tutorials/git-configure-the-git-text-editor-12759) *(Last modified: 2025-04-13)*
 - [git-copy-a-file-from-another-branch-12713](https://labex.io/ru/tutorials/git-copy-a-file-from-another-branch-12713) *(Last modified: 2025-04-13)*
 - [git-create-a-commit-by-a-different-author-12709](https://labex.io/ru/tutorials/git-create-a-commit-by-a-different-author-12709) *(Last modified: 2025-04-13)*
-- [git-create-a-fixup-commit-12717](https://labex.io/ru/tutorials/git-create-a-fixup-commit-12717) *(Last modified: 2025-04-13)*
+- [git-create-a-fixup-commit-12717](https://labex.io/ru/tutorials/git-create-a-fixup-commit-12717) *(Last modified: 2025-04-15)*
 - [git-create-a-git-commit-12715](https://labex.io/ru/tutorials/git-create-a-git-commit-12715) *(Last modified: 2025-04-13)*
 - [git-create-a-git-stash-12757](https://labex.io/ru/tutorials/git-create-a-git-stash-12757) *(Last modified: 2025-04-13)*
 - [git-create-a-new-branch-12714](https://labex.io/ru/tutorials/git-create-a-new-branch-12714) *(Last modified: 2025-04-13)*
@@ -992,7 +992,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [git-difference-between-branches-12727](https://labex.io/ru/tutorials/git-difference-between-branches-12727) *(Last modified: 2025-04-13)*
 - [git-disable-fast-forward-merging-12728](https://labex.io/ru/tutorials/git-disable-fast-forward-merging-12728) *(Last modified: 2025-04-13)*
 - [git-discard-uncommitted-changes-12729](https://labex.io/ru/tutorials/git-discard-uncommitted-changes-12729) *(Last modified: 2025-04-13)*
-- [git-discard-untracked-changes-12730](https://labex.io/ru/tutorials/git-discard-untracked-changes-12730) *(Last modified: 2025-04-13)*
+- [git-discard-untracked-changes-12730](https://labex.io/ru/tutorials/git-discard-untracked-changes-12730) *(Last modified: 2025-04-15)*
 - [git-easily-download-github-folders-with-these-steps-398446](https://labex.io/ru/tutorials/git-easily-download-github-folders-with-these-steps-398446) *(Last modified: 2025-03-16)*
 - [git-edit-git-configuration-file-12731](https://labex.io/ru/tutorials/git-edit-git-configuration-file-12731) *(Last modified: 2025-04-13)*
 - [git-edit-the-last-commit-12767](https://labex.io/ru/tutorials/git-edit-the-last-commit-12767) *(Last modified: 2025-04-13)*
@@ -1005,11 +1005,11 @@ This file contains all tutorials-ru related links from LabEx website.
 - [git-fixing-the-no-such-remote-origin-issue-in-a-git-repository-397730](https://labex.io/ru/tutorials/git-fixing-the-no-such-remote-origin-issue-in-a-git-repository-397730) *(Last modified: 2025-04-13)*
 - [git-get-the-current-branch-name-12719](https://labex.io/ru/tutorials/git-get-the-current-branch-name-12719) *(Last modified: 2025-04-13)*
 - [git-git-branch-basic-operations-385163](https://labex.io/ru/tutorials/git-git-branch-basic-operations-385163) *(Last modified: 2025-04-13)*
-- [git-git-cherry-pick-code-changes-12744](https://labex.io/ru/tutorials/git-git-cherry-pick-code-changes-12744) *(Last modified: 2025-04-13)*
+- [git-git-cherry-pick-code-changes-12744](https://labex.io/ru/tutorials/git-git-cherry-pick-code-changes-12744) *(Last modified: 2025-04-15)*
 - [git-git-config-management-385164](https://labex.io/ru/tutorials/git-git-config-management-385164) *(Last modified: 2025-04-13)*
 - [git-git-diff-deep-dive-387489](https://labex.io/ru/tutorials/git-git-diff-deep-dive-387489) *(Last modified: 2025-04-13)*
 - [git-git-history-and-log-management-387490](https://labex.io/ru/tutorials/git-git-history-and-log-management-387490) *(Last modified: 2025-04-13)*
-- [git-git-merge-collaborative-project-management-12740](https://labex.io/ru/tutorials/git-git-merge-collaborative-project-management-12740) *(Last modified: 2025-04-13)*
+- [git-git-merge-collaborative-project-management-12740](https://labex.io/ru/tutorials/git-git-merge-collaborative-project-management-12740) *(Last modified: 2025-04-15)*
 - [git-git-pull-ignore-local-chang-391995](https://labex.io/ru/tutorials/git-git-pull-ignore-local-chang-391995) *(Last modified: 2025-03-16)*
 - [git-git-reset-and-reflog-387491](https://labex.io/ru/tutorials/git-git-reset-and-reflog-387491) *(Last modified: 2025-04-13)*
 - [git-git-time-detective-387782](https://labex.io/ru/tutorials/git-git-time-detective-387782) *(Last modified: 2025-04-13)*
@@ -1126,7 +1126,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [git-move-commits-to-a-new-branch-12742](https://labex.io/ru/tutorials/git-move-commits-to-a-new-branch-12742) *(Last modified: 2025-04-13)*
 - [git-operation-quantum-leap-387717](https://labex.io/ru/tutorials/git-operation-quantum-leap-387717) *(Last modified: 2025-04-13)*
 - [git-optimize-the-local-repository-12743](https://labex.io/ru/tutorials/git-optimize-the-local-repository-12743) *(Last modified: 2025-04-13)*
-- [git-perform-an-interactive-rebase-12735](https://labex.io/ru/tutorials/git-perform-an-interactive-rebase-12735) *(Last modified: 2025-04-13)*
+- [git-perform-an-interactive-rebase-12735](https://labex.io/ru/tutorials/git-perform-an-interactive-rebase-12735) *(Last modified: 2025-04-15)*
 - [git-pull-latest-changes-from-remote-12746](https://labex.io/ru/tutorials/git-pull-latest-changes-from-remote-12746) *(Last modified: 2025-04-13)*
 - [git-pulling-all-submodules-from-remote-12745](https://labex.io/ru/tutorials/git-pulling-all-submodules-from-remote-12745) *(Last modified: 2025-04-13)*
 - [git-purge-a-file-from-history-12747](https://labex.io/ru/tutorials/git-purge-a-file-from-history-12747) *(Last modified: 2025-04-13)*
@@ -1137,7 +1137,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [git-remove-files-from-the-staging-area-12766](https://labex.io/ru/tutorials/git-remove-files-from-the-staging-area-12766) *(Last modified: 2025-04-13)*
 - [git-rename-a-branch-12751](https://labex.io/ru/tutorials/git-rename-a-branch-12751) *(Last modified: 2025-04-13)*
 - [git-rename-remote-branch-12752](https://labex.io/ru/tutorials/git-rename-remote-branch-12752) *(Last modified: 2025-04-13)*
-- [git-reset-local-master-branch-to-match-remote-12753](https://labex.io/ru/tutorials/git-reset-local-master-branch-to-match-remote-12753) *(Last modified: 2025-04-13)*
+- [git-reset-local-master-branch-to-match-remote-12753](https://labex.io/ru/tutorials/git-reset-local-master-branch-to-match-remote-12753) *(Last modified: 2025-04-15)*
 - [git-resolving-cannot-delete-branch-checked-out-error-in-git-411666](https://labex.io/ru/tutorials/git-resolving-cannot-delete-branch-checked-out-error-in-git-411666) *(Last modified: 2025-04-13)*
 - [git-resolving-git-rebase-conflicts-caused-by-unstaged-changes-413756](https://labex.io/ru/tutorials/git-resolving-git-rebase-conflicts-caused-by-unstaged-changes-413756) *(Last modified: 2025-03-16)*
 - [git-resolving-the-fatal-master-is-already-checked-out-git-error-392723](https://labex.io/ru/tutorials/git-resolving-the-fatal-master-is-already-checked-out-git-error-392723) *(Last modified: 2025-03-16)*
@@ -1148,7 +1148,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [git-rewriting-history-387746](https://labex.io/ru/tutorials/git-rewriting-history-387746) *(Last modified: 2025-04-13)*
 - [git-saving-work-in-progress-387492](https://labex.io/ru/tutorials/git-saving-work-in-progress-387492) *(Last modified: 2025-04-13)*
 - [git-secure-git-authentication-a-step-by-step-guide-400157](https://labex.io/ru/tutorials/git-secure-git-authentication-a-step-by-step-guide-400157) *(Last modified: 2025-03-16)*
-- [git-set-default-push-branch-name-12758](https://labex.io/ru/tutorials/git-set-default-push-branch-name-12758) *(Last modified: 2025-04-13)*
+- [git-set-default-push-branch-name-12758](https://labex.io/ru/tutorials/git-set-default-push-branch-name-12758) *(Last modified: 2025-04-15)*
 - [git-sort-git-branches-by-date-12760](https://labex.io/ru/tutorials/git-sort-git-branches-by-date-12760) *(Last modified: 2025-04-13)*
 - [git-step-by-step-instructions-for-linking-a-git-repository-to-a-remote-398369](https://labex.io/ru/tutorials/git-step-by-step-instructions-for-linking-a-git-repository-to-a-remote-398369) *(Last modified: 2025-03-16)*
 - [git-switch-to-a-branch-12762](https://labex.io/ru/tutorials/git-switch-to-a-branch-12762) *(Last modified: 2025-04-13)*
@@ -1161,13 +1161,13 @@ This file contains all tutorials-ru related links from LabEx website.
 - [git-understanding-the-git-merge-no-fast-forward-approach-411661](https://labex.io/ru/tutorials/git-understanding-the-git-merge-no-fast-forward-approach-411661) *(Last modified: 2025-03-16)*
 - [git-undo-a-commit-12764](https://labex.io/ru/tutorials/git-undo-a-commit-12764) *(Last modified: 2025-04-13)*
 - [git-undo-the-last-commit-12765](https://labex.io/ru/tutorials/git-undo-the-last-commit-12765) *(Last modified: 2025-04-13)*
-- [git-update-remote-branch-after-rewriting-history-12734](https://labex.io/ru/tutorials/git-update-remote-branch-after-rewriting-history-12734) *(Last modified: 2025-04-13)*
+- [git-update-remote-branch-after-rewriting-history-12734](https://labex.io/ru/tutorials/git-update-remote-branch-after-rewriting-history-12734) *(Last modified: 2025-04-15)*
 - [git-view-a-short-summary-of-commits-12776](https://labex.io/ru/tutorials/git-view-a-short-summary-of-commits-12776) *(Last modified: 2025-04-13)*
 - [git-view-a-visual-graph-of-the-repository-12771](https://labex.io/ru/tutorials/git-view-a-visual-graph-of-the-repository-12771) *(Last modified: 2025-04-13)*
 - [git-view-changes-between-commits-12770](https://labex.io/ru/tutorials/git-view-changes-between-commits-12770) *(Last modified: 2025-04-13)*
-- [git-view-commits-by-author-12772](https://labex.io/ru/tutorials/git-view-commits-by-author-12772) *(Last modified: 2025-04-13)*
+- [git-view-commits-by-author-12772](https://labex.io/ru/tutorials/git-view-commits-by-author-12772) *(Last modified: 2025-04-15)*
 - [git-view-commits-in-a-specific-date-range-12774](https://labex.io/ru/tutorials/git-view-commits-in-a-specific-date-range-12774) *(Last modified: 2025-04-13)*
-- [git-view-current-status-12781](https://labex.io/ru/tutorials/git-view-current-status-12781) *(Last modified: 2025-04-13)*
+- [git-view-current-status-12781](https://labex.io/ru/tutorials/git-view-current-status-12781) *(Last modified: 2025-04-15)*
 - [git-view-differences-in-changes-12777](https://labex.io/ru/tutorials/git-view-differences-in-changes-12777) *(Last modified: 2025-04-13)*
 - [git-view-git-commit-summary-excluding-merges-12775](https://labex.io/ru/tutorials/git-view-git-commit-summary-excluding-merges-12775) *(Last modified: 2025-04-13)*
 - [git-view-last-commit-12778](https://labex.io/ru/tutorials/git-view-last-commit-12778) *(Last modified: 2025-04-13)*
@@ -1243,9 +1243,9 @@ This file contains all tutorials-ru related links from LabEx website.
 - [go-golang-for-loop-understanding-15476](https://labex.io/ru/tutorials/go-golang-for-loop-understanding-15476) *(Last modified: 2025-04-13)*
 - [go-golang-goroutines-concurrency-15479](https://labex.io/ru/tutorials/go-golang-goroutines-concurrency-15479) *(Last modified: 2025-04-13)*
 - [go-golang-http-request-handling-15481](https://labex.io/ru/tutorials/go-golang-http-request-handling-15481) *(Last modified: 2025-04-13)*
-- [go-golang-json-encoding-and-decoding-15485](https://labex.io/ru/tutorials/go-golang-json-encoding-and-decoding-15485) *(Last modified: 2025-04-13)*
+- [go-golang-json-encoding-and-decoding-15485](https://labex.io/ru/tutorials/go-golang-json-encoding-and-decoding-15485) *(Last modified: 2025-04-15)*
 - [go-golang-pointers-comprehension-15494](https://labex.io/ru/tutorials/go-golang-pointers-comprehension-15494) *(Last modified: 2025-04-13)*
-- [go-golang-regular-expression-tutorial-15502](https://labex.io/ru/tutorials/go-golang-regular-expression-tutorial-15502) *(Last modified: 2025-04-13)*
+- [go-golang-regular-expression-tutorial-15502](https://labex.io/ru/tutorials/go-golang-regular-expression-tutorial-15502) *(Last modified: 2025-04-15)*
 - [go-golang-slice-data-structures-149077](https://labex.io/ru/tutorials/go-golang-slice-data-structures-149077) *(Last modified: 2025-04-13)*
 - [go-golang-struct-embedding-15514](https://labex.io/ru/tutorials/go-golang-struct-embedding-15514) *(Last modified: 2025-04-13)*
 - [go-golang-timer-and-ticker-tutorial-15524](https://labex.io/ru/tutorials/go-golang-timer-and-ticker-tutorial-15524) *(Last modified: 2025-04-13)*
@@ -1253,7 +1253,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [go-golang-xml-mapping-and-manipulation-15532](https://labex.io/ru/tutorials/go-golang-xml-mapping-and-manipulation-15532) *(Last modified: 2025-04-13)*
 - [go-gopath-and-module-149063](https://labex.io/ru/tutorials/go-gopath-and-module-149063) *(Last modified: 2025-04-13)*
 - [go-goto-statement-usage-149074](https://labex.io/ru/tutorials/go-goto-statement-usage-149074) *(Last modified: 2025-04-13)*
-- [go-handling-errors-in-golang-15472](https://labex.io/ru/tutorials/go-handling-errors-in-golang-15472) *(Last modified: 2025-04-13)*
+- [go-handling-errors-in-golang-15472](https://labex.io/ru/tutorials/go-handling-errors-in-golang-15472) *(Last modified: 2025-04-15)*
 - [go-handling-panics-with-golang-recover-15500](https://labex.io/ru/tutorials/go-handling-panics-with-golang-recover-15500) *(Last modified: 2025-04-13)*
 - [go-handling-unix-signals-in-go-15505](https://labex.io/ru/tutorials/go-handling-unix-signals-in-go-15505) *(Last modified: 2025-04-13)*
 - [go-how-to-access-slice-index-safely-450984](https://labex.io/ru/tutorials/go-how-to-access-slice-index-safely-450984) *(Last modified: 2025-03-16)*
@@ -2193,7 +2193,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [java-sorting-java-map-by-values-117453](https://labex.io/ru/tutorials/java-sorting-java-map-by-values-117453) *(Last modified: 2025-04-13)*
 - [java-sorting-strings-in-java-using-arrays-sort-117456](https://labex.io/ru/tutorials/java-sorting-strings-in-java-using-arrays-sort-117456) *(Last modified: 2025-04-13)*
 - [java-sorting-techniques-in-java-117987](https://labex.io/ru/tutorials/java-sorting-techniques-in-java-117987) *(Last modified: 2025-04-13)*
-- [java-spring-ioc-employee-management-system-300400](https://labex.io/ru/tutorials/java-spring-ioc-employee-management-system-300400) *(Last modified: 2025-04-08)*
+- [java-spring-ioc-employee-management-system-300400](https://labex.io/ru/tutorials/java-spring-ioc-employee-management-system-300400) *(Last modified: 2025-04-15)*
 - [java-spy-in-mockito-117989](https://labex.io/ru/tutorials/java-spy-in-mockito-117989) *(Last modified: 2025-04-13)*
 - [java-statement-for-querying-classroom-table-301412](https://labex.io/ru/tutorials/java-statement-for-querying-classroom-table-301412) *(Last modified: 2025-03-16)*
 - [java-string-substring-search-in-java-117435](https://labex.io/ru/tutorials/java-string-substring-search-in-java-117435) *(Last modified: 2025-04-13)*
@@ -2261,7 +2261,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [javascript-build-a-scratch-card-web-game-445725](https://labex.io/ru/tutorials/javascript-build-a-scratch-card-web-game-445725) *(Last modified: 2025-04-13)*
 - [javascript-build-a-sliding-puzzle-game-with-javascript-445694](https://labex.io/ru/tutorials/javascript-build-a-sliding-puzzle-game-with-javascript-445694) *(Last modified: 2025-04-13)*
 - [javascript-build-an-image-cropping-tool-using-html5-445698](https://labex.io/ru/tutorials/javascript-build-an-image-cropping-tool-using-html5-445698) *(Last modified: 2025-04-13)*
-- [javascript-build-an-vscode-extension-with-chatgpt-445699](https://labex.io/ru/tutorials/javascript-build-an-vscode-extension-with-chatgpt-445699) *(Last modified: 2025-04-13)*
+- [javascript-build-an-vscode-extension-with-chatgpt-445699](https://labex.io/ru/tutorials/javascript-build-an-vscode-extension-with-chatgpt-445699) *(Last modified: 2025-04-15)*
 - [javascript-build-interactive-react-components-300146](https://labex.io/ru/tutorials/javascript-build-interactive-react-components-300146) *(Last modified: 2025-04-13)*
 - [javascript-building-a-modern-expense-splitter-web-app-445701](https://labex.io/ru/tutorials/javascript-building-a-modern-expense-splitter-web-app-445701) *(Last modified: 2025-04-13)*
 - [javascript-building-a-news-api-with-node-js-445682](https://labex.io/ru/tutorials/javascript-building-a-news-api-with-node-js-445682) *(Last modified: 2025-03-16)*
@@ -3910,7 +3910,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [mysql-mysql-stored-procedures-basics-550915](https://labex.io/ru/tutorials/mysql-mysql-stored-procedures-basics-550915) *(Last modified: 2025-04-04)*
 - [mysql-mysql-subqueries-and-nested-operations-550916](https://labex.io/ru/tutorials/mysql-mysql-subqueries-and-nested-operations-550916) *(Last modified: 2025-04-04)*
 - [mysql-mysql-table-structure-and-data-types-418307](https://labex.io/ru/tutorials/mysql-mysql-table-structure-and-data-types-418307) *(Last modified: 2025-04-13)*
-- [mysql-mysql-temporary-tables-and-session-data-550917](https://labex.io/ru/tutorials/mysql-mysql-temporary-tables-and-session-data-550917) *(Last modified: 2025-04-08)*
+- [mysql-mysql-temporary-tables-and-session-data-550917](https://labex.io/ru/tutorials/mysql-mysql-temporary-tables-and-session-data-550917) *(Last modified: 2025-04-15)*
 - [mysql-mysql-transactions-and-data-integrity-550918](https://labex.io/ru/tutorials/mysql-mysql-transactions-and-data-integrity-550918) *(Last modified: 2025-04-04)*
 - [mysql-mysql-triggers-for-automation-550919](https://labex.io/ru/tutorials/mysql-mysql-triggers-for-automation-550919) *(Last modified: 2025-04-04)*
 - [mysql-mysql-user-and-privileges-management-418308](https://labex.io/ru/tutorials/mysql-mysql-user-and-privileges-management-418308) *(Last modified: 2025-04-13)*
@@ -4585,7 +4585,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [python-formatting-python-print-statements-91](https://labex.io/ru/tutorials/python-formatting-python-print-statements-91) *(Last modified: 2025-04-13)*
 - [python-formatting-tick-labels-with-matplotlib-48910](https://labex.io/ru/tutorials/python-formatting-tick-labels-with-matplotlib-48910) *(Last modified: 2025-04-13)*
 - [python-frequency-analysis-of-list-elements-13644](https://labex.io/ru/tutorials/python-frequency-analysis-of-list-elements-13644) *(Last modified: 2025-03-18)*
-- [python-ftp-weak-password-scanner-using-python-298882](https://labex.io/ru/tutorials/python-ftp-weak-password-scanner-using-python-298882) *(Last modified: 2025-04-13)*
+- [python-ftp-weak-password-scanner-using-python-298882](https://labex.io/ru/tutorials/python-ftp-weak-password-scanner-using-python-298882) *(Last modified: 2025-04-15)*
 - [python-function-argument-passing-conventions-132509](https://labex.io/ru/tutorials/python-function-argument-passing-conventions-132509) *(Last modified: 2025-04-13)*
 - [python-function-composition-with-python-13607](https://labex.io/ru/tutorials/python-function-composition-with-python-13607) *(Last modified: 2025-03-18)*
 - [python-fundamental-numpy-array-creation-techniques-85698](https://labex.io/ru/tutorials/python-fundamental-numpy-array-creation-techniques-85698) *(Last modified: 2025-04-13)*
@@ -5829,7 +5829,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [rust-conditional-compilation-with-rust-s-cfg-attribute-99342](https://labex.io/ru/tutorials/rust-conditional-compilation-with-rust-s-cfg-attribute-99342) *(Last modified: 2025-04-13)*
 - [rust-conditional-rust-function-compilation-99343](https://labex.io/ru/tutorials/rust-conditional-rust-function-compilation-99343) *(Last modified: 2025-04-13)*
 - [rust-conditional-statements-in-rust-99303](https://labex.io/ru/tutorials/rust-conditional-statements-in-rust-99303) *(Last modified: 2025-04-13)*
-- [rust-controlling-how-tests-are-run-100416](https://labex.io/ru/tutorials/rust-controlling-how-tests-are-run-100416) *(Last modified: 2025-04-13)*
+- [rust-controlling-how-tests-are-run-100416](https://labex.io/ru/tutorials/rust-controlling-how-tests-are-run-100416) *(Last modified: 2025-04-15)*
 - [rust-create-file-with-rust-standard-library-99271](https://labex.io/ru/tutorials/rust-create-file-with-rust-standard-library-99271) *(Last modified: 2025-04-13)*
 - [rust-creating-a-library-99337](https://labex.io/ru/tutorials/rust-creating-a-library-99337) *(Last modified: 2025-04-13)*
 - [rust-customizing-rust-struct-output-with-fmt-display-99188](https://labex.io/ru/tutorials/rust-customizing-rust-struct-output-with-fmt-display-99188) *(Last modified: 2025-04-13)*
@@ -5847,11 +5847,11 @@ This file contains all tutorials-ru related links from LabEx website.
 - [rust-disabling-rust-unused-code-warnings-99340](https://labex.io/ru/tutorials/rust-disabling-rust-unused-code-warnings-99340) *(Last modified: 2025-04-13)*
 - [rust-disambiguating-overlapping-traits-99222](https://labex.io/ru/tutorials/rust-disambiguating-overlapping-traits-99222) *(Last modified: 2025-04-13)*
 - [rust-diverging-functions-in-rust-99331](https://labex.io/ru/tutorials/rust-diverging-functions-in-rust-99331) *(Last modified: 2025-04-13)*
-- [rust-documenting-rust-projects-with-markdown-99282](https://labex.io/ru/tutorials/rust-documenting-rust-projects-with-markdown-99282) *(Last modified: 2025-04-13)*
+- [rust-documenting-rust-projects-with-markdown-99282](https://labex.io/ru/tutorials/rust-documenting-rust-projects-with-markdown-99282) *(Last modified: 2025-04-15)*
 - [rust-domain-specific-languages-99229](https://labex.io/ru/tutorials/rust-domain-specific-languages-99229) *(Last modified: 2025-04-13)*
 - [rust-efficient-file-reading-in-rust-99272](https://labex.io/ru/tutorials/rust-efficient-file-reading-in-rust-99272) *(Last modified: 2025-04-13)*
 - [rust-executing-child-processes-in-rust-99273](https://labex.io/ru/tutorials/rust-executing-child-processes-in-rust-99273) *(Last modified: 2025-04-13)*
-- [rust-exploring-cargo-workspaces-in-rust-100429](https://labex.io/ru/tutorials/rust-exploring-cargo-workspaces-in-rust-100429) *(Last modified: 2025-04-13)*
+- [rust-exploring-cargo-workspaces-in-rust-100429](https://labex.io/ru/tutorials/rust-exploring-cargo-workspaces-in-rust-100429) *(Last modified: 2025-04-15)*
 - [rust-exploring-rust-closures-and-capturing-behavior-99323](https://labex.io/ru/tutorials/rust-exploring-rust-closures-and-capturing-behavior-99323) *(Last modified: 2025-04-13)*
 - [rust-exploring-rust-closures-and-environment-capture-99322](https://labex.io/ru/tutorials/rust-exploring-rust-closures-and-environment-capture-99322) *(Last modified: 2025-04-13)*
 - [rust-exploring-rust-generics-functionality-99344](https://labex.io/ru/tutorials/rust-exploring-rust-generics-functionality-99344) *(Last modified: 2025-04-13)*
@@ -5885,7 +5885,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [rust-graceful-shutdown-and-cleanup-100454](https://labex.io/ru/tutorials/rust-graceful-shutdown-and-cleanup-100454) *(Last modified: 2025-04-13)*
 - [rust-handling-errors-with-box-in-rust-99248](https://labex.io/ru/tutorials/rust-handling-errors-with-box-in-rust-99248) *(Last modified: 2025-04-13)*
 - [rust-handling-errors-with-early-returns-in-rust-99242](https://labex.io/ru/tutorials/rust-handling-errors-with-early-returns-in-rust-99242) *(Last modified: 2025-04-13)*
-- [rust-how-to-write-tests-100415](https://labex.io/ru/tutorials/rust-how-to-write-tests-100415) *(Last modified: 2025-04-13)*
+- [rust-how-to-write-tests-100415](https://labex.io/ru/tutorials/rust-how-to-write-tests-100415) *(Last modified: 2025-04-15)*
 - [rust-immutable-data-binding-in-rust-99294](https://labex.io/ru/tutorials/rust-immutable-data-binding-in-rust-99294) *(Last modified: 2025-04-13)*
 - [rust-implement-fmt-display-for-list-in-rust-99189](https://labex.io/ru/tutorials/rust-implement-fmt-display-for-list-in-rust-99189) *(Last modified: 2025-04-13)*
 - [rust-implement-generic-double-deallocation-trait-99347](https://labex.io/ru/tutorials/rust-implement-generic-double-deallocation-trait-99347) *(Last modified: 2025-04-13)*
@@ -5938,7 +5938,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [rust-rust-aliasing-concept-exploration-99200](https://labex.io/ru/tutorials/rust-rust-aliasing-concept-exploration-99200) *(Last modified: 2025-04-13)*
 - [rust-rust-aliasing-enhancing-code-readability-99298](https://labex.io/ru/tutorials/rust-rust-aliasing-enhancing-code-readability-99298) *(Last modified: 2025-04-13)*
 - [rust-rust-asynchronous-channels-communication-99268](https://labex.io/ru/tutorials/rust-rust-asynchronous-channels-communication-99268) *(Last modified: 2025-04-13)*
-- [rust-rust-book-lab-unit-and-integration-tests-100417](https://labex.io/ru/tutorials/rust-rust-book-lab-unit-and-integration-tests-100417) *(Last modified: 2025-04-13)*
+- [rust-rust-book-lab-unit-and-integration-tests-100417](https://labex.io/ru/tutorials/rust-rust-book-lab-unit-and-integration-tests-100417) *(Last modified: 2025-04-15)*
 - [rust-rust-borrow-checker-lifetime-elision-99212](https://labex.io/ru/tutorials/rust-rust-borrow-checker-lifetime-elision-99212) *(Last modified: 2025-04-13)*
 - [rust-rust-borrowing-ownership-fundamentals-99198](https://labex.io/ru/tutorials/rust-rust-borrowing-ownership-fundamentals-99198) *(Last modified: 2025-04-13)*
 - [rust-rust-casting-explicit-type-conversion-99295](https://labex.io/ru/tutorials/rust-rust-casting-explicit-type-conversion-99295) *(Last modified: 2025-04-13)*
@@ -5959,7 +5959,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [rust-rust-generics-type-constraints-99348](https://labex.io/ru/tutorials/rust-rust-generics-type-constraints-99348) *(Last modified: 2025-04-13)*
 - [rust-rust-hashmap-data-storage-tutorial-99260](https://labex.io/ru/tutorials/rust-rust-hashmap-data-storage-tutorial-99260) *(Last modified: 2025-04-13)*
 - [rust-rust-integration-testing-fundamentals-99283](https://labex.io/ru/tutorials/rust-rust-integration-testing-fundamentals-99283) *(Last modified: 2025-04-13)*
-- [rust-rust-library-functionality-with-test-driven-development-100421](https://labex.io/ru/tutorials/rust-rust-library-functionality-with-test-driven-development-100421) *(Last modified: 2025-04-13)*
+- [rust-rust-library-functionality-with-test-driven-development-100421](https://labex.io/ru/tutorials/rust-rust-library-functionality-with-test-driven-development-100421) *(Last modified: 2025-04-15)*
 - [rust-rust-lifetime-and-trait-bounds-99209](https://labex.io/ru/tutorials/rust-rust-lifetime-and-trait-bounds-99209) *(Last modified: 2025-04-13)*
 - [rust-rust-lifetime-annotations-borrow-checker-99203](https://labex.io/ru/tutorials/rust-rust-lifetime-annotations-borrow-checker-99203) *(Last modified: 2025-04-13)*
 - [rust-rust-lifetime-coercion-exploration-99210](https://labex.io/ru/tutorials/rust-rust-lifetime-coercion-exploration-99210) *(Last modified: 2025-04-13)*
@@ -5973,7 +5973,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [rust-rust-method-usage-demonstration-99206](https://labex.io/ru/tutorials/rust-rust-method-usage-demonstration-99206) *(Last modified: 2025-04-13)*
 - [rust-rust-module-visibility-exploration-99332](https://labex.io/ru/tutorials/rust-rust-module-visibility-exploration-99332) *(Last modified: 2025-04-13)*
 - [rust-rust-multiple-bounds-exploration-99350](https://labex.io/ru/tutorials/rust-rust-multiple-bounds-exploration-99350) *(Last modified: 2025-04-13)*
-- [rust-rust-multithreaded-server-development-100453](https://labex.io/ru/tutorials/rust-rust-multithreaded-server-development-100453) *(Last modified: 2025-04-13)*
+- [rust-rust-multithreaded-server-development-100453](https://labex.io/ru/tutorials/rust-rust-multithreaded-server-development-100453) *(Last modified: 2025-04-15)*
 - [rust-rust-mutability-ownership-demonstration-99196](https://labex.io/ru/tutorials/rust-rust-mutability-ownership-demonstration-99196) *(Last modified: 2025-04-13)*
 - [rust-rust-namespacing-with-use-declaration-99245](https://labex.io/ru/tutorials/rust-rust-namespacing-with-use-declaration-99245) *(Last modified: 2025-04-13)*
 - [rust-rust-operator-simplifies-error-handling-150172](https://labex.io/ru/tutorials/rust-rust-operator-simplifies-error-handling-150172) *(Last modified: 2025-04-13)*
@@ -5987,7 +5987,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [rust-rust-programming-fundamentals-variable-bindings-and-expressions-99302](https://labex.io/ru/tutorials/rust-rust-programming-fundamentals-variable-bindings-and-expressions-99302) *(Last modified: 2025-04-13)*
 - [rust-rust-raii-resource-management-99194](https://labex.io/ru/tutorials/rust-rust-raii-resource-management-99194) *(Last modified: 2025-04-13)*
 - [rust-rust-raw-identifiers-introduction-99288](https://labex.io/ru/tutorials/rust-rust-raw-identifiers-introduction-99288) *(Last modified: 2025-04-13)*
-- [rust-rust-software-testing-fundamentals-99339](https://labex.io/ru/tutorials/rust-rust-software-testing-fundamentals-99339) *(Last modified: 2025-04-13)*
+- [rust-rust-software-testing-fundamentals-99339](https://labex.io/ru/tutorials/rust-rust-software-testing-fundamentals-99339) *(Last modified: 2025-04-15)*
 - [rust-rust-trait-inheritance-and-composition-99221](https://labex.io/ru/tutorials/rust-rust-trait-inheritance-and-composition-99221) *(Last modified: 2025-04-13)*
 - [rust-rust-type-inference-advanced-example-99297](https://labex.io/ru/tutorials/rust-rust-type-inference-advanced-example-99297) *(Last modified: 2025-04-13)*
 - [rust-rust-unit-testing-fundamentals-99281](https://labex.io/ru/tutorials/rust-rust-unit-testing-fundamentals-99281) *(Last modified: 2025-04-13)*
@@ -6130,6 +6130,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [sql-student-grade-management-system-301414](https://labex.io/ru/tutorials/sql-student-grade-management-system-301414) *(Last modified: 2025-03-16)*
 - [sql-view-for-course-information-301432](https://labex.io/ru/tutorials/sql-view-for-course-information-301432) *(Last modified: 2025-03-16)*
 - [sql-wuxu-reform-duration-calculation-301436](https://labex.io/ru/tutorials/sql-wuxu-reform-duration-calculation-301436) *(Last modified: 2025-03-16)*
+- [sqlite-setting-up-sqlite-in-linux-552335](https://labex.io/ru/tutorials/sqlite-setting-up-sqlite-in-linux-552335) *(Last modified: 2025-04-15)*
 - [uncover-the-secret-code-changes-387768](https://labex.io/ru/tutorials/uncover-the-secret-code-changes-387768) *(Last modified: 2025-04-13)*
 - [uncover-the-secret-port-548724](https://labex.io/ru/tutorials/uncover-the-secret-port-548724) *(Last modified: 2025-04-13)*
 - [understand-and-exploit-command-injection-vulnerabilities-in-nmap-416155](https://labex.io/ru/tutorials/understand-and-exploit-command-injection-vulnerabilities-in-nmap-416155) *(Last modified: 2025-04-13)*

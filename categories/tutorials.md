@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2025-04-15 00:04 UTC
+> Last updated: 2025-04-16 00:03 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -190,6 +190,7 @@ This file contains all tutorials related links from LabEx website.
 - [brute-force-root-password-in-linux-with-sucrack-and-hydra-416139](https://labex.io/tutorials/brute-force-root-password-in-linux-with-sucrack-and-hydra-416139) *(Last modified: 2025-04-13)*
 - [brute-force-ssh-in-hydra-549926](https://labex.io/tutorials/brute-force-ssh-in-hydra-549926) *(Last modified: 2025-03-28)*
 - [build-a-backdoor-in-netcat-549927](https://labex.io/tutorials/build-a-backdoor-in-netcat-549927) *(Last modified: 2025-03-28)*
+- [building-tables-in-sqlite-552336](https://labex.io/tutorials/building-tables-in-sqlite-552336) *(Last modified: 2025-04-15)*
 - [c-add-and-subtract-numbers-in-c-435335](https://labex.io/tutorials/c-add-and-subtract-numbers-in-c-435335) *(Last modified: 2025-04-13)*
 - [c-add-two-matrices-in-c-435129](https://labex.io/tutorials/c-add-two-matrices-in-c-435129) *(Last modified: 2025-04-13)*
 - [c-adding-two-numbers-using-pointers-123192](https://labex.io/tutorials/c-adding-two-numbers-using-pointers-123192) *(Last modified: 2025-04-13)*
@@ -1178,6 +1179,7 @@ This file contains all tutorials related links from LabEx website.
 - [create-a-secure-chat-in-netcat-549932](https://labex.io/tutorials/create-a-secure-chat-in-netcat-549932) *(Last modified: 2025-03-28)*
 - [create-backdoor-and-clear-traces-on-target-machine-in-nmap-416135](https://labex.io/tutorials/create-backdoor-and-clear-traces-on-target-machine-in-nmap-416135) *(Last modified: 2025-04-13)*
 - [create-interactive-css-popout-menu-35230](https://labex.io/tutorials/create-interactive-css-popout-menu-35230) *(Last modified: 2025-04-13)*
+- [creating-and-managing-sqlite-databases-552337](https://labex.io/tutorials/creating-and-managing-sqlite-databases-552337) *(Last modified: 2025-04-15)*
 - [css-3d-rotating-cube-165641](https://labex.io/tutorials/css-3d-rotating-cube-165641) *(Last modified: 2025-04-13)*
 - [css-accessible-offscreen-element-hiding-35227](https://labex.io/tutorials/css-accessible-offscreen-element-hiding-35227) *(Last modified: 2025-04-13)*
 - [css-animated-checkbox-styling-with-css-35185](https://labex.io/tutorials/css-animated-checkbox-styling-with-css-35185) *(Last modified: 2025-04-13)*
@@ -13885,6 +13887,7 @@ This file contains all tutorials related links from LabEx website.
 - [python-your-first-matplotlib-lab-92737](https://labex.io/tutorials/python-your-first-matplotlib-lab-92737) *(Last modified: 2025-04-13)*
 - [python-your-first-python-lab-270256](https://labex.io/tutorials/python-your-first-python-lab-270256) *(Last modified: 2025-04-13)*
 - [python-zoom-inset-axes-49038](https://labex.io/tutorials/python-zoom-inset-axes-49038) *(Last modified: 2025-04-13)*
+- [querying-and-filtering-data-552338](https://labex.io/tutorials/querying-and-filtering-data-552338) *(Last modified: 2025-04-15)*
 - [quick-start-with-css-hands-on-labs-413795](https://labex.io/tutorials/quick-start-with-css-hands-on-labs-413795) *(Last modified: 2025-03-16)*
 - [quick-start-with-data-science-hands-on-labs-413787](https://labex.io/tutorials/quick-start-with-data-science-hands-on-labs-413787) *(Last modified: 2025-03-16)*
 - [quick-start-with-java-hands-on-labs-413788](https://labex.io/tutorials/quick-start-with-java-hands-on-labs-413788) *(Last modified: 2025-03-16)*
@@ -14510,6 +14513,7 @@ This file contains all tutorials related links from LabEx website.
 - [sql-student-grade-management-system-301414](https://labex.io/tutorials/sql-student-grade-management-system-301414) *(Last modified: 2025-03-16)*
 - [sql-view-for-course-information-301432](https://labex.io/tutorials/sql-view-for-course-information-301432) *(Last modified: 2025-03-16)*
 - [sql-wuxu-reform-duration-calculation-301436](https://labex.io/tutorials/sql-wuxu-reform-duration-calculation-301436) *(Last modified: 2025-03-16)*
+- [sqlite-setting-up-sqlite-in-linux-552335](https://labex.io/tutorials/sqlite-setting-up-sqlite-in-linux-552335) *(Last modified: 2025-04-15)*
 - [uncover-the-secret-code-changes-387768](https://labex.io/tutorials/uncover-the-secret-code-changes-387768) *(Last modified: 2025-04-13)*
 - [uncover-the-secret-port-548724](https://labex.io/tutorials/uncover-the-secret-port-548724) *(Last modified: 2025-04-13)*
 - [understand-and-exploit-command-injection-vulnerabilities-in-nmap-416155](https://labex.io/tutorials/understand-and-exploit-command-injection-vulnerabilities-in-nmap-416155) *(Last modified: 2025-04-13)*
@@ -14748,6 +14752,7 @@ This file contains all tutorials related links from LabEx website.
 - [wireshark-use-two-pass-analysis-in-tshark-548940](https://labex.io/tutorials/wireshark-use-two-pass-analysis-in-tshark-548940) *(Last modified: 2025-03-28)*
 - [wireshark-verify-wireshark-installation-548783](https://labex.io/tutorials/wireshark-verify-wireshark-installation-548783) *(Last modified: 2025-04-13)*
 - [wireshark-what-is-the-difference-between-capture-filter-and-display-filter-in-wireshark-415622](https://labex.io/tutorials/wireshark-what-is-the-difference-between-capture-filter-and-display-filter-in-wireshark-415622) *(Last modified: 2025-03-27)*
+- [working-with-data-in-sqlite-552340](https://labex.io/tutorials/working-with-data-in-sqlite-552340) *(Last modified: 2025-04-15)*
 - [your-first-javascript-lab-92948](https://labex.io/tutorials/your-first-javascript-lab-92948) *(Last modified: 2025-04-13)*
 - [ansible](https://labex.io/tutorials/category/ansible) *(Last modified: 2024-08-22)*
 - [bigdata](https://labex.io/tutorials/category/bigdata) *(Last modified: 2024-08-22)*

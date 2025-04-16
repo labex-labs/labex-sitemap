@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Es Sitemap
 
-> Last updated: 2025-04-15 00:04 UTC
+> Last updated: 2025-04-16 00:03 UTC
 
 This file contains all tutorials-es related links from LabEx website.
 
@@ -6130,6 +6130,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [sql-student-grade-management-system-301414](https://labex.io/es/tutorials/sql-student-grade-management-system-301414) *(Last modified: 2025-03-16)*
 - [sql-view-for-course-information-301432](https://labex.io/es/tutorials/sql-view-for-course-information-301432) *(Last modified: 2025-03-16)*
 - [sql-wuxu-reform-duration-calculation-301436](https://labex.io/es/tutorials/sql-wuxu-reform-duration-calculation-301436) *(Last modified: 2025-03-16)*
+- [sqlite-setting-up-sqlite-in-linux-552335](https://labex.io/es/tutorials/sqlite-setting-up-sqlite-in-linux-552335) *(Last modified: 2025-04-15)*
 - [uncover-the-secret-code-changes-387768](https://labex.io/es/tutorials/uncover-the-secret-code-changes-387768) *(Last modified: 2025-04-13)*
 - [uncover-the-secret-port-548724](https://labex.io/es/tutorials/uncover-the-secret-port-548724) *(Last modified: 2025-04-13)*
 - [understand-and-exploit-command-injection-vulnerabilities-in-nmap-416155](https://labex.io/es/tutorials/understand-and-exploit-command-injection-vulnerabilities-in-nmap-416155) *(Last modified: 2025-04-13)*
