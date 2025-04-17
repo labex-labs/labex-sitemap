@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Es Sitemap
 
-> Last updated: 2025-04-16 00:03 UTC
+> Last updated: 2025-04-17 00:03 UTC
 
 This file contains all skilltrees-es related links from LabEx website.
 
@@ -49,6 +49,7 @@ This file contains all skilltrees-es related links from LabEx website.
 - [redis](https://labex.io/es/skilltrees/redis)
 - [shell](https://labex.io/es/skilltrees/shell)
 - [sklearn](https://labex.io/es/skilltrees/sklearn)
+- [sqlite](https://labex.io/es/skilltrees/sqlite)
 - [web-development](https://labex.io/es/skilltrees/web-development)
 - [wireshark](https://labex.io/es/skilltrees/wireshark)
 - [ansible](https://labex.io/es/tutorials/category/ansible)
@@ -83,6 +84,7 @@ This file contains all skilltrees-es related links from LabEx website.
 - [redis](https://labex.io/es/tutorials/category/redis)
 - [shell](https://labex.io/es/tutorials/category/shell)
 - [sklearn](https://labex.io/es/tutorials/category/sklearn)
+- [sqlite](https://labex.io/es/tutorials/category/sqlite)
 - [web-development](https://labex.io/es/tutorials/category/web-development)
 - [wireshark](https://labex.io/es/tutorials/category/wireshark)
 - [AnsibleSetupandConfigurationGroup](https://labex.io/es/skilltrees/ansible/groups/AnsibleSetupandConfigurationGroup)
@@ -250,6 +252,7 @@ This file contains all skilltrees-es related links from LabEx website.
 - [DataPreprocessingandFeatureEngineeringGroup](https://labex.io/es/skilltrees/sklearn/groups/DataPreprocessingandFeatureEngineeringGroup)
 - [ModelSelectionandEvaluationGroup](https://labex.io/es/skilltrees/sklearn/groups/ModelSelectionandEvaluationGroup)
 - [UtilitiesandDatasetsGroup](https://labex.io/es/skilltrees/sklearn/groups/UtilitiesandDatasetsGroup)
+- [SQLiteGroup](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup)
 - [WiresharkGroup](https://labex.io/es/skilltrees/wireshark/groups/WiresharkGroup)
 - [install](https://labex.io/es/skilltrees/ansible/groups/AnsibleSetupandConfigurationGroup/skills/install)
 - [local-action](https://labex.io/es/skilltrees/ansible/groups/AnsibleSetupandConfigurationGroup/skills/local-action)
@@ -1180,6 +1183,32 @@ This file contains all skilltrees-es related links from LabEx website.
 - [experimental](https://labex.io/es/skilltrees/sklearn/groups/UtilitiesandDatasetsGroup/skills/experimental)
 - [random-projection](https://labex.io/es/skilltrees/sklearn/groups/UtilitiesandDatasetsGroup/skills/random-projection)
 - [utils](https://labex.io/es/skilltrees/sklearn/groups/UtilitiesandDatasetsGroup/skills/utils)
+- [add-row](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/add-row)
+- [add-rows](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/add-rows)
+- [append-col](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/append-col)
+- [build-index](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/build-index)
+- [check-version](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/check-version)
+- [clear-index](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/clear-index)
+- [col-date](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/col-date)
+- [col-int](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/col-int)
+- [col-text](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/col-text)
+- [drop-row](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/drop-row)
+- [edit-row](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/edit-row)
+- [end-db](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/end-db)
+- [get-all](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/get-all)
+- [init-db](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/init-db)
+- [key-set](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/key-set)
+- [link-db](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/link-db)
+- [make-table](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/make-table)
+- [make-view](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/make-view)
+- [query-where](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/query-where)
+- [remove-col](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/remove-col)
+- [remove-view](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/remove-view)
+- [save-trans](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/save-trans)
+- [sort-data](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/sort-data)
+- [start-trans](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/start-trans)
+- [undo-trans](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/undo-trans)
+- [verify-table](https://labex.io/es/skilltrees/sqlite/groups/SQLiteGroup/skills/verify-table)
 - [capture-filters](https://labex.io/es/skilltrees/wireshark/groups/WiresharkGroup/skills/capture-filters)
 - [colorizing-rules](https://labex.io/es/skilltrees/wireshark/groups/WiresharkGroup/skills/colorizing-rules)
 - [commandline-usage](https://labex.io/es/skilltrees/wireshark/groups/WiresharkGroup/skills/commandline-usage)
