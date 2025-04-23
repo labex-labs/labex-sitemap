@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-04-22 00:04 UTC
+> Last updated: 2025-04-23 00:04 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -2846,7 +2846,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-what-options-can-be-used-with-git-log-to-filter-commits-417937](https://labex.io/zh/tutorials/git-what-options-can-be-used-with-git-log-to-filter-commits-417937) *(Last modified: 2025-04-16)*
 - [git-when-and-how-to-use-force-pushing-in-git-411644](https://labex.io/zh/tutorials/git-when-and-how-to-use-force-pushing-in-git-411644) *(Last modified: 2025-03-01)*
 - [git-working-with-files-and-staging-area-387457](https://labex.io/zh/tutorials/git-working-with-files-and-staging-area-387457) *(Last modified: 2025-04-21)*
-- [git-your-first-git-lab-92739](https://labex.io/zh/tutorials/git-your-first-git-lab-92739) *(Last modified: 2025-04-21)*
+- [git-your-first-git-lab-92739](https://labex.io/zh/tutorials/git-your-first-git-lab-92739) *(Last modified: 2025-04-22)*
 - [go-anonymous-functions-in-golang-149099](https://labex.io/zh/tutorials/go-anonymous-functions-in-golang-149099) *(Last modified: 2025-04-21)*
 - [go-array-operations-in-golang-149075](https://labex.io/zh/tutorials/go-array-operations-in-golang-149075) *(Last modified: 2025-04-21)*
 - [go-arrays-manipulation-in-golang-15453](https://labex.io/zh/tutorials/go-arrays-manipulation-in-golang-15453) *(Last modified: 2025-04-21)*
@@ -8918,7 +8918,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-uptime-command-with-practical-examples-422984](https://labex.io/zh/tutorials/linux-linux-uptime-command-with-practical-examples-422984) *(Last modified: 2025-03-16)*
 - [linux-linux-url-data-transferring-271257](https://labex.io/zh/tutorials/linux-linux-url-data-transferring-271257) *(Last modified: 2025-04-21)*
 - [linux-linux-user-adding-271423](https://labex.io/zh/tutorials/linux-linux-user-adding-271423) *(Last modified: 2025-04-21)*
-- [linux-linux-user-group-and-file-permissions-18002](https://labex.io/zh/tutorials/linux-linux-user-group-and-file-permissions-18002) *(Last modified: 2025-04-21)*
+- [linux-linux-user-group-and-file-permissions-18002](https://labex.io/zh/tutorials/linux-linux-user-group-and-file-permissions-18002) *(Last modified: 2025-04-22)*
 - [linux-linux-user-group-id-displaying-271305](https://labex.io/zh/tutorials/linux-linux-user-group-id-displaying-271305) *(Last modified: 2025-04-21)*
 - [linux-linux-user-groups-391864](https://labex.io/zh/tutorials/linux-linux-user-groups-391864) *(Last modified: 2025-03-16)*
 - [linux-linux-user-identifying-271445](https://labex.io/zh/tutorials/linux-linux-user-identifying-271445) *(Last modified: 2025-04-21)*
@@ -9025,7 +9025,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-resolve-dpkg-lock-errors-in-linux-411651](https://labex.io/zh/tutorials/linux-resolve-dpkg-lock-errors-in-linux-411651) *(Last modified: 2025-03-01)*
 - [linux-restore-access-to-website-301487](https://labex.io/zh/tutorials/linux-restore-access-to-website-301487) *(Last modified: 2025-03-16)*
 - [linux-searching-for-specific-files-301489](https://labex.io/zh/tutorials/linux-searching-for-specific-files-301489) *(Last modified: 2025-03-16)*
-- [linux-secure-file-transfer-basics-40](https://labex.io/zh/tutorials/linux-secure-file-transfer-basics-40) *(Last modified: 2025-04-21)*
+- [linux-secure-file-transfer-basics-40](https://labex.io/zh/tutorials/linux-secure-file-transfer-basics-40) *(Last modified: 2025-04-22)*
 - [linux-sequence-control-and-pipeline-17994](https://labex.io/zh/tutorials/linux-sequence-control-and-pipeline-17994) *(Last modified: 2025-04-21)*
 - [linux-set-up-scheduled-tasks-47](https://labex.io/zh/tutorials/linux-set-up-scheduled-tasks-47) *(Last modified: 2025-04-21)*
 - [linux-setting-up-a-lamp-server-372834](https://labex.io/zh/tutorials/linux-setting-up-a-lamp-server-372834) *(Last modified: 2025-04-21)*

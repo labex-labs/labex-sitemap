@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Es Sitemap
 
-> Last updated: 2025-04-22 00:04 UTC
+> Last updated: 2025-04-23 00:04 UTC
 
 This file contains all tutorials-es related links from LabEx website.
 
@@ -1176,7 +1176,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [git-view-the-remote-url-12780](https://labex.io/es/tutorials/git-view-the-remote-url-12780) *(Last modified: 2025-04-21)*
 - [git-view-undo-history-12782](https://labex.io/es/tutorials/git-view-undo-history-12782) *(Last modified: 2025-04-21)*
 - [git-working-with-files-and-staging-area-387457](https://labex.io/es/tutorials/git-working-with-files-and-staging-area-387457) *(Last modified: 2025-04-21)*
-- [git-your-first-git-lab-92739](https://labex.io/es/tutorials/git-your-first-git-lab-92739) *(Last modified: 2025-04-21)*
+- [git-your-first-git-lab-92739](https://labex.io/es/tutorials/git-your-first-git-lab-92739) *(Last modified: 2025-04-22)*
 - [go-anonymous-functions-in-golang-149099](https://labex.io/es/tutorials/go-anonymous-functions-in-golang-149099) *(Last modified: 2025-04-21)*
 - [go-array-operations-in-golang-149075](https://labex.io/es/tutorials/go-array-operations-in-golang-149075) *(Last modified: 2025-04-21)*
 - [go-arrays-manipulation-in-golang-15453](https://labex.io/es/tutorials/go-arrays-manipulation-in-golang-15453) *(Last modified: 2025-04-21)*
@@ -3335,7 +3335,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [linux-linux-updatedb-command-with-practical-examples-422983](https://labex.io/es/tutorials/linux-linux-updatedb-command-with-practical-examples-422983) *(Last modified: 2025-03-16)*
 - [linux-linux-url-data-transferring-271257](https://labex.io/es/tutorials/linux-linux-url-data-transferring-271257) *(Last modified: 2025-04-21)*
 - [linux-linux-user-adding-271423](https://labex.io/es/tutorials/linux-linux-user-adding-271423) *(Last modified: 2025-04-21)*
-- [linux-linux-user-group-and-file-permissions-18002](https://labex.io/es/tutorials/linux-linux-user-group-and-file-permissions-18002) *(Last modified: 2025-04-21)*
+- [linux-linux-user-group-and-file-permissions-18002](https://labex.io/es/tutorials/linux-linux-user-group-and-file-permissions-18002) *(Last modified: 2025-04-22)*
 - [linux-linux-user-group-id-displaying-271305](https://labex.io/es/tutorials/linux-linux-user-group-id-displaying-271305) *(Last modified: 2025-04-21)*
 - [linux-linux-user-identifying-271445](https://labex.io/es/tutorials/linux-linux-user-identifying-271445) *(Last modified: 2025-04-21)*
 - [linux-linux-user-modifying-271427](https://labex.io/es/tutorials/linux-linux-user-modifying-271427) *(Last modified: 2025-04-21)*
@@ -3376,7 +3376,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [linux-receive-messages-using-netcat-415953](https://labex.io/es/tutorials/linux-receive-messages-using-netcat-415953) *(Last modified: 2025-04-21)*
 - [linux-restore-access-to-website-301487](https://labex.io/es/tutorials/linux-restore-access-to-website-301487) *(Last modified: 2025-03-16)*
 - [linux-searching-for-specific-files-301489](https://labex.io/es/tutorials/linux-searching-for-specific-files-301489) *(Last modified: 2025-03-16)*
-- [linux-secure-file-transfer-basics-40](https://labex.io/es/tutorials/linux-secure-file-transfer-basics-40) *(Last modified: 2025-04-21)*
+- [linux-secure-file-transfer-basics-40](https://labex.io/es/tutorials/linux-secure-file-transfer-basics-40) *(Last modified: 2025-04-22)*
 - [linux-sequence-control-and-pipeline-17994](https://labex.io/es/tutorials/linux-sequence-control-and-pipeline-17994) *(Last modified: 2025-04-21)*
 - [linux-set-up-scheduled-tasks-47](https://labex.io/es/tutorials/linux-set-up-scheduled-tasks-47) *(Last modified: 2025-04-21)*
 - [linux-setting-up-a-lamp-server-372834](https://labex.io/es/tutorials/linux-setting-up-a-lamp-server-372834) *(Last modified: 2025-04-21)*
