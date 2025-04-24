@@ -7,7 +7,7 @@ import json
 
 
 def fetch_sitemap(url):
-    """获取sitemap内容"""
+    """获取 sitemap 内容"""
     try:
         response = requests.get(url)
         response.raise_for_status()
@@ -18,7 +18,7 @@ def fetch_sitemap(url):
 
 
 def parse_sitemap_index(xml_content):
-    """解析sitemap索引文件"""
+    """解析 sitemap 索引文件"""
     root = ET.fromstring(xml_content)
     sitemaps = {}
 
@@ -33,7 +33,7 @@ def parse_sitemap_index(xml_content):
 
 
 def parse_sub_sitemap(xml_content):
-    """解析子sitemap文件，获取所有URL"""
+    """解析子 sitemap 文件，获取所有 URL"""
     root = ET.fromstring(xml_content)
     urls = []
 
@@ -89,7 +89,7 @@ def get_repository_structure():
 
 
 def generate_category_markdown(category, data):
-    """生成每个类别的markdown内容"""
+    """生成每个类别的 markdown 内容"""
     markdown = f"""---
 layout: default
 ---
@@ -108,7 +108,7 @@ This file contains all {category.lower()} related links from LabEx website.
 
 """
     if data["urls"]:
-        # 将URL按照路径深度和字母顺序排序
+        # 将 URL 按照路径深度和字母顺序排序
         sorted_urls = sorted(
             data["urls"], key=lambda x: (len(x["loc"].split("/")), x["loc"])
         )
@@ -124,7 +124,7 @@ This file contains all {category.lower()} related links from LabEx website.
             else:
                 url_tree["root"].append(url_data)
 
-        # 按照分组生成markdown
+        # 按照分组生成 markdown
         for group, urls in sorted(url_tree.items()):
             if group != "root":
                 markdown += f"\n### {group}\n\n"
@@ -143,7 +143,7 @@ This file contains all {category.lower()} related links from LabEx website.
 
 
 def generate_main_readme(sitemaps_with_urls):
-    """生成主README文件的内容"""
+    """生成主 README 文件的内容"""
     markdown = f"""---
 layout: default
 ---
@@ -177,11 +177,11 @@ def ensure_directory_exists(directory):
 
 
 def update_files(sitemaps_with_urls):
-    """更新所有markdown文件"""
-    # 确保sitemaps目录存在
+    """更新所有 markdown 文件"""
+    # 确保 sitemaps 目录存在
     ensure_directory_exists("categories")
 
-    # 更新主README
+    # 更新主 README
     main_content = generate_main_readme(sitemaps_with_urls)
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(main_content)
@@ -222,19 +222,67 @@ def update_package_version():
         print(f"Error updating package version: {e}")
 
 
+def generate_llms_txt(sitemaps_with_urls):
+    """Generate a llms.txt file with all categories and links"""
+    content = ""
+    
+    # Process each category
+    for category, data in sorted(sitemaps_with_urls.items()):
+        # Add category header
+        content += f"# {category.title()}\n\n"
+        
+        # Create a tree structure similar to what's done in generate_category_markdown
+        url_tree = defaultdict(list)
+        sorted_urls = sorted(
+            data["urls"], key=lambda x: (len(x["loc"].split("/")), x["loc"])
+        )
+        
+        for url_data in sorted_urls:
+            url = url_data["loc"]
+            path_parts = url.replace("https://labex.io/", "").split("/")
+            if len(path_parts) > 1:
+                key = path_parts[0]
+                url_tree[key].append(url_data)
+            else:
+                url_tree["root"].append(url_data)
+        
+        # Process each group in the category
+        for group, urls in sorted(url_tree.items()):
+            if group != "root":
+                content += f"## {group}\n\n"
+            else:
+                content += "## \n\n"  # Empty section header for root items
+            
+            # Add links
+            for url_data in urls:
+                url = url_data["loc"]
+                display_name = (
+                    url.split("/")[-1] if url.split("/")[-1] else url.split("/")[-2]
+                )
+                content += f"- [{display_name}]({url})\n"
+            
+            content += "\n"
+    
+    # Write content to file
+    with open("llms.txt", "w", encoding="utf-8") as f:
+        f.write(content)
+    
+    print("Generated llms.txt file")
+
+
 def main():
-    # 获取sitemap索引
+    # 获取 sitemap 索引
     sitemap_index_url = "https://labex.io/sitemap_index.xml"
     xml_content = fetch_sitemap(sitemap_index_url)
 
     if xml_content:
-        # 解析主sitemap
+        # 解析主 sitemap
         sitemaps = parse_sitemap_index(xml_content)
 
-        # 存储所有sitemap及其包含的URL
+        # 存储所有 sitemap 及其包含的 URL
         sitemaps_with_urls = {}
 
-        # 获取每个子sitemap的内容
+        # 获取每个子 sitemap 的内容
         for sitemap_type, sitemap_url in sitemaps.items():
             print(f"Fetching {sitemap_type} sitemap...")
             sub_sitemap_content = fetch_sitemap(sitemap_url)
@@ -255,6 +303,9 @@ def main():
 
         # 更新所有文件
         update_files(sitemaps_with_urls)
+        
+        # Generate llms.txt file
+        generate_llms_txt(sitemaps_with_urls)
 
         # Update package version
         update_package_version()

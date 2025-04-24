@@ -47,7 +47,7 @@ setup(
         "learning",
         "education",
         "practical-learning",
-        "sitemap"
+        "sitemap",
     ],
     python_requires=">=3.6",
     include_package_data=True,

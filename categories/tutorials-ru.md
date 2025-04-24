@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ru Sitemap
 
-> Last updated: 2025-04-24 00:04 UTC
+> Last updated: 2025-04-24 05:57 UTC
 
 This file contains all tutorials-ru related links from LabEx website.
 
@@ -17,7 +17,6 @@ This file contains all tutorials-ru related links from LabEx website.
 
 ### ru
 
-- [analyze-logs-in-graylog-549925](https://labex.io/ru/tutorials/analyze-logs-in-graylog-549925) *(Last modified: 2025-03-28)*
 - [analyzing-character-lowercase-status-117537](https://labex.io/ru/tutorials/analyzing-character-lowercase-status-117537) *(Last modified: 2025-04-23)*
 - [ansible-ansible-ad-hoc-commands-390441](https://labex.io/ru/tutorials/ansible-ansible-ad-hoc-commands-390441) *(Last modified: 2025-04-23)*
 - [ansible-ansible-apt-module-289651](https://labex.io/ru/tutorials/ansible-ansible-apt-module-289651) *(Last modified: 2025-04-23)*
@@ -131,8 +130,6 @@ This file contains all tutorials-ru related links from LabEx website.
 - [ansible-setup-ansible-by-yourself-390383](https://labex.io/ru/tutorials/ansible-setup-ansible-by-yourself-390383) *(Last modified: 2025-04-23)*
 - [base64-encoding-and-decoding-117389](https://labex.io/ru/tutorials/base64-encoding-and-decoding-117389) *(Last modified: 2025-04-23)*
 - [brute-force-root-password-in-linux-with-sucrack-and-hydra-416139](https://labex.io/ru/tutorials/brute-force-root-password-in-linux-with-sucrack-and-hydra-416139) *(Last modified: 2025-04-23)*
-- [brute-force-ssh-in-hydra-549926](https://labex.io/ru/tutorials/brute-force-ssh-in-hydra-549926) *(Last modified: 2025-03-28)*
-- [build-a-backdoor-in-netcat-549927](https://labex.io/ru/tutorials/build-a-backdoor-in-netcat-549927) *(Last modified: 2025-03-28)*
 - [c-adding-two-numbers-using-pointers-123192](https://labex.io/ru/tutorials/c-adding-two-numbers-using-pointers-123192) *(Last modified: 2025-04-23)*
 - [c-adding-two-numbers-using-recursion-123193](https://labex.io/ru/tutorials/c-adding-two-numbers-using-recursion-123193) *(Last modified: 2025-04-23)*
 - [c-analyze-temperature-array-438390](https://labex.io/ru/tutorials/c-analyze-temperature-array-438390) *(Last modified: 2025-04-23)*
@@ -326,7 +323,6 @@ This file contains all tutorials-ru related links from LabEx website.
 - [c-work-with-floating-point-arithmetic-in-c-435202](https://labex.io/ru/tutorials/c-work-with-floating-point-arithmetic-in-c-435202) *(Last modified: 2025-04-23)*
 - [c-your-first-c-lab-391824](https://labex.io/ru/tutorials/c-your-first-c-lab-391824) *(Last modified: 2025-04-23)*
 - [calculate-product-discount-price-435694](https://labex.io/ru/tutorials/calculate-product-discount-price-435694) *(Last modified: 2025-04-23)*
-- [capture-packets-in-tshark-549928](https://labex.io/ru/tutorials/capture-packets-in-tshark-549928) *(Last modified: 2025-03-28)*
 - [construction-brute-force-web-password-cracking-289569](https://labex.io/ru/tutorials/construction-brute-force-web-password-cracking-289569) *(Last modified: 2025-03-27)*
 - [construction-reflected-cross-site-scripting-xss-attack-289562](https://labex.io/ru/tutorials/construction-reflected-cross-site-scripting-xss-attack-289562) *(Last modified: 2025-03-27)*
 - [convert-and-calculate-numeric-types-435824](https://labex.io/ru/tutorials/convert-and-calculate-numeric-types-435824) *(Last modified: 2025-04-23)*
@@ -523,9 +519,6 @@ This file contains all tutorials-ru related links from LabEx website.
 - [cpp-video-object-tracking-by-using-opencv-178621](https://labex.io/ru/tutorials/cpp-video-object-tracking-by-using-opencv-178621) *(Last modified: 2025-03-16)*
 - [cpp-write-your-first-c-program-446069](https://labex.io/ru/tutorials/cpp-write-your-first-c-program-446069) *(Last modified: 2025-04-23)*
 - [cpp-your-first-c-lab-391803](https://labex.io/ru/tutorials/cpp-your-first-c-lab-391803) *(Last modified: 2025-04-23)*
-- [crack-hashes-in-hashcat-549929](https://labex.io/ru/tutorials/crack-hashes-in-hashcat-549929) *(Last modified: 2025-03-28)*
-- [crack-zip-passwords-in-john-the-ripper-549930](https://labex.io/ru/tutorials/crack-zip-passwords-in-john-the-ripper-549930) *(Last modified: 2025-03-28)*
-- [create-a-secure-chat-in-netcat-549932](https://labex.io/ru/tutorials/create-a-secure-chat-in-netcat-549932) *(Last modified: 2025-03-28)*
 - [create-backdoor-and-clear-traces-on-target-machine-in-nmap-416135](https://labex.io/ru/tutorials/create-backdoor-and-clear-traces-on-target-machine-in-nmap-416135) *(Last modified: 2025-04-23)*
 - [create-interactive-css-popout-menu-35230](https://labex.io/ru/tutorials/create-interactive-css-popout-menu-35230) *(Last modified: 2025-04-23)*
 - [css-3d-rotating-cube-165641](https://labex.io/ru/tutorials/css-3d-rotating-cube-165641) *(Last modified: 2025-04-23)*
@@ -684,8 +677,6 @@ This file contains all tutorials-ru related links from LabEx website.
 - [css-zig-zag-background-pattern-35258](https://labex.io/ru/tutorials/css-zig-zag-background-pattern-35258) *(Last modified: 2025-04-23)*
 - [css-zoom-in-zoom-out-animation-35259](https://labex.io/ru/tutorials/css-zoom-in-zoom-out-animation-35259) *(Last modified: 2025-04-23)*
 - [customizing-builds-with-release-profiles-100427](https://labex.io/ru/tutorials/customizing-builds-with-release-profiles-100427) *(Last modified: 2025-04-23)*
-- [deploy-a-honeypot-in-cowrie-549933](https://labex.io/ru/tutorials/deploy-a-honeypot-in-cowrie-549933) *(Last modified: 2025-03-28)*
-- [detect-anomalies-in-suricata-549934](https://labex.io/ru/tutorials/detect-anomalies-in-suricata-549934) *(Last modified: 2025-03-28)*
 - [determine-java-identifier-start-character-117527](https://labex.io/ru/tutorials/determine-java-identifier-start-character-117527) *(Last modified: 2025-04-23)*
 - [displaying-query-results-using-el-expressions-300360](https://labex.io/ru/tutorials/displaying-query-results-using-el-expressions-300360) *(Last modified: 2025-03-16)*
 - [django-add-a-stylesheet-and-an-image-153746](https://labex.io/ru/tutorials/django-add-a-stylesheet-and-an-image-153746) *(Last modified: 2025-04-23)*
@@ -920,10 +911,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [docker-working-with-docker-images-388939](https://labex.io/ru/tutorials/docker-working-with-docker-images-388939) *(Last modified: 2025-04-23)*
 - [docker-working-with-docker-volumes-389189](https://labex.io/ru/tutorials/docker-working-with-docker-volumes-389189) *(Last modified: 2025-04-23)*
 - [docker-your-first-docker-lab-92719](https://labex.io/ru/tutorials/docker-your-first-docker-lab-92719) *(Last modified: 2025-04-23)*
-- [encrypt-files-in-openssl-549935](https://labex.io/ru/tutorials/encrypt-files-in-openssl-549935) *(Last modified: 2025-03-28)*
-- [enumerate-dns-in-dnsenum-549936](https://labex.io/ru/tutorials/enumerate-dns-in-dnsenum-549936) *(Last modified: 2025-03-28)*
 - [escalate-privileges-using-etc-shadow-file-in-linux-416142](https://labex.io/ru/tutorials/escalate-privileges-using-etc-shadow-file-in-linux-416142) *(Last modified: 2025-04-23)*
-- [evade-firewalls-in-nmap-549937](https://labex.io/ru/tutorials/evade-firewalls-in-nmap-549937) *(Last modified: 2025-03-28)*
 - [exploit-file-inclusion-vulnerabilities-with-nmap-416152](https://labex.io/ru/tutorials/exploit-file-inclusion-vulnerabilities-with-nmap-416152) *(Last modified: 2025-04-23)*
 - [exploit-sql-injection-in-sqlmap-549938](https://labex.io/ru/tutorials/exploit-sql-injection-in-sqlmap-549938) *(Last modified: 2025-03-28)*
 - [exploit-sql-injection-vulnerabilities-in-nmap-416137](https://labex.io/ru/tutorials/exploit-sql-injection-vulnerabilities-in-nmap-416137) *(Last modified: 2025-04-23)*
@@ -935,7 +923,6 @@ This file contains all tutorials-ru related links from LabEx website.
 - [exploring-java-long-tounsignedstring-method-117934](https://labex.io/ru/tutorials/exploring-java-long-tounsignedstring-method-117934) *(Last modified: 2025-04-23)*
 - [exploring-java-primitive-data-types-117948](https://labex.io/ru/tutorials/exploring-java-primitive-data-types-117948) *(Last modified: 2025-04-23)*
 - [extensible-concurrency-with-send-and-sync-100440](https://labex.io/ru/tutorials/extensible-concurrency-with-send-and-sync-100440) *(Last modified: 2025-04-23)*
-- [filter-traffic-in-wireshark-549939](https://labex.io/ru/tutorials/filter-traffic-in-wireshark-549939) *(Last modified: 2025-03-28)*
 - [find-and-exploit-sensitive-config-files-for-privilege-escalation-in-nmap-416138](https://labex.io/ru/tutorials/find-and-exploit-sensitive-config-files-for-privilege-escalation-in-nmap-416138) *(Last modified: 2025-04-23)*
 - [flask-building-a-flask-application-136335](https://labex.io/ru/tutorials/flask-building-a-flask-application-136335) *(Last modified: 2025-04-23)*
 - [flask-deploy-flask-application-136343](https://labex.io/ru/tutorials/flask-deploy-flask-application-136343) *(Last modified: 2025-04-23)*
@@ -1518,7 +1505,6 @@ This file contains all tutorials-ru related links from LabEx website.
 - [hadoop-vr-universe-exploration-with-hadoopudfs-289003](https://labex.io/ru/tutorials/hadoop-vr-universe-exploration-with-hadoopudfs-289003) *(Last modified: 2025-04-23)*
 - [hadoop-whispering-woods-node-manager-quest-288988](https://labex.io/ru/tutorials/hadoop-whispering-woods-node-manager-quest-288988) *(Last modified: 2025-04-23)*
 - [hadoop-xaras-data-wizardry-288981](https://labex.io/ru/tutorials/hadoop-xaras-data-wizardry-288981) *(Last modified: 2025-04-23)*
-- [harden-ssh-in-openssh-549940](https://labex.io/ru/tutorials/harden-ssh-in-openssh-549940) *(Last modified: 2025-03-28)*
 - [hide-data-in-steghide-549941](https://labex.io/ru/tutorials/hide-data-in-steghide-549941) *(Last modified: 2025-03-28)*
 - [horizontal-scroll-snap-35211](https://labex.io/ru/tutorials/horizontal-scroll-snap-35211) *(Last modified: 2025-04-23)*
 - [how-to-use-hackbar-for-security-testing-418912](https://labex.io/ru/tutorials/how-to-use-hackbar-for-security-testing-418912) *(Last modified: 2025-04-23)*
@@ -1645,17 +1631,22 @@ This file contains all tutorials-ru related links from LabEx website.
 - [hydra-attack-ssl-enabled-services-with-hydra-550762](https://labex.io/ru/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762) *(Last modified: 2025-04-23)*
 - [hydra-attack-telnet-services-with-hydra-549916](https://labex.io/ru/tutorials/hydra-attack-telnet-services-with-hydra-549916) *(Last modified: 2025-04-23)*
 - [hydra-attack-with-colon-separated-credentials-550763](https://labex.io/ru/tutorials/hydra-attack-with-colon-separated-credentials-550763) *(Last modified: 2025-04-02)*
+- [hydra-brute-force-ssh-in-hydra-549926](https://labex.io/ru/tutorials/hydra-brute-force-ssh-in-hydra-549926) *(Last modified: 2025-04-24)*
 - [hydra-control-hydra-connection-intervals-550764](https://labex.io/ru/tutorials/hydra-control-hydra-connection-intervals-550764) *(Last modified: 2025-04-02)*
 - [hydra-crack-a-weak-telnet-password-550745](https://labex.io/ru/tutorials/hydra-crack-a-weak-telnet-password-550745) *(Last modified: 2025-04-23)*
 - [hydra-crack-agent-s-weak-ssh-password-550753](https://labex.io/ru/tutorials/hydra-crack-agent-s-weak-ssh-password-550753) *(Last modified: 2025-04-23)*
 - [hydra-crack-ftp-with-custom-wordlist-550733](https://labex.io/ru/tutorials/hydra-crack-ftp-with-custom-wordlist-550733) *(Last modified: 2025-04-23)*
+- [hydra-crack-hashes-in-hashcat-549929](https://labex.io/ru/tutorials/hydra-crack-hashes-in-hashcat-549929) *(Last modified: 2025-04-24)*
 - [hydra-crack-new-user-ssh-login-550712](https://labex.io/ru/tutorials/hydra-crack-new-user-ssh-login-550712) *(Last modified: 2025-04-23)*
 - [hydra-crack-the-hidden-service-550719](https://labex.io/ru/tutorials/hydra-crack-the-hidden-service-550719) *(Last modified: 2025-04-23)*
+- [hydra-crack-zip-passwords-in-john-the-ripper-549930](https://labex.io/ru/tutorials/hydra-crack-zip-passwords-in-john-the-ripper-549930) *(Last modified: 2025-04-24)*
 - [hydra-customize-hydra-port-numbers-550765](https://labex.io/ru/tutorials/hydra-customize-hydra-port-numbers-550765) *(Last modified: 2025-04-23)*
 - [hydra-debug-hydra-attacks-550766](https://labex.io/ru/tutorials/hydra-debug-hydra-attacks-550766) *(Last modified: 2025-04-03)*
+- [hydra-deploy-a-honeypot-in-cowrie-549933](https://labex.io/ru/tutorials/hydra-deploy-a-honeypot-in-cowrie-549933) *(Last modified: 2025-04-24)*
 - [hydra-explore-hydra-module-specific-options-550767](https://labex.io/ru/tutorials/hydra-explore-hydra-module-specific-options-550767) *(Last modified: 2025-04-02)*
 - [hydra-fine-tune-hydra-response-wait-times-550768](https://labex.io/ru/tutorials/hydra-fine-tune-hydra-response-wait-times-550768) *(Last modified: 2025-04-02)*
 - [hydra-generate-passwords-with-hydra-brute-force-550769](https://labex.io/ru/tutorials/hydra-generate-passwords-with-hydra-brute-force-550769) *(Last modified: 2025-04-02)*
+- [hydra-harden-ssh-in-openssh-549940](https://labex.io/ru/tutorials/hydra-harden-ssh-in-openssh-549940) *(Last modified: 2025-04-24)*
 - [hydra-how-to-exploit-the-ftp-service-vulnerability-in-cybersecurity-417466](https://labex.io/ru/tutorials/hydra-how-to-exploit-the-ftp-service-vulnerability-in-cybersecurity-417466) *(Last modified: 2025-03-27)*
 - [hydra-how-to-leverage-metasploit-encoder-modules-for-payload-obfuscation-in-cybersecurity-417350](https://labex.io/ru/tutorials/hydra-how-to-leverage-metasploit-encoder-modules-for-payload-obfuscation-in-cybersecurity-417350) *(Last modified: 2025-03-27)*
 - [hydra-how-to-test-for-sql-injection-flaws-using-the-single-quote-technique-in-cybersecurity-417888](https://labex.io/ru/tutorials/hydra-how-to-test-for-sql-injection-flaws-using-the-single-quote-technique-in-cybersecurity-417888) *(Last modified: 2025-03-27)*
@@ -1669,6 +1660,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [hydra-restore-a-previous-hydra-session-550772](https://labex.io/ru/tutorials/hydra-restore-a-previous-hydra-session-550772) *(Last modified: 2025-04-23)*
 - [hydra-save-hydra-attack-results-550773](https://labex.io/ru/tutorials/hydra-save-hydra-attack-results-550773) *(Last modified: 2025-04-02)*
 - [hydra-set-up-a-test-environment-for-hydra-549921](https://labex.io/ru/tutorials/hydra-set-up-a-test-environment-for-hydra-549921) *(Last modified: 2025-03-28)*
+- [hydra-spray-passwords-in-hydra-549952](https://labex.io/ru/tutorials/hydra-spray-passwords-in-hydra-549952) *(Last modified: 2025-04-24)*
 - [hydra-stop-hydra-attacks-early-550774](https://labex.io/ru/tutorials/hydra-stop-hydra-attacks-early-550774) *(Last modified: 2025-04-02)*
 - [hydra-test-hydra-with-unsupported-protocols-550775](https://labex.io/ru/tutorials/hydra-test-hydra-with-unsupported-protocols-550775) *(Last modified: 2025-04-02)*
 - [hydra-use-additional-hydra-password-checks-550776](https://labex.io/ru/tutorials/hydra-use-additional-hydra-password-checks-550776) *(Last modified: 2025-04-02)*
@@ -2144,7 +2136,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [java-java-long-tostring-method-117926](https://labex.io/ru/tutorials/java-java-long-tostring-method-117926) *(Last modified: 2025-04-23)*
 - [java-java-long-unsigned-string-conversion-117932](https://labex.io/ru/tutorials/java-java-long-unsigned-string-conversion-117932) *(Last modified: 2025-04-23)*
 - [java-java-math-pow-method-117939](https://labex.io/ru/tutorials/java-java-math-pow-method-117939) *(Last modified: 2025-04-23)*
-- [java-java-methods-and-basic-object-oriented-programming-413809](https://labex.io/ru/tutorials/java-java-methods-and-basic-object-oriented-programming-413809) *(Last modified: 2025-04-23)*
+- [java-java-methods-and-basic-object-oriented-programming-413809](https://labex.io/ru/tutorials/java-java-methods-and-basic-object-oriented-programming-413809) *(Last modified: 2025-04-24)*
 - [java-java-pojo-class-117946](https://labex.io/ru/tutorials/java-java-pojo-class-117946) *(Last modified: 2025-04-23)*
 - [java-java-scanner-input-challenge-413835](https://labex.io/ru/tutorials/java-java-scanner-input-challenge-413835) *(Last modified: 2025-04-23)*
 - [java-java-serialization-and-deserialization-117950](https://labex.io/ru/tutorials/java-java-serialization-and-deserialization-117950) *(Last modified: 2025-04-23)*
@@ -3934,8 +3926,10 @@ This file contains all tutorials-ru related links from LabEx website.
 - [mysql-top-5-countries-by-land-area-301420](https://labex.io/ru/tutorials/mysql-top-5-countries-by-land-area-301420) *(Last modified: 2025-03-16)*
 - [mysql-updating-student-gpa-in-mysql-database-301424](https://labex.io/ru/tutorials/mysql-updating-student-gpa-in-mysql-database-301424) *(Last modified: 2025-03-16)*
 - [nmap-adjust-packet-rates-in-nmap-547086](https://labex.io/ru/tutorials/nmap-adjust-packet-rates-in-nmap-547086) *(Last modified: 2025-03-28)*
+- [nmap-analyze-logs-in-graylog-549925](https://labex.io/ru/tutorials/nmap-analyze-logs-in-graylog-549925) *(Last modified: 2025-04-24)*
 - [nmap-analyze-scan-statistics-in-nmap-547087](https://labex.io/ru/tutorials/nmap-analyze-scan-statistics-in-nmap-547087) *(Last modified: 2025-03-27)*
 - [nmap-automate-scans-with-nmap-547088](https://labex.io/ru/tutorials/nmap-automate-scans-with-nmap-547088) *(Last modified: 2025-03-28)*
+- [nmap-build-a-backdoor-in-netcat-549927](https://labex.io/ru/tutorials/nmap-build-a-backdoor-in-netcat-549927) *(Last modified: 2025-04-24)*
 - [nmap-combine-os-and-service-detection-in-nmap-547089](https://labex.io/ru/tutorials/nmap-combine-os-and-service-detection-in-nmap-547089) *(Last modified: 2025-03-28)*
 - [nmap-combine-tcp-and-udp-scanning-in-nmap-547090](https://labex.io/ru/tutorials/nmap-combine-tcp-and-udp-scanning-in-nmap-547090) *(Last modified: 2025-03-28)*
 - [nmap-compare-scan-results-in-nmap-547091](https://labex.io/ru/tutorials/nmap-compare-scan-results-in-nmap-547091) *(Last modified: 2025-03-28)*
@@ -3952,11 +3946,13 @@ This file contains all tutorials-ru related links from LabEx website.
 - [nmap-detect-ssl-certificates-in-nmap-547096](https://labex.io/ru/tutorials/nmap-detect-ssl-certificates-in-nmap-547096) *(Last modified: 2025-03-27)*
 - [nmap-develop-a-metasploit-scanner-in-nmap-416123](https://labex.io/ru/tutorials/nmap-develop-a-metasploit-scanner-in-nmap-416123) *(Last modified: 2025-04-23)*
 - [nmap-discover-network-services-with-nmap-and-its-scripting-engine-415931](https://labex.io/ru/tutorials/nmap-discover-network-services-with-nmap-and-its-scripting-engine-415931) *(Last modified: 2025-04-23)*
+- [nmap-enumerate-dns-in-dnsenum-549936](https://labex.io/ru/tutorials/nmap-enumerate-dns-in-dnsenum-549936) *(Last modified: 2025-04-24)*
 - [nmap-enumerate-dns-records-in-nmap-547097](https://labex.io/ru/tutorials/nmap-enumerate-dns-records-in-nmap-547097) *(Last modified: 2025-03-27)*
 - [nmap-enumerate-http-services-in-nmap-547098](https://labex.io/ru/tutorials/nmap-enumerate-http-services-in-nmap-547098) *(Last modified: 2025-03-28)*
 - [nmap-enumerate-smb-services-in-nmap-547099](https://labex.io/ru/tutorials/nmap-enumerate-smb-services-in-nmap-547099) *(Last modified: 2025-03-28)*
 - [nmap-escalate-privileges-to-root-via-intermediate-user-in-nmap-416146](https://labex.io/ru/tutorials/nmap-escalate-privileges-to-root-via-intermediate-user-in-nmap-416146) *(Last modified: 2025-04-23)*
 - [nmap-evade-firewalls-and-ids-with-nmap-530178](https://labex.io/ru/tutorials/nmap-evade-firewalls-and-ids-with-nmap-530178) *(Last modified: 2025-03-28)*
+- [nmap-evade-firewalls-in-nmap-549937](https://labex.io/ru/tutorials/nmap-evade-firewalls-in-nmap-549937) *(Last modified: 2025-04-24)*
 - [nmap-execute-tcp-null-scanning-in-nmap-547100](https://labex.io/ru/tutorials/nmap-execute-tcp-null-scanning-in-nmap-547100) *(Last modified: 2025-03-28)*
 - [nmap-execute-udp-scanning-with-nmap-530179](https://labex.io/ru/tutorials/nmap-execute-udp-scanning-with-nmap-530179) *(Last modified: 2025-03-27)*
 - [nmap-exploit-file-upload-vulnerabilities-with-nmap-416154](https://labex.io/ru/tutorials/nmap-exploit-file-upload-vulnerabilities-with-nmap-416154) *(Last modified: 2025-04-23)*
@@ -4063,13 +4059,17 @@ This file contains all tutorials-ru related links from LabEx website.
 - [nmap-save-nmap-output-to-xml-548705](https://labex.io/ru/tutorials/nmap-save-nmap-output-to-xml-548705) *(Last modified: 2025-04-23)*
 - [nmap-scan-for-vulnerabilities-in-nmap-547109](https://labex.io/ru/tutorials/nmap-scan-for-vulnerabilities-in-nmap-547109) *(Last modified: 2025-03-27)*
 - [nmap-scan-ipv6-targets-in-nmap-547110](https://labex.io/ru/tutorials/nmap-scan-ipv6-targets-in-nmap-547110) *(Last modified: 2025-03-28)*
+- [nmap-scan-ports-in-masscan-549946](https://labex.io/ru/tutorials/nmap-scan-ports-in-masscan-549946) *(Last modified: 2025-04-24)*
 - [nmap-scan-specific-hosts-in-nmap-547111](https://labex.io/ru/tutorials/nmap-scan-specific-hosts-in-nmap-547111) *(Last modified: 2025-04-03)*
 - [nmap-scan-target-from-file-548715](https://labex.io/ru/tutorials/nmap-scan-target-from-file-548715) *(Last modified: 2025-04-23)*
+- [nmap-scan-vulnerabilities-in-nmap-549947](https://labex.io/ru/tutorials/nmap-scan-vulnerabilities-in-nmap-549947) *(Last modified: 2025-04-24)*
+- [nmap-scan-web-servers-in-nikto-549948](https://labex.io/ru/tutorials/nmap-scan-web-servers-in-nikto-549948) *(Last modified: 2025-04-24)*
 - [nmap-scan-with-custom-ports-in-nmap-547112](https://labex.io/ru/tutorials/nmap-scan-with-custom-ports-in-nmap-547112) *(Last modified: 2025-03-28)*
 - [nmap-scanning-subnet-with-nmap-415954](https://labex.io/ru/tutorials/nmap-scanning-subnet-with-nmap-415954) *(Last modified: 2025-04-23)*
 - [nmap-simulate-network-conditions-in-nmap-547113](https://labex.io/ru/tutorials/nmap-simulate-network-conditions-in-nmap-547113) *(Last modified: 2025-03-27)*
 - [nmap-simulate-real-world-scenarios-in-nmap-547114](https://labex.io/ru/tutorials/nmap-simulate-real-world-scenarios-in-nmap-547114) *(Last modified: 2025-03-27)*
 - [nmap-specify-targets-for-scanning-in-nmap-530185](https://labex.io/ru/tutorials/nmap-specify-targets-for-scanning-in-nmap-530185) *(Last modified: 2025-03-28)*
+- [nmap-spoof-arp-in-ettercap-549950](https://labex.io/ru/tutorials/nmap-spoof-arp-in-ettercap-549950) *(Last modified: 2025-04-24)*
 - [nmap-spoof-mac-addresses-in-nmap-547116](https://labex.io/ru/tutorials/nmap-spoof-mac-addresses-in-nmap-547116) *(Last modified: 2025-03-27)*
 - [nmap-troubleshoot-nmap-scans-547117](https://labex.io/ru/tutorials/nmap-troubleshoot-nmap-scans-547117) *(Last modified: 2025-03-27)*
 - [nmap-understand-nmap-command-syntax-530159](https://labex.io/ru/tutorials/nmap-understand-nmap-command-syntax-530159) *(Last modified: 2025-04-23)*
@@ -6039,9 +6039,6 @@ This file contains all tutorials-ru related links from LabEx website.
 - [rust-wrapping-errors-with-custom-type-99250](https://labex.io/ru/tutorials/rust-wrapping-errors-with-custom-type-99250) *(Last modified: 2025-04-23)*
 - [rust-writing-rust-functions-99320](https://labex.io/ru/tutorials/rust-writing-rust-functions-99320) *(Last modified: 2025-04-23)*
 - [rust-your-first-rust-lab-101055](https://labex.io/ru/tutorials/rust-your-first-rust-lab-101055) *(Last modified: 2025-04-23)*
-- [scan-ports-in-masscan-549946](https://labex.io/ru/tutorials/scan-ports-in-masscan-549946) *(Last modified: 2025-03-28)*
-- [scan-vulnerabilities-in-nmap-549947](https://labex.io/ru/tutorials/scan-vulnerabilities-in-nmap-549947) *(Last modified: 2025-03-28)*
-- [scan-web-servers-in-nikto-549948](https://labex.io/ru/tutorials/scan-web-servers-in-nikto-549948) *(Last modified: 2025-03-28)*
 - [shell-arithmetic-operations-in-shell-388813](https://labex.io/ru/tutorials/shell-arithmetic-operations-in-shell-388813) *(Last modified: 2025-04-23)*
 - [shell-bash-function-return-values-391153](https://labex.io/ru/tutorials/shell-bash-function-return-values-391153) *(Last modified: 2025-04-23)*
 - [shell-bash-getopt-391993](https://labex.io/ru/tutorials/shell-bash-getopt-391993) *(Last modified: 2025-04-23)*
@@ -6099,10 +6096,6 @@ This file contains all tutorials-ru related links from LabEx website.
 - [shell-weather-advisory-system-388885](https://labex.io/ru/tutorials/shell-weather-advisory-system-388885) *(Last modified: 2025-04-23)*
 - [shell-working-with-shell-variables-388810](https://labex.io/ru/tutorials/shell-working-with-shell-variables-388810) *(Last modified: 2025-04-23)*
 - [simple-java-print-statement-391714](https://labex.io/ru/tutorials/simple-java-print-statement-391714) *(Last modified: 2025-04-23)*
-- [simulate-phishing-in-set-549949](https://labex.io/ru/tutorials/simulate-phishing-in-set-549949) *(Last modified: 2025-03-28)*
-- [spoof-arp-in-ettercap-549950](https://labex.io/ru/tutorials/spoof-arp-in-ettercap-549950) *(Last modified: 2025-03-28)*
-- [spoof-packets-in-scapy-549951](https://labex.io/ru/tutorials/spoof-packets-in-scapy-549951) *(Last modified: 2025-03-28)*
-- [spray-passwords-in-hydra-549952](https://labex.io/ru/tutorials/spray-passwords-in-hydra-549952) *(Last modified: 2025-03-28)*
 - [sql-accessing-mysql-database-and-sql-querying-301344](https://labex.io/ru/tutorials/sql-accessing-mysql-database-and-sql-querying-301344) *(Last modified: 2025-03-16)*
 - [sql-average-salaries-per-department-301284](https://labex.io/ru/tutorials/sql-average-salaries-per-department-301284) *(Last modified: 2025-03-16)*
 - [sql-city-names-and-respective-countries-301298](https://labex.io/ru/tutorials/sql-city-names-and-respective-countries-301298) *(Last modified: 2025-03-16)*
@@ -6178,8 +6171,10 @@ This file contains all tutorials-ru related links from LabEx website.
 - [wireshark-capture-and-analyze-network-traffic-with-wireshark-415956](https://labex.io/ru/tutorials/wireshark-capture-and-analyze-network-traffic-with-wireshark-415956) *(Last modified: 2025-04-23)*
 - [wireshark-capture-google-traffic-with-wireshark-415948](https://labex.io/ru/tutorials/wireshark-capture-google-traffic-with-wireshark-415948) *(Last modified: 2025-04-23)*
 - [wireshark-capture-live-traffic-in-tshark-548916](https://labex.io/ru/tutorials/wireshark-capture-live-traffic-in-tshark-548916) *(Last modified: 2025-04-23)*
+- [wireshark-capture-packets-in-tshark-549928](https://labex.io/ru/tutorials/wireshark-capture-packets-in-tshark-549928) *(Last modified: 2025-04-24)*
 - [wireshark-capture-wireless-frames-in-tshark-548917](https://labex.io/ru/tutorials/wireshark-capture-wireless-frames-in-tshark-548917) *(Last modified: 2025-03-27)*
 - [wireshark-compress-capture-files-in-tshark-548918](https://labex.io/ru/tutorials/wireshark-compress-capture-files-in-tshark-548918) *(Last modified: 2025-03-27)*
+- [wireshark-create-a-secure-chat-in-netcat-549932](https://labex.io/ru/tutorials/wireshark-create-a-secure-chat-in-netcat-549932) *(Last modified: 2025-04-24)*
 - [wireshark-create-and-apply-colorizing-rules-in-wireshark-415941](https://labex.io/ru/tutorials/wireshark-create-and-apply-colorizing-rules-in-wireshark-415941) *(Last modified: 2025-04-23)*
 - [wireshark-create-https-traffic-detector-548831](https://labex.io/ru/tutorials/wireshark-create-https-traffic-detector-548831) *(Last modified: 2025-04-23)*
 - [wireshark-customize-timestamp-display-in-tshark-548919](https://labex.io/ru/tutorials/wireshark-customize-timestamp-display-in-tshark-548919) *(Last modified: 2025-03-27)*
@@ -6187,8 +6182,10 @@ This file contains all tutorials-ru related links from LabEx website.
 - [wireshark-debug-with-logs-in-tshark-548920](https://labex.io/ru/tutorials/wireshark-debug-with-logs-in-tshark-548920) *(Last modified: 2025-03-27)*
 - [wireshark-decode-custom-protocols-in-tshark-548921](https://labex.io/ru/tutorials/wireshark-decode-custom-protocols-in-tshark-548921) *(Last modified: 2025-03-27)*
 - [wireshark-decrypt-ssl-tls-traffic-in-wireshark-415943](https://labex.io/ru/tutorials/wireshark-decrypt-ssl-tls-traffic-in-wireshark-415943) *(Last modified: 2025-04-23)*
+- [wireshark-detect-anomalies-in-suricata-549934](https://labex.io/ru/tutorials/wireshark-detect-anomalies-in-suricata-549934) *(Last modified: 2025-04-24)*
 - [wireshark-disable-protocols-in-tshark-548922](https://labex.io/ru/tutorials/wireshark-disable-protocols-in-tshark-548922) *(Last modified: 2025-03-27)*
 - [wireshark-dump-hex-data-in-tshark-548923](https://labex.io/ru/tutorials/wireshark-dump-hex-data-in-tshark-548923) *(Last modified: 2025-03-28)*
+- [wireshark-encrypt-files-in-openssl-549935](https://labex.io/ru/tutorials/wireshark-encrypt-files-in-openssl-549935) *(Last modified: 2025-04-24)*
 - [wireshark-explore-and-customize-wireshark-interface-415949](https://labex.io/ru/tutorials/wireshark-explore-and-customize-wireshark-interface-415949) *(Last modified: 2025-04-23)*
 - [wireshark-export-filtered-packets-in-tshark-548924](https://labex.io/ru/tutorials/wireshark-export-filtered-packets-in-tshark-548924) *(Last modified: 2025-03-28)*
 - [wireshark-export-http-objects-in-tshark-548925](https://labex.io/ru/tutorials/wireshark-export-http-objects-in-tshark-548925) *(Last modified: 2025-03-27)*
@@ -6200,6 +6197,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [wireshark-filter-dns-communications-548826](https://labex.io/ru/tutorials/wireshark-filter-dns-communications-548826) *(Last modified: 2025-04-23)*
 - [wireshark-filter-encrypted-web-traffic-548806](https://labex.io/ru/tutorials/wireshark-filter-encrypted-web-traffic-548806) *(Last modified: 2025-04-23)*
 - [wireshark-filter-http-traffic-in-tshark-548928](https://labex.io/ru/tutorials/wireshark-filter-http-traffic-in-tshark-548928) *(Last modified: 2025-03-28)*
+- [wireshark-filter-traffic-in-wireshark-549939](https://labex.io/ru/tutorials/wireshark-filter-traffic-in-wireshark-549939) *(Last modified: 2025-04-24)*
 - [wireshark-find-exposed-login-credentials-548820](https://labex.io/ru/tutorials/wireshark-find-exposed-login-credentials-548820) *(Last modified: 2025-04-23)*
 - [wireshark-follow-tcp-streams-in-tshark-548929](https://labex.io/ru/tutorials/wireshark-follow-tcp-streams-in-tshark-548929) *(Last modified: 2025-03-27)*
 - [wireshark-generate-protocol-statistics-in-tshark-548930](https://labex.io/ru/tutorials/wireshark-generate-protocol-statistics-in-tshark-548930) *(Last modified: 2025-03-27)*
@@ -6256,6 +6254,8 @@ This file contains all tutorials-ru related links from LabEx website.
 - [wireshark-profile-tshark-performance-548936](https://labex.io/ru/tutorials/wireshark-profile-tshark-performance-548936) *(Last modified: 2025-03-28)*
 - [wireshark-read-packet-data-in-tshark-548937](https://labex.io/ru/tutorials/wireshark-read-packet-data-in-tshark-548937) *(Last modified: 2025-04-23)*
 - [wireshark-shiyong-wireshark-shibiewangluoanquanweixie-415162](https://labex.io/ru/tutorials/wireshark-shiyong-wireshark-shibiewangluoanquanweixie-415162) *(Last modified: 2025-03-27)*
+- [wireshark-simulate-phishing-in-set-549949](https://labex.io/ru/tutorials/wireshark-simulate-phishing-in-set-549949) *(Last modified: 2025-04-24)*
+- [wireshark-spoof-packets-in-scapy-549951](https://labex.io/ru/tutorials/wireshark-spoof-packets-in-scapy-549951) *(Last modified: 2025-04-24)*
 - [wireshark-track-ipv6-traffic-patterns-548851](https://labex.io/ru/tutorials/wireshark-track-ipv6-traffic-patterns-548851) *(Last modified: 2025-04-23)*
 - [wireshark-troubleshoot-dns-queries-in-tshark-548938](https://labex.io/ru/tutorials/wireshark-troubleshoot-dns-queries-in-tshark-548938) *(Last modified: 2025-03-27)*
 - [wireshark-uncover-suspicious-dns-queries-548854](https://labex.io/ru/tutorials/wireshark-uncover-suspicious-dns-queries-548854) *(Last modified: 2025-04-23)*
