@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-05-08 00:04 UTC
+> Last updated: 2025-05-09 00:04 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -2252,10 +2252,10 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-git-diff-deep-dive-387489](https://labex.io/zh/tutorials/git-git-diff-deep-dive-387489) *(Last modified: 2025-05-06)*
 - [git-git-history-and-log-management-387490](https://labex.io/zh/tutorials/git-git-history-and-log-management-387490) *(Last modified: 2025-05-06)*
 - [git-git-merge-collaborative-project-management-12740](https://labex.io/zh/tutorials/git-git-merge-collaborative-project-management-12740) *(Last modified: 2025-05-06)*
-- [git-git-pull-ignore-local-chang-391995](https://labex.io/zh/tutorials/git-git-pull-ignore-local-chang-391995) *(Last modified: 2025-05-07)*
+- [git-git-pull-ignore-local-chang-391995](https://labex.io/zh/tutorials/git-git-pull-ignore-local-chang-391995) *(Last modified: 2025-05-08)*
 - [git-git-reset-and-reflog-387491](https://labex.io/zh/tutorials/git-git-reset-and-reflog-387491) *(Last modified: 2025-05-06)*
 - [git-git-switch-vs-git-checkout-391555](https://labex.io/zh/tutorials/git-git-switch-vs-git-checkout-391555) *(Last modified: 2025-05-07)*
-- [git-git-time-detective-387782](https://labex.io/zh/tutorials/git-git-time-detective-387782) *(Last modified: 2025-05-06)*
+- [git-git-time-detective-387782](https://labex.io/zh/tutorials/git-git-time-detective-387782) *(Last modified: 2025-05-08)*
 - [git-git-tutorial-discarding-local-changes-made-to-files-411658](https://labex.io/zh/tutorials/git-git-tutorial-discarding-local-changes-made-to-files-411658) *(Last modified: 2025-03-16)*
 - [git-git-understanding-detached-head-in-version-control-392494](https://labex.io/zh/tutorials/git-git-understanding-detached-head-in-version-control-392494) *(Last modified: 2025-03-16)*
 - [git-how-the-git-pull-command-updates-your-local-repository-395007](https://labex.io/zh/tutorials/git-how-the-git-pull-command-updates-your-local-repository-395007) *(Last modified: 2025-03-16)*
@@ -8895,7 +8895,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-autoupdate-command-with-practical-examples-422566](https://labex.io/zh/tutorials/linux-linux-autoupdate-command-with-practical-examples-422566) *(Last modified: 2025-03-16)*
 - [linux-linux-awk-command-text-processing-388493](https://labex.io/zh/tutorials/linux-linux-awk-command-text-processing-388493) *(Last modified: 2025-05-06)*
 - [linux-linux-awk-command-with-practical-examples-422567](https://labex.io/zh/tutorials/linux-linux-awk-command-with-practical-examples-422567) *(Last modified: 2025-03-16)*
-- [linux-linux-background-management-271231](https://labex.io/zh/tutorials/linux-linux-background-management-271231) *(Last modified: 2025-05-07)*
+- [linux-linux-background-management-271231](https://labex.io/zh/tutorials/linux-linux-background-management-271231) *(Last modified: 2025-05-08)*
 - [linux-linux-background-running-271233](https://labex.io/zh/tutorials/linux-linux-background-running-271233) *(Last modified: 2025-05-07)*
 - [linux-linux-badblocks-command-with-practical-examples-422568](https://labex.io/zh/tutorials/linux-linux-badblocks-command-with-practical-examples-422568) *(Last modified: 2025-03-16)*
 - [linux-linux-banner-command-with-practical-examples-422569](https://labex.io/zh/tutorials/linux-linux-banner-command-with-practical-examples-422569) *(Last modified: 2025-03-16)*
@@ -9267,7 +9267,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-pacman-command-with-practical-examples-422849](https://labex.io/zh/tutorials/linux-linux-pacman-command-with-practical-examples-422849) *(Last modified: 2025-03-16)*
 - [linux-linux-parted-command-with-practical-examples-422850](https://labex.io/zh/tutorials/linux-linux-parted-command-with-practical-examples-422850) *(Last modified: 2025-04-16)*
 - [linux-linux-passwd-command-with-practical-examples-422851](https://labex.io/zh/tutorials/linux-linux-passwd-command-with-practical-examples-422851) *(Last modified: 2025-03-16)*
-- [linux-linux-password-changing-271347](https://labex.io/zh/tutorials/linux-linux-password-changing-271347) *(Last modified: 2025-05-07)*
+- [linux-linux-password-changing-271347](https://labex.io/zh/tutorials/linux-linux-password-changing-271347) *(Last modified: 2025-05-08)*
 - [linux-linux-paste-command-with-practical-examples-422852](https://labex.io/zh/tutorials/linux-linux-paste-command-with-practical-examples-422852) *(Last modified: 2025-03-16)*
 - [linux-linux-patch-applying-271351](https://labex.io/zh/tutorials/linux-linux-patch-applying-271351) *(Last modified: 2025-05-07)*
 - [linux-linux-patch-command-with-practical-examples-422853](https://labex.io/zh/tutorials/linux-linux-patch-command-with-practical-examples-422853) *(Last modified: 2025-03-16)*
@@ -9342,7 +9342,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-seq-command-with-practical-examples-422907](https://labex.io/zh/tutorials/linux-linux-seq-command-with-practical-examples-422907) *(Last modified: 2025-03-16)*
 - [linux-linux-server-information-retrieval-301475](https://labex.io/zh/tutorials/linux-linux-server-information-retrieval-301475) *(Last modified: 2025-04-25)*
 - [linux-linux-service-command-with-practical-examples-422908](https://labex.io/zh/tutorials/linux-linux-service-command-with-practical-examples-422908) *(Last modified: 2025-03-16)*
-- [linux-linux-service-managing-271377](https://labex.io/zh/tutorials/linux-linux-service-managing-271377) *(Last modified: 2025-05-07)*
+- [linux-linux-service-managing-271377](https://labex.io/zh/tutorials/linux-linux-service-managing-271377) *(Last modified: 2025-05-08)*
 - [linux-linux-set-command-with-practical-examples-422909](https://labex.io/zh/tutorials/linux-linux-set-command-with-practical-examples-422909) *(Last modified: 2025-03-16)*
 - [linux-linux-setconsole-command-with-practical-examples-422910](https://labex.io/zh/tutorials/linux-linux-setconsole-command-with-practical-examples-422910) *(Last modified: 2025-03-16)*
 - [linux-linux-setleds-command-with-practical-examples-422911](https://labex.io/zh/tutorials/linux-linux-setleds-command-with-practical-examples-422911) *(Last modified: 2025-03-16)*

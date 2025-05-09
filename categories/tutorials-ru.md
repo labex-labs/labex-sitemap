@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ru Sitemap
 
-> Last updated: 2025-05-08 00:04 UTC
+> Last updated: 2025-05-09 00:04 UTC
 
 This file contains all tutorials-ru related links from LabEx website.
 
@@ -1212,10 +1212,10 @@ This file contains all tutorials-ru related links from LabEx website.
 - [git-git-diff-deep-dive-387489](https://labex.io/ru/tutorials/git-git-diff-deep-dive-387489) *(Last modified: 2025-05-06)*
 - [git-git-history-and-log-management-387490](https://labex.io/ru/tutorials/git-git-history-and-log-management-387490) *(Last modified: 2025-05-06)*
 - [git-git-merge-collaborative-project-management-12740](https://labex.io/ru/tutorials/git-git-merge-collaborative-project-management-12740) *(Last modified: 2025-05-06)*
-- [git-git-pull-ignore-local-chang-391995](https://labex.io/ru/tutorials/git-git-pull-ignore-local-chang-391995) *(Last modified: 2025-05-07)*
+- [git-git-pull-ignore-local-chang-391995](https://labex.io/ru/tutorials/git-git-pull-ignore-local-chang-391995) *(Last modified: 2025-05-08)*
 - [git-git-reset-and-reflog-387491](https://labex.io/ru/tutorials/git-git-reset-and-reflog-387491) *(Last modified: 2025-05-06)*
 - [git-git-switch-vs-git-checkout-391555](https://labex.io/ru/tutorials/git-git-switch-vs-git-checkout-391555) *(Last modified: 2025-05-07)*
-- [git-git-time-detective-387782](https://labex.io/ru/tutorials/git-git-time-detective-387782) *(Last modified: 2025-05-06)*
+- [git-git-time-detective-387782](https://labex.io/ru/tutorials/git-git-time-detective-387782) *(Last modified: 2025-05-08)*
 - [git-how-the-git-pull-command-updates-your-local-repository-395007](https://labex.io/ru/tutorials/git-how-the-git-pull-command-updates-your-local-repository-395007) *(Last modified: 2025-03-16)*
 - [git-how-to-address-error-unable-to-create-temporary-file-issue-in-git-417547](https://labex.io/ru/tutorials/git-how-to-address-error-unable-to-create-temporary-file-issue-in-git-417547) *(Last modified: 2025-03-16)*
 - [git-how-to-address-error-your-local-changes-would-be-overwritten-by-merge-in-git-417548](https://labex.io/ru/tutorials/git-how-to-address-error-your-local-changes-would-be-overwritten-by-merge-in-git-417548) *(Last modified: 2025-05-07)*
@@ -3704,7 +3704,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-linux-aplay-command-with-practical-examples-422545](https://labex.io/ru/tutorials/linux-linux-aplay-command-with-practical-examples-422545) *(Last modified: 2025-03-16)*
 - [linux-linux-arithmetic-calculations-271229](https://labex.io/ru/tutorials/linux-linux-arithmetic-calculations-271229) *(Last modified: 2025-05-07)*
 - [linux-linux-awk-command-text-processing-388493](https://labex.io/ru/tutorials/linux-linux-awk-command-text-processing-388493) *(Last modified: 2025-05-06)*
-- [linux-linux-background-management-271231](https://labex.io/ru/tutorials/linux-linux-background-management-271231) *(Last modified: 2025-05-07)*
+- [linux-linux-background-management-271231](https://labex.io/ru/tutorials/linux-linux-background-management-271231) *(Last modified: 2025-05-08)*
 - [linux-linux-background-running-271233](https://labex.io/ru/tutorials/linux-linux-background-running-271233) *(Last modified: 2025-05-07)*
 - [linux-linux-banner-command-with-practical-examples-422569](https://labex.io/ru/tutorials/linux-linux-banner-command-with-practical-examples-422569) *(Last modified: 2025-03-16)*
 - [linux-linux-cat-command-file-concatenating-210986](https://labex.io/ru/tutorials/linux-linux-cat-command-file-concatenating-210986) *(Last modified: 2025-05-07)*
@@ -3809,7 +3809,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-linux-output-multiplexing-271399](https://labex.io/ru/tutorials/linux-linux-output-multiplexing-271399) *(Last modified: 2025-05-06)*
 - [linux-linux-ownership-changing-271243](https://labex.io/ru/tutorials/linux-linux-ownership-changing-271243) *(Last modified: 2025-05-07)*
 - [linux-linux-package-handling-271225](https://labex.io/ru/tutorials/linux-linux-package-handling-271225) *(Last modified: 2025-05-07)*
-- [linux-linux-password-changing-271347](https://labex.io/ru/tutorials/linux-linux-password-changing-271347) *(Last modified: 2025-05-07)*
+- [linux-linux-password-changing-271347](https://labex.io/ru/tutorials/linux-linux-password-changing-271347) *(Last modified: 2025-05-08)*
 - [linux-linux-patch-applying-271351](https://labex.io/ru/tutorials/linux-linux-patch-applying-271351) *(Last modified: 2025-05-07)*
 - [linux-linux-pattern-based-killing-271359](https://labex.io/ru/tutorials/linux-linux-pattern-based-killing-271359) *(Last modified: 2025-05-07)*
 - [linux-linux-pattern-searching-271291](https://labex.io/ru/tutorials/linux-linux-pattern-searching-271291) *(Last modified: 2025-05-07)*
@@ -3830,7 +3830,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-linux-secure-file-transferring-271381](https://labex.io/ru/tutorials/linux-linux-secure-file-transferring-271381) *(Last modified: 2025-03-29)*
 - [linux-linux-sed-command-with-practical-examples-422906](https://labex.io/ru/tutorials/linux-linux-sed-command-with-practical-examples-422906) *(Last modified: 2025-03-16)*
 - [linux-linux-server-information-retrieval-301475](https://labex.io/ru/tutorials/linux-linux-server-information-retrieval-301475) *(Last modified: 2025-04-25)*
-- [linux-linux-service-managing-271377](https://labex.io/ru/tutorials/linux-linux-service-managing-271377) *(Last modified: 2025-05-07)*
+- [linux-linux-service-managing-271377](https://labex.io/ru/tutorials/linux-linux-service-managing-271377) *(Last modified: 2025-05-08)*
 - [linux-linux-shell-exiting-271277](https://labex.io/ru/tutorials/linux-linux-shell-exiting-271277) *(Last modified: 2025-05-07)*
 - [linux-linux-shell-setting-271379](https://labex.io/ru/tutorials/linux-linux-shell-setting-271379) *(Last modified: 2025-05-07)*
 - [linux-linux-shred-command-with-practical-examples-422917](https://labex.io/ru/tutorials/linux-linux-shred-command-with-practical-examples-422917) *(Last modified: 2025-03-16)*
