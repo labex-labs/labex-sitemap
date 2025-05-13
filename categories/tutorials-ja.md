@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ja Sitemap
 
-> Last updated: 2025-05-12 00:04 UTC
+> Last updated: 2025-05-13 00:04 UTC
 
 This file contains all tutorials-ja related links from LabEx website.
 
@@ -1322,6 +1322,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [git-how-to-check-if-a-git-tag-points-to-a-specific-commit-560115](https://labex.io/ja/tutorials/git-how-to-check-if-a-git-tag-points-to-a-specific-commit-560115) *(Last modified: 2025-05-06)*
 - [git-how-to-check-if-a-git-user-email-is-configured-560116](https://labex.io/ja/tutorials/git-how-to-check-if-a-git-user-email-is-configured-560116) *(Last modified: 2025-05-06)*
 - [git-how-to-check-if-a-git-user-name-is-configured-560117](https://labex.io/ja/tutorials/git-how-to-check-if-a-git-user-name-is-configured-560117) *(Last modified: 2025-05-06)*
+- [git-how-to-check-the-current-branch-414785](https://labex.io/ja/tutorials/git-how-to-check-the-current-branch-414785) *(Last modified: 2025-05-12)*
 - [git-how-to-check-the-status-of-git-submodules-in-a-repository-415628](https://labex.io/ja/tutorials/git-how-to-check-the-status-of-git-submodules-in-a-repository-415628) *(Last modified: 2025-05-11)*
 - [git-how-to-clone-a-git-repository-with-username-and-password-authentication-400166](https://labex.io/ja/tutorials/git-how-to-clone-a-git-repository-with-username-and-password-authentication-400166) *(Last modified: 2025-05-11)*
 - [git-how-to-compare-changes-between-two-git-commits-417425](https://labex.io/ja/tutorials/git-how-to-compare-changes-between-two-git-commits-417425) *(Last modified: 2025-03-16)*

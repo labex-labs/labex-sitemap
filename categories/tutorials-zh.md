@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-05-12 00:04 UTC
+> Last updated: 2025-05-13 00:04 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -2388,7 +2388,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-check-if-a-git-tag-points-to-a-specific-commit-560115](https://labex.io/zh/tutorials/git-how-to-check-if-a-git-tag-points-to-a-specific-commit-560115) *(Last modified: 2025-05-06)*
 - [git-how-to-check-if-a-git-user-email-is-configured-560116](https://labex.io/zh/tutorials/git-how-to-check-if-a-git-user-email-is-configured-560116) *(Last modified: 2025-05-06)*
 - [git-how-to-check-if-a-git-user-name-is-configured-560117](https://labex.io/zh/tutorials/git-how-to-check-if-a-git-user-name-is-configured-560117) *(Last modified: 2025-05-06)*
-- [git-how-to-check-the-current-branch-414785](https://labex.io/zh/tutorials/git-how-to-check-the-current-branch-414785) *(Last modified: 2025-03-01)*
+- [git-how-to-check-the-current-branch-414785](https://labex.io/zh/tutorials/git-how-to-check-the-current-branch-414785) *(Last modified: 2025-05-12)*
 - [git-how-to-check-the-current-git-working-directory-status-414506](https://labex.io/zh/tutorials/git-how-to-check-the-current-git-working-directory-status-414506) *(Last modified: 2025-03-16)*
 - [git-how-to-check-the-status-of-git-submodules-in-a-repository-415628](https://labex.io/zh/tutorials/git-how-to-check-the-status-of-git-submodules-in-a-repository-415628) *(Last modified: 2025-05-11)*
 - [git-how-to-check-the-updated-git-configuration-settings-414955](https://labex.io/zh/tutorials/git-how-to-check-the-updated-git-configuration-settings-414955) *(Last modified: 2025-03-16)*
