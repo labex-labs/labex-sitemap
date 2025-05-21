@@ -6,7 +6,7 @@ layout: default
 
 [LabEx](https://labex.io) is a hands-on learning platform for Linux, DevOps, and Cybersecurity. Learn by doing with guided labs, courses, and tutorials. Get started for free!
 
-> Last updated: 2025-05-20 00:03 UTC
+> Last updated: 2025-05-21 00:04 UTC
 
 This repository maintains an auto-updated list of LabEx website sitemaps.
 
@@ -17,6 +17,8 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Courses-Es](categories/courses-es.md) (494 links)
 - [Courses-Fr](categories/courses-fr.md) (494 links)
 - [Courses-Ja](categories/courses-ja.md) (494 links)
+- [Courses-Ko](categories/courses-ko.md) (107 links)
+- [Courses-Pt](categories/courses-pt.md) (107 links)
 - [Courses-Ru](categories/courses-ru.md) (494 links)
 - [Courses-Zh](categories/courses-zh.md) (494 links)
 - [Freelabs](categories/freelabs.md) (36 links)
@@ -26,6 +28,8 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Pages-Es](categories/pages-es.md) (9 links)
 - [Pages-Fr](categories/pages-fr.md) (9 links)
 - [Pages-Ja](categories/pages-ja.md) (9 links)
+- [Pages-Ko](categories/pages-ko.md) (9 links)
+- [Pages-Pt](categories/pages-pt.md) (9 links)
 - [Pages-Ru](categories/pages-ru.md) (9 links)
 - [Pages-Zh](categories/pages-zh.md) (19 links)
 - [Questions](categories/questions.md) (1724 links)
@@ -34,6 +38,8 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Skilltrees-Es](categories/skilltrees-es.md) (1205 links)
 - [Skilltrees-Fr](categories/skilltrees-fr.md) (1205 links)
 - [Skilltrees-Ja](categories/skilltrees-ja.md) (1205 links)
+- [Skilltrees-Ko](categories/skilltrees-ko.md) (1205 links)
+- [Skilltrees-Pt](categories/skilltrees-pt.md) (1205 links)
 - [Skilltrees-Ru](categories/skilltrees-ru.md) (1205 links)
 - [Skilltrees-Zh](categories/skilltrees-zh.md) (1205 links)
 - [Tutorials](categories/tutorials.md) (15446 links)
@@ -41,7 +47,9 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Tutorials-Es](categories/tutorials-es.md) (6900 links)
 - [Tutorials-Fr](categories/tutorials-fr.md) (6900 links)
 - [Tutorials-Ja](categories/tutorials-ja.md) (6900 links)
+- [Tutorials-Ko](categories/tutorials-ko.md) (274 links)
+- [Tutorials-Pt](categories/tutorials-pt.md) (276 links)
 - [Tutorials-Ru](categories/tutorials-ru.md) (6900 links)
 - [Tutorials-Zh](categories/tutorials-zh.md) (15260 links)
 
-> **Total Links: 78989**
+> **Total Links: 82181**
