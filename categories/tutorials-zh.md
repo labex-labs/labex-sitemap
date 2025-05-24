@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-05-23 00:04 UTC
+> Last updated: 2025-05-24 00:04 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -1447,7 +1447,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [docker-how-to-configure-and-deploy-docker-containers-392562](https://labex.io/zh/tutorials/docker-how-to-configure-and-deploy-docker-containers-392562) *(Last modified: 2025-03-16)*
 - [docker-how-to-configure-and-manage-docker-swarm-clusters-411552](https://labex.io/zh/tutorials/docker-how-to-configure-and-manage-docker-swarm-clusters-411552) *(Last modified: 2025-03-16)*
 - [docker-how-to-configure-and-manage-multi-container-docker-applications-393009](https://labex.io/zh/tutorials/docker-how-to-configure-and-manage-multi-container-docker-applications-393009) *(Last modified: 2025-03-16)*
-- [docker-how-to-configure-and-run-docker-containers-efficiently-393054](https://labex.io/zh/tutorials/docker-how-to-configure-and-run-docker-containers-efficiently-393054) *(Last modified: 2025-05-16)*
+- [docker-how-to-configure-and-run-docker-containers-efficiently-393054](https://labex.io/zh/tutorials/docker-how-to-configure-and-run-docker-containers-efficiently-393054) *(Last modified: 2025-05-23)*
 - [docker-how-to-configure-containers-with-dockerfile-and-env-file-400154](https://labex.io/zh/tutorials/docker-how-to-configure-containers-with-dockerfile-and-env-file-400154) *(Last modified: 2025-03-16)*
 - [docker-how-to-configure-docker-build-arguments-392698](https://labex.io/zh/tutorials/docker-how-to-configure-docker-build-arguments-392698) *(Last modified: 2025-04-16)*
 - [docker-how-to-configure-docker-build-arguments-dynamically-391992](https://labex.io/zh/tutorials/docker-how-to-configure-docker-build-arguments-dynamically-391992) *(Last modified: 2025-04-16)*
@@ -7335,7 +7335,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-customize-and-manage-user-home-directories-in-linux-420527](https://labex.io/zh/tutorials/linux-customize-and-manage-user-home-directories-in-linux-420527) *(Last modified: 2025-03-16)*
 - [linux-customize-linux-environment-variables-415750](https://labex.io/zh/tutorials/linux-customize-linux-environment-variables-415750) *(Last modified: 2025-03-16)*
 - [linux-customize-the-tail-command-output-in-linux-417364](https://labex.io/zh/tutorials/linux-customize-the-tail-command-output-in-linux-417364) *(Last modified: 2025-03-16)*
-- [linux-customizing-linux-file-listing-301467](https://labex.io/zh/tutorials/linux-customizing-linux-file-listing-301467) *(Last modified: 2025-05-21)*
+- [linux-customizing-linux-file-listing-301467](https://labex.io/zh/tutorials/linux-customizing-linux-file-listing-301467) *(Last modified: 2025-05-23)*
 - [linux-data-stream-redirection-17995](https://labex.io/zh/tutorials/linux-data-stream-redirection-17995) *(Last modified: 2025-05-21)*
 - [linux-decrypting-top-secret-document-415952](https://labex.io/zh/tutorials/linux-decrypting-top-secret-document-415952) *(Last modified: 2025-05-20)*
 - [linux-delete-and-move-files-7777](https://labex.io/zh/tutorials/linux-delete-and-move-files-7777) *(Last modified: 2025-05-20)*
@@ -9486,7 +9486,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-whois-command-with-practical-examples-423010](https://labex.io/zh/tutorials/linux-linux-whois-command-with-practical-examples-423010) *(Last modified: 2025-03-16)*
 - [linux-linux-wildcard-character-271447](https://labex.io/zh/tutorials/linux-linux-wildcard-character-271447) *(Last modified: 2025-05-21)*
 - [linux-linux-write-command-with-practical-examples-423011](https://labex.io/zh/tutorials/linux-linux-write-command-with-practical-examples-423011) *(Last modified: 2025-03-16)*
-- [linux-linux-xargs-command-command-building-219201](https://labex.io/zh/tutorials/linux-linux-xargs-command-command-building-219201) *(Last modified: 2025-05-21)*
+- [linux-linux-xargs-command-command-building-219201](https://labex.io/zh/tutorials/linux-linux-xargs-command-command-building-219201) *(Last modified: 2025-05-23)*
 - [linux-linux-xargs-command-with-practical-examples-423012](https://labex.io/zh/tutorials/linux-linux-xargs-command-with-practical-examples-423012) *(Last modified: 2025-03-16)*
 - [linux-linux-xdg-open-command-with-practical-examples-423013](https://labex.io/zh/tutorials/linux-linux-xdg-open-command-with-practical-examples-423013) *(Last modified: 2025-03-16)*
 - [linux-linux-yes-command-with-practical-examples-423014](https://labex.io/zh/tutorials/linux-linux-yes-command-with-practical-examples-423014) *(Last modified: 2025-03-16)*
@@ -11184,7 +11184,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [python-customizing-plot-axes-48726](https://labex.io/zh/tutorials/python-customizing-plot-axes-48726) *(Last modified: 2025-05-22)*
 - [python-customizing-python-s-dynamic-behavior-132722](https://labex.io/zh/tutorials/python-customizing-python-s-dynamic-behavior-132722) *(Last modified: 2025-05-21)*
 - [python-customizing-text-font-properties-48746](https://labex.io/zh/tutorials/python-customizing-text-font-properties-48746) *(Last modified: 2025-05-22)*
-- [python-customizing-text-paths-with-matplotlib-48685](https://labex.io/zh/tutorials/python-customizing-text-paths-with-matplotlib-48685) *(Last modified: 2025-05-22)*
+- [python-customizing-text-paths-with-matplotlib-48685](https://labex.io/zh/tutorials/python-customizing-text-paths-with-matplotlib-48685) *(Last modified: 2025-05-23)*
 - [python-customizing-violin-plot-visualizations-48647](https://labex.io/zh/tutorials/python-customizing-violin-plot-visualizations-48647) *(Last modified: 2025-05-22)*
 - [python-data-cleaning-and-purification-with-python-300209](https://labex.io/zh/tutorials/python-data-cleaning-and-purification-with-python-300209) *(Last modified: 2025-05-21)*
 - [python-data-reshaping-with-pandas-65452](https://labex.io/zh/tutorials/python-data-reshaping-with-pandas-65452) *(Last modified: 2025-05-22)*

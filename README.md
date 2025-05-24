@@ -6,21 +6,21 @@ layout: default
 
 [LabEx](https://labex.io) is a hands-on learning platform for Linux, DevOps, and Cybersecurity. Learn by doing with guided labs, courses, and tutorials. Get started for free!
 
-> Last updated: 2025-05-23 00:04 UTC
+> Last updated: 2025-05-24 00:04 UTC
 
 This repository maintains an auto-updated list of LabEx website sitemaps.
 
 ## Categories
 
-- [Courses](categories/courses.md) (495 links)
-- [Courses-De](categories/courses-de.md) (494 links)
-- [Courses-Es](categories/courses-es.md) (494 links)
-- [Courses-Fr](categories/courses-fr.md) (494 links)
-- [Courses-Ja](categories/courses-ja.md) (494 links)
-- [Courses-Ko](categories/courses-ko.md) (494 links)
-- [Courses-Pt](categories/courses-pt.md) (494 links)
-- [Courses-Ru](categories/courses-ru.md) (494 links)
-- [Courses-Zh](categories/courses-zh.md) (494 links)
+- [Courses](categories/courses.md) (496 links)
+- [Courses-De](categories/courses-de.md) (495 links)
+- [Courses-Es](categories/courses-es.md) (495 links)
+- [Courses-Fr](categories/courses-fr.md) (495 links)
+- [Courses-Ja](categories/courses-ja.md) (495 links)
+- [Courses-Ko](categories/courses-ko.md) (495 links)
+- [Courses-Pt](categories/courses-pt.md) (495 links)
+- [Courses-Ru](categories/courses-ru.md) (495 links)
+- [Courses-Zh](categories/courses-zh.md) (495 links)
 - [Freelabs](categories/freelabs.md) (36 links)
 - [Interview](categories/interview.md) (46 links)
 - [Pages](categories/pages.md) (19 links)
@@ -52,4 +52,4 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Tutorials-Ru](categories/tutorials-ru.md) (6900 links)
 - [Tutorials-Zh](categories/tutorials-zh.md) (15261 links)
 
-> **Total Links: 86168**
+> **Total Links: 86177**

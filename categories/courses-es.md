@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Es Sitemap
 
-> Last updated: 2025-05-23 00:04 UTC
+> Last updated: 2025-05-24 00:04 UTC
 
 This file contains all courses-es related links from LabEx website.
 
@@ -479,6 +479,7 @@ This file contains all courses-es related links from LabEx website.
 - [react-practice-challenges](https://labex.io/es/courses/react-practice-challenges)
 - [react-practice-labs](https://labex.io/es/courses/react-practice-labs)
 - [redis-for-beginners](https://labex.io/es/courses/redis-for-beginners)
+- [rhcsa-certification-exam-practice-exercises](https://labex.io/es/courses/rhcsa-certification-exam-practice-exercises)
 - [rust-practice-labs](https://labex.io/es/courses/rust-practice-labs)
 - [seaborn-data-visualization-basics](https://labex.io/es/courses/seaborn-data-visualization-basics)
 - [shell-practice-challenges](https://labex.io/es/courses/shell-practice-challenges)

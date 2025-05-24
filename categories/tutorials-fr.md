@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Fr Sitemap
 
-> Last updated: 2025-05-23 00:04 UTC
+> Last updated: 2025-05-24 00:04 UTC
 
 This file contains all tutorials-fr related links from LabEx website.
 
@@ -3374,7 +3374,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [linux-create-and-manipulate-symbolic-links-416101](https://labex.io/fr/tutorials/linux-create-and-manipulate-symbolic-links-416101) *(Last modified: 2025-05-20)*
 - [linux-create-personalized-terminal-greeting-446322](https://labex.io/fr/tutorials/linux-create-personalized-terminal-greeting-446322) *(Last modified: 2025-05-20)*
 - [linux-creating-a-typing-game-using-bash-298847](https://labex.io/fr/tutorials/linux-creating-a-typing-game-using-bash-298847) *(Last modified: 2025-05-21)*
-- [linux-customizing-linux-file-listing-301467](https://labex.io/fr/tutorials/linux-customizing-linux-file-listing-301467) *(Last modified: 2025-05-21)*
+- [linux-customizing-linux-file-listing-301467](https://labex.io/fr/tutorials/linux-customizing-linux-file-listing-301467) *(Last modified: 2025-05-23)*
 - [linux-data-stream-redirection-17995](https://labex.io/fr/tutorials/linux-data-stream-redirection-17995) *(Last modified: 2025-05-21)*
 - [linux-decrypting-top-secret-document-415952](https://labex.io/fr/tutorials/linux-decrypting-top-secret-document-415952) *(Last modified: 2025-05-20)*
 - [linux-delete-and-move-files-7777](https://labex.io/fr/tutorials/linux-delete-and-move-files-7777) *(Last modified: 2025-05-20)*
@@ -3878,7 +3878,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [linux-linux-whereis-command-file-and-command-finding-215211](https://labex.io/fr/tutorials/linux-linux-whereis-command-file-and-command-finding-215211) *(Last modified: 2025-05-21)*
 - [linux-linux-which-command-command-locating-215210](https://labex.io/fr/tutorials/linux-linux-which-command-command-locating-215210) *(Last modified: 2025-05-21)*
 - [linux-linux-wildcard-character-271447](https://labex.io/fr/tutorials/linux-linux-wildcard-character-271447) *(Last modified: 2025-05-21)*
-- [linux-linux-xargs-command-command-building-219201](https://labex.io/fr/tutorials/linux-linux-xargs-command-command-building-219201) *(Last modified: 2025-05-21)*
+- [linux-linux-xargs-command-command-building-219201](https://labex.io/fr/tutorials/linux-linux-xargs-command-command-building-219201) *(Last modified: 2025-05-23)*
 - [linux-locate-setuid-files-416103](https://labex.io/fr/tutorials/linux-locate-setuid-files-416103) *(Last modified: 2025-05-20)*
 - [linux-log-in-and-switch-users-416104](https://labex.io/fr/tutorials/linux-log-in-and-switch-users-416104) *(Last modified: 2025-05-20)*
 - [linux-logical-commands-and-redirection-387332](https://labex.io/fr/tutorials/linux-logical-commands-and-redirection-387332) *(Last modified: 2025-05-21)*
@@ -5021,7 +5021,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-customizing-plot-axes-48726](https://labex.io/fr/tutorials/python-customizing-plot-axes-48726) *(Last modified: 2025-05-22)*
 - [python-customizing-python-s-dynamic-behavior-132722](https://labex.io/fr/tutorials/python-customizing-python-s-dynamic-behavior-132722) *(Last modified: 2025-05-21)*
 - [python-customizing-text-font-properties-48746](https://labex.io/fr/tutorials/python-customizing-text-font-properties-48746) *(Last modified: 2025-05-22)*
-- [python-customizing-text-paths-with-matplotlib-48685](https://labex.io/fr/tutorials/python-customizing-text-paths-with-matplotlib-48685) *(Last modified: 2025-05-22)*
+- [python-customizing-text-paths-with-matplotlib-48685](https://labex.io/fr/tutorials/python-customizing-text-paths-with-matplotlib-48685) *(Last modified: 2025-05-23)*
 - [python-customizing-violin-plot-visualizations-48647](https://labex.io/fr/tutorials/python-customizing-violin-plot-visualizations-48647) *(Last modified: 2025-05-22)*
 - [python-data-cleaning-and-purification-with-python-300209](https://labex.io/fr/tutorials/python-data-cleaning-and-purification-with-python-300209) *(Last modified: 2025-05-21)*
 - [python-data-reshaping-with-pandas-65452](https://labex.io/fr/tutorials/python-data-reshaping-with-pandas-65452) *(Last modified: 2025-05-22)*
