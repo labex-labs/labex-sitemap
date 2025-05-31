@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Es Sitemap
 
-> Last updated: 2025-05-30 00:05 UTC
+> Last updated: 2025-05-31 00:05 UTC
 
 This file contains all courses-es related links from LabEx website.
 
@@ -20,6 +20,7 @@ This file contains all courses-es related links from LabEx website.
 - [100-numpy-exercises](https://labex.io/es/courses/100-numpy-exercises)
 - [100-pandas-exercises](https://labex.io/es/courses/100-pandas-exercises)
 - [a-beginner-guide-to-labex](https://labex.io/es/courses/a-beginner-guide-to-labex)
+- [advanced-postgresql-practical-labs](https://labex.io/es/courses/advanced-postgresql-practical-labs)
 - [algorithm-practice-challenges](https://labex.io/es/courses/algorithm-practice-challenges)
 - [basic-django](https://labex.io/es/courses/basic-django)
 - [c-practice-challenges](https://labex.io/es/courses/c-practice-challenges)
@@ -38,6 +39,8 @@ This file contains all courses-es related links from LabEx website.
 - [hadoop-practice-challenges](https://labex.io/es/courses/hadoop-practice-challenges)
 - [hadoop-practice-labs](https://labex.io/es/courses/hadoop-practice-labs)
 - [html-for-beginners](https://labex.io/es/courses/html-for-beginners)
+- [hydra-cybersecurity-attack-labs](https://labex.io/es/courses/hydra-cybersecurity-attack-labs)
+- [hydra-for-beginners](https://labex.io/es/courses/hydra-for-beginners)
 - [java-exercises](https://labex.io/es/courses/java-exercises)
 - [kali-server-exploitation-in-action](https://labex.io/es/courses/kali-server-exploitation-in-action)
 - [kali-web-application-attacks-in-action](https://labex.io/es/courses/kali-web-application-attacks-in-action)
@@ -57,6 +60,7 @@ This file contains all courses-es related links from LabEx website.
 - [numpy-practice-labs](https://labex.io/es/courses/numpy-practice-labs)
 - [pandas-practice-challenges](https://labex.io/es/courses/pandas-practice-challenges)
 - [pandas-practice-labs](https://labex.io/es/courses/pandas-practice-labs)
+- [postgresql-for-beginners](https://labex.io/es/courses/postgresql-for-beginners)
 - [practical-python-programming](https://labex.io/es/courses/practical-python-programming)
 - [privilege-escalation-techniques-on-linux](https://labex.io/es/courses/privilege-escalation-techniques-on-linux)
 - [project-2048-web-game-using-jquery](https://labex.io/es/courses/project-2048-web-game-using-jquery)
@@ -479,12 +483,15 @@ This file contains all courses-es related links from LabEx website.
 - [react-practice-challenges](https://labex.io/es/courses/react-practice-challenges)
 - [react-practice-labs](https://labex.io/es/courses/react-practice-labs)
 - [redis-for-beginners](https://labex.io/es/courses/redis-for-beginners)
+- [redis-intermediate-to-advanced](https://labex.io/es/courses/redis-intermediate-to-advanced)
 - [rhcsa-certification-exam-practice-exercises](https://labex.io/es/courses/rhcsa-certification-exam-practice-exercises)
 - [rust-practice-labs](https://labex.io/es/courses/rust-practice-labs)
 - [seaborn-data-visualization-basics](https://labex.io/es/courses/seaborn-data-visualization-basics)
 - [shell-practice-challenges](https://labex.io/es/courses/shell-practice-challenges)
 - [sklearn-practice-challenges](https://labex.io/es/courses/sklearn-practice-challenges)
 - [sklearn-practice-labs](https://labex.io/es/courses/sklearn-practice-labs)
+- [sqlite-for-beginners](https://labex.io/es/courses/sqlite-for-beginners)
+- [sqlite-intermediate-to-advanced](https://labex.io/es/courses/sqlite-intermediate-to-advanced)
 - [supervised-learning-classification](https://labex.io/es/courses/supervised-learning-classification)
 - [supervised-learning-regression](https://labex.io/es/courses/supervised-learning-regression)
 - [the-advanced-python-mastery](https://labex.io/es/courses/the-advanced-python-mastery)
