@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Pt Sitemap
 
-> Last updated: 2025-05-31 00:05 UTC
+> Last updated: 2025-06-01 00:05 UTC
 
 This file contains all tutorials-pt related links from LabEx website.
 
@@ -5984,7 +5984,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [python-how-to-convert-a-python-list-to-a-set-while-preserving-the-original-order-417300](https://labex.io/pt/tutorials/python-how-to-convert-a-python-list-to-a-set-while-preserving-the-original-order-417300) *(Last modified: 2025-05-25)*
 - [python-how-to-create-a-defaultdict-with-a-default-value-of-0-in-python-397967](https://labex.io/pt/tutorials/python-how-to-create-a-defaultdict-with-a-default-value-of-0-in-python-397967) *(Last modified: 2025-05-25)*
 - [python-how-to-create-a-list-with-a-range-of-numbers-in-python-398166](https://labex.io/pt/tutorials/python-how-to-create-a-list-with-a-range-of-numbers-in-python-398166) *(Last modified: 2025-05-25)*
-- [python-how-to-create-inline-functions-in-python-418721](https://labex.io/pt/tutorials/python-how-to-create-inline-functions-in-python-418721) *(Last modified: 2025-05-25)*
+- [python-how-to-create-inline-functions-in-python-418721](https://labex.io/pt/tutorials/python-how-to-create-inline-functions-in-python-418721) *(Last modified: 2025-05-31)*
 - [python-how-to-deactivate-python-venv-425435](https://labex.io/pt/tutorials/python-how-to-deactivate-python-venv-425435) *(Last modified: 2025-05-25)*
 - [python-how-to-determine-grade-based-on-marks-using-python-if-elif-else-415721](https://labex.io/pt/tutorials/python-how-to-determine-grade-based-on-marks-using-python-if-elif-else-415721) *(Last modified: 2025-05-25)*
 - [python-how-to-efficiently-copy-elements-from-one-tuple-to-another-in-python-395024](https://labex.io/pt/tutorials/python-how-to-efficiently-copy-elements-from-one-tuple-to-another-in-python-395024) *(Last modified: 2025-05-25)*

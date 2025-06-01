@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ru Sitemap
 
-> Last updated: 2025-05-31 00:05 UTC
+> Last updated: 2025-06-01 00:05 UTC
 
 This file contains all tutorials-ru related links from LabEx website.
 
@@ -6717,7 +6717,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [python-how-to-create-directories-and-files-using-python-397679](https://labex.io/ru/tutorials/python-how-to-create-directories-and-files-using-python-397679) *(Last modified: 2025-03-16)*
 - [python-how-to-create-dynamic-length-lists-in-python-420739](https://labex.io/ru/tutorials/python-how-to-create-dynamic-length-lists-in-python-420739) *(Last modified: 2025-03-16)*
 - [python-how-to-create-dynamic-properties-in-classes-418720](https://labex.io/ru/tutorials/python-how-to-create-dynamic-properties-in-classes-418720) *(Last modified: 2025-03-16)*
-- [python-how-to-create-inline-functions-in-python-418721](https://labex.io/ru/tutorials/python-how-to-create-inline-functions-in-python-418721) *(Last modified: 2025-05-25)*
+- [python-how-to-create-inline-functions-in-python-418721](https://labex.io/ru/tutorials/python-how-to-create-inline-functions-in-python-418721) *(Last modified: 2025-05-31)*
 - [python-how-to-create-lookup-tables-efficiently-466054](https://labex.io/ru/tutorials/python-how-to-create-lookup-tables-efficiently-466054) *(Last modified: 2025-03-16)*
 - [python-how-to-customize-logging-with-decorators-438191](https://labex.io/ru/tutorials/python-how-to-customize-logging-with-decorators-438191) *(Last modified: 2025-03-16)*
 - [python-how-to-customize-matplotlib-bar-chart-colors-425452](https://labex.io/ru/tutorials/python-how-to-customize-matplotlib-bar-chart-colors-425452) *(Last modified: 2025-03-16)*

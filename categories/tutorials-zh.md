@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-05-31 00:05 UTC
+> Last updated: 2025-06-01 00:05 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -11897,7 +11897,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [python-how-to-create-generator-functions-with-the-yield-statement-in-python-397976](https://labex.io/zh/tutorials/python-how-to-create-generator-functions-with-the-yield-statement-in-python-397976) *(Last modified: 2025-03-16)*
 - [python-how-to-create-human-readable-object-string-representation-in-python-415186](https://labex.io/zh/tutorials/python-how-to-create-human-readable-object-string-representation-in-python-415186) *(Last modified: 2025-03-16)*
 - [python-how-to-create-infinite-iterators-434265](https://labex.io/zh/tutorials/python-how-to-create-infinite-iterators-434265) *(Last modified: 2025-03-16)*
-- [python-how-to-create-inline-functions-in-python-418721](https://labex.io/zh/tutorials/python-how-to-create-inline-functions-in-python-418721) *(Last modified: 2025-05-25)*
+- [python-how-to-create-inline-functions-in-python-418721](https://labex.io/zh/tutorials/python-how-to-create-inline-functions-in-python-418721) *(Last modified: 2025-05-31)*
 - [python-how-to-create-instances-of-a-python-class-and-access-their-attributes-395050](https://labex.io/zh/tutorials/python-how-to-create-instances-of-a-python-class-and-access-their-attributes-395050) *(Last modified: 2025-03-16)*
 - [python-how-to-create-lambda-functions-quickly-419534](https://labex.io/zh/tutorials/python-how-to-create-lambda-functions-quickly-419534) *(Last modified: 2025-03-16)*
 - [python-how-to-create-lambda-with-multiple-arguments-420053](https://labex.io/zh/tutorials/python-how-to-create-lambda-with-multiple-arguments-420053) *(Last modified: 2025-03-16)*
