@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ru Sitemap
 
-> Last updated: 2025-06-03 00:05 UTC
+> Last updated: 2025-06-04 00:05 UTC
 
 This file contains all courses-ru related links from LabEx website.
 
@@ -484,7 +484,6 @@ This file contains all courses-ru related links from LabEx website.
 - [react-practice-labs](https://labex.io/ru/courses/react-practice-labs)
 - [redis-for-beginners](https://labex.io/ru/courses/redis-for-beginners)
 - [redis-intermediate-to-advanced](https://labex.io/ru/courses/redis-intermediate-to-advanced)
-- [rhcsa-certification-exam-practice-exercises](https://labex.io/ru/courses/rhcsa-certification-exam-practice-exercises)
 - [rust-practice-labs](https://labex.io/ru/courses/rust-practice-labs)
 - [seaborn-data-visualization-basics](https://labex.io/ru/courses/seaborn-data-visualization-basics)
 - [shell-practice-challenges](https://labex.io/ru/courses/shell-practice-challenges)
