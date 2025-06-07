@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Zh Sitemap
 
-> Last updated: 2025-06-06 00:06 UTC
+> Last updated: 2025-06-07 00:04 UTC
 
 This file contains all freelabs-zh related links from LabEx website.
 
@@ -19,7 +19,6 @@ This file contains all freelabs-zh related links from LabEx website.
 
 - [alibabacloud](https://labex.io/zh/free-labs/alibabacloud)
 - [ansible](https://labex.io/zh/free-labs/ansible)
-- [bigdata](https://labex.io/zh/free-labs/bigdata)
 - [c](https://labex.io/zh/free-labs/c)
 - [cpp](https://labex.io/zh/free-labs/cpp)
 - [css](https://labex.io/zh/free-labs/css)
@@ -48,6 +47,7 @@ This file contains all freelabs-zh related links from LabEx website.
 - [python](https://labex.io/zh/free-labs/python)
 - [react](https://labex.io/zh/free-labs/react)
 - [redis](https://labex.io/zh/free-labs/redis)
+- [rhel](https://labex.io/zh/free-labs/rhel)
 - [shell](https://labex.io/zh/free-labs/shell)
 - [sklearn](https://labex.io/zh/free-labs/sklearn)
 - [sqlite](https://labex.io/zh/free-labs/sqlite)

@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Pt Sitemap
 
-> Last updated: 2025-06-06 00:06 UTC
+> Last updated: 2025-06-07 00:04 UTC
 
 This file contains all freelabs-pt related links from LabEx website.
 
@@ -19,7 +19,6 @@ This file contains all freelabs-pt related links from LabEx website.
 
 - [alibabacloud](https://labex.io/pt/free-labs/alibabacloud)
 - [ansible](https://labex.io/pt/free-labs/ansible)
-- [bigdata](https://labex.io/pt/free-labs/bigdata)
 - [c](https://labex.io/pt/free-labs/c)
 - [cpp](https://labex.io/pt/free-labs/cpp)
 - [css](https://labex.io/pt/free-labs/css)
@@ -48,6 +47,7 @@ This file contains all freelabs-pt related links from LabEx website.
 - [python](https://labex.io/pt/free-labs/python)
 - [react](https://labex.io/pt/free-labs/react)
 - [redis](https://labex.io/pt/free-labs/redis)
+- [rhel](https://labex.io/pt/free-labs/rhel)
 - [shell](https://labex.io/pt/free-labs/shell)
 - [sklearn](https://labex.io/pt/free-labs/sklearn)
 - [sqlite](https://labex.io/pt/free-labs/sqlite)

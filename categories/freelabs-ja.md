@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Ja Sitemap
 
-> Last updated: 2025-06-06 00:06 UTC
+> Last updated: 2025-06-07 00:04 UTC
 
 This file contains all freelabs-ja related links from LabEx website.
 
@@ -19,7 +19,6 @@ This file contains all freelabs-ja related links from LabEx website.
 
 - [alibabacloud](https://labex.io/ja/free-labs/alibabacloud)
 - [ansible](https://labex.io/ja/free-labs/ansible)
-- [bigdata](https://labex.io/ja/free-labs/bigdata)
 - [c](https://labex.io/ja/free-labs/c)
 - [cpp](https://labex.io/ja/free-labs/cpp)
 - [css](https://labex.io/ja/free-labs/css)
@@ -48,6 +47,7 @@ This file contains all freelabs-ja related links from LabEx website.
 - [python](https://labex.io/ja/free-labs/python)
 - [react](https://labex.io/ja/free-labs/react)
 - [redis](https://labex.io/ja/free-labs/redis)
+- [rhel](https://labex.io/ja/free-labs/rhel)
 - [shell](https://labex.io/ja/free-labs/shell)
 - [sklearn](https://labex.io/ja/free-labs/sklearn)
 - [sqlite](https://labex.io/ja/free-labs/sqlite)

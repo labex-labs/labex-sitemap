@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Ko Sitemap
 
-> Last updated: 2025-06-06 00:06 UTC
+> Last updated: 2025-06-07 00:04 UTC
 
 This file contains all freelabs-ko related links from LabEx website.
 
@@ -19,7 +19,6 @@ This file contains all freelabs-ko related links from LabEx website.
 
 - [alibabacloud](https://labex.io/ko/free-labs/alibabacloud)
 - [ansible](https://labex.io/ko/free-labs/ansible)
-- [bigdata](https://labex.io/ko/free-labs/bigdata)
 - [c](https://labex.io/ko/free-labs/c)
 - [cpp](https://labex.io/ko/free-labs/cpp)
 - [css](https://labex.io/ko/free-labs/css)
@@ -48,6 +47,7 @@ This file contains all freelabs-ko related links from LabEx website.
 - [python](https://labex.io/ko/free-labs/python)
 - [react](https://labex.io/ko/free-labs/react)
 - [redis](https://labex.io/ko/free-labs/redis)
+- [rhel](https://labex.io/ko/free-labs/rhel)
 - [shell](https://labex.io/ko/free-labs/shell)
 - [sklearn](https://labex.io/ko/free-labs/sklearn)
 - [sqlite](https://labex.io/ko/free-labs/sqlite)

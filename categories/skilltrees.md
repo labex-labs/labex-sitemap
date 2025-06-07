@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees Sitemap
 
-> Last updated: 2025-06-06 00:06 UTC
+> Last updated: 2025-06-07 00:04 UTC
 
 This file contains all skilltrees related links from LabEx website.
 
@@ -18,7 +18,6 @@ This file contains all skilltrees related links from LabEx website.
 ### skilltrees
 
 - [ansible](https://labex.io/skilltrees/ansible)
-- [bigdata](https://labex.io/skilltrees/bigdata)
 - [c](https://labex.io/skilltrees/c)
 - [cpp](https://labex.io/skilltrees/cpp)
 - [css](https://labex.io/skilltrees/css)
@@ -47,6 +46,7 @@ This file contains all skilltrees related links from LabEx website.
 - [python](https://labex.io/skilltrees/python)
 - [react](https://labex.io/skilltrees/react)
 - [redis](https://labex.io/skilltrees/redis)
+- [rhel](https://labex.io/skilltrees/rhel)
 - [shell](https://labex.io/skilltrees/shell)
 - [sklearn](https://labex.io/skilltrees/sklearn)
 - [sqlite](https://labex.io/skilltrees/sqlite)
@@ -206,6 +206,7 @@ This file contains all skilltrees related links from LabEx website.
 - [StateManagementGroup](https://labex.io/skilltrees/react/groups/StateManagementGroup)
 - [StylingGroup](https://labex.io/skilltrees/react/groups/StylingGroup)
 - [RedisGroup](https://labex.io/skilltrees/redis/groups/RedisGroup)
+- [RHELGroup](https://labex.io/skilltrees/rhel/groups/RHELGroup)
 - [AdvancedScriptingConceptsGroup](https://labex.io/skilltrees/shell/groups/AdvancedScriptingConceptsGroup)
 - [BasicSyntaxandStructureGroup](https://labex.io/skilltrees/shell/groups/BasicSyntaxandStructureGroup)
 - [ControlFlowGroup](https://labex.io/skilltrees/shell/groups/ControlFlowGroup)
@@ -1084,6 +1085,40 @@ This file contains all skilltrees related links from LabEx website.
 - [verify-key](https://labex.io/skilltrees/redis/groups/RedisGroup/skills/verify-key)
 - [verify-set](https://labex.io/skilltrees/redis/groups/RedisGroup/skills/verify-set)
 - [view-set](https://labex.io/skilltrees/redis/groups/RedisGroup/skills/view-set)
+- [backup-create](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/backup-create)
+- [backup-restore](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/backup-restore)
+- [cpu-monitor](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/cpu-monitor)
+- [dir-create](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/dir-create)
+- [disk-space](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/disk-space)
+- [file-copy](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/file-copy)
+- [file-create](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/file-create)
+- [file-delete](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/file-delete)
+- [file-edit](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/file-edit)
+- [file-move](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/file-move)
+- [fs-mount](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/fs-mount)
+- [fs-unmount](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/fs-unmount)
+- [fw-port-open](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/fw-port-open)
+- [fw-rule-add](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/fw-rule-add)
+- [host-set](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/host-set)
+- [log-read](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/log-read)
+- [mem-monitor](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/mem-monitor)
+- [net-config](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/net-config)
+- [os-install](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/os-install)
+- [os-version](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/os-version)
+- [passwd-set](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/passwd-set)
+- [perm-set](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/perm-set)
+- [pkg-add](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/pkg-add)
+- [pkg-remove](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/pkg-remove)
+- [pkg-upgrade](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/pkg-upgrade)
+- [root-login](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/root-login)
+- [ssh-config](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/ssh-config)
+- [ssh-connect](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/ssh-connect)
+- [sudo-add](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/sudo-add)
+- [svc-boot](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/svc-boot)
+- [svc-start](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/svc-start)
+- [svc-stop](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/svc-stop)
+- [sys-reboot](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/sys-reboot)
+- [user-create](https://labex.io/skilltrees/rhel/groups/RHELGroup/skills/user-create)
 - [adv-redirection](https://labex.io/skilltrees/shell/groups/AdvancedScriptingConceptsGroup/skills/adv-redirection)
 - [arith-expansion](https://labex.io/skilltrees/shell/groups/AdvancedScriptingConceptsGroup/skills/arith-expansion)
 - [arith-ops](https://labex.io/skilltrees/shell/groups/AdvancedScriptingConceptsGroup/skills/arith-ops)
@@ -1191,7 +1226,6 @@ This file contains all skilltrees related links from LabEx website.
 ### tutorials
 
 - [ansible](https://labex.io/tutorials/category/ansible)
-- [bigdata](https://labex.io/tutorials/category/bigdata)
 - [c](https://labex.io/tutorials/category/c)
 - [cpp](https://labex.io/tutorials/category/cpp)
 - [css](https://labex.io/tutorials/category/css)
@@ -1220,6 +1254,7 @@ This file contains all skilltrees related links from LabEx website.
 - [python](https://labex.io/tutorials/category/python)
 - [react](https://labex.io/tutorials/category/react)
 - [redis](https://labex.io/tutorials/category/redis)
+- [rhel](https://labex.io/tutorials/category/rhel)
 - [shell](https://labex.io/tutorials/category/shell)
 - [sklearn](https://labex.io/tutorials/category/sklearn)
 - [sqlite](https://labex.io/tutorials/category/sqlite)
