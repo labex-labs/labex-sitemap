@@ -4,7 +4,7 @@ layout: default
 
 # Pages-Zh Sitemap
 
-> Last updated: 2025-06-07 00:04 UTC
+> Last updated: 2025-06-08 00:05 UTC
 
 This file contains all pages-zh related links from LabEx website.
 

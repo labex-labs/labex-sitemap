@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ru Sitemap
 
-> Last updated: 2025-06-07 00:04 UTC
+> Last updated: 2025-06-08 00:05 UTC
 
 This file contains all tutorials-ru related links from LabEx website.
 
@@ -1350,7 +1350,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [docker-connect-containers-with-link-49351](https://labex.io/ru/tutorials/docker-connect-containers-with-link-49351) *(Last modified: 2025-06-05)*
 - [docker-create-docker-images-step-by-step-391128](https://labex.io/ru/tutorials/docker-create-docker-images-step-by-step-391128) *(Last modified: 2025-05-27)*
 - [docker-create-postgres-docker-container-on-ubuntu-392758](https://labex.io/ru/tutorials/docker-create-postgres-docker-container-on-ubuntu-392758) *(Last modified: 2025-05-27)*
-- [docker-custom-docker-images-389185](https://labex.io/ru/tutorials/docker-custom-docker-images-389185) *(Last modified: 2025-06-05)*
+- [docker-custom-docker-images-389185](https://labex.io/ru/tutorials/docker-custom-docker-images-389185) *(Last modified: 2025-06-07)*
 - [docker-customize-docker-whale-s-language-389015](https://labex.io/ru/tutorials/docker-customize-docker-whale-s-language-389015) *(Last modified: 2025-06-05)*
 - [docker-deploy-docker-containers-efficiently-391583](https://labex.io/ru/tutorials/docker-deploy-docker-containers-efficiently-391583) *(Last modified: 2025-05-30)*
 - [docker-deploy-docker-containers-on-ubuntu-392860](https://labex.io/ru/tutorials/docker-deploy-docker-containers-on-ubuntu-392860) *(Last modified: 2025-05-27)*
@@ -8175,7 +8175,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [sqlite-setting-up-sqlite-in-linux-552335](https://labex.io/ru/tutorials/sqlite-setting-up-sqlite-in-linux-552335) *(Last modified: 2025-06-05)*
 - [sqlite-sqlite-constraint-management-552545](https://labex.io/ru/tutorials/sqlite-sqlite-constraint-management-552545) *(Last modified: 2025-06-05)*
 - [sqlite-sqlite-cte-queries-552546](https://labex.io/ru/tutorials/sqlite-sqlite-cte-queries-552546) *(Last modified: 2025-06-05)*
-- [sqlite-sqlite-data-grouping-552547](https://labex.io/ru/tutorials/sqlite-sqlite-data-grouping-552547) *(Last modified: 2025-06-05)*
+- [sqlite-sqlite-data-grouping-552547](https://labex.io/ru/tutorials/sqlite-sqlite-data-grouping-552547) *(Last modified: 2025-06-07)*
 - [sqlite-sqlite-database-backup-552548](https://labex.io/ru/tutorials/sqlite-sqlite-database-backup-552548) *(Last modified: 2025-06-05)*
 - [sqlite-sqlite-database-maintenance-552549](https://labex.io/ru/tutorials/sqlite-sqlite-database-maintenance-552549) *(Last modified: 2025-06-05)*
 - [sqlite-sqlite-error-handling-552550](https://labex.io/ru/tutorials/sqlite-sqlite-error-handling-552550) *(Last modified: 2025-06-05)*
