@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Pt Sitemap
 
-> Last updated: 2025-06-09 00:05 UTC
+> Last updated: 2025-06-10 00:03 UTC
 
 This file contains all tutorials-pt related links from LabEx website.
 
@@ -1448,7 +1448,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [docker-how-to-configure-and-deploy-docker-containers-392562](https://labex.io/pt/tutorials/docker-how-to-configure-and-deploy-docker-containers-392562) *(Last modified: 2025-05-27)*
 - [docker-how-to-configure-and-manage-docker-swarm-clusters-411552](https://labex.io/pt/tutorials/docker-how-to-configure-and-manage-docker-swarm-clusters-411552) *(Last modified: 2025-05-27)*
 - [docker-how-to-configure-and-manage-multi-container-docker-applications-393009](https://labex.io/pt/tutorials/docker-how-to-configure-and-manage-multi-container-docker-applications-393009) *(Last modified: 2025-05-27)*
-- [docker-how-to-configure-and-run-docker-containers-efficiently-393054](https://labex.io/pt/tutorials/docker-how-to-configure-and-run-docker-containers-efficiently-393054) *(Last modified: 2025-06-02)*
+- [docker-how-to-configure-and-run-docker-containers-efficiently-393054](https://labex.io/pt/tutorials/docker-how-to-configure-and-run-docker-containers-efficiently-393054) *(Last modified: 2025-06-09)*
 - [docker-how-to-configure-containers-with-dockerfile-and-env-file-400154](https://labex.io/pt/tutorials/docker-how-to-configure-containers-with-dockerfile-and-env-file-400154) *(Last modified: 2025-05-27)*
 - [docker-how-to-configure-docker-build-arguments-392698](https://labex.io/pt/tutorials/docker-how-to-configure-docker-build-arguments-392698) *(Last modified: 2025-05-30)*
 - [docker-how-to-configure-docker-build-arguments-dynamically-391992](https://labex.io/pt/tutorials/docker-how-to-configure-docker-build-arguments-dynamically-391992) *(Last modified: 2025-05-30)*
@@ -1703,7 +1703,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [docker-how-to-move-a-file-within-a-docker-container-411578](https://labex.io/pt/tutorials/docker-how-to-move-a-file-within-a-docker-container-411578) *(Last modified: 2025-05-27)*
 - [docker-how-to-name-and-run-docker-containers-398431](https://labex.io/pt/tutorials/docker-how-to-name-and-run-docker-containers-398431) *(Last modified: 2025-05-27)*
 - [docker-how-to-navigate-the-docker-image-repository-using-commands-414772](https://labex.io/pt/tutorials/docker-how-to-navigate-the-docker-image-repository-using-commands-414772) *(Last modified: 2025-05-27)*
-- [docker-how-to-optimize-docker-image-layers-391180](https://labex.io/pt/tutorials/docker-how-to-optimize-docker-image-layers-391180) *(Last modified: 2025-06-02)*
+- [docker-how-to-optimize-docker-image-layers-391180](https://labex.io/pt/tutorials/docker-how-to-optimize-docker-image-layers-391180) *(Last modified: 2025-06-09)*
 - [docker-how-to-optimize-docker-image-versioning-and-tagging-392568](https://labex.io/pt/tutorials/docker-how-to-optimize-docker-image-versioning-and-tagging-392568) *(Last modified: 2025-05-27)*
 - [docker-how-to-optimize-docker-resource-utilization-411579](https://labex.io/pt/tutorials/docker-how-to-optimize-docker-resource-utilization-411579) *(Last modified: 2025-05-27)*
 - [docker-how-to-optimize-resource-usage-of-a-docker-container-417538](https://labex.io/pt/tutorials/docker-how-to-optimize-resource-usage-of-a-docker-container-417538) *(Last modified: 2025-05-27)*
@@ -2362,7 +2362,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [git-reverting-git-commits-a-powerful-technique-12755](https://labex.io/pt/tutorials/git-reverting-git-commits-a-powerful-technique-12755) *(Last modified: 2025-06-08)*
 - [git-rewind-to-a-specific-commit-12756](https://labex.io/pt/tutorials/git-rewind-to-a-specific-commit-12756) *(Last modified: 2025-06-08)*
 - [git-rewriting-history-387746](https://labex.io/pt/tutorials/git-rewriting-history-387746) *(Last modified: 2025-06-08)*
-- [git-saving-work-in-progress-387492](https://labex.io/pt/tutorials/git-saving-work-in-progress-387492) *(Last modified: 2025-06-08)*
+- [git-saving-work-in-progress-387492](https://labex.io/pt/tutorials/git-saving-work-in-progress-387492) *(Last modified: 2025-06-09)*
 - [git-set-default-push-branch-name-12758](https://labex.io/pt/tutorials/git-set-default-push-branch-name-12758) *(Last modified: 2025-06-08)*
 - [git-sort-git-branches-by-date-12760](https://labex.io/pt/tutorials/git-sort-git-branches-by-date-12760) *(Last modified: 2025-06-08)*
 - [git-switch-to-a-branch-12762](https://labex.io/pt/tutorials/git-switch-to-a-branch-12762) *(Last modified: 2025-06-08)*
@@ -2464,7 +2464,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [go-golang-timer-and-ticker-tutorial-15524](https://labex.io/pt/tutorials/go-golang-timer-and-ticker-tutorial-15524) *(Last modified: 2025-06-08)*
 - [go-golang-unix-epoch-time-retrieval-15471](https://labex.io/pt/tutorials/go-golang-unix-epoch-time-retrieval-15471) *(Last modified: 2025-06-08)*
 - [go-golang-xml-mapping-and-manipulation-15532](https://labex.io/pt/tutorials/go-golang-xml-mapping-and-manipulation-15532) *(Last modified: 2025-06-08)*
-- [go-gopath-and-module-149063](https://labex.io/pt/tutorials/go-gopath-and-module-149063) *(Last modified: 2025-06-08)*
+- [go-gopath-and-module-149063](https://labex.io/pt/tutorials/go-gopath-and-module-149063) *(Last modified: 2025-06-09)*
 - [go-goto-statement-usage-149074](https://labex.io/pt/tutorials/go-goto-statement-usage-149074) *(Last modified: 2025-06-08)*
 - [go-handling-errors-in-golang-15472](https://labex.io/pt/tutorials/go-handling-errors-in-golang-15472) *(Last modified: 2025-06-08)*
 - [go-handling-panics-with-golang-recover-15500](https://labex.io/pt/tutorials/go-handling-panics-with-golang-recover-15500) *(Last modified: 2025-06-08)*
@@ -2716,14 +2716,20 @@ This file contains all tutorials-pt related links from LabEx website.
 - [hydra-adjust-hydra-thread-counts-550758](https://labex.io/pt/tutorials/hydra-adjust-hydra-thread-counts-550758) *(Last modified: 2025-06-08)*
 - [hydra-attack-ftp-services-with-hydra-549914](https://labex.io/pt/tutorials/hydra-attack-ftp-services-with-hydra-549914) *(Last modified: 2025-06-08)*
 - [hydra-attack-http-services-with-hydra-549915](https://labex.io/pt/tutorials/hydra-attack-http-services-with-hydra-549915) *(Last modified: 2025-06-08)*
+- [hydra-attack-http-services-with-hydra-588011](https://labex.io/pt/tutorials/hydra-attack-http-services-with-hydra-588011) *(Last modified: 2025-05-30)*
 - [hydra-attack-ipv6-targets-with-hydra-550759](https://labex.io/pt/tutorials/hydra-attack-ipv6-targets-with-hydra-550759) *(Last modified: 2025-06-08)*
+- [hydra-attack-ipv6-targets-with-hydra-587823](https://labex.io/pt/tutorials/hydra-attack-ipv6-targets-with-hydra-587823) *(Last modified: 2025-05-30)*
 - [hydra-attack-multiple-targets-with-hydra-550760](https://labex.io/pt/tutorials/hydra-attack-multiple-targets-with-hydra-550760) *(Last modified: 2025-06-08)*
+- [hydra-attack-multiple-targets-with-hydra-587795](https://labex.io/pt/tutorials/hydra-attack-multiple-targets-with-hydra-587795) *(Last modified: 2025-05-29)*
 - [hydra-attack-smb-services-with-hydra-550761](https://labex.io/pt/tutorials/hydra-attack-smb-services-with-hydra-550761) *(Last modified: 2025-06-08)*
+- [hydra-attack-smb-services-with-hydra-587836](https://labex.io/pt/tutorials/hydra-attack-smb-services-with-hydra-587836) *(Last modified: 2025-05-30)*
 - [hydra-attack-ssl-enabled-services-with-hydra-550762](https://labex.io/pt/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762) *(Last modified: 2025-06-08)*
 - [hydra-attack-telnet-services-with-hydra-549916](https://labex.io/pt/tutorials/hydra-attack-telnet-services-with-hydra-549916) *(Last modified: 2025-06-08)*
 - [hydra-attack-with-colon-separated-credentials-550763](https://labex.io/pt/tutorials/hydra-attack-with-colon-separated-credentials-550763) *(Last modified: 2025-06-08)*
+- [hydra-attack-with-colon-separated-credentials-585961](https://labex.io/pt/tutorials/hydra-attack-with-colon-separated-credentials-585961) *(Last modified: 2025-05-29)*
 - [hydra-brute-force-ssh-in-hydra-549926](https://labex.io/pt/tutorials/hydra-brute-force-ssh-in-hydra-549926) *(Last modified: 2025-06-08)*
 - [hydra-control-hydra-connection-intervals-550764](https://labex.io/pt/tutorials/hydra-control-hydra-connection-intervals-550764) *(Last modified: 2025-06-08)*
+- [hydra-control-hydra-connection-intervals-587813](https://labex.io/pt/tutorials/hydra-control-hydra-connection-intervals-587813) *(Last modified: 2025-05-30)*
 - [hydra-crack-a-weak-telnet-password-550745](https://labex.io/pt/tutorials/hydra-crack-a-weak-telnet-password-550745) *(Last modified: 2025-06-08)*
 - [hydra-crack-agent-s-weak-ssh-password-550753](https://labex.io/pt/tutorials/hydra-crack-agent-s-weak-ssh-password-550753) *(Last modified: 2025-06-08)*
 - [hydra-crack-ftp-with-custom-wordlist-550733](https://labex.io/pt/tutorials/hydra-crack-ftp-with-custom-wordlist-550733) *(Last modified: 2025-06-08)*
@@ -2734,8 +2740,10 @@ This file contains all tutorials-pt related links from LabEx website.
 - [hydra-customize-hydra-port-numbers-550765](https://labex.io/pt/tutorials/hydra-customize-hydra-port-numbers-550765) *(Last modified: 2025-06-08)*
 - [hydra-deploy-a-honeypot-in-cowrie-549933](https://labex.io/pt/tutorials/hydra-deploy-a-honeypot-in-cowrie-549933) *(Last modified: 2025-05-24)*
 - [hydra-explore-hydra-module-specific-options-550767](https://labex.io/pt/tutorials/hydra-explore-hydra-module-specific-options-550767) *(Last modified: 2025-06-08)*
+- [hydra-explore-hydra-module-specific-options-575940](https://labex.io/pt/tutorials/hydra-explore-hydra-module-specific-options-575940) *(Last modified: 2025-05-22)*
 - [hydra-fine-tune-hydra-response-wait-times-550768](https://labex.io/pt/tutorials/hydra-fine-tune-hydra-response-wait-times-550768) *(Last modified: 2025-06-08)*
 - [hydra-generate-passwords-with-hydra-brute-force-550769](https://labex.io/pt/tutorials/hydra-generate-passwords-with-hydra-brute-force-550769) *(Last modified: 2025-06-08)*
+- [hydra-generate-passwords-with-hydra-brute-force-585951](https://labex.io/pt/tutorials/hydra-generate-passwords-with-hydra-brute-force-585951) *(Last modified: 2025-05-29)*
 - [hydra-harden-ssh-in-openssh-549940](https://labex.io/pt/tutorials/hydra-harden-ssh-in-openssh-549940) *(Last modified: 2025-05-28)*
 - [hydra-how-to-analyze-password-lists-for-security-risks-in-cybersecurity-414529](https://labex.io/pt/tutorials/hydra-how-to-analyze-password-lists-for-security-risks-in-cybersecurity-414529) *(Last modified: 2025-05-26)*
 - [hydra-how-to-configure-options-for-adobe-pdf-embedded-exe-exploit-module-in-metasploit-417465](https://labex.io/pt/tutorials/hydra-how-to-configure-options-for-adobe-pdf-embedded-exe-exploit-module-in-metasploit-417465) *(Last modified: 2025-05-25)*
@@ -2767,14 +2775,19 @@ This file contains all tutorials-pt related links from LabEx website.
 - [hydra-install-and-verify-hydra-549917](https://labex.io/pt/tutorials/hydra-install-and-verify-hydra-549917) *(Last modified: 2025-06-08)*
 - [hydra-learn-basic-hydra-commands-549918](https://labex.io/pt/tutorials/hydra-learn-basic-hydra-commands-549918) *(Last modified: 2025-06-08)*
 - [hydra-loop-passwords-in-hydra-attacks-550771](https://labex.io/pt/tutorials/hydra-loop-passwords-in-hydra-attacks-550771) *(Last modified: 2025-06-08)*
+- [hydra-loop-passwords-in-hydra-attacks-585966](https://labex.io/pt/tutorials/hydra-loop-passwords-in-hydra-attacks-585966) *(Last modified: 2025-05-29)*
 - [hydra-perform-a-dictionary-attack-on-ssh-with-hydra-549919](https://labex.io/pt/tutorials/hydra-perform-a-dictionary-attack-on-ssh-with-hydra-549919) *(Last modified: 2025-05-28)*
 - [hydra-prepare-files-for-hydra-attacks-549920](https://labex.io/pt/tutorials/hydra-prepare-files-for-hydra-attacks-549920) *(Last modified: 2025-05-24)*
 - [hydra-restore-a-previous-hydra-session-550772](https://labex.io/pt/tutorials/hydra-restore-a-previous-hydra-session-550772) *(Last modified: 2025-06-08)*
 - [hydra-save-hydra-attack-results-550773](https://labex.io/pt/tutorials/hydra-save-hydra-attack-results-550773) *(Last modified: 2025-06-08)*
+- [hydra-save-hydra-attack-results-587808](https://labex.io/pt/tutorials/hydra-save-hydra-attack-results-587808) *(Last modified: 2025-05-30)*
 - [hydra-set-up-a-test-environment-for-hydra-549921](https://labex.io/pt/tutorials/hydra-set-up-a-test-environment-for-hydra-549921) *(Last modified: 2025-05-24)*
 - [hydra-spray-passwords-in-hydra-549952](https://labex.io/pt/tutorials/hydra-spray-passwords-in-hydra-549952) *(Last modified: 2025-05-24)*
 - [hydra-stop-hydra-attacks-early-550774](https://labex.io/pt/tutorials/hydra-stop-hydra-attacks-early-550774) *(Last modified: 2025-06-08)*
+- [hydra-stop-hydra-attacks-early-587787](https://labex.io/pt/tutorials/hydra-stop-hydra-attacks-early-587787) *(Last modified: 2025-05-29)*
 - [hydra-use-additional-hydra-password-checks-550776](https://labex.io/pt/tutorials/hydra-use-additional-hydra-password-checks-550776) *(Last modified: 2025-06-08)*
+- [hydra-use-additional-hydra-password-checks-585958](https://labex.io/pt/tutorials/hydra-use-additional-hydra-password-checks-585958) *(Last modified: 2025-05-29)*
+- [hydra-use-additional-hydra-password-checks-588012](https://labex.io/pt/tutorials/hydra-use-additional-hydra-password-checks-588012) *(Last modified: 2025-05-30)*
 - [hydra-use-hydra-verbose-mode-550777](https://labex.io/pt/tutorials/hydra-use-hydra-verbose-mode-550777) *(Last modified: 2025-06-08)*
 - [hydra-verify-hydra-installation-549983](https://labex.io/pt/tutorials/hydra-verify-hydra-installation-549983) *(Last modified: 2025-06-08)*
 - [identify-linux-server-version-548747](https://labex.io/pt/tutorials/identify-linux-server-version-548747) *(Last modified: 2025-06-08)*
@@ -3854,6 +3867,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [kali-build-tool-directory-structure-552274](https://labex.io/pt/tutorials/kali-build-tool-directory-structure-552274) *(Last modified: 2025-06-08)*
 - [kali-create-user-account-in-kali-552291](https://labex.io/pt/tutorials/kali-create-user-account-in-kali-552291) *(Last modified: 2025-06-08)*
 - [kali-exploring-kali-s-security-tools-552192](https://labex.io/pt/tutorials/kali-exploring-kali-s-security-tools-552192) *(Last modified: 2025-06-08)*
+- [kali-exploring-kali-s-security-tools-588013](https://labex.io/pt/tutorials/kali-exploring-kali-s-security-tools-588013) *(Last modified: 2025-05-30)*
 - [kali-how-to-start-postgresql-in-kali-linux-417476](https://labex.io/pt/tutorials/kali-how-to-start-postgresql-in-kali-linux-417476) *(Last modified: 2025-06-08)*
 - [kali-kali-automation-with-bash-and-python-552292](https://labex.io/pt/tutorials/kali-kali-automation-with-bash-and-python-552292) *(Last modified: 2025-05-24)*
 - [kali-kali-exploitation-with-metasploit-552293](https://labex.io/pt/tutorials/kali-kali-exploitation-with-metasploit-552293) *(Last modified: 2025-05-24)*
@@ -3959,7 +3973,9 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-cracking-a-specific-user-account-415951](https://labex.io/pt/tutorials/linux-cracking-a-specific-user-account-415951) *(Last modified: 2025-06-08)*
 - [linux-crafting-striking-terminal-text-with-figlet-272383](https://labex.io/pt/tutorials/linux-crafting-striking-terminal-text-with-figlet-272383) *(Last modified: 2025-06-08)*
 - [linux-create-and-extract-tar-archives-588239](https://labex.io/pt/tutorials/linux-create-and-extract-tar-archives-588239) *(Last modified: 2025-06-08)*
+- [linux-create-and-extract-tar-archives-588589](https://labex.io/pt/tutorials/linux-create-and-extract-tar-archives-588589) *(Last modified: 2025-06-06)*
 - [linux-create-and-manipulate-symbolic-links-588242](https://labex.io/pt/tutorials/linux-create-and-manipulate-symbolic-links-588242) *(Last modified: 2025-06-08)*
+- [linux-create-and-manipulate-symbolic-links-588592](https://labex.io/pt/tutorials/linux-create-and-manipulate-symbolic-links-588592) *(Last modified: 2025-06-06)*
 - [linux-create-personalized-terminal-greeting-446322](https://labex.io/pt/tutorials/linux-create-personalized-terminal-greeting-446322) *(Last modified: 2025-06-08)*
 - [linux-creating-a-typing-game-using-bash-298847](https://labex.io/pt/tutorials/linux-creating-a-typing-game-using-bash-298847) *(Last modified: 2025-06-08)*
 - [linux-customizing-linux-file-listing-301467](https://labex.io/pt/tutorials/linux-customizing-linux-file-listing-301467) *(Last modified: 2025-05-23)*
@@ -3976,6 +3992,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-download-files-from-the-internet-387333](https://labex.io/pt/tutorials/linux-download-files-from-the-internet-387333) *(Last modified: 2025-06-08)*
 - [linux-download-media-with-you-get-289657](https://labex.io/pt/tutorials/linux-download-media-with-you-get-289657) *(Last modified: 2025-05-27)*
 - [linux-empires-gedit-quest-271288](https://labex.io/pt/tutorials/linux-empires-gedit-quest-271288) *(Last modified: 2025-06-08)*
+- [linux-empires-gedit-quest-588015](https://labex.io/pt/tutorials/linux-empires-gedit-quest-588015) *(Last modified: 2025-05-30)*
 - [linux-enhance-copying-and-moving-with-advcpmv-295937](https://labex.io/pt/tutorials/linux-enhance-copying-and-moving-with-advcpmv-295937) *(Last modified: 2025-06-08)*
 - [linux-environment-variables-in-linux-385274](https://labex.io/pt/tutorials/linux-environment-variables-in-linux-385274) *(Last modified: 2025-06-08)*
 - [linux-explore-disk-usage-with-ncdu-296141](https://labex.io/pt/tutorials/linux-explore-disk-usage-with-ncdu-296141) *(Last modified: 2025-06-08)*
@@ -4149,6 +4166,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-hunt-down-social-media-accounts-271644](https://labex.io/pt/tutorials/linux-hunt-down-social-media-accounts-271644) *(Last modified: 2025-06-08)*
 - [linux-implement-custom-trash-enabled-command-301457](https://labex.io/pt/tutorials/linux-implement-custom-trash-enabled-command-301457) *(Last modified: 2025-05-21)*
 - [linux-implement-hard-links-in-linux-588253](https://labex.io/pt/tutorials/linux-implement-hard-links-in-linux-588253) *(Last modified: 2025-06-08)*
+- [linux-implement-hard-links-in-linux-588603](https://labex.io/pt/tutorials/linux-implement-hard-links-in-linux-588603) *(Last modified: 2025-06-06)*
 - [linux-installing-and-configuring-a-mail-server-298848](https://labex.io/pt/tutorials/linux-installing-and-configuring-a-mail-server-298848) *(Last modified: 2025-06-08)*
 - [linux-installing-and-removing-packages-385380](https://labex.io/pt/tutorials/linux-installing-and-removing-packages-385380) *(Last modified: 2025-06-08)*
 - [linux-interactive-process-viewer-with-htop-271667](https://labex.io/pt/tutorials/linux-interactive-process-viewer-with-htop-271667) *(Last modified: 2025-06-08)*
@@ -4250,6 +4268,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-linux-output-multiplexing-271399](https://labex.io/pt/tutorials/linux-linux-output-multiplexing-271399) *(Last modified: 2025-06-08)*
 - [linux-linux-ownership-changing-271243](https://labex.io/pt/tutorials/linux-linux-ownership-changing-271243) *(Last modified: 2025-06-08)*
 - [linux-linux-package-handling-271225](https://labex.io/pt/tutorials/linux-linux-package-handling-271225) *(Last modified: 2025-06-08)*
+- [linux-linux-package-handling-588014](https://labex.io/pt/tutorials/linux-linux-package-handling-588014) *(Last modified: 2025-05-30)*
 - [linux-linux-password-changing-271347](https://labex.io/pt/tutorials/linux-linux-password-changing-271347) *(Last modified: 2025-06-08)*
 - [linux-linux-patch-applying-271351](https://labex.io/pt/tutorials/linux-linux-patch-applying-271351) *(Last modified: 2025-06-08)*
 - [linux-linux-pattern-based-killing-271359](https://labex.io/pt/tutorials/linux-linux-pattern-based-killing-271359) *(Last modified: 2025-06-08)*
@@ -4313,10 +4332,14 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-linux-wildcard-character-271447](https://labex.io/pt/tutorials/linux-linux-wildcard-character-271447) *(Last modified: 2025-06-08)*
 - [linux-linux-xargs-command-command-building-219201](https://labex.io/pt/tutorials/linux-linux-xargs-command-command-building-219201) *(Last modified: 2025-06-08)*
 - [linux-locate-setuid-files-588259](https://labex.io/pt/tutorials/linux-locate-setuid-files-588259) *(Last modified: 2025-06-08)*
+- [linux-locate-setuid-files-588609](https://labex.io/pt/tutorials/linux-locate-setuid-files-588609) *(Last modified: 2025-06-06)*
 - [linux-log-in-and-switch-users-588260](https://labex.io/pt/tutorials/linux-log-in-and-switch-users-588260) *(Last modified: 2025-06-08)*
+- [linux-log-in-and-switch-users-588610](https://labex.io/pt/tutorials/linux-log-in-and-switch-users-588610) *(Last modified: 2025-06-06)*
 - [linux-logical-commands-and-redirection-387332](https://labex.io/pt/tutorials/linux-logical-commands-and-redirection-387332) *(Last modified: 2025-06-08)*
 - [linux-manage-file-permissions-588264](https://labex.io/pt/tutorials/linux-manage-file-permissions-588264) *(Last modified: 2025-06-08)*
+- [linux-manage-file-permissions-588614](https://labex.io/pt/tutorials/linux-manage-file-permissions-588614) *(Last modified: 2025-06-06)*
 - [linux-manage-logs-and-archives-588265](https://labex.io/pt/tutorials/linux-manage-logs-and-archives-588265) *(Last modified: 2025-06-08)*
+- [linux-manage-logs-and-archives-588615](https://labex.io/pt/tutorials/linux-manage-logs-and-archives-588615) *(Last modified: 2025-06-06)*
 - [linux-manage-multiple-terminals-with-screen-271827](https://labex.io/pt/tutorials/linux-manage-multiple-terminals-with-screen-271827) *(Last modified: 2025-06-08)*
 - [linux-monitor-system-resources-with-glances-384503](https://labex.io/pt/tutorials/linux-monitor-system-resources-with-glances-384503) *(Last modified: 2025-06-08)*
 - [linux-needle-in-the-haystack-388109](https://labex.io/pt/tutorials/linux-needle-in-the-haystack-388109) *(Last modified: 2025-06-08)*
@@ -4331,6 +4354,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-permissions-of-files-270252](https://labex.io/pt/tutorials/linux-permissions-of-files-270252) *(Last modified: 2025-06-08)*
 - [linux-preserve-airship-s-mystical-archives-with-tar-271397](https://labex.io/pt/tutorials/linux-preserve-airship-s-mystical-archives-with-tar-271397) *(Last modified: 2025-06-08)*
 - [linux-process-arguments-in-bash-scripts-588272](https://labex.io/pt/tutorials/linux-process-arguments-in-bash-scripts-588272) *(Last modified: 2025-06-08)*
+- [linux-process-arguments-in-bash-scripts-588622](https://labex.io/pt/tutorials/linux-process-arguments-in-bash-scripts-588622) *(Last modified: 2025-06-06)*
 - [linux-processing-employees-data-388132](https://labex.io/pt/tutorials/linux-processing-employees-data-388132) *(Last modified: 2025-06-08)*
 - [linux-quick-start-to-hive-272323](https://labex.io/pt/tutorials/linux-quick-start-to-hive-272323) *(Last modified: 2025-06-08)*
 - [linux-random-password-generator-development-301484](https://labex.io/pt/tutorials/linux-random-password-generator-development-301484) *(Last modified: 2025-06-08)*
@@ -4849,6 +4873,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [mysql-mysql-functions-and-custom-logic-550908](https://labex.io/pt/tutorials/mysql-mysql-functions-and-custom-logic-550908) *(Last modified: 2025-05-28)*
 - [mysql-mysql-import-and-export-operations-550909](https://labex.io/pt/tutorials/mysql-mysql-import-and-export-operations-550909) *(Last modified: 2025-05-28)*
 - [mysql-mysql-indexes-and-performance-optimization-550910](https://labex.io/pt/tutorials/mysql-mysql-indexes-and-performance-optimization-550910) *(Last modified: 2025-06-08)*
+- [mysql-mysql-indexes-and-performance-optimization-582446](https://labex.io/pt/tutorials/mysql-mysql-indexes-and-performance-optimization-582446) *(Last modified: 2025-05-26)*
 - [mysql-mysql-json-data-handling-550911](https://labex.io/pt/tutorials/mysql-mysql-json-data-handling-550911) *(Last modified: 2025-05-28)*
 - [mysql-mysql-multi-table-operations-418306](https://labex.io/pt/tutorials/mysql-mysql-multi-table-operations-418306) *(Last modified: 2025-06-08)*
 - [mysql-mysql-partitioning-for-large-datasets-550912](https://labex.io/pt/tutorials/mysql-mysql-partitioning-for-large-datasets-550912) *(Last modified: 2025-05-28)*
@@ -5277,6 +5302,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [nmap-network-scanning-with-nmap-415959](https://labex.io/pt/tutorials/nmap-network-scanning-with-nmap-415959) *(Last modified: 2025-06-08)*
 - [nmap-optimize-scan-timing-and-performance-in-nmap-530183](https://labex.io/pt/tutorials/nmap-optimize-scan-timing-and-performance-in-nmap-530183) *(Last modified: 2025-05-24)*
 - [nmap-perform-advanced-host-discovery-in-nmap-547102](https://labex.io/pt/tutorials/nmap-perform-advanced-host-discovery-in-nmap-547102) *(Last modified: 2025-06-08)*
+- [nmap-perform-advanced-host-discovery-in-nmap-588123](https://labex.io/pt/tutorials/nmap-perform-advanced-host-discovery-in-nmap-588123) *(Last modified: 2025-06-03)*
 - [nmap-perform-aggressive-scanning-in-nmap-547103](https://labex.io/pt/tutorials/nmap-perform-aggressive-scanning-in-nmap-547103) *(Last modified: 2025-05-24)*
 - [nmap-perform-brute-force-attacks-on-ssh-and-vnc-with-metasploit-in-nmap-416127](https://labex.io/pt/tutorials/nmap-perform-brute-force-attacks-on-ssh-and-vnc-with-metasploit-in-nmap-416127) *(Last modified: 2025-06-08)*
 - [nmap-perform-comprehensive-scanning-in-nmap-547104](https://labex.io/pt/tutorials/nmap-perform-comprehensive-scanning-in-nmap-547104) *(Last modified: 2025-05-24)*
@@ -5293,6 +5319,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [nmap-perform-vulnerability-scanning-and-penetration-testing-with-nmap-in-kali-linux-416122](https://labex.io/pt/tutorials/nmap-perform-vulnerability-scanning-and-penetration-testing-with-nmap-in-kali-linux-416122) *(Last modified: 2025-06-08)*
 - [nmap-perform-window-scanning-in-nmap-547107](https://labex.io/pt/tutorials/nmap-perform-window-scanning-in-nmap-547107) *(Last modified: 2025-05-24)*
 - [nmap-randomize-targets-in-nmap-547108](https://labex.io/pt/tutorials/nmap-randomize-targets-in-nmap-547108) *(Last modified: 2025-06-08)*
+- [nmap-randomize-targets-in-nmap-588117](https://labex.io/pt/tutorials/nmap-randomize-targets-in-nmap-588117) *(Last modified: 2025-06-03)*
 - [nmap-save-nmap-output-to-xml-548705](https://labex.io/pt/tutorials/nmap-save-nmap-output-to-xml-548705) *(Last modified: 2025-06-08)*
 - [nmap-scan-for-vulnerabilities-in-nmap-547109](https://labex.io/pt/tutorials/nmap-scan-for-vulnerabilities-in-nmap-547109) *(Last modified: 2025-05-24)*
 - [nmap-scan-ipv6-targets-in-nmap-547110](https://labex.io/pt/tutorials/nmap-scan-ipv6-targets-in-nmap-547110) *(Last modified: 2025-05-24)*
@@ -5420,6 +5447,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [postgresql-basic-data-operations-in-postgresql-550897](https://labex.io/pt/tutorials/postgresql-basic-data-operations-in-postgresql-550897) *(Last modified: 2025-06-08)*
 - [postgresql-create-employee-table-in-postgresql-551115](https://labex.io/pt/tutorials/postgresql-create-employee-table-in-postgresql-551115) *(Last modified: 2025-06-08)*
 - [postgresql-create-your-own-recipe-database-551100](https://labex.io/pt/tutorials/postgresql-create-your-own-recipe-database-551100) *(Last modified: 2025-06-08)*
+- [postgresql-create-your-own-recipe-database-588016](https://labex.io/pt/tutorials/postgresql-create-your-own-recipe-database-588016) *(Last modified: 2025-05-30)*
 - [postgresql-data-filtering-and-simple-queries-in-postgresql-550898](https://labex.io/pt/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550898) *(Last modified: 2025-06-08)*
 - [postgresql-data-filtering-and-simple-queries-in-postgresql-550947](https://labex.io/pt/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550947) *(Last modified: 2025-06-08)*
 - [postgresql-data-filtering-and-simple-queries-in-postgresql-550948](https://labex.io/pt/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550948) *(Last modified: 2025-06-08)*
@@ -5439,13 +5467,18 @@ This file contains all tutorials-pt related links from LabEx website.
 - [postgresql-database-management-basics-with-postgresql-550899](https://labex.io/pt/tutorials/postgresql-database-management-basics-with-postgresql-550899) *(Last modified: 2025-06-08)*
 - [postgresql-find-marketing-employees-in-postgresql-551146](https://labex.io/pt/tutorials/postgresql-find-marketing-employees-in-postgresql-551146) *(Last modified: 2025-06-08)*
 - [postgresql-installation-and-initial-setup-of-postgresql-550900](https://labex.io/pt/tutorials/postgresql-installation-and-initial-setup-of-postgresql-550900) *(Last modified: 2025-06-08)*
+- [postgresql-installation-and-initial-setup-of-postgresql-588018](https://labex.io/pt/tutorials/postgresql-installation-and-initial-setup-of-postgresql-588018) *(Last modified: 2025-05-30)*
 - [postgresql-manage-employee-data-in-postgresql-551130](https://labex.io/pt/tutorials/postgresql-manage-employee-data-in-postgresql-551130) *(Last modified: 2025-06-08)*
+- [postgresql-manage-employee-data-in-postgresql-588017](https://labex.io/pt/tutorials/postgresql-manage-employee-data-in-postgresql-588017) *(Last modified: 2025-05-30)*
 - [postgresql-postgresql-database-maintenance-550950](https://labex.io/pt/tutorials/postgresql-postgresql-database-maintenance-550950) *(Last modified: 2025-06-08)*
 - [postgresql-postgresql-event-trigger-setup-550953](https://labex.io/pt/tutorials/postgresql-postgresql-event-trigger-setup-550953) *(Last modified: 2025-06-08)*
 - [postgresql-postgresql-relationships-and-joins-550959](https://labex.io/pt/tutorials/postgresql-postgresql-relationships-and-joins-550959) *(Last modified: 2025-06-08)*
+- [postgresql-postgresql-relationships-and-joins-588020](https://labex.io/pt/tutorials/postgresql-postgresql-relationships-and-joins-588020) *(Last modified: 2025-05-30)*
 - [postgresql-postgresql-role-and-permission-management-550960](https://labex.io/pt/tutorials/postgresql-postgresql-role-and-permission-management-550960) *(Last modified: 2025-06-08)*
 - [postgresql-postgresql-table-creation-and-data-types-550901](https://labex.io/pt/tutorials/postgresql-postgresql-table-creation-and-data-types-550901) *(Last modified: 2025-06-08)*
+- [postgresql-postgresql-transaction-management-588026](https://labex.io/pt/tutorials/postgresql-postgresql-transaction-management-588026) *(Last modified: 2025-05-30)*
 - [postgresql-postgresql-trigger-automation-550965](https://labex.io/pt/tutorials/postgresql-postgresql-trigger-automation-550965) *(Last modified: 2025-06-08)*
+- [postgresql-postgresql-views-management-588039](https://labex.io/pt/tutorials/postgresql-postgresql-views-management-588039) *(Last modified: 2025-05-30)*
 - [postgresql-verify-postgresql-connection-details-551083](https://labex.io/pt/tutorials/postgresql-verify-postgresql-connection-details-551083) *(Last modified: 2025-06-08)*
 - [practice-linux-commands-hands-on-labs-398420](https://labex.io/pt/tutorials/practice-linux-commands-hands-on-labs-398420) *(Last modified: 2025-05-25)*
 - [python-3d-box-surface-plot-48587](https://labex.io/pt/tutorials/python-3d-box-surface-plot-48587) *(Last modified: 2025-06-08)*
@@ -5782,6 +5815,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [python-exception-handling-and-logging-132507](https://labex.io/pt/tutorials/python-exception-handling-and-logging-132507) *(Last modified: 2025-06-08)*
 - [python-execute-function-for-each-list-element-13643](https://labex.io/pt/tutorials/python-execute-function-for-each-list-element-13643) *(Last modified: 2025-05-25)*
 - [python-explore-python-development-tools-585762](https://labex.io/pt/tutorials/python-explore-python-development-tools-585762) *(Last modified: 2025-06-08)*
+- [python-explore-python-development-tools-585805](https://labex.io/pt/tutorials/python-explore-python-development-tools-585805) *(Last modified: 2025-05-28)*
 - [python-exploring-font-attributes-and-glyph-metrics-48750](https://labex.io/pt/tutorials/python-exploring-font-attributes-and-glyph-metrics-48750) *(Last modified: 2025-06-08)*
 - [python-exploring-ipython-s-interactive-computing-features-83](https://labex.io/pt/tutorials/python-exploring-ipython-s-interactive-computing-features-83) *(Last modified: 2025-06-08)*
 - [python-exploring-python-comments-in-magical-forest-271530](https://labex.io/pt/tutorials/python-exploring-python-comments-in-magical-forest-271530) *(Last modified: 2025-05-20)*
@@ -6634,6 +6668,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [python-unlocking-ancient-computing-with-python-booleans-271521](https://labex.io/pt/tutorials/python-unlocking-ancient-computing-with-python-booleans-271521) *(Last modified: 2025-05-20)*
 - [python-unstructured-triangular-grid-visualization-49005](https://labex.io/pt/tutorials/python-unstructured-triangular-grid-visualization-49005) *(Last modified: 2025-06-08)*
 - [python-use-vs-code-for-python-development-585783](https://labex.io/pt/tutorials/python-use-vs-code-for-python-development-585783) *(Last modified: 2025-06-08)*
+- [python-use-vs-code-for-python-development-585810](https://labex.io/pt/tutorials/python-use-vs-code-for-python-development-585810) *(Last modified: 2025-05-28)*
 - [python-usetex-font-effects-49020](https://labex.io/pt/tutorials/python-usetex-font-effects-49020) *(Last modified: 2025-06-08)*
 - [python-using-a-ttf-font-file-in-matplotlib-48743](https://labex.io/pt/tutorials/python-using-a-ttf-font-file-in-matplotlib-48743) *(Last modified: 2025-06-08)*
 - [python-using-check-buttons-in-matplotlib-48601](https://labex.io/pt/tutorials/python-using-check-buttons-in-matplotlib-48601) *(Last modified: 2025-06-08)*
@@ -6773,8 +6808,10 @@ This file contains all tutorials-pt related links from LabEx website.
 - [react-writing-markup-with-jsx-100376](https://labex.io/pt/tutorials/react-writing-markup-with-jsx-100376) *(Last modified: 2025-06-08)*
 - [react-your-first-react-lab-92968](https://labex.io/pt/tutorials/react-your-first-react-lab-92968) *(Last modified: 2025-06-08)*
 - [redis-add-item-to-redis-to-do-list-552161](https://labex.io/pt/tutorials/redis-add-item-to-redis-to-do-list-552161) *(Last modified: 2025-06-08)*
+- [redis-add-item-to-redis-to-do-list-588028](https://labex.io/pt/tutorials/redis-add-item-to-redis-to-do-list-588028) *(Last modified: 2025-05-30)*
 - [redis-basic-data-management-in-redis-552076](https://labex.io/pt/tutorials/redis-basic-data-management-in-redis-552076) *(Last modified: 2025-06-08)*
 - [redis-basic-key-value-operations-in-redis-552077](https://labex.io/pt/tutorials/redis-basic-key-value-operations-in-redis-552077) *(Last modified: 2025-06-08)*
+- [redis-basic-key-value-operations-in-redis-588029](https://labex.io/pt/tutorials/redis-basic-key-value-operations-in-redis-588029) *(Last modified: 2025-05-30)*
 - [redis-configure-redis-maxmemory-limit-552162](https://labex.io/pt/tutorials/redis-configure-redis-maxmemory-limit-552162) *(Last modified: 2025-06-08)*
 - [redis-expire-keys-in-redis-cache-552156](https://labex.io/pt/tutorials/redis-expire-keys-in-redis-cache-552156) *(Last modified: 2025-06-08)*
 - [redis-increment-redis-counter-for-website-visits-552163](https://labex.io/pt/tutorials/redis-increment-redis-counter-for-website-visits-552163) *(Last modified: 2025-06-08)*
@@ -6788,7 +6825,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [redis-redis-list-operations-552098](https://labex.io/pt/tutorials/redis-redis-list-operations-552098) *(Last modified: 2025-06-08)*
 - [redis-redis-lua-scripting-552099](https://labex.io/pt/tutorials/redis-redis-lua-scripting-552099) *(Last modified: 2025-06-08)*
 - [redis-redis-performance-monitoring-552100](https://labex.io/pt/tutorials/redis-redis-performance-monitoring-552100) *(Last modified: 2025-06-08)*
-- [redis-redis-persistence-management-552101](https://labex.io/pt/tutorials/redis-redis-persistence-management-552101) *(Last modified: 2025-06-08)*
+- [redis-redis-persistence-management-552101](https://labex.io/pt/tutorials/redis-redis-persistence-management-552101) *(Last modified: 2025-06-09)*
 - [redis-redis-pub-sub-messaging-552102](https://labex.io/pt/tutorials/redis-redis-pub-sub-messaging-552102) *(Last modified: 2025-06-08)*
 - [redis-redis-security-settings-552103](https://labex.io/pt/tutorials/redis-redis-security-settings-552103) *(Last modified: 2025-06-08)*
 - [redis-redis-set-operations-552104](https://labex.io/pt/tutorials/redis-redis-set-operations-552104) *(Last modified: 2025-06-08)*
@@ -6796,12 +6833,34 @@ This file contains all tutorials-pt related links from LabEx website.
 - [redis-redis-transactions-552106](https://labex.io/pt/tutorials/redis-redis-transactions-552106) *(Last modified: 2025-06-08)*
 - [redis-verify-redis-server-status-552152](https://labex.io/pt/tutorials/redis-verify-redis-server-status-552152) *(Last modified: 2025-06-08)*
 - [rhel-access-command-line-in-red-hat-enterprise-linux-588454](https://labex.io/pt/tutorials/rhel-access-command-line-in-red-hat-enterprise-linux-588454) *(Last modified: 2025-06-08)*
+- [rhel-access-command-line-in-red-hat-enterprise-linux-588631](https://labex.io/pt/tutorials/rhel-access-command-line-in-red-hat-enterprise-linux-588631) *(Last modified: 2025-06-06)*
+- [rhel-access-file-systems-in-red-hat-enterprise-linux-588455](https://labex.io/pt/tutorials/rhel-access-file-systems-in-red-hat-enterprise-linux-588455) *(Last modified: 2025-06-09)*
+- [rhel-analyze-logs-in-red-hat-enterprise-linux-588456](https://labex.io/pt/tutorials/rhel-analyze-logs-in-red-hat-enterprise-linux-588456) *(Last modified: 2025-06-09)*
+- [rhel-configure-networking-in-red-hat-enterprise-linux-588457](https://labex.io/pt/tutorials/rhel-configure-networking-in-red-hat-enterprise-linux-588457) *(Last modified: 2025-06-09)*
 - [rhel-control-file-access-in-red-hat-enterprise-linux-588458](https://labex.io/pt/tutorials/rhel-control-file-access-in-red-hat-enterprise-linux-588458) *(Last modified: 2025-06-08)*
+- [rhel-control-file-access-in-red-hat-enterprise-linux-588562](https://labex.io/pt/tutorials/rhel-control-file-access-in-red-hat-enterprise-linux-588562) *(Last modified: 2025-06-06)*
+- [rhel-control-file-access-in-red-hat-enterprise-linux-588635](https://labex.io/pt/tutorials/rhel-control-file-access-in-red-hat-enterprise-linux-588635) *(Last modified: 2025-06-06)*
 - [rhel-control-services-in-red-hat-enterprise-linux-588459](https://labex.io/pt/tutorials/rhel-control-services-in-red-hat-enterprise-linux-588459) *(Last modified: 2025-06-08)*
+- [rhel-control-services-in-red-hat-enterprise-linux-588728](https://labex.io/pt/tutorials/rhel-control-services-in-red-hat-enterprise-linux-588728) *(Last modified: 2025-06-06)*
 - [rhel-edit-text-files-in-red-hat-enterprise-linux-588460](https://labex.io/pt/tutorials/rhel-edit-text-files-in-red-hat-enterprise-linux-588460) *(Last modified: 2025-06-08)*
+- [rhel-edit-text-files-in-red-hat-enterprise-linux-588486](https://labex.io/pt/tutorials/rhel-edit-text-files-in-red-hat-enterprise-linux-588486) *(Last modified: 2025-06-04)*
+- [rhel-edit-text-files-in-red-hat-enterprise-linux-588637](https://labex.io/pt/tutorials/rhel-edit-text-files-in-red-hat-enterprise-linux-588637) *(Last modified: 2025-06-06)*
+- [rhel-explore-basic-linux-commands-for-file-and-system-information-588391](https://labex.io/pt/tutorials/rhel-explore-basic-linux-commands-for-file-and-system-information-588391) *(Last modified: 2025-06-04)*
 - [rhel-get-help-in-red-hat-enterprise-linux-588461](https://labex.io/pt/tutorials/rhel-get-help-in-red-hat-enterprise-linux-588461) *(Last modified: 2025-06-08)*
+- [rhel-get-help-in-red-hat-enterprise-linux-588638](https://labex.io/pt/tutorials/rhel-get-help-in-red-hat-enterprise-linux-588638) *(Last modified: 2025-06-06)*
+- [rhel-install-software-in-red-hat-enterprise-linux-588462](https://labex.io/pt/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588462) *(Last modified: 2025-06-09)*
+- [rhel-install-software-in-red-hat-enterprise-linux-588856](https://labex.io/pt/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588856) *(Last modified: 2025-06-09)*
+- [rhel-manage-files-and-directories-with-command-line-tools-588416](https://labex.io/pt/tutorials/rhel-manage-files-and-directories-with-command-line-tools-588416) *(Last modified: 2025-06-04)*
 - [rhel-manage-files-in-red-hat-enterprise-linux-588463](https://labex.io/pt/tutorials/rhel-manage-files-in-red-hat-enterprise-linux-588463) *(Last modified: 2025-06-08)*
+- [rhel-manage-files-in-red-hat-enterprise-linux-588640](https://labex.io/pt/tutorials/rhel-manage-files-in-red-hat-enterprise-linux-588640) *(Last modified: 2025-06-06)*
 - [rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464](https://labex.io/pt/tutorials/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464) *(Last modified: 2025-06-08)*
+- [rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588553](https://labex.io/pt/tutorials/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588553) *(Last modified: 2025-06-04)*
+- [rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588641](https://labex.io/pt/tutorials/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588641) *(Last modified: 2025-06-06)*
+- [rhel-monitor-processes-in-red-hat-enterprise-linux-588465](https://labex.io/pt/tutorials/rhel-monitor-processes-in-red-hat-enterprise-linux-588465) *(Last modified: 2025-06-09)*
+- [rhel-navigate-and-search-man-pages-in-rhel-588437](https://labex.io/pt/tutorials/rhel-navigate-and-search-man-pages-in-rhel-588437) *(Last modified: 2025-06-04)*
+- [rhel-secure-ssh-in-red-hat-enterprise-linux-588466](https://labex.io/pt/tutorials/rhel-secure-ssh-in-red-hat-enterprise-linux-588466) *(Last modified: 2025-06-09)*
+- [rhel-transfer-files-in-red-hat-enterprise-linux-588467](https://labex.io/pt/tutorials/rhel-transfer-files-in-red-hat-enterprise-linux-588467) *(Last modified: 2025-06-09)*
+- [rhel-transfer-files-in-red-hat-enterprise-linux-588804](https://labex.io/pt/tutorials/rhel-transfer-files-in-red-hat-enterprise-linux-588804) *(Last modified: 2025-06-09)*
 - [round-number-to-given-precision-28605](https://labex.io/pt/tutorials/round-number-to-given-precision-28605) *(Last modified: 2025-06-08)*
 - [rust-abort-and-unwind-99232](https://labex.io/pt/tutorials/rust-abort-and-unwind-99232) *(Last modified: 2025-06-08)*
 - [rust-accepting-command-line-arguments-100418](https://labex.io/pt/tutorials/rust-accepting-command-line-arguments-100418) *(Last modified: 2025-06-08)*
@@ -6932,7 +6991,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [rust-phantom-type-parameters-99355](https://labex.io/pt/tutorials/rust-phantom-type-parameters-99355) *(Last modified: 2025-06-08)*
 - [rust-printable-types-in-rust-s-standard-library-99187](https://labex.io/pt/tutorials/rust-printable-types-in-rust-s-standard-library-99187) *(Last modified: 2025-06-08)*
 - [rust-processing-a-series-of-items-with-iterators-100425](https://labex.io/pt/tutorials/rust-processing-a-series-of-items-with-iterators-100425) *(Last modified: 2025-06-08)*
-- [rust-programming-a-guessing-game-100386](https://labex.io/pt/tutorials/rust-programming-a-guessing-game-100386) *(Last modified: 2025-06-08)*
+- [rust-programming-a-guessing-game-100386](https://labex.io/pt/tutorials/rust-programming-a-guessing-game-100386) *(Last modified: 2025-06-09)*
 - [rust-publishing-a-crate-to-crates-io-100428](https://labex.io/pt/tutorials/rust-publishing-a-crate-to-crates-io-100428) *(Last modified: 2025-06-08)*
 - [rust-pulling-results-out-of-options-99246](https://labex.io/pt/tutorials/rust-pulling-results-out-of-options-99246) *(Last modified: 2025-06-08)*
 - [rust-rc-t-the-reference-counted-smart-pointer-100434](https://labex.io/pt/tutorials/rust-rc-t-the-reference-counted-smart-pointer-100434) *(Last modified: 2025-06-08)*
@@ -7110,6 +7169,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [sqlite-build-sqlite-database-for-contacts-552582](https://labex.io/pt/tutorials/sqlite-build-sqlite-database-for-contacts-552582) *(Last modified: 2025-06-08)*
 - [sqlite-building-tables-in-sqlite-552336](https://labex.io/pt/tutorials/sqlite-building-tables-in-sqlite-552336) *(Last modified: 2025-06-08)*
 - [sqlite-creating-and-managing-sqlite-databases-552337](https://labex.io/pt/tutorials/sqlite-creating-and-managing-sqlite-databases-552337) *(Last modified: 2025-06-08)*
+- [sqlite-creating-and-managing-sqlite-databases-588030](https://labex.io/pt/tutorials/sqlite-creating-and-managing-sqlite-databases-588030) *(Last modified: 2025-05-30)*
 - [sqlite-filter-sqlite-data-for-it-department-552585](https://labex.io/pt/tutorials/sqlite-filter-sqlite-data-for-it-department-552585) *(Last modified: 2025-06-08)*
 - [sqlite-install-and-verify-sqlite-on-linux-552579](https://labex.io/pt/tutorials/sqlite-install-and-verify-sqlite-on-linux-552579) *(Last modified: 2025-06-08)*
 - [sqlite-query-specific-data-in-sqlite-552586](https://labex.io/pt/tutorials/sqlite-query-specific-data-in-sqlite-552586) *(Last modified: 2025-06-08)*
@@ -7128,9 +7188,9 @@ This file contains all tutorials-pt related links from LabEx website.
 - [sqlite-sqlite-subquery-techniques-552555](https://labex.io/pt/tutorials/sqlite-sqlite-subquery-techniques-552555) *(Last modified: 2025-06-08)*
 - [sqlite-sqlite-table-joining-552556](https://labex.io/pt/tutorials/sqlite-sqlite-table-joining-552556) *(Last modified: 2025-06-08)*
 - [sqlite-sqlite-temporary-storage-552557](https://labex.io/pt/tutorials/sqlite-sqlite-temporary-storage-552557) *(Last modified: 2025-06-08)*
-- [sqlite-sqlite-transaction-handling-552558](https://labex.io/pt/tutorials/sqlite-sqlite-transaction-handling-552558) *(Last modified: 2025-06-08)*
+- [sqlite-sqlite-transaction-handling-552558](https://labex.io/pt/tutorials/sqlite-sqlite-transaction-handling-552558) *(Last modified: 2025-06-09)*
 - [sqlite-sqlite-trigger-automation-552559](https://labex.io/pt/tutorials/sqlite-sqlite-trigger-automation-552559) *(Last modified: 2025-06-08)*
-- [sqlite-sqlite-view-creation-552560](https://labex.io/pt/tutorials/sqlite-sqlite-view-creation-552560) *(Last modified: 2025-06-08)*
+- [sqlite-sqlite-view-creation-552560](https://labex.io/pt/tutorials/sqlite-sqlite-view-creation-552560) *(Last modified: 2025-06-09)*
 - [sqlite-sqlite-window-analytics-552561](https://labex.io/pt/tutorials/sqlite-sqlite-window-analytics-552561) *(Last modified: 2025-06-08)*
 - [sqlite-working-with-data-in-sqlite-552340](https://labex.io/pt/tutorials/sqlite-working-with-data-in-sqlite-552340) *(Last modified: 2025-06-08)*
 - [uncover-the-secret-code-changes-387768](https://labex.io/pt/tutorials/uncover-the-secret-code-changes-387768) *(Last modified: 2025-06-08)*
@@ -7359,6 +7419,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [wireshark-how-to-verify-openssl-installation-420110](https://labex.io/pt/tutorials/wireshark-how-to-verify-openssl-installation-420110) *(Last modified: 2025-05-26)*
 - [wireshark-install-configure-and-analyze-network-traffic-with-wireshark-415947](https://labex.io/pt/tutorials/wireshark-install-configure-and-analyze-network-traffic-with-wireshark-415947) *(Last modified: 2025-06-08)*
 - [wireshark-limit-capture-size-in-tshark-548932](https://labex.io/pt/tutorials/wireshark-limit-capture-size-in-tshark-548932) *(Last modified: 2025-06-08)*
+- [wireshark-limit-capture-size-in-tshark-588132](https://labex.io/pt/tutorials/wireshark-limit-capture-size-in-tshark-588132) *(Last modified: 2025-06-03)*
 - [wireshark-measure-service-response-times-in-tshark-548933](https://labex.io/pt/tutorials/wireshark-measure-service-response-times-in-tshark-548933) *(Last modified: 2025-05-24)*
 - [wireshark-monitor-traffic-in-real-time-in-tshark-548934](https://labex.io/pt/tutorials/wireshark-monitor-traffic-in-real-time-in-tshark-548934) *(Last modified: 2025-05-24)*
 - [wireshark-network-analysis-with-wireshark-415958](https://labex.io/pt/tutorials/wireshark-network-analysis-with-wireshark-415958) *(Last modified: 2025-06-08)*
@@ -7372,8 +7433,44 @@ This file contains all tutorials-pt related links from LabEx website.
 - [wireshark-troubleshoot-dns-queries-in-tshark-548938](https://labex.io/pt/tutorials/wireshark-troubleshoot-dns-queries-in-tshark-548938) *(Last modified: 2025-05-24)*
 - [wireshark-uncover-suspicious-dns-queries-548854](https://labex.io/pt/tutorials/wireshark-uncover-suspicious-dns-queries-548854) *(Last modified: 2025-06-08)*
 - [wireshark-use-display-filters-in-tshark-548939](https://labex.io/pt/tutorials/wireshark-use-display-filters-in-tshark-548939) *(Last modified: 2025-06-08)*
+- [wireshark-use-display-filters-in-tshark-588129](https://labex.io/pt/tutorials/wireshark-use-display-filters-in-tshark-588129) *(Last modified: 2025-06-03)*
 - [wireshark-use-tshark-for-network-traffic-analysis-415942](https://labex.io/pt/tutorials/wireshark-use-tshark-for-network-traffic-analysis-415942) *(Last modified: 2025-06-08)*
 - [wireshark-use-two-pass-analysis-in-tshark-548940](https://labex.io/pt/tutorials/wireshark-use-two-pass-analysis-in-tshark-548940) *(Last modified: 2025-05-24)*
 - [wireshark-verify-wireshark-installation-548783](https://labex.io/pt/tutorials/wireshark-verify-wireshark-installation-548783) *(Last modified: 2025-06-08)*
 - [wireshark-what-is-the-difference-between-capture-filter-and-display-filter-in-wireshark-415622](https://labex.io/pt/tutorials/wireshark-what-is-the-difference-between-capture-filter-and-display-filter-in-wireshark-415622) *(Last modified: 2025-05-26)*
 - [your-first-javascript-lab-92948](https://labex.io/pt/tutorials/your-first-javascript-lab-92948) *(Last modified: 2025-06-08)*
+- [ansible](https://labex.io/pt/tutorials/category/ansible) *(Last modified: 2024-08-22)*
+- [c](https://labex.io/pt/tutorials/category/c) *(Last modified: 2024-08-22)*
+- [cpp](https://labex.io/pt/tutorials/category/cpp) *(Last modified: 2024-08-22)*
+- [css](https://labex.io/pt/tutorials/category/css) *(Last modified: 2024-08-22)*
+- [cybersecurity](https://labex.io/pt/tutorials/category/cybersecurity) *(Last modified: 2024-08-22)*
+- [data-science](https://labex.io/pt/tutorials/category/data-science) *(Last modified: 2024-08-22)*
+- [database](https://labex.io/pt/tutorials/category/database) *(Last modified: 2024-08-22)*
+- [devops](https://labex.io/pt/tutorials/category/devops) *(Last modified: 2024-08-22)*
+- [docker](https://labex.io/pt/tutorials/category/docker) *(Last modified: 2024-08-22)*
+- [git](https://labex.io/pt/tutorials/category/git) *(Last modified: 2024-08-22)*
+- [go](https://labex.io/pt/tutorials/category/go) *(Last modified: 2024-08-22)*
+- [html](https://labex.io/pt/tutorials/category/html) *(Last modified: 2024-08-22)*
+- [hydra](https://labex.io/pt/tutorials/category/hydra) *(Last modified: 2024-08-22)*
+- [java](https://labex.io/pt/tutorials/category/java) *(Last modified: 2024-08-22)*
+- [javascript](https://labex.io/pt/tutorials/category/javascript) *(Last modified: 2024-08-22)*
+- [kali](https://labex.io/pt/tutorials/category/kali) *(Last modified: 2024-08-22)*
+- [kubernetes](https://labex.io/pt/tutorials/category/kubernetes) *(Last modified: 2024-08-22)*
+- [linux](https://labex.io/pt/tutorials/category/linux) *(Last modified: 2024-08-22)*
+- [matplotlib](https://labex.io/pt/tutorials/category/matplotlib) *(Last modified: 2024-08-22)*
+- [ml](https://labex.io/pt/tutorials/category/ml) *(Last modified: 2024-08-22)*
+- [mongodb](https://labex.io/pt/tutorials/category/mongodb) *(Last modified: 2024-08-22)*
+- [mysql](https://labex.io/pt/tutorials/category/mysql) *(Last modified: 2024-08-22)*
+- [nmap](https://labex.io/pt/tutorials/category/nmap) *(Last modified: 2024-08-22)*
+- [numpy](https://labex.io/pt/tutorials/category/numpy) *(Last modified: 2024-08-22)*
+- [pandas](https://labex.io/pt/tutorials/category/pandas) *(Last modified: 2024-08-22)*
+- [postgresql](https://labex.io/pt/tutorials/category/postgresql) *(Last modified: 2024-08-22)*
+- [python](https://labex.io/pt/tutorials/category/python) *(Last modified: 2024-08-22)*
+- [react](https://labex.io/pt/tutorials/category/react) *(Last modified: 2024-08-22)*
+- [redis](https://labex.io/pt/tutorials/category/redis) *(Last modified: 2024-08-22)*
+- [rhel](https://labex.io/pt/tutorials/category/rhel) *(Last modified: 2024-08-22)*
+- [shell](https://labex.io/pt/tutorials/category/shell) *(Last modified: 2024-08-22)*
+- [sklearn](https://labex.io/pt/tutorials/category/sklearn) *(Last modified: 2024-08-22)*
+- [sqlite](https://labex.io/pt/tutorials/category/sqlite) *(Last modified: 2024-08-22)*
+- [web-development](https://labex.io/pt/tutorials/category/web-development) *(Last modified: 2024-08-22)*
+- [wireshark](https://labex.io/pt/tutorials/category/wireshark) *(Last modified: 2024-08-22)*
