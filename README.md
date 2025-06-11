@@ -6,21 +6,21 @@ layout: default
 
 [LabEx](https://labex.io) is a hands-on learning platform for Linux, DevOps, and Cybersecurity. Learn by doing with guided labs, courses, and tutorials. Get started for free!
 
-> Last updated: 2025-06-10 00:03 UTC
+> Last updated: 2025-06-11 00:04 UTC
 
 This repository maintains an auto-updated list of LabEx website sitemaps.
 
 ## Categories
 
-- [Courses](categories/courses.md) (502 links)
-- [Courses-De](categories/courses-de.md) (501 links)
-- [Courses-Es](categories/courses-es.md) (501 links)
-- [Courses-Fr](categories/courses-fr.md) (501 links)
-- [Courses-Ja](categories/courses-ja.md) (501 links)
-- [Courses-Ko](categories/courses-ko.md) (501 links)
-- [Courses-Pt](categories/courses-pt.md) (501 links)
-- [Courses-Ru](categories/courses-ru.md) (501 links)
-- [Courses-Zh](categories/courses-zh.md) (501 links)
+- [Courses](categories/courses.md) (120 links)
+- [Courses-De](categories/courses-de.md) (120 links)
+- [Courses-Es](categories/courses-es.md) (120 links)
+- [Courses-Fr](categories/courses-fr.md) (120 links)
+- [Courses-Ja](categories/courses-ja.md) (120 links)
+- [Courses-Ko](categories/courses-ko.md) (120 links)
+- [Courses-Pt](categories/courses-pt.md) (120 links)
+- [Courses-Ru](categories/courses-ru.md) (120 links)
+- [Courses-Zh](categories/courses-zh.md) (120 links)
 - [Freelabs](categories/freelabs.md) (36 links)
 - [Freelabs-De](categories/freelabs-de.md) (36 links)
 - [Freelabs-Es](categories/freelabs-es.md) (36 links)
@@ -50,14 +50,14 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Skilltrees-Pt](categories/skilltrees-pt.md) (1240 links)
 - [Skilltrees-Ru](categories/skilltrees-ru.md) (1240 links)
 - [Skilltrees-Zh](categories/skilltrees-zh.md) (1240 links)
-- [Tutorials](categories/tutorials.md) (15716 links)
-- [Tutorials-De](categories/tutorials-de.md) (8599 links)
-- [Tutorials-Es](categories/tutorials-es.md) (8561 links)
-- [Tutorials-Fr](categories/tutorials-fr.md) (8486 links)
-- [Tutorials-Ja](categories/tutorials-ja.md) (8600 links)
-- [Tutorials-Ko](categories/tutorials-ko.md) (7496 links)
-- [Tutorials-Pt](categories/tutorials-pt.md) (7457 links)
-- [Tutorials-Ru](categories/tutorials-ru.md) (8599 links)
-- [Tutorials-Zh](categories/tutorials-zh.md) (15490 links)
+- [Tutorials](categories/tutorials.md) (15721 links)
+- [Tutorials-De](categories/tutorials-de.md) (8604 links)
+- [Tutorials-Es](categories/tutorials-es.md) (8566 links)
+- [Tutorials-Fr](categories/tutorials-fr.md) (8491 links)
+- [Tutorials-Ja](categories/tutorials-ja.md) (8605 links)
+- [Tutorials-Ko](categories/tutorials-ko.md) (7500 links)
+- [Tutorials-Pt](categories/tutorials-pt.md) (7461 links)
+- [Tutorials-Ru](categories/tutorials-ru.md) (8604 links)
+- [Tutorials-Zh](categories/tutorials-zh.md) (15495 links)
 
-> **Total Links: 106869**
+> **Total Links: 103482**
