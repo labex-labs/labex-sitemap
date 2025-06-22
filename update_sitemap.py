@@ -4,12 +4,22 @@ from datetime import datetime, UTC
 from collections import defaultdict
 from pathlib import Path
 import json
+import os
 
 
 def fetch_sitemap(url):
     """获取 sitemap 内容"""
     try:
-        response = requests.get(url)
+        headers = {}
+        # 如果是 labex.io 的请求，添加 x-auth 头
+        if "labex.io" in url:
+            x_auth = os.getenv("LABEX_X_AUTH")
+            if x_auth:
+                headers["x-auth"] = x_auth
+            else:
+                print("Warning: LABEX_X_AUTH environment variable not found")
+
+        response = requests.get(url, headers=headers)
         response.raise_for_status()
         return response.text
     except requests.RequestException as e:
@@ -225,18 +235,18 @@ def update_package_version():
 def generate_llms_txt(sitemaps_with_urls):
     """Generate a llms.txt file with all categories and links"""
     content = ""
-    
+
     # Process each category
     for category, data in sorted(sitemaps_with_urls.items()):
         # Add category header
         content += f"# {category.title()}\n\n"
-        
+
         # Create a tree structure similar to what's done in generate_category_markdown
         url_tree = defaultdict(list)
         sorted_urls = sorted(
             data["urls"], key=lambda x: (len(x["loc"].split("/")), x["loc"])
         )
-        
+
         for url_data in sorted_urls:
             url = url_data["loc"]
             path_parts = url.replace("https://labex.io/", "").split("/")
@@ -245,14 +255,14 @@ def generate_llms_txt(sitemaps_with_urls):
                 url_tree[key].append(url_data)
             else:
                 url_tree["root"].append(url_data)
-        
+
         # Process each group in the category
         for group, urls in sorted(url_tree.items()):
             if group != "root":
                 content += f"## {group}\n\n"
             else:
                 content += "## \n\n"  # Empty section header for root items
-            
+
             # Add links
             for url_data in urls:
                 url = url_data["loc"]
@@ -260,13 +270,13 @@ def generate_llms_txt(sitemaps_with_urls):
                     url.split("/")[-1] if url.split("/")[-1] else url.split("/")[-2]
                 )
                 content += f"- [{display_name}]({url})\n"
-            
+
             content += "\n"
-    
+
     # Write content to file
     with open("llms.txt", "w", encoding="utf-8") as f:
         f.write(content)
-    
+
     print("Generated llms.txt file")
 
 
@@ -303,7 +313,7 @@ def main():
 
         # 更新所有文件
         update_files(sitemaps_with_urls)
-        
+
         # Generate llms.txt file
         generate_llms_txt(sitemaps_with_urls)
 

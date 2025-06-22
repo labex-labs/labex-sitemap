@@ -29,6 +29,8 @@ jobs:
 
       - name: Update sitemap links
         run: python update_sitemap.py
+        env:
+          LABEX_X_AUTH: ${{ secrets.LABEX_X_AUTH }}
 
       - name: Get version from package.json
         id: package-version
