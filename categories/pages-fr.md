@@ -4,7 +4,7 @@ layout: default
 
 # Pages-Fr Sitemap
 
-> Last updated: 2025-06-25 00:04 UTC
+> Last updated: 2025-06-26 00:04 UTC
 
 This file contains all pages-fr related links from LabEx website.
 

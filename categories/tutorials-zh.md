@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-06-25 00:04 UTC
+> Last updated: 2025-06-26 00:04 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -3262,7 +3262,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [go-golang-channel-function-parameters-15457](https://labex.io/zh/tutorials/go-golang-channel-function-parameters-15457) *(Last modified: 2025-06-24)*
 - [go-golang-channels-concurrency-15459](https://labex.io/zh/tutorials/go-golang-channels-concurrency-15459) *(Last modified: 2025-06-24)*
 - [go-golang-constants-comprehension-15465](https://labex.io/zh/tutorials/go-golang-constants-comprehension-15465) *(Last modified: 2025-06-24)*
-- [go-golang-context-cancellation-demonstration-15466](https://labex.io/zh/tutorials/go-golang-context-cancellation-demonstration-15466) *(Last modified: 2025-06-24)*
+- [go-golang-context-cancellation-demonstration-15466](https://labex.io/zh/tutorials/go-golang-context-cancellation-demonstration-15466) *(Last modified: 2025-06-25)*
 - [go-golang-error-handling-proficiency-15493](https://labex.io/zh/tutorials/go-golang-error-handling-proficiency-15493) *(Last modified: 2025-06-24)*
 - [go-golang-for-loop-understanding-15476](https://labex.io/zh/tutorials/go-golang-for-loop-understanding-15476) *(Last modified: 2025-06-24)*
 - [go-golang-goroutines-concurrency-15479](https://labex.io/zh/tutorials/go-golang-goroutines-concurrency-15479) *(Last modified: 2025-06-24)*
@@ -3926,7 +3926,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [go-switch-case-branch-statements-in-golang-149072](https://labex.io/zh/tutorials/go-switch-case-branch-statements-in-golang-149072) *(Last modified: 2025-06-24)*
 - [go-synchronizing-goroutines-with-channels-15458](https://labex.io/zh/tutorials/go-synchronizing-goroutines-with-channels-15458) *(Last modified: 2025-06-24)*
 - [go-temporary-files-and-directories-15517](https://labex.io/zh/tutorials/go-temporary-files-and-directories-15517) *(Last modified: 2025-06-24)*
-- [go-testing-and-benchmarking-15518](https://labex.io/zh/tutorials/go-testing-and-benchmarking-15518) *(Last modified: 2025-06-24)*
+- [go-testing-and-benchmarking-15518](https://labex.io/zh/tutorials/go-testing-and-benchmarking-15518) *(Last modified: 2025-06-25)*
 - [go-time-formatting-and-parsing-15521](https://labex.io/zh/tutorials/go-time-formatting-and-parsing-15521) *(Last modified: 2025-06-24)*
 - [go-timers-and-tickers-15520](https://labex.io/zh/tutorials/go-timers-and-tickers-15520) *(Last modified: 2025-06-24)*
 - [go-transparent-modification-of-http-requests-301260](https://labex.io/zh/tutorials/go-transparent-modification-of-http-requests-301260) *(Last modified: 2025-05-21)*
@@ -7446,6 +7446,8 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-download-files-from-the-internet-387333](https://labex.io/zh/tutorials/linux-download-files-from-the-internet-387333) *(Last modified: 2025-06-24)*
 - [linux-download-media-with-you-get-289657](https://labex.io/zh/tutorials/linux-download-media-with-you-get-289657) *(Last modified: 2025-05-27)*
 - [linux-download-media-with-you-get-on-linux-409951](https://labex.io/zh/tutorials/linux-download-media-with-you-get-on-linux-409951) *(Last modified: 2025-03-16)*
+- [linux-edit-text-files-with-the-vi-editor-in-linux-590833](https://labex.io/zh/tutorials/linux-edit-text-files-with-the-vi-editor-in-linux-590833) *(Last modified: 2025-06-25)*
+- [linux-edit-text-files-with-the-vi-editor-in-linux-590850](https://labex.io/zh/tutorials/linux-edit-text-files-with-the-vi-editor-in-linux-590850) *(Last modified: 2025-06-25)*
 - [linux-effectively-manage-linux-user-groups-413829](https://labex.io/zh/tutorials/linux-effectively-manage-linux-user-groups-413829) *(Last modified: 2025-03-16)*
 - [linux-empires-gedit-quest-271288](https://labex.io/zh/tutorials/linux-empires-gedit-quest-271288) *(Last modified: 2025-06-24)*
 - [linux-empires-gedit-quest-588015](https://labex.io/zh/tutorials/linux-empires-gedit-quest-588015) *(Last modified: 2025-05-30)*
@@ -9616,6 +9618,8 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-manage-linux-user-groups-effectively-409858](https://labex.io/zh/tutorials/linux-manage-linux-user-groups-effectively-409858) *(Last modified: 2025-03-16)*
 - [linux-manage-logs-and-archives-588615](https://labex.io/zh/tutorials/linux-manage-logs-and-archives-588615) *(Last modified: 2025-06-06)*
 - [linux-manage-multiple-terminals-with-screen-271827](https://labex.io/zh/tutorials/linux-manage-multiple-terminals-with-screen-271827) *(Last modified: 2025-06-24)*
+- [linux-manage-shell-environment-and-configuration-in-linux-590838](https://labex.io/zh/tutorials/linux-manage-shell-environment-and-configuration-in-linux-590838) *(Last modified: 2025-06-25)*
+- [linux-manage-shell-environment-and-configuration-in-linux-590873](https://labex.io/zh/tutorials/linux-manage-shell-environment-and-configuration-in-linux-590873) *(Last modified: 2025-06-25)*
 - [linux-mastering-file-existence-checks-in-shell-scripts-421280](https://labex.io/zh/tutorials/linux-mastering-file-existence-checks-in-shell-scripts-421280) *(Last modified: 2025-03-16)*
 - [linux-mastering-hard-links-in-linux-file-management-409824](https://labex.io/zh/tutorials/linux-mastering-hard-links-in-linux-file-management-409824) *(Last modified: 2025-03-16)*
 - [linux-mastering-linux-date-and-time-management-422156](https://labex.io/zh/tutorials/linux-mastering-linux-date-and-time-management-422156) *(Last modified: 2025-04-09)*
@@ -9649,6 +9653,8 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-rapid-threat-detection-387930](https://labex.io/zh/tutorials/linux-rapid-threat-detection-387930) *(Last modified: 2025-06-24)*
 - [linux-rebooting-linux-machines-using-the-terminal-392859](https://labex.io/zh/tutorials/linux-rebooting-linux-machines-using-the-terminal-392859) *(Last modified: 2025-03-16)*
 - [linux-receive-messages-using-netcat-415953](https://labex.io/zh/tutorials/linux-receive-messages-using-netcat-415953) *(Last modified: 2025-06-24)*
+- [linux-redirecting-input-and-output-in-linux-590840](https://labex.io/zh/tutorials/linux-redirecting-input-and-output-in-linux-590840) *(Last modified: 2025-06-25)*
+- [linux-redirecting-input-and-output-in-linux-590952](https://labex.io/zh/tutorials/linux-redirecting-input-and-output-in-linux-590952) *(Last modified: 2025-06-25)*
 - [linux-resolve-dpkg-lock-errors-in-linux-411651](https://labex.io/zh/tutorials/linux-resolve-dpkg-lock-errors-in-linux-411651) *(Last modified: 2025-03-01)*
 - [linux-restore-access-to-website-301487](https://labex.io/zh/tutorials/linux-restore-access-to-website-301487) *(Last modified: 2025-05-21)*
 - [linux-searching-for-specific-files-301489](https://labex.io/zh/tutorials/linux-searching-for-specific-files-301489) *(Last modified: 2025-05-21)*
