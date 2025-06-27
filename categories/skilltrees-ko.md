@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Ko Sitemap
 
-> Last updated: 2025-06-26 00:04 UTC
+> Last updated: 2025-06-27 00:05 UTC
 
 This file contains all skilltrees-ko related links from LabEx website.
 
@@ -19,6 +19,7 @@ This file contains all skilltrees-ko related links from LabEx website.
 
 - [ansible](https://labex.io/ko/skilltrees/ansible)
 - [c](https://labex.io/ko/skilltrees/c)
+- [comptia](https://labex.io/ko/skilltrees/comptia)
 - [cpp](https://labex.io/ko/skilltrees/cpp)
 - [css](https://labex.io/ko/skilltrees/css)
 - [cybersecurity](https://labex.io/ko/skilltrees/cybersecurity)
@@ -54,6 +55,7 @@ This file contains all skilltrees-ko related links from LabEx website.
 - [wireshark](https://labex.io/ko/skilltrees/wireshark)
 - [ansible](https://labex.io/ko/tutorials/category/ansible)
 - [c](https://labex.io/ko/tutorials/category/c)
+- [comptia](https://labex.io/ko/tutorials/category/comptia)
 - [cpp](https://labex.io/ko/tutorials/category/cpp)
 - [css](https://labex.io/ko/tutorials/category/css)
 - [cybersecurity](https://labex.io/ko/tutorials/category/cybersecurity)

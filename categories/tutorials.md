@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2025-06-26 00:04 UTC
+> Last updated: 2025-06-27 00:05 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -3055,7 +3055,8 @@ This file contains all tutorials related links from LabEx website.
 - [git-how-to-undo-a-git-cherry-pick-operation-417333](https://labex.io/tutorials/git-how-to-undo-a-git-cherry-pick-operation-417333) *(Last modified: 2025-06-24)*
 - [git-how-to-undo-a-git-commit-that-has-not-been-pushed-417756](https://labex.io/tutorials/git-how-to-undo-a-git-commit-that-has-not-been-pushed-417756) *(Last modified: 2025-03-16)*
 - [git-how-to-undo-and-recover-from-a-git-rebase-400161](https://labex.io/tutorials/git-how-to-undo-and-recover-from-a-git-rebase-400161) *(Last modified: 2025-03-16)*
-- [git-how-to-undo-and-remove-a-specific-git-commit-from-current-branch-392832](https://labex.io/tutorials/git-how-to-undo-and-remove-a-specific-git-commit-from-current-branch-392832) *(Last modified: 2025-03-16)*
+- [git-how-to-undo-and-remove-a-specific-git-commit-from-current-branch-392832](https://labex.io/tutorials/git-how-to-undo-and-remove-a-specific-git-commit-from-current-branch-392832) *(Last modified: 2025-06-26)*
+- [git-how-to-undo-and-remove-a-specific-git-commit-from-current-branch-591033](https://labex.io/tutorials/git-how-to-undo-and-remove-a-specific-git-commit-from-current-branch-591033) *(Last modified: 2025-06-26)*
 - [git-how-to-undo-git-changes-safely-470279](https://labex.io/tutorials/git-how-to-undo-git-changes-safely-470279) *(Last modified: 2025-03-01)*
 - [git-how-to-undo-git-commit-but-keep-changes-392512](https://labex.io/tutorials/git-how-to-undo-git-commit-but-keep-changes-392512) *(Last modified: 2025-03-16)*
 - [git-how-to-undo-git-commits-before-pushing-to-remote-398128](https://labex.io/tutorials/git-how-to-undo-git-commits-before-pushing-to-remote-398128) *(Last modified: 2025-03-16)*
@@ -7504,10 +7505,12 @@ This file contains all tutorials related links from LabEx website.
 - [linux-basic-files-operations-270248](https://labex.io/tutorials/linux-basic-files-operations-270248) *(Last modified: 2025-06-24)*
 - [linux-becoming-a-skilled-linux-system-administrator-392891](https://labex.io/tutorials/linux-becoming-a-skilled-linux-system-administrator-392891) *(Last modified: 2025-03-16)*
 - [linux-beginner-s-tutorial-extracting-zip-files-on-linux-392961](https://labex.io/tutorials/linux-beginner-s-tutorial-extracting-zip-files-on-linux-392961) *(Last modified: 2025-03-16)*
+- [linux-block-icmp-traffic-in-linux-using-iptables-590852](https://labex.io/tutorials/linux-block-icmp-traffic-in-linux-using-iptables-590852) *(Last modified: 2025-06-26)*
 - [linux-build-a-linux-system-monitor-using-bash-298845](https://labex.io/tutorials/linux-build-a-linux-system-monitor-using-bash-298845) *(Last modified: 2025-06-24)*
 - [linux-build-a-linux-system-monitor-using-bash-430672](https://labex.io/tutorials/linux-build-a-linux-system-monitor-using-bash-430672) *(Last modified: 2024-12-04)*
 - [linux-build-a-task-scheduler-using-bash-298846](https://labex.io/tutorials/linux-build-a-task-scheduler-using-bash-298846) *(Last modified: 2025-06-24)*
 - [linux-build-linux-system-skills-from-scratch-395001](https://labex.io/tutorials/linux-build-linux-system-skills-from-scratch-395001) *(Last modified: 2025-03-16)*
+- [linux-build-software-from-source-code-in-linux-590853](https://labex.io/tutorials/linux-build-software-from-source-code-in-linux-590853) *(Last modified: 2025-06-26)*
 - [linux-changing-the-error-log-location-301294](https://labex.io/tutorials/linux-changing-the-error-log-location-301294) *(Last modified: 2025-05-21)*
 - [linux-chess-board-in-terminal-299820](https://labex.io/tutorials/linux-chess-board-in-terminal-299820) *(Last modified: 2025-06-24)*
 - [linux-choose-the-best-linux-distro-for-laptop-performance-413779](https://labex.io/tutorials/linux-choose-the-best-linux-distro-for-laptop-performance-413779) *(Last modified: 2025-03-16)*
@@ -7516,8 +7519,13 @@ This file contains all tutorials related links from LabEx website.
 - [linux-compress-and-unzip-files-in-linux-390476](https://labex.io/tutorials/linux-compress-and-unzip-files-in-linux-390476) *(Last modified: 2025-03-16)*
 - [linux-conditional-statements-in-shell-388815](https://labex.io/tutorials/linux-conditional-statements-in-shell-388815) *(Last modified: 2025-06-24)*
 - [linux-configure-development-environment-385293](https://labex.io/tutorials/linux-configure-development-environment-385293) *(Last modified: 2025-06-24)*
+- [linux-configure-firewalld-to-allow-web-traffic-in-linux-590854](https://labex.io/tutorials/linux-configure-firewalld-to-allow-web-traffic-in-linux-590854) *(Last modified: 2025-06-26)*
 - [linux-configure-linux-environment-variables-437861](https://labex.io/tutorials/linux-configure-linux-environment-variables-437861) *(Last modified: 2025-06-24)*
+- [linux-configure-raid-and-lvm-storage-in-linux-590842](https://labex.io/tutorials/linux-configure-raid-and-lvm-storage-in-linux-590842) *(Last modified: 2025-06-26)*
+- [linux-configure-ssh-public-key-authentication-in-linux-590855](https://labex.io/tutorials/linux-configure-ssh-public-key-authentication-in-linux-590855) *(Last modified: 2025-06-26)*
+- [linux-configure-user-accounts-and-sudo-privileges-in-linux-590856](https://labex.io/tutorials/linux-configure-user-accounts-and-sudo-privileges-in-linux-590856) *(Last modified: 2025-06-26)*
 - [linux-configuring-ssh-certificates-for-secure-login-301461](https://labex.io/tutorials/linux-configuring-ssh-certificates-for-secure-login-301461) *(Last modified: 2025-05-21)*
+- [linux-connect-to-a-remote-linux-server-using-ssh-590857](https://labex.io/tutorials/linux-connect-to-a-remote-linux-server-using-ssh-590857) *(Last modified: 2025-06-26)*
 - [linux-connect-to-remote-34](https://labex.io/tutorials/linux-connect-to-remote-34) *(Last modified: 2025-06-24)*
 - [linux-copy-files-efficiently-in-linux-417785](https://labex.io/tutorials/linux-copy-files-efficiently-in-linux-417785) *(Last modified: 2025-03-16)*
 - [linux-copy-large-files-with-preserved-structure-301465](https://labex.io/tutorials/linux-copy-large-files-with-preserved-structure-301465) *(Last modified: 2025-05-21)*
@@ -7525,12 +7533,14 @@ This file contains all tutorials related links from LabEx website.
 - [linux-cracking-a-specific-user-account-415951](https://labex.io/tutorials/linux-cracking-a-specific-user-account-415951) *(Last modified: 2025-06-24)*
 - [linux-crafting-striking-terminal-text-with-figlet-272383](https://labex.io/tutorials/linux-crafting-striking-terminal-text-with-figlet-272383) *(Last modified: 2025-06-24)*
 - [linux-crafting-striking-terminal-text-with-figlet-528625](https://labex.io/tutorials/linux-crafting-striking-terminal-text-with-figlet-528625) *(Last modified: 2025-03-06)*
+- [linux-create-and-activate-a-swap-file-in-linux-590858](https://labex.io/tutorials/linux-create-and-activate-a-swap-file-in-linux-590858) *(Last modified: 2025-06-26)*
 - [linux-create-and-edit-files-with-vi-editor-392949](https://labex.io/tutorials/linux-create-and-edit-files-with-vi-editor-392949) *(Last modified: 2025-04-09)*
 - [linux-create-and-extract-tar-archives-588589](https://labex.io/tutorials/linux-create-and-extract-tar-archives-588589) *(Last modified: 2025-06-06)*
 - [linux-create-and-manage-file-timestamps-with-the-linux-touch-command-409913](https://labex.io/tutorials/linux-create-and-manage-file-timestamps-with-the-linux-touch-command-409913) *(Last modified: 2025-03-16)*
 - [linux-create-and-manage-files-with-the-linux-touch-command-422962](https://labex.io/tutorials/linux-create-and-manage-files-with-the-linux-touch-command-422962) *(Last modified: 2025-03-16)*
 - [linux-create-and-manage-linux-user-groups-398126](https://labex.io/tutorials/linux-create-and-manage-linux-user-groups-398126) *(Last modified: 2025-03-16)*
 - [linux-create-and-manipulate-symbolic-links-588592](https://labex.io/tutorials/linux-create-and-manipulate-symbolic-links-588592) *(Last modified: 2025-06-06)*
+- [linux-create-and-restore-a-backup-with-tar-in-linux-590843](https://labex.io/tutorials/linux-create-and-restore-a-backup-with-tar-in-linux-590843) *(Last modified: 2025-06-26)*
 - [linux-create-automated-linux-cron-jobs-400163](https://labex.io/tutorials/linux-create-automated-linux-cron-jobs-400163) *(Last modified: 2025-03-16)*
 - [linux-create-jenkins-ci-cd-pipeline-on-linux-392790](https://labex.io/tutorials/linux-create-jenkins-ci-cd-pipeline-on-linux-392790) *(Last modified: 2025-03-16)*
 - [linux-create-linux-compressed-archives-409821](https://labex.io/tutorials/linux-create-linux-compressed-archives-409821) *(Last modified: 2025-03-01)*
@@ -7544,6 +7554,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-creating-a-typing-game-using-bash-298847](https://labex.io/tutorials/linux-creating-a-typing-game-using-bash-298847) *(Last modified: 2025-06-24)*
 - [linux-customize-and-manage-user-home-directories-in-linux-420527](https://labex.io/tutorials/linux-customize-and-manage-user-home-directories-in-linux-420527) *(Last modified: 2025-03-16)*
 - [linux-customize-linux-environment-variables-415750](https://labex.io/tutorials/linux-customize-linux-environment-variables-415750) *(Last modified: 2025-03-16)*
+- [linux-customize-the-grub2-boot-menu-in-linux-590859](https://labex.io/tutorials/linux-customize-the-grub2-boot-menu-in-linux-590859) *(Last modified: 2025-06-26)*
 - [linux-customize-the-tail-command-output-in-linux-417364](https://labex.io/tutorials/linux-customize-the-tail-command-output-in-linux-417364) *(Last modified: 2025-03-16)*
 - [linux-customizing-linux-file-listing-301467](https://labex.io/tutorials/linux-customizing-linux-file-listing-301467) *(Last modified: 2025-05-23)*
 - [linux-data-stream-redirection-17995](https://labex.io/tutorials/linux-data-stream-redirection-17995) *(Last modified: 2025-06-24)*
@@ -7572,9 +7583,11 @@ This file contains all tutorials related links from LabEx website.
 - [linux-empires-gedit-quest-271288](https://labex.io/tutorials/linux-empires-gedit-quest-271288) *(Last modified: 2025-06-24)*
 - [linux-empires-gedit-quest-588015](https://labex.io/tutorials/linux-empires-gedit-quest-588015) *(Last modified: 2025-05-30)*
 - [linux-enabling-execution-of-shell-scripts-on-your-system-393045](https://labex.io/tutorials/linux-enabling-execution-of-shell-scripts-on-your-system-393045) *(Last modified: 2025-03-16)*
+- [linux-encrypt-and-decrypt-files-with-gpg-in-linux-590860](https://labex.io/tutorials/linux-encrypt-and-decrypt-files-with-gpg-in-linux-590860) *(Last modified: 2025-06-26)*
 - [linux-enhance-copying-and-moving-with-advcpmv-295937](https://labex.io/tutorials/linux-enhance-copying-and-moving-with-advcpmv-295937) *(Last modified: 2025-06-24)*
 - [linux-environment-variables-in-linux-385274](https://labex.io/tutorials/linux-environment-variables-in-linux-385274) *(Last modified: 2025-06-24)*
 - [linux-explore-disk-usage-with-ncdu-296141](https://labex.io/tutorials/linux-explore-disk-usage-with-ncdu-296141) *(Last modified: 2025-06-24)*
+- [linux-explore-hardware-devices-in-linux-590861](https://labex.io/tutorials/linux-explore-hardware-devices-in-linux-590861) *(Last modified: 2025-06-26)*
 - [linux-explore-linux-environment-variables-416111](https://labex.io/tutorials/linux-explore-linux-environment-variables-416111) *(Last modified: 2025-03-16)*
 - [linux-explore-linux-file-system-and-automate-tasks-398452](https://labex.io/tutorials/linux-explore-linux-file-system-and-automate-tasks-398452) *(Last modified: 2025-03-16)*
 - [linux-explore-linux-file-system-architecture-392697](https://labex.io/tutorials/linux-explore-linux-file-system-architecture-392697) *(Last modified: 2025-03-16)*
@@ -7596,6 +7609,8 @@ This file contains all tutorials related links from LabEx website.
 - [linux-file-system-and-disk-management-385306](https://labex.io/tutorials/linux-file-system-and-disk-management-385306) *(Last modified: 2024-07-31)*
 - [linux-files-and-directories-270246](https://labex.io/tutorials/linux-files-and-directories-270246) *(Last modified: 2025-06-24)*
 - [linux-find-a-file-17993](https://labex.io/tutorials/linux-find-a-file-17993) *(Last modified: 2025-06-24)*
+- [linux-find-files-and-commands-in-linux-590834](https://labex.io/tutorials/linux-find-files-and-commands-in-linux-590834) *(Last modified: 2025-06-26)*
+- [linux-find-files-and-commands-in-linux-591013](https://labex.io/tutorials/linux-find-files-and-commands-in-linux-591013) *(Last modified: 2025-06-26)*
 - [linux-find-linux-command-locations-quickly-417674](https://labex.io/tutorials/linux-find-linux-command-locations-quickly-417674) *(Last modified: 2025-03-16)*
 - [linux-find-the-flags-7931](https://labex.io/tutorials/linux-find-the-flags-7931) *(Last modified: 2025-06-24)*
 - [linux-galactic-secure-connections-with-linux-271388](https://labex.io/tutorials/linux-galactic-secure-connections-with-linux-271388) *(Last modified: 2025-06-24)*
@@ -9070,6 +9085,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-identifying-and-handling-oversized-files-in-a-linux-environment-395003](https://labex.io/tutorials/linux-identifying-and-handling-oversized-files-in-a-linux-environment-395003) *(Last modified: 2025-03-16)*
 - [linux-implement-custom-trash-enabled-command-301457](https://labex.io/tutorials/linux-implement-custom-trash-enabled-command-301457) *(Last modified: 2025-05-21)*
 - [linux-implement-hard-links-in-linux-588603](https://labex.io/tutorials/linux-implement-hard-links-in-linux-588603) *(Last modified: 2025-06-06)*
+- [linux-install-a-centos-7-linux-vm-in-virtualbox-590862](https://labex.io/tutorials/linux-install-a-centos-7-linux-vm-in-virtualbox-590862) *(Last modified: 2025-06-26)*
 - [linux-installing-and-configuring-a-mail-server-298848](https://labex.io/tutorials/linux-installing-and-configuring-a-mail-server-298848) *(Last modified: 2025-06-24)*
 - [linux-installing-and-removing-packages-385380](https://labex.io/tutorials/linux-installing-and-removing-packages-385380) *(Last modified: 2025-06-24)*
 - [linux-interactive-process-viewer-with-htop-271667](https://labex.io/tutorials/linux-interactive-process-viewer-with-htop-271667) *(Last modified: 2025-06-24)*
@@ -9202,7 +9218,8 @@ This file contains all tutorials related links from LabEx website.
 - [linux-linux-depmod-command-with-practical-examples-422631](https://labex.io/tutorials/linux-linux-depmod-command-with-practical-examples-422631) *(Last modified: 2025-03-16)*
 - [linux-linux-df-command-disk-space-reporting-219188](https://labex.io/tutorials/linux-linux-df-command-disk-space-reporting-219188) *(Last modified: 2025-06-24)*
 - [linux-linux-df-command-disk-space-reporting-388080](https://labex.io/tutorials/linux-linux-df-command-disk-space-reporting-388080) *(Last modified: 2024-08-12)*
-- [linux-linux-df-command-with-practical-examples-422632](https://labex.io/tutorials/linux-linux-df-command-with-practical-examples-422632) *(Last modified: 2025-03-16)*
+- [linux-linux-df-command-with-practical-examples-422632](https://labex.io/tutorials/linux-linux-df-command-with-practical-examples-422632) *(Last modified: 2025-06-26)*
+- [linux-linux-df-command-with-practical-examples-591027](https://labex.io/tutorials/linux-linux-df-command-with-practical-examples-591027) *(Last modified: 2025-06-26)*
 - [linux-linux-diff-command-file-comparing-219189](https://labex.io/tutorials/linux-linux-diff-command-file-comparing-219189) *(Last modified: 2025-06-24)*
 - [linux-linux-diff-command-file-comparing-388068](https://labex.io/tutorials/linux-linux-diff-command-file-comparing-388068) *(Last modified: 2024-08-12)*
 - [linux-linux-diff-command-with-practical-examples-422633](https://labex.io/tutorials/linux-linux-diff-command-with-practical-examples-422633) *(Last modified: 2025-03-16)*
@@ -9748,26 +9765,48 @@ This file contains all tutorials related links from LabEx website.
 - [linux-locating-and-analyzing-oversized-files-in-linux-398395](https://labex.io/tutorials/linux-locating-and-analyzing-oversized-files-in-linux-398395) *(Last modified: 2025-03-16)*
 - [linux-log-in-and-switch-users-588610](https://labex.io/tutorials/linux-log-in-and-switch-users-588610) *(Last modified: 2025-06-06)*
 - [linux-logical-commands-and-redirection-387332](https://labex.io/tutorials/linux-logical-commands-and-redirection-387332) *(Last modified: 2025-06-24)*
+- [linux-manage-a-local-git-repository-in-linux-590863](https://labex.io/tutorials/linux-manage-a-local-git-repository-in-linux-590863) *(Last modified: 2025-06-26)*
+- [linux-manage-and-monitor-linux-processes-590864](https://labex.io/tutorials/linux-manage-and-monitor-linux-processes-590864) *(Last modified: 2025-06-26)*
 - [linux-manage-and-secure-linux-user-passwords-414804](https://labex.io/tutorials/linux-manage-and-secure-linux-user-passwords-414804) *(Last modified: 2025-03-16)*
 - [linux-manage-and-troubleshoot-the-docker-daemon-on-linux-398318](https://labex.io/tutorials/linux-manage-and-troubleshoot-the-docker-daemon-on-linux-398318) *(Last modified: 2025-03-16)*
+- [linux-manage-file-and-directory-permissions-in-linux-590844](https://labex.io/tutorials/linux-manage-file-and-directory-permissions-in-linux-590844) *(Last modified: 2025-06-26)*
+- [linux-manage-file-and-directory-permissions-in-linux-591024](https://labex.io/tutorials/linux-manage-file-and-directory-permissions-in-linux-591024) *(Last modified: 2025-06-26)*
 - [linux-manage-file-permissions-588614](https://labex.io/tutorials/linux-manage-file-permissions-588614) *(Last modified: 2025-06-06)*
+- [linux-manage-files-and-directories-in-linux-590835](https://labex.io/tutorials/linux-manage-files-and-directories-in-linux-590835) *(Last modified: 2025-06-26)*
+- [linux-manage-files-and-directories-in-linux-590977](https://labex.io/tutorials/linux-manage-files-and-directories-in-linux-590977) *(Last modified: 2025-06-26)*
+- [linux-manage-kernel-modules-in-linux-590865](https://labex.io/tutorials/linux-manage-kernel-modules-in-linux-590865) *(Last modified: 2025-06-26)*
 - [linux-manage-linux-file-permissions-effectively-419885](https://labex.io/tutorials/linux-manage-linux-file-permissions-effectively-419885) *(Last modified: 2025-03-16)*
 - [linux-manage-linux-file-permissions-effectively-420758](https://labex.io/tutorials/linux-manage-linux-file-permissions-effectively-420758) *(Last modified: 2025-03-16)*
 - [linux-manage-linux-file-permissions-with-chmod-398329](https://labex.io/tutorials/linux-manage-linux-file-permissions-with-chmod-398329) *(Last modified: 2025-03-16)*
 - [linux-manage-linux-files-and-directories-efficiently-398344](https://labex.io/tutorials/linux-manage-linux-files-and-directories-efficiently-398344) *(Last modified: 2025-03-16)*
+- [linux-manage-linux-groups-with-groupadd-usermod-and-groupdel-590836](https://labex.io/tutorials/linux-manage-linux-groups-with-groupadd-usermod-and-groupdel-590836) *(Last modified: 2025-06-26)*
+- [linux-manage-linux-groups-with-groupadd-usermod-and-groupdel-590965](https://labex.io/tutorials/linux-manage-linux-groups-with-groupadd-usermod-and-groupdel-590965) *(Last modified: 2025-06-26)*
 - [linux-manage-linux-input-and-output-streams-418779](https://labex.io/tutorials/linux-manage-linux-input-and-output-streams-418779) *(Last modified: 2025-03-16)*
+- [linux-manage-linux-partitions-and-filesystems-590845](https://labex.io/tutorials/linux-manage-linux-partitions-and-filesystems-590845) *(Last modified: 2025-06-26)*
+- [linux-manage-linux-partitions-and-filesystems-591066](https://labex.io/tutorials/linux-manage-linux-partitions-and-filesystems-591066) *(Last modified: 2025-06-26)*
 - [linux-manage-linux-services-with-systemctl-commands-398448](https://labex.io/tutorials/linux-manage-linux-services-with-systemctl-commands-398448) *(Last modified: 2025-03-16)*
+- [linux-manage-linux-user-accounts-with-useradd-usermod-and-userdel-590837](https://labex.io/tutorials/linux-manage-linux-user-accounts-with-useradd-usermod-and-userdel-590837) *(Last modified: 2025-06-26)*
+- [linux-manage-linux-user-accounts-with-useradd-usermod-and-userdel-590962](https://labex.io/tutorials/linux-manage-linux-user-accounts-with-useradd-usermod-and-userdel-590962) *(Last modified: 2025-06-26)*
 - [linux-manage-linux-user-groups-effectively-409858](https://labex.io/tutorials/linux-manage-linux-user-groups-effectively-409858) *(Last modified: 2025-03-16)*
 - [linux-manage-logs-and-archives-588615](https://labex.io/tutorials/linux-manage-logs-and-archives-588615) *(Last modified: 2025-06-06)*
 - [linux-manage-multiple-terminals-with-screen-271827](https://labex.io/tutorials/linux-manage-multiple-terminals-with-screen-271827) *(Last modified: 2025-06-24)*
+- [linux-manage-selinux-file-contexts-for-apache-in-linux-590866](https://labex.io/tutorials/linux-manage-selinux-file-contexts-for-apache-in-linux-590866) *(Last modified: 2025-06-26)*
+- [linux-manage-shared-libraries-in-linux-590867](https://labex.io/tutorials/linux-manage-shared-libraries-in-linux-590867) *(Last modified: 2025-06-26)*
 - [linux-manage-shell-environment-and-configuration-in-linux-590838](https://labex.io/tutorials/linux-manage-shell-environment-and-configuration-in-linux-590838) *(Last modified: 2025-06-25)*
 - [linux-manage-shell-environment-and-configuration-in-linux-590873](https://labex.io/tutorials/linux-manage-shell-environment-and-configuration-in-linux-590873) *(Last modified: 2025-06-25)*
+- [linux-manage-special-permissions-and-umask-in-linux-590846](https://labex.io/tutorials/linux-manage-special-permissions-and-umask-in-linux-590846) *(Last modified: 2025-06-26)*
+- [linux-manage-special-permissions-and-umask-in-linux-591060](https://labex.io/tutorials/linux-manage-special-permissions-and-umask-in-linux-591060) *(Last modified: 2025-06-26)*
+- [linux-managing-packages-with-rpm-in-linux-590868](https://labex.io/tutorials/linux-managing-packages-with-rpm-in-linux-590868) *(Last modified: 2025-06-26)*
 - [linux-mastering-file-existence-checks-in-shell-scripts-421280](https://labex.io/tutorials/linux-mastering-file-existence-checks-in-shell-scripts-421280) *(Last modified: 2025-03-16)*
 - [linux-mastering-hard-links-in-linux-file-management-409824](https://labex.io/tutorials/linux-mastering-hard-links-in-linux-file-management-409824) *(Last modified: 2025-03-16)*
 - [linux-mastering-linux-date-and-time-management-422156](https://labex.io/tutorials/linux-mastering-linux-date-and-time-management-422156) *(Last modified: 2025-04-09)*
 - [linux-mastering-linux-package-management-installation-upgrade-and-secure-distribution-421524](https://labex.io/tutorials/linux-mastering-linux-package-management-installation-upgrade-and-secure-distribution-421524) *(Last modified: 2025-03-16)*
 - [linux-mastering-soft-linking-on-linux-platforms-392507](https://labex.io/tutorials/linux-mastering-soft-linking-on-linux-platforms-392507) *(Last modified: 2025-03-16)*
+- [linux-modify-directory-ownership-with-chown-in-linux-590847](https://labex.io/tutorials/linux-modify-directory-ownership-with-chown-in-linux-590847) *(Last modified: 2025-06-26)*
+- [linux-modify-directory-ownership-with-chown-in-linux-591021](https://labex.io/tutorials/linux-modify-directory-ownership-with-chown-in-linux-591021) *(Last modified: 2025-06-26)*
 - [linux-monitor-system-resources-with-glances-384503](https://labex.io/tutorials/linux-monitor-system-resources-with-glances-384503) *(Last modified: 2025-06-24)*
+- [linux-navigate-the-filesystem-in-linux-590970](https://labex.io/tutorials/linux-navigate-the-filesystem-in-linux-590970) *(Last modified: 2025-06-26)*
+- [linux-navigate-the-filesystem-in-linux-590971](https://labex.io/tutorials/linux-navigate-the-filesystem-in-linux-590971) *(Last modified: 2025-06-26)*
 - [linux-needle-in-the-haystack-388109](https://labex.io/tutorials/linux-needle-in-the-haystack-388109) *(Last modified: 2025-06-24)*
 - [linux-network-data-packet-statistics-301481](https://labex.io/tutorials/linux-network-data-packet-statistics-301481) *(Last modified: 2025-05-21)*
 - [linux-network-information-and-connection-387338](https://labex.io/tutorials/linux-network-information-and-connection-387338) *(Last modified: 2025-06-24)*
@@ -9790,6 +9829,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-process-arguments-in-bash-scripts-588622](https://labex.io/tutorials/linux-process-arguments-in-bash-scripts-588622) *(Last modified: 2025-06-06)*
 - [linux-processing-employees-data-388131](https://labex.io/tutorials/linux-processing-employees-data-388131) *(Last modified: 2024-08-13)*
 - [linux-processing-employees-data-388132](https://labex.io/tutorials/linux-processing-employees-data-388132) *(Last modified: 2025-06-24)*
+- [linux-query-and-update-packages-with-yum-in-linux-590869](https://labex.io/tutorials/linux-query-and-update-packages-with-yum-in-linux-590869) *(Last modified: 2025-06-26)*
 - [linux-quick-start-to-hive-272323](https://labex.io/tutorials/linux-quick-start-to-hive-272323) *(Last modified: 2025-06-24)*
 - [linux-quickly-identify-linux-command-purposes-with-whatis-423005](https://labex.io/tutorials/linux-quickly-identify-linux-command-purposes-with-whatis-423005) *(Last modified: 2025-03-16)*
 - [linux-random-password-generator-development-301484](https://labex.io/tutorials/linux-random-password-generator-development-301484) *(Last modified: 2025-06-24)*
@@ -9802,6 +9842,9 @@ This file contains all tutorials related links from LabEx website.
 - [linux-redirecting-input-and-output-in-linux-590952](https://labex.io/tutorials/linux-redirecting-input-and-output-in-linux-590952) *(Last modified: 2025-06-25)*
 - [linux-resolve-dpkg-lock-errors-in-linux-411651](https://labex.io/tutorials/linux-resolve-dpkg-lock-errors-in-linux-411651) *(Last modified: 2025-03-01)*
 - [linux-restore-access-to-website-301487](https://labex.io/tutorials/linux-restore-access-to-website-301487) *(Last modified: 2025-05-21)*
+- [linux-schedule-tasks-with-at-and-cron-in-linux-590870](https://labex.io/tutorials/linux-schedule-tasks-with-at-and-cron-in-linux-590870) *(Last modified: 2025-06-26)*
+- [linux-search-text-with-grep-in-linux-590841](https://labex.io/tutorials/linux-search-text-with-grep-in-linux-590841) *(Last modified: 2025-06-26)*
+- [linux-search-text-with-grep-in-linux-591018](https://labex.io/tutorials/linux-search-text-with-grep-in-linux-591018) *(Last modified: 2025-06-26)*
 - [linux-searching-for-specific-files-301489](https://labex.io/tutorials/linux-searching-for-specific-files-301489) *(Last modified: 2025-05-21)*
 - [linux-secure-file-transfer-basics-40](https://labex.io/tutorials/linux-secure-file-transfer-basics-40) *(Last modified: 2025-06-24)*
 - [linux-sequence-control-and-pipeline-17994](https://labex.io/tutorials/linux-sequence-control-and-pipeline-17994) *(Last modified: 2025-06-24)*
@@ -9823,6 +9866,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-the-manuscript-mystery-384742](https://labex.io/tutorials/linux-the-manuscript-mystery-384742) *(Last modified: 2025-06-24)*
 - [linux-transcribe-media-to-text-with-whisper-289658](https://labex.io/tutorials/linux-transcribe-media-to-text-with-whisper-289658) *(Last modified: 2025-06-24)*
 - [linux-treasure-island-networking-adventure-271340](https://labex.io/tutorials/linux-treasure-island-networking-adventure-271340) *(Last modified: 2025-06-24)*
+- [linux-troubleshoot-basic-network-issues-in-linux-590871](https://labex.io/tutorials/linux-troubleshoot-basic-network-issues-in-linux-590871) *(Last modified: 2025-06-26)*
 - [linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859](https://labex.io/tutorials/linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859) *(Last modified: 2025-06-24)*
 - [linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-516651](https://labex.io/tutorials/linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-516651) *(Last modified: 2025-02-27)*
 - [linux-troubleshooting-su-authentication-failures-on-linux-392816](https://labex.io/tutorials/linux-troubleshooting-su-authentication-failures-on-linux-392816) *(Last modified: 2025-06-24)*
@@ -10561,9 +10605,9 @@ This file contains all tutorials related links from LabEx website.
 - [mysql-managing-database-indexes-in-mysql-301274](https://labex.io/tutorials/mysql-managing-database-indexes-in-mysql-301274) *(Last modified: 2025-05-21)*
 - [mysql-modify-primary-key-of-countrylanguage-table-301358](https://labex.io/tutorials/mysql-modify-primary-key-of-countrylanguage-table-301358) *(Last modified: 2025-05-21)*
 - [mysql-modify-student-table-attributes-301360](https://labex.io/tutorials/mysql-modify-student-table-attributes-301360) *(Last modified: 2025-05-21)*
-- [mysql-mysql-backup-and-recovery-550902](https://labex.io/tutorials/mysql-mysql-backup-and-recovery-550902) *(Last modified: 2025-06-24)*
+- [mysql-mysql-backup-and-recovery-550902](https://labex.io/tutorials/mysql-mysql-backup-and-recovery-550902) *(Last modified: 2025-06-26)*
 - [mysql-mysql-common-table-expressions-ctes-550903](https://labex.io/tutorials/mysql-mysql-common-table-expressions-ctes-550903) *(Last modified: 2025-06-24)*
-- [mysql-mysql-configuration-and-tuning-550904](https://labex.io/tutorials/mysql-mysql-configuration-and-tuning-550904) *(Last modified: 2025-06-24)*
+- [mysql-mysql-configuration-and-tuning-550904](https://labex.io/tutorials/mysql-mysql-configuration-and-tuning-550904) *(Last modified: 2025-06-26)*
 - [mysql-mysql-data-aggregation-and-grouping-418304](https://labex.io/tutorials/mysql-mysql-data-aggregation-and-grouping-418304) *(Last modified: 2025-06-24)*
 - [mysql-mysql-data-filtering-and-sorting-418305](https://labex.io/tutorials/mysql-mysql-data-filtering-and-sorting-418305) *(Last modified: 2025-06-24)*
 - [mysql-mysql-database-access-challenge-418300](https://labex.io/tutorials/mysql-mysql-database-access-challenge-418300) *(Last modified: 2025-06-24)*
@@ -10571,28 +10615,28 @@ This file contains all tutorials related links from LabEx website.
 - [mysql-mysql-database-management-301338](https://labex.io/tutorials/mysql-mysql-database-management-301338) *(Last modified: 2025-05-21)*
 - [mysql-mysql-database-management-fundamentals-301326](https://labex.io/tutorials/mysql-mysql-database-management-fundamentals-301326) *(Last modified: 2025-06-24)*
 - [mysql-mysql-database-management-fundamentals-450863](https://labex.io/tutorials/mysql-mysql-database-management-fundamentals-450863) *(Last modified: 2025-01-06)*
-- [mysql-mysql-error-handling-and-logging-550905](https://labex.io/tutorials/mysql-mysql-error-handling-and-logging-550905) *(Last modified: 2025-06-24)*
-- [mysql-mysql-event-scheduler-550906](https://labex.io/tutorials/mysql-mysql-event-scheduler-550906) *(Last modified: 2025-06-24)*
-- [mysql-mysql-full-text-search-capabilities-550907](https://labex.io/tutorials/mysql-mysql-full-text-search-capabilities-550907) *(Last modified: 2025-06-24)*
-- [mysql-mysql-functions-and-custom-logic-550908](https://labex.io/tutorials/mysql-mysql-functions-and-custom-logic-550908) *(Last modified: 2025-06-24)*
-- [mysql-mysql-import-and-export-operations-550909](https://labex.io/tutorials/mysql-mysql-import-and-export-operations-550909) *(Last modified: 2025-06-24)*
+- [mysql-mysql-error-handling-and-logging-550905](https://labex.io/tutorials/mysql-mysql-error-handling-and-logging-550905) *(Last modified: 2025-06-26)*
+- [mysql-mysql-event-scheduler-550906](https://labex.io/tutorials/mysql-mysql-event-scheduler-550906) *(Last modified: 2025-06-26)*
+- [mysql-mysql-full-text-search-capabilities-550907](https://labex.io/tutorials/mysql-mysql-full-text-search-capabilities-550907) *(Last modified: 2025-06-26)*
+- [mysql-mysql-functions-and-custom-logic-550908](https://labex.io/tutorials/mysql-mysql-functions-and-custom-logic-550908) *(Last modified: 2025-06-26)*
+- [mysql-mysql-import-and-export-operations-550909](https://labex.io/tutorials/mysql-mysql-import-and-export-operations-550909) *(Last modified: 2025-06-26)*
 - [mysql-mysql-indexes-and-performance-optimization-550910](https://labex.io/tutorials/mysql-mysql-indexes-and-performance-optimization-550910) *(Last modified: 2025-06-24)*
 - [mysql-mysql-indexes-and-performance-optimization-582446](https://labex.io/tutorials/mysql-mysql-indexes-and-performance-optimization-582446) *(Last modified: 2025-05-26)*
-- [mysql-mysql-json-data-handling-550911](https://labex.io/tutorials/mysql-mysql-json-data-handling-550911) *(Last modified: 2025-06-24)*
+- [mysql-mysql-json-data-handling-550911](https://labex.io/tutorials/mysql-mysql-json-data-handling-550911) *(Last modified: 2025-06-26)*
 - [mysql-mysql-multi-table-operations-418306](https://labex.io/tutorials/mysql-mysql-multi-table-operations-418306) *(Last modified: 2025-06-24)*
-- [mysql-mysql-partitioning-for-large-datasets-550912](https://labex.io/tutorials/mysql-mysql-partitioning-for-large-datasets-550912) *(Last modified: 2025-06-24)*
+- [mysql-mysql-partitioning-for-large-datasets-550912](https://labex.io/tutorials/mysql-mysql-partitioning-for-large-datasets-550912) *(Last modified: 2025-06-26)*
 - [mysql-mysql-replication-basics-550913](https://labex.io/tutorials/mysql-mysql-replication-basics-550913) *(Last modified: 2025-06-24)*
 - [mysql-mysql-sales-data-analysis-challenge-418301](https://labex.io/tutorials/mysql-mysql-sales-data-analysis-challenge-418301) *(Last modified: 2025-06-24)*
-- [mysql-mysql-security-best-practices-550914](https://labex.io/tutorials/mysql-mysql-security-best-practices-550914) *(Last modified: 2025-06-24)*
-- [mysql-mysql-stored-procedures-basics-550915](https://labex.io/tutorials/mysql-mysql-stored-procedures-basics-550915) *(Last modified: 2025-06-24)*
+- [mysql-mysql-security-best-practices-550914](https://labex.io/tutorials/mysql-mysql-security-best-practices-550914) *(Last modified: 2025-06-26)*
+- [mysql-mysql-stored-procedures-basics-550915](https://labex.io/tutorials/mysql-mysql-stored-procedures-basics-550915) *(Last modified: 2025-06-26)*
 - [mysql-mysql-subqueries-and-nested-operations-550916](https://labex.io/tutorials/mysql-mysql-subqueries-and-nested-operations-550916) *(Last modified: 2025-06-24)*
 - [mysql-mysql-table-structure-and-data-types-418307](https://labex.io/tutorials/mysql-mysql-table-structure-and-data-types-418307) *(Last modified: 2025-06-24)*
-- [mysql-mysql-temporary-tables-and-session-data-550917](https://labex.io/tutorials/mysql-mysql-temporary-tables-and-session-data-550917) *(Last modified: 2025-06-24)*
-- [mysql-mysql-transactions-and-data-integrity-550918](https://labex.io/tutorials/mysql-mysql-transactions-and-data-integrity-550918) *(Last modified: 2025-06-24)*
-- [mysql-mysql-triggers-for-automation-550919](https://labex.io/tutorials/mysql-mysql-triggers-for-automation-550919) *(Last modified: 2025-06-24)*
+- [mysql-mysql-temporary-tables-and-session-data-550917](https://labex.io/tutorials/mysql-mysql-temporary-tables-and-session-data-550917) *(Last modified: 2025-06-26)*
+- [mysql-mysql-transactions-and-data-integrity-550918](https://labex.io/tutorials/mysql-mysql-transactions-and-data-integrity-550918) *(Last modified: 2025-06-26)*
+- [mysql-mysql-triggers-for-automation-550919](https://labex.io/tutorials/mysql-mysql-triggers-for-automation-550919) *(Last modified: 2025-06-26)*
 - [mysql-mysql-user-and-privileges-management-418308](https://labex.io/tutorials/mysql-mysql-user-and-privileges-management-418308) *(Last modified: 2025-06-24)*
-- [mysql-mysql-views-and-virtual-tables-550920](https://labex.io/tutorials/mysql-mysql-views-and-virtual-tables-550920) *(Last modified: 2025-06-24)*
-- [mysql-mysql-window-functions-550921](https://labex.io/tutorials/mysql-mysql-window-functions-550921) *(Last modified: 2025-06-24)*
+- [mysql-mysql-views-and-virtual-tables-550920](https://labex.io/tutorials/mysql-mysql-views-and-virtual-tables-550920) *(Last modified: 2025-06-26)*
+- [mysql-mysql-window-functions-550921](https://labex.io/tutorials/mysql-mysql-window-functions-550921) *(Last modified: 2025-06-26)*
 - [mysql-obtain-pi-with-two-decimals-301368](https://labex.io/tutorials/mysql-obtain-pi-with-two-decimals-301368) *(Last modified: 2025-05-21)*
 - [mysql-online-mysql-playground-372916](https://labex.io/tutorials/mysql-online-mysql-playground-372916) *(Last modified: 2025-05-21)*
 - [mysql-print-current-login-user-information-301374](https://labex.io/tutorials/mysql-print-current-login-user-information-301374) *(Last modified: 2025-05-21)*
@@ -11949,7 +11993,7 @@ This file contains all tutorials related links from LabEx website.
 - [python-how-to-clamp-values-in-python-programming-462675](https://labex.io/tutorials/python-how-to-clamp-values-in-python-programming-462675) *(Last modified: 2025-03-16)*
 - [python-how-to-clean-missing-data-in-python-425411](https://labex.io/tutorials/python-how-to-clean-missing-data-in-python-425411) *(Last modified: 2025-03-16)*
 - [python-how-to-clean-python-string-edges-437620](https://labex.io/tutorials/python-how-to-clean-python-string-edges-437620) *(Last modified: 2025-03-16)*
-- [python-how-to-clean-up-virtual-environments-425433](https://labex.io/tutorials/python-how-to-clean-up-virtual-environments-425433) *(Last modified: 2025-03-16)*
+- [python-how-to-clean-up-virtual-environments-425433](https://labex.io/tutorials/python-how-to-clean-up-virtual-environments-425433) *(Last modified: 2025-06-26)*
 - [python-how-to-clear-python-list-elements-421300](https://labex.io/tutorials/python-how-to-clear-python-list-elements-421300) *(Last modified: 2025-03-16)*
 - [python-how-to-clone-dictionaries-effectively-419726](https://labex.io/tutorials/python-how-to-clone-dictionaries-effectively-419726) *(Last modified: 2025-03-16)*
 - [python-how-to-clone-python-lists-safely-425933](https://labex.io/tutorials/python-how-to-clone-python-lists-safely-425933) *(Last modified: 2025-03-16)*
@@ -13486,7 +13530,7 @@ This file contains all tutorials related links from LabEx website.
 - [python-how-to-round-floats-precisely-in-python-465838](https://labex.io/tutorials/python-how-to-round-floats-precisely-in-python-465838) *(Last modified: 2025-03-16)*
 - [python-how-to-round-up-a-number-to-the-nearest-integer-in-python-398061](https://labex.io/tutorials/python-how-to-round-up-a-number-to-the-nearest-integer-in-python-398061) *(Last modified: 2025-03-16)*
 - [python-how-to-round-up-numbers-in-python-418689](https://labex.io/tutorials/python-how-to-round-up-numbers-in-python-418689) *(Last modified: 2025-03-16)*
-- [python-how-to-run-a-python-program-from-the-command-line-398242](https://labex.io/tutorials/python-how-to-run-a-python-program-from-the-command-line-398242) *(Last modified: 2025-03-16)*
+- [python-how-to-run-a-python-program-from-the-command-line-398242](https://labex.io/tutorials/python-how-to-run-a-python-program-from-the-command-line-398242) *(Last modified: 2025-06-26)*
 - [python-how-to-run-python-scripts-in-interactive-interpreter-451215](https://labex.io/tutorials/python-how-to-run-python-scripts-in-interactive-interpreter-451215) *(Last modified: 2025-03-16)*
 - [python-how-to-run-shell-commands-from-python-464364](https://labex.io/tutorials/python-how-to-run-shell-commands-from-python-464364) *(Last modified: 2025-03-16)*
 - [python-how-to-run-unit-tests-in-python-438201](https://labex.io/tutorials/python-how-to-run-unit-tests-in-python-438201) *(Last modified: 2025-03-16)*
@@ -15751,6 +15795,7 @@ This file contains all tutorials related links from LabEx website.
 - [your-first-javascript-lab-92948](https://labex.io/tutorials/your-first-javascript-lab-92948) *(Last modified: 2025-06-24)*
 - [ansible](https://labex.io/tutorials/category/ansible) *(Last modified: 2024-08-22)*
 - [c](https://labex.io/tutorials/category/c) *(Last modified: 2024-08-22)*
+- [comptia](https://labex.io/tutorials/category/comptia) *(Last modified: 2024-08-22)*
 - [cpp](https://labex.io/tutorials/category/cpp) *(Last modified: 2024-08-22)*
 - [css](https://labex.io/tutorials/category/css) *(Last modified: 2024-08-22)*
 - [cybersecurity](https://labex.io/tutorials/category/cybersecurity) *(Last modified: 2024-08-22)*

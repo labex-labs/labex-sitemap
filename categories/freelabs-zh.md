@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Zh Sitemap
 
-> Last updated: 2025-06-26 00:04 UTC
+> Last updated: 2025-06-27 00:05 UTC
 
 This file contains all freelabs-zh related links from LabEx website.
 
@@ -20,6 +20,7 @@ This file contains all freelabs-zh related links from LabEx website.
 - [alibabacloud](https://labex.io/zh/free-labs/alibabacloud)
 - [ansible](https://labex.io/zh/free-labs/ansible)
 - [c](https://labex.io/zh/free-labs/c)
+- [comptia](https://labex.io/zh/free-labs/comptia)
 - [cpp](https://labex.io/zh/free-labs/cpp)
 - [css](https://labex.io/zh/free-labs/css)
 - [cybersecurity](https://labex.io/zh/free-labs/cybersecurity)

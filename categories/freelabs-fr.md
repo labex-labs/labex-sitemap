@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Fr Sitemap
 
-> Last updated: 2025-06-26 00:04 UTC
+> Last updated: 2025-06-27 00:05 UTC
 
 This file contains all freelabs-fr related links from LabEx website.
 
@@ -20,6 +20,7 @@ This file contains all freelabs-fr related links from LabEx website.
 - [alibabacloud](https://labex.io/fr/free-labs/alibabacloud)
 - [ansible](https://labex.io/fr/free-labs/ansible)
 - [c](https://labex.io/fr/free-labs/c)
+- [comptia](https://labex.io/fr/free-labs/comptia)
 - [cpp](https://labex.io/fr/free-labs/cpp)
 - [css](https://labex.io/fr/free-labs/css)
 - [cybersecurity](https://labex.io/fr/free-labs/cybersecurity)

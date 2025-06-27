@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Es Sitemap
 
-> Last updated: 2025-06-26 00:04 UTC
+> Last updated: 2025-06-27 00:05 UTC
 
 This file contains all skilltrees-es related links from LabEx website.
 
@@ -19,6 +19,7 @@ This file contains all skilltrees-es related links from LabEx website.
 
 - [ansible](https://labex.io/es/skilltrees/ansible)
 - [c](https://labex.io/es/skilltrees/c)
+- [comptia](https://labex.io/es/skilltrees/comptia)
 - [cpp](https://labex.io/es/skilltrees/cpp)
 - [css](https://labex.io/es/skilltrees/css)
 - [cybersecurity](https://labex.io/es/skilltrees/cybersecurity)
@@ -54,6 +55,7 @@ This file contains all skilltrees-es related links from LabEx website.
 - [wireshark](https://labex.io/es/skilltrees/wireshark)
 - [ansible](https://labex.io/es/tutorials/category/ansible)
 - [c](https://labex.io/es/tutorials/category/c)
+- [comptia](https://labex.io/es/tutorials/category/comptia)
 - [cpp](https://labex.io/es/tutorials/category/cpp)
 - [css](https://labex.io/es/tutorials/category/css)
 - [cybersecurity](https://labex.io/es/tutorials/category/cybersecurity)
