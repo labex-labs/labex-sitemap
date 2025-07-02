@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Pt Sitemap
 
-> Last updated: 2025-07-01 00:05 UTC
+> Last updated: 2025-07-02 00:04 UTC
 
 This file contains all freelabs-pt related links from LabEx website.
 
