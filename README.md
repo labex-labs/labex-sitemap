@@ -6,7 +6,7 @@ layout: default
 
 [LabEx](https://labex.io) is a hands-on learning platform for Linux, DevOps, and Cybersecurity. Learn by doing with guided labs, courses, and tutorials. Get started for free!
 
-> Last updated: 2025-07-02 00:04 UTC
+> Last updated: 2025-07-03 00:04 UTC
 
 This repository maintains an auto-updated list of LabEx website sitemaps.
 
@@ -41,7 +41,7 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Pages-Ru](categories/pages-ru.md) (9 links)
 - [Pages-Zh](categories/pages-zh.md) (19 links)
 - [Questions](categories/questions.md) (1724 links)
-- [Skilltrees](categories/skilltrees.md) (1223 links)
+- [Skilltrees](categories/skilltrees.md) (0 links)
 - [Skilltrees-De](categories/skilltrees-de.md) (1223 links)
 - [Skilltrees-Es](categories/skilltrees-es.md) (1223 links)
 - [Skilltrees-Fr](categories/skilltrees-fr.md) (1223 links)
@@ -51,13 +51,13 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Skilltrees-Ru](categories/skilltrees-ru.md) (1223 links)
 - [Skilltrees-Zh](categories/skilltrees-zh.md) (1223 links)
 - [Tutorials](categories/tutorials.md) (15831 links)
-- [Tutorials-De](categories/tutorials-de.md) (8712 links)
+- [Tutorials-De](categories/tutorials-de.md) (8714 links)
 - [Tutorials-Es](categories/tutorials-es.md) (8674 links)
-- [Tutorials-Fr](categories/tutorials-fr.md) (8599 links)
-- [Tutorials-Ja](categories/tutorials-ja.md) (8713 links)
-- [Tutorials-Ko](categories/tutorials-ko.md) (7611 links)
-- [Tutorials-Pt](categories/tutorials-pt.md) (7572 links)
-- [Tutorials-Ru](categories/tutorials-ru.md) (8712 links)
-- [Tutorials-Zh](categories/tutorials-zh.md) (15602 links)
+- [Tutorials-Fr](categories/tutorials-fr.md) (8602 links)
+- [Tutorials-Ja](categories/tutorials-ja.md) (8715 links)
+- [Tutorials-Ko](categories/tutorials-ko.md) (7613 links)
+- [Tutorials-Pt](categories/tutorials-pt.md) (7574 links)
+- [Tutorials-Ru](categories/tutorials-ru.md) (8714 links)
+- [Tutorials-Zh](categories/tutorials-zh.md) (15604 links)
 
-> **Total Links: 104317**
+> **Total Links: 103109**
