@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-07-04 00:04 UTC
+> Last updated: 2025-07-05 00:04 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -2959,7 +2959,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-restore-git-stashed-changes-418147](https://labex.io/zh/tutorials/git-how-to-restore-git-stashed-changes-418147) *(Last modified: 2025-03-16)*
 - [git-how-to-retrieve-commits-made-by-a-specific-author-in-a-git-repository-417434](https://labex.io/zh/tutorials/git-how-to-retrieve-commits-made-by-a-specific-author-in-a-git-repository-417434) *(Last modified: 2025-03-16)*
 - [git-how-to-retrieve-lost-git-commits-418797](https://labex.io/zh/tutorials/git-how-to-retrieve-lost-git-commits-418797) *(Last modified: 2025-04-09)*
-- [git-how-to-revert-a-git-commit-without-losing-changes-415168](https://labex.io/zh/tutorials/git-how-to-revert-a-git-commit-without-losing-changes-415168) *(Last modified: 2025-03-16)*
+- [git-how-to-revert-a-git-commit-without-losing-changes-415168](https://labex.io/zh/tutorials/git-how-to-revert-a-git-commit-without-losing-changes-415168) *(Last modified: 2025-07-04)*
 - [git-how-to-revert-a-specific-commit-in-a-git-repository-414802](https://labex.io/zh/tutorials/git-how-to-revert-a-specific-commit-in-a-git-repository-414802) *(Last modified: 2025-04-09)*
 - [git-how-to-revert-a-staged-change-in-git-417332](https://labex.io/zh/tutorials/git-how-to-revert-a-staged-change-in-git-417332) *(Last modified: 2025-04-09)*
 - [git-how-to-revert-and-reset-git-commits-392783](https://labex.io/zh/tutorials/git-how-to-revert-and-reset-git-commits-392783) *(Last modified: 2025-04-09)*
@@ -3124,7 +3124,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-verify-the-correct-git-repository-is-used-415260](https://labex.io/zh/tutorials/git-how-to-verify-the-correct-git-repository-is-used-415260) *(Last modified: 2025-04-16)*
 - [git-how-to-view-a-concise-summary-of-git-commits-415262](https://labex.io/zh/tutorials/git-how-to-view-a-concise-summary-of-git-commits-415262) *(Last modified: 2025-04-16)*
 - [git-how-to-view-a-detailed-commit-history-in-a-git-repository-414803](https://labex.io/zh/tutorials/git-how-to-view-a-detailed-commit-history-in-a-git-repository-414803) *(Last modified: 2025-04-09)*
-- [git-how-to-view-changes-in-a-specific-git-commit-417721](https://labex.io/zh/tutorials/git-how-to-view-changes-in-a-specific-git-commit-417721) *(Last modified: 2025-03-01)*
+- [git-how-to-view-changes-in-a-specific-git-commit-417721](https://labex.io/zh/tutorials/git-how-to-view-changes-in-a-specific-git-commit-417721) *(Last modified: 2025-07-04)*
 - [git-how-to-view-chronological-order-of-local-git-branches-392831](https://labex.io/zh/tutorials/git-how-to-view-chronological-order-of-local-git-branches-392831) *(Last modified: 2025-03-16)*
 - [git-how-to-view-commit-history-after-a-merge-in-git-417935](https://labex.io/zh/tutorials/git-how-to-view-commit-history-after-a-merge-in-git-417935) *(Last modified: 2025-04-09)*
 - [git-how-to-view-current-git-aliases-418154](https://labex.io/zh/tutorials/git-how-to-view-current-git-aliases-418154) *(Last modified: 2025-03-16)*
@@ -3134,7 +3134,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-view-git-commit-history-within-a-date-range-415000](https://labex.io/zh/tutorials/git-how-to-view-git-commit-history-within-a-date-range-415000) *(Last modified: 2025-03-16)*
 - [git-how-to-view-git-commit-log-418156](https://labex.io/zh/tutorials/git-how-to-view-git-commit-log-418156) *(Last modified: 2025-03-16)*
 - [git-how-to-view-the-changes-in-a-git-stash-415015](https://labex.io/zh/tutorials/git-how-to-view-the-changes-in-a-git-stash-415015) *(Last modified: 2025-03-16)*
-- [git-how-to-view-the-commit-history-of-a-remote-git-branch-414840](https://labex.io/zh/tutorials/git-how-to-view-the-commit-history-of-a-remote-git-branch-414840) *(Last modified: 2025-06-29)*
+- [git-how-to-view-the-commit-history-of-a-remote-git-branch-414840](https://labex.io/zh/tutorials/git-how-to-view-the-commit-history-of-a-remote-git-branch-414840) *(Last modified: 2025-07-04)*
 - [git-how-to-view-the-current-status-of-a-git-repository-415182](https://labex.io/zh/tutorials/git-how-to-view-the-current-status-of-a-git-repository-415182) *(Last modified: 2025-03-01)*
 - [git-how-to-view-the-differences-between-the-working-directory-and-staging-area-415704](https://labex.io/zh/tutorials/git-how-to-view-the-differences-between-the-working-directory-and-staging-area-415704) *(Last modified: 2025-03-16)*
 - [git-how-to-view-your-git-username-in-terminal-398375](https://labex.io/zh/tutorials/git-how-to-view-your-git-username-in-terminal-398375) *(Last modified: 2025-07-03)*
@@ -7468,7 +7468,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-customize-the-grub2-boot-menu-in-linux-591133](https://labex.io/zh/tutorials/linux-customize-the-grub2-boot-menu-in-linux-591133) *(Last modified: 2025-06-27)*
 - [linux-customize-the-tail-command-output-in-linux-417364](https://labex.io/zh/tutorials/linux-customize-the-tail-command-output-in-linux-417364) *(Last modified: 2025-03-16)*
 - [linux-customizing-linux-file-listing-301467](https://labex.io/zh/tutorials/linux-customizing-linux-file-listing-301467) *(Last modified: 2025-05-23)*
-- [linux-data-stream-redirection-17995](https://labex.io/zh/tutorials/linux-data-stream-redirection-17995) *(Last modified: 2025-07-03)*
+- [linux-data-stream-redirection-17995](https://labex.io/zh/tutorials/linux-data-stream-redirection-17995) *(Last modified: 2025-07-04)*
 - [linux-decrypting-top-secret-document-415952](https://labex.io/zh/tutorials/linux-decrypting-top-secret-document-415952) *(Last modified: 2025-07-03)*
 - [linux-delete-and-move-files-7777](https://labex.io/zh/tutorials/linux-delete-and-move-files-7777) *(Last modified: 2025-07-03)*
 - [linux-deploy-alpine-linux-for-lightweight-systems-392969](https://labex.io/zh/tutorials/linux-deploy-alpine-linux-for-lightweight-systems-392969) *(Last modified: 2025-03-16)*

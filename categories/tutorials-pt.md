@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Pt Sitemap
 
-> Last updated: 2025-07-04 00:04 UTC
+> Last updated: 2025-07-05 00:04 UTC
 
 This file contains all tutorials-pt related links from LabEx website.
 
@@ -2375,12 +2375,14 @@ This file contains all tutorials-pt related links from LabEx website.
 - [git-how-to-remove-cached-files-with-git-398319](https://labex.io/pt/tutorials/git-how-to-remove-cached-files-with-git-398319) *(Last modified: 2025-07-03)*
 - [git-how-to-resolve-fatal-unable-to-auto-detect-email-address-error-417552](https://labex.io/pt/tutorials/git-how-to-resolve-fatal-unable-to-auto-detect-email-address-error-417552) *(Last modified: 2025-07-03)*
 - [git-how-to-resolve-git-branch-ahead-of-origin-413775](https://labex.io/pt/tutorials/git-how-to-resolve-git-branch-ahead-of-origin-413775) *(Last modified: 2025-07-03)*
+- [git-how-to-revert-a-git-commit-without-losing-changes-415168](https://labex.io/pt/tutorials/git-how-to-revert-a-git-commit-without-losing-changes-415168) *(Last modified: 2025-07-04)*
 - [git-how-to-set-up-git-personal-access-token-configuration-393036](https://labex.io/pt/tutorials/git-how-to-set-up-git-personal-access-token-configuration-393036) *(Last modified: 2025-07-03)*
 - [git-how-to-undo-a-git-cherry-pick-operation-417333](https://labex.io/pt/tutorials/git-how-to-undo-a-git-cherry-pick-operation-417333) *(Last modified: 2025-07-03)*
 - [git-how-to-undo-and-remove-a-specific-git-commit-from-current-branch-392832](https://labex.io/pt/tutorials/git-how-to-undo-and-remove-a-specific-git-commit-from-current-branch-392832) *(Last modified: 2025-07-03)*
 - [git-how-to-undo-and-remove-a-specific-git-commit-from-current-branch-591033](https://labex.io/pt/tutorials/git-how-to-undo-and-remove-a-specific-git-commit-from-current-branch-591033) *(Last modified: 2025-06-26)*
 - [git-how-to-use-git-rm-cached-to-remove-a-file-from-the-git-index-417574](https://labex.io/pt/tutorials/git-how-to-use-git-rm-cached-to-remove-a-file-from-the-git-index-417574) *(Last modified: 2025-07-03)*
-- [git-how-to-view-the-commit-history-of-a-remote-git-branch-414840](https://labex.io/pt/tutorials/git-how-to-view-the-commit-history-of-a-remote-git-branch-414840) *(Last modified: 2025-06-29)*
+- [git-how-to-view-changes-in-a-specific-git-commit-417721](https://labex.io/pt/tutorials/git-how-to-view-changes-in-a-specific-git-commit-417721) *(Last modified: 2025-07-04)*
+- [git-how-to-view-the-commit-history-of-a-remote-git-branch-414840](https://labex.io/pt/tutorials/git-how-to-view-the-commit-history-of-a-remote-git-branch-414840) *(Last modified: 2025-07-04)*
 - [git-how-to-view-your-git-username-in-terminal-398375](https://labex.io/pt/tutorials/git-how-to-view-your-git-username-in-terminal-398375) *(Last modified: 2025-07-03)*
 - [git-installing-a-git-server-299593](https://labex.io/pt/tutorials/git-installing-a-git-server-299593) *(Last modified: 2025-07-03)*
 - [git-list-all-git-aliases-12737](https://labex.io/pt/tutorials/git-list-all-git-aliases-12737) *(Last modified: 2025-07-03)*
@@ -4036,7 +4038,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-creating-a-typing-game-using-bash-298847](https://labex.io/pt/tutorials/linux-creating-a-typing-game-using-bash-298847) *(Last modified: 2025-07-03)*
 - [linux-customize-the-grub2-boot-menu-in-linux-591133](https://labex.io/pt/tutorials/linux-customize-the-grub2-boot-menu-in-linux-591133) *(Last modified: 2025-06-27)*
 - [linux-customizing-linux-file-listing-301467](https://labex.io/pt/tutorials/linux-customizing-linux-file-listing-301467) *(Last modified: 2025-05-23)*
-- [linux-data-stream-redirection-17995](https://labex.io/pt/tutorials/linux-data-stream-redirection-17995) *(Last modified: 2025-07-03)*
+- [linux-data-stream-redirection-17995](https://labex.io/pt/tutorials/linux-data-stream-redirection-17995) *(Last modified: 2025-07-04)*
 - [linux-decrypting-top-secret-document-415952](https://labex.io/pt/tutorials/linux-decrypting-top-secret-document-415952) *(Last modified: 2025-07-03)*
 - [linux-delete-and-move-files-7777](https://labex.io/pt/tutorials/linux-delete-and-move-files-7777) *(Last modified: 2025-07-03)*
 - [linux-desert-copying-with-saladin-271252](https://labex.io/pt/tutorials/linux-desert-copying-with-saladin-271252) *(Last modified: 2025-07-03)*

@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Es Sitemap
 
-> Last updated: 2025-07-04 00:04 UTC
+> Last updated: 2025-07-05 00:04 UTC
 
 This file contains all tutorials-es related links from LabEx website.
 
@@ -2452,7 +2452,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [git-how-to-resolve-git-init-permission-error-418795](https://labex.io/es/tutorials/git-how-to-resolve-git-init-permission-error-418795) *(Last modified: 2025-03-16)*
 - [git-how-to-resolve-invalid-git-commit-hash-419250](https://labex.io/es/tutorials/git-how-to-resolve-invalid-git-commit-hash-419250) *(Last modified: 2025-04-09)*
 - [git-how-to-resolve-stash-merge-conflicts-418260](https://labex.io/es/tutorials/git-how-to-resolve-stash-merge-conflicts-418260) *(Last modified: 2025-03-16)*
-- [git-how-to-revert-a-git-commit-without-losing-changes-415168](https://labex.io/es/tutorials/git-how-to-revert-a-git-commit-without-losing-changes-415168) *(Last modified: 2025-03-16)*
+- [git-how-to-revert-a-git-commit-without-losing-changes-415168](https://labex.io/es/tutorials/git-how-to-revert-a-git-commit-without-losing-changes-415168) *(Last modified: 2025-07-04)*
 - [git-how-to-set-up-git-personal-access-token-configuration-393036](https://labex.io/es/tutorials/git-how-to-set-up-git-personal-access-token-configuration-393036) *(Last modified: 2025-07-03)*
 - [git-how-to-sync-git-submodules-recursively-418102](https://labex.io/es/tutorials/git-how-to-sync-git-submodules-recursively-418102) *(Last modified: 2025-04-09)*
 - [git-how-to-synchronize-changes-in-a-git-submodule-417934](https://labex.io/es/tutorials/git-how-to-synchronize-changes-in-a-git-submodule-417934) *(Last modified: 2025-04-09)*
@@ -2475,6 +2475,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [git-how-to-validate-git-repository-url-434201](https://labex.io/es/tutorials/git-how-to-validate-git-repository-url-434201) *(Last modified: 2025-04-09)*
 - [git-how-to-verify-a-commit-has-been-applied-using-git-cherry-pick-417334](https://labex.io/es/tutorials/git-how-to-verify-a-commit-has-been-applied-using-git-cherry-pick-417334) *(Last modified: 2025-03-16)*
 - [git-how-to-verify-the-correct-git-repository-is-used-415260](https://labex.io/es/tutorials/git-how-to-verify-the-correct-git-repository-is-used-415260) *(Last modified: 2025-04-16)*
+- [git-how-to-view-changes-in-a-specific-git-commit-417721](https://labex.io/es/tutorials/git-how-to-view-changes-in-a-specific-git-commit-417721) *(Last modified: 2025-07-04)*
 - [git-how-to-view-chronological-order-of-local-git-branches-392831](https://labex.io/es/tutorials/git-how-to-view-chronological-order-of-local-git-branches-392831) *(Last modified: 2025-03-16)*
 - [git-how-to-view-commit-history-after-a-merge-in-git-417935](https://labex.io/es/tutorials/git-how-to-view-commit-history-after-a-merge-in-git-417935) *(Last modified: 2025-04-09)*
 - [git-how-to-view-current-git-aliases-418154](https://labex.io/es/tutorials/git-how-to-view-current-git-aliases-418154) *(Last modified: 2025-03-16)*
@@ -2482,7 +2483,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [git-how-to-view-git-commit-history-for-a-specific-time-period-414999](https://labex.io/es/tutorials/git-how-to-view-git-commit-history-for-a-specific-time-period-414999) *(Last modified: 2025-04-09)*
 - [git-how-to-view-git-commit-history-within-a-date-range-415000](https://labex.io/es/tutorials/git-how-to-view-git-commit-history-within-a-date-range-415000) *(Last modified: 2025-03-16)*
 - [git-how-to-view-the-changes-in-a-git-stash-415015](https://labex.io/es/tutorials/git-how-to-view-the-changes-in-a-git-stash-415015) *(Last modified: 2025-03-16)*
-- [git-how-to-view-the-commit-history-of-a-remote-git-branch-414840](https://labex.io/es/tutorials/git-how-to-view-the-commit-history-of-a-remote-git-branch-414840) *(Last modified: 2025-06-29)*
+- [git-how-to-view-the-commit-history-of-a-remote-git-branch-414840](https://labex.io/es/tutorials/git-how-to-view-the-commit-history-of-a-remote-git-branch-414840) *(Last modified: 2025-07-04)*
 - [git-how-to-view-your-git-username-in-terminal-398375](https://labex.io/es/tutorials/git-how-to-view-your-git-username-in-terminal-398375) *(Last modified: 2025-07-03)*
 - [git-installing-a-git-server-299593](https://labex.io/es/tutorials/git-installing-a-git-server-299593) *(Last modified: 2025-07-03)*
 - [git-list-all-git-aliases-12737](https://labex.io/es/tutorials/git-list-all-git-aliases-12737) *(Last modified: 2025-07-03)*
@@ -4509,7 +4510,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [linux-creating-a-typing-game-using-bash-298847](https://labex.io/es/tutorials/linux-creating-a-typing-game-using-bash-298847) *(Last modified: 2025-07-03)*
 - [linux-customize-the-grub2-boot-menu-in-linux-591133](https://labex.io/es/tutorials/linux-customize-the-grub2-boot-menu-in-linux-591133) *(Last modified: 2025-06-27)*
 - [linux-customizing-linux-file-listing-301467](https://labex.io/es/tutorials/linux-customizing-linux-file-listing-301467) *(Last modified: 2025-05-23)*
-- [linux-data-stream-redirection-17995](https://labex.io/es/tutorials/linux-data-stream-redirection-17995) *(Last modified: 2025-07-03)*
+- [linux-data-stream-redirection-17995](https://labex.io/es/tutorials/linux-data-stream-redirection-17995) *(Last modified: 2025-07-04)*
 - [linux-decrypting-top-secret-document-415952](https://labex.io/es/tutorials/linux-decrypting-top-secret-document-415952) *(Last modified: 2025-07-03)*
 - [linux-delete-and-move-files-7777](https://labex.io/es/tutorials/linux-delete-and-move-files-7777) *(Last modified: 2025-07-03)*
 - [linux-desert-copying-with-saladin-271252](https://labex.io/es/tutorials/linux-desert-copying-with-saladin-271252) *(Last modified: 2025-07-03)*
