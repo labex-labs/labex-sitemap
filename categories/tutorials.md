@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2025-07-09 00:04 UTC
+> Last updated: 2025-07-10 00:04 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -6572,7 +6572,7 @@ This file contains all tutorials related links from LabEx website.
 - [javascript-explore-browser-object-model-bom-methods-in-javascript-451049](https://labex.io/tutorials/javascript-explore-browser-object-model-bom-methods-in-javascript-451049) *(Last modified: 2025-07-08)*
 - [javascript-explore-comparison-operators-in-javascript-451050](https://labex.io/tutorials/javascript-explore-comparison-operators-in-javascript-451050) *(Last modified: 2025-07-08)*
 - [javascript-explore-javascript-programming-concepts-28247](https://labex.io/tutorials/javascript-explore-javascript-programming-concepts-28247) *(Last modified: 2025-07-08)*
-- [javascript-explore-logical-operators-in-javascript-451057](https://labex.io/tutorials/javascript-explore-logical-operators-in-javascript-451057) *(Last modified: 2025-07-08)*
+- [javascript-explore-logical-operators-in-javascript-451057](https://labex.io/tutorials/javascript-explore-logical-operators-in-javascript-451057) *(Last modified: 2025-07-09)*
 - [javascript-explore-loop-structures-in-javascript-451058](https://labex.io/tutorials/javascript-explore-loop-structures-in-javascript-451058) *(Last modified: 2025-07-08)*
 - [javascript-explore-math-object-methods-in-javascript-451059](https://labex.io/tutorials/javascript-explore-math-object-methods-in-javascript-451059) *(Last modified: 2025-07-08)*
 - [javascript-exploring-hsb-to-rgb-color-conversion-28377](https://labex.io/tutorials/javascript-exploring-hsb-to-rgb-color-conversion-28377) *(Last modified: 2025-07-08)*
@@ -10641,7 +10641,7 @@ This file contains all tutorials related links from LabEx website.
 - [mysql-mysql-json-data-handling-550911](https://labex.io/tutorials/mysql-mysql-json-data-handling-550911) *(Last modified: 2025-07-08)*
 - [mysql-mysql-multi-table-operations-418306](https://labex.io/tutorials/mysql-mysql-multi-table-operations-418306) *(Last modified: 2025-07-08)*
 - [mysql-mysql-partitioning-for-large-datasets-550912](https://labex.io/tutorials/mysql-mysql-partitioning-for-large-datasets-550912) *(Last modified: 2025-07-08)*
-- [mysql-mysql-replication-basics-550913](https://labex.io/tutorials/mysql-mysql-replication-basics-550913) *(Last modified: 2025-07-08)*
+- [mysql-mysql-replication-basics-550913](https://labex.io/tutorials/mysql-mysql-replication-basics-550913) *(Last modified: 2025-07-09)*
 - [mysql-mysql-sales-data-analysis-challenge-418301](https://labex.io/tutorials/mysql-mysql-sales-data-analysis-challenge-418301) *(Last modified: 2025-07-08)*
 - [mysql-mysql-security-best-practices-550914](https://labex.io/tutorials/mysql-mysql-security-best-practices-550914) *(Last modified: 2025-07-08)*
 - [mysql-mysql-stored-procedures-basics-550915](https://labex.io/tutorials/mysql-mysql-stored-procedures-basics-550915) *(Last modified: 2025-07-08)*
@@ -11240,7 +11240,7 @@ This file contains all tutorials related links from LabEx website.
 - [postgresql-data-filtering-and-simple-queries-in-postgresql-551241](https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-551241) *(Last modified: 2025-04-09)*
 - [postgresql-database-management-basics-with-postgresql-550899](https://labex.io/tutorials/postgresql-database-management-basics-with-postgresql-550899) *(Last modified: 2025-07-08)*
 - [postgresql-find-marketing-employees-in-postgresql-551146](https://labex.io/tutorials/postgresql-find-marketing-employees-in-postgresql-551146) *(Last modified: 2025-07-08)*
-- [postgresql-installation-and-initial-setup-of-postgresql-550900](https://labex.io/tutorials/postgresql-installation-and-initial-setup-of-postgresql-550900) *(Last modified: 2025-07-08)*
+- [postgresql-installation-and-initial-setup-of-postgresql-550900](https://labex.io/tutorials/postgresql-installation-and-initial-setup-of-postgresql-550900) *(Last modified: 2025-07-09)*
 - [postgresql-installation-and-initial-setup-of-postgresql-588018](https://labex.io/tutorials/postgresql-installation-and-initial-setup-of-postgresql-588018) *(Last modified: 2025-05-30)*
 - [postgresql-manage-employee-data-in-postgresql-551130](https://labex.io/tutorials/postgresql-manage-employee-data-in-postgresql-551130) *(Last modified: 2025-07-08)*
 - [postgresql-manage-employee-data-in-postgresql-588017](https://labex.io/tutorials/postgresql-manage-employee-data-in-postgresql-588017) *(Last modified: 2025-05-30)*
@@ -14930,12 +14930,19 @@ This file contains all tutorials related links from LabEx website.
 - [rhel-access-file-systems-in-red-hat-enterprise-linux-588455](https://labex.io/tutorials/rhel-access-file-systems-in-red-hat-enterprise-linux-588455) *(Last modified: 2025-07-08)*
 - [rhel-access-file-systems-in-red-hat-enterprise-linux-588632](https://labex.io/tutorials/rhel-access-file-systems-in-red-hat-enterprise-linux-588632) *(Last modified: 2025-06-06)*
 - [rhel-access-file-systems-in-red-hat-enterprise-linux-589222](https://labex.io/tutorials/rhel-access-file-systems-in-red-hat-enterprise-linux-589222) *(Last modified: 2025-06-16)*
+- [rhel-add-new-partitions-and-logical-volumes-588218](https://labex.io/tutorials/rhel-add-new-partitions-and-logical-volumes-588218) *(Last modified: 2025-07-09)*
 - [rhel-adjust-process-scheduling-588219](https://labex.io/tutorials/rhel-adjust-process-scheduling-588219) *(Last modified: 2025-07-08)*
 - [rhel-adjust-process-scheduling-592638](https://labex.io/tutorials/rhel-adjust-process-scheduling-592638) *(Last modified: 2025-07-07)*
 - [rhel-analyze-logs-in-red-hat-enterprise-linux-588456](https://labex.io/tutorials/rhel-analyze-logs-in-red-hat-enterprise-linux-588456) *(Last modified: 2025-07-08)*
 - [rhel-analyze-logs-in-red-hat-enterprise-linux-588633](https://labex.io/tutorials/rhel-analyze-logs-in-red-hat-enterprise-linux-588633) *(Last modified: 2025-06-06)*
 - [rhel-analyze-logs-in-red-hat-enterprise-linux-589206](https://labex.io/tutorials/rhel-analyze-logs-in-red-hat-enterprise-linux-589206) *(Last modified: 2025-06-16)*
+- [rhel-assign-physical-volumes-to-volume-groups-588220](https://labex.io/tutorials/rhel-assign-physical-volumes-to-volume-groups-588220) *(Last modified: 2025-07-09)*
+- [rhel-assign-physical-volumes-to-volume-groups-592679](https://labex.io/tutorials/rhel-assign-physical-volumes-to-volume-groups-592679) *(Last modified: 2025-07-09)*
 - [rhel-configure-and-secure-ssh-connections-588410](https://labex.io/tutorials/rhel-configure-and-secure-ssh-connections-588410) *(Last modified: 2025-06-04)*
+- [rhel-configure-autofs-588226](https://labex.io/tutorials/rhel-configure-autofs-588226) *(Last modified: 2025-07-09)*
+- [rhel-configure-autofs-592698](https://labex.io/tutorials/rhel-configure-autofs-592698) *(Last modified: 2025-07-09)*
+- [rhel-configure-file-systems-by-uuid-588227](https://labex.io/tutorials/rhel-configure-file-systems-by-uuid-588227) *(Last modified: 2025-07-09)*
+- [rhel-configure-file-systems-by-uuid-592683](https://labex.io/tutorials/rhel-configure-file-systems-by-uuid-592683) *(Last modified: 2025-07-09)*
 - [rhel-configure-networking-in-red-hat-enterprise-linux-588457](https://labex.io/tutorials/rhel-configure-networking-in-red-hat-enterprise-linux-588457) *(Last modified: 2025-07-08)*
 - [rhel-configure-networking-in-red-hat-enterprise-linux-588634](https://labex.io/tutorials/rhel-configure-networking-in-red-hat-enterprise-linux-588634) *(Last modified: 2025-06-06)*
 - [rhel-configure-networking-in-red-hat-enterprise-linux-589214](https://labex.io/tutorials/rhel-configure-networking-in-red-hat-enterprise-linux-589214) *(Last modified: 2025-06-16)*
@@ -14950,6 +14957,8 @@ This file contains all tutorials related links from LabEx website.
 - [rhel-control-services-in-red-hat-enterprise-linux-588728](https://labex.io/tutorials/rhel-control-services-in-red-hat-enterprise-linux-588728) *(Last modified: 2025-06-06)*
 - [rhel-control-system-services-with-systemctl-588411](https://labex.io/tutorials/rhel-control-system-services-with-systemctl-588411) *(Last modified: 2025-06-04)*
 - [rhel-control-system-services-with-systemctl-588436](https://labex.io/tutorials/rhel-control-system-services-with-systemctl-588436) *(Last modified: 2025-06-04)*
+- [rhel-create-and-delete-logical-volumes-588238](https://labex.io/tutorials/rhel-create-and-delete-logical-volumes-588238) *(Last modified: 2025-07-09)*
+- [rhel-create-and-delete-logical-volumes-592687](https://labex.io/tutorials/rhel-create-and-delete-logical-volumes-592687) *(Last modified: 2025-07-09)*
 - [rhel-create-and-execute-bash-scripts-in-rhel-588877](https://labex.io/tutorials/rhel-create-and-execute-bash-scripts-in-rhel-588877) *(Last modified: 2025-07-08)*
 - [rhel-create-and-execute-bash-scripts-in-rhel-588902](https://labex.io/tutorials/rhel-create-and-execute-bash-scripts-in-rhel-588902) *(Last modified: 2025-06-10)*
 - [rhel-create-and-extend-lvm-logical-volumes-in-rhel-589244](https://labex.io/tutorials/rhel-create-and-extend-lvm-logical-volumes-in-rhel-589244) *(Last modified: 2025-06-16)*
@@ -14973,6 +14982,8 @@ This file contains all tutorials related links from LabEx website.
 - [rhel-install-software-in-red-hat-enterprise-linux-588462](https://labex.io/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588462) *(Last modified: 2025-07-08)*
 - [rhel-install-software-in-red-hat-enterprise-linux-588639](https://labex.io/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588639) *(Last modified: 2025-06-06)*
 - [rhel-install-software-in-red-hat-enterprise-linux-588856](https://labex.io/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588856) *(Last modified: 2025-06-09)*
+- [rhel-list-create-and-delete-partitions-on-mbr-and-gpt-disks-588257](https://labex.io/tutorials/rhel-list-create-and-delete-partitions-on-mbr-and-gpt-disks-588257) *(Last modified: 2025-07-09)*
+- [rhel-list-create-and-delete-partitions-on-mbr-and-gpt-disks-592693](https://labex.io/tutorials/rhel-list-create-and-delete-partitions-on-mbr-and-gpt-disks-592693) *(Last modified: 2025-07-09)*
 - [rhel-locate-and-interpret-system-log-files-588258](https://labex.io/tutorials/rhel-locate-and-interpret-system-log-files-588258) *(Last modified: 2025-07-08)*
 - [rhel-locate-and-interpret-system-log-files-592647](https://labex.io/tutorials/rhel-locate-and-interpret-system-log-files-592647) *(Last modified: 2025-07-08)*
 - [rhel-locate-setuid-files-588259](https://labex.io/tutorials/rhel-locate-setuid-files-588259) *(Last modified: 2025-07-08)*
@@ -14996,6 +15007,8 @@ This file contains all tutorials related links from LabEx website.
 - [rhel-monitor-processes-in-red-hat-enterprise-linux-588465](https://labex.io/tutorials/rhel-monitor-processes-in-red-hat-enterprise-linux-588465) *(Last modified: 2025-07-08)*
 - [rhel-monitor-processes-in-red-hat-enterprise-linux-588642](https://labex.io/tutorials/rhel-monitor-processes-in-red-hat-enterprise-linux-588642) *(Last modified: 2025-06-06)*
 - [rhel-navigate-and-search-man-pages-in-rhel-588437](https://labex.io/tutorials/rhel-navigate-and-search-man-pages-in-rhel-588437) *(Last modified: 2025-06-04)*
+- [rhel-preserve-system-journals-588271](https://labex.io/tutorials/rhel-preserve-system-journals-588271) *(Last modified: 2025-07-09)*
+- [rhel-preserve-system-journals-592662](https://labex.io/tutorials/rhel-preserve-system-journals-592662) *(Last modified: 2025-07-09)*
 - [rhel-process-arguments-in-bash-scripts-588272](https://labex.io/tutorials/rhel-process-arguments-in-bash-scripts-588272) *(Last modified: 2025-07-08)*
 - [rhel-query-and-update-packages-with-yum-in-linux-590869](https://labex.io/tutorials/rhel-query-and-update-packages-with-yum-in-linux-590869) *(Last modified: 2025-07-08)*
 - [rhel-query-and-update-packages-with-yum-in-linux-591113](https://labex.io/tutorials/rhel-query-and-update-packages-with-yum-in-linux-591113) *(Last modified: 2025-06-27)*
@@ -15006,6 +15019,8 @@ This file contains all tutorials related links from LabEx website.
 - [rhel-secure-ssh-in-red-hat-enterprise-linux-588643](https://labex.io/tutorials/rhel-secure-ssh-in-red-hat-enterprise-linux-588643) *(Last modified: 2025-06-06)*
 - [rhel-secure-with-firewalld-and-selinux-in-rhel-589259](https://labex.io/tutorials/rhel-secure-with-firewalld-and-selinux-in-rhel-589259) *(Last modified: 2025-07-08)*
 - [rhel-secure-with-firewalld-and-selinux-in-rhel-589283](https://labex.io/tutorials/rhel-secure-with-firewalld-and-selinux-in-rhel-589283) *(Last modified: 2025-06-17)*
+- [rhel-start-stop-and-check-the-status-of-network-services-588279](https://labex.io/tutorials/rhel-start-stop-and-check-the-status-of-network-services-588279) *(Last modified: 2025-07-09)*
+- [rhel-start-stop-and-check-the-status-of-network-services-592669](https://labex.io/tutorials/rhel-start-stop-and-check-the-status-of-network-services-592669) *(Last modified: 2025-07-09)*
 - [rhel-transfer-files-in-red-hat-enterprise-linux-588467](https://labex.io/tutorials/rhel-transfer-files-in-red-hat-enterprise-linux-588467) *(Last modified: 2025-07-08)*
 - [rhel-transfer-files-in-red-hat-enterprise-linux-588644](https://labex.io/tutorials/rhel-transfer-files-in-red-hat-enterprise-linux-588644) *(Last modified: 2025-06-06)*
 - [rhel-transfer-files-in-red-hat-enterprise-linux-588804](https://labex.io/tutorials/rhel-transfer-files-in-red-hat-enterprise-linux-588804) *(Last modified: 2025-06-09)*
