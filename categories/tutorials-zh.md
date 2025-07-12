@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-07-11 00:04 UTC
+> Last updated: 2025-07-12 00:04 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -7401,7 +7401,11 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-add-logging-to-the-system-monitor-299447](https://labex.io/zh/tutorials/linux-add-logging-to-the-system-monitor-299447) *(Last modified: 2025-07-10)*
 - [linux-add-new-user-and-group-17987](https://labex.io/zh/tutorials/linux-add-new-user-and-group-17987) *(Last modified: 2025-07-10)*
 - [linux-analyze-code-quality-with-the-cloc-tool-421925](https://labex.io/zh/tutorials/linux-analyze-code-quality-with-the-cloc-tool-421925) *(Last modified: 2025-03-16)*
+- [linux-analyze-ethernet-frames-with-tcpdump-in-linux-592764](https://labex.io/zh/tutorials/linux-analyze-ethernet-frames-with-tcpdump-in-linux-592764) *(Last modified: 2025-07-11)*
+- [linux-analyze-ethernet-frames-with-tcpdump-in-linux-592765](https://labex.io/zh/tutorials/linux-analyze-ethernet-frames-with-tcpdump-in-linux-592765) *(Last modified: 2025-07-11)*
 - [linux-analyze-historical-commands-17988](https://labex.io/zh/tutorials/linux-analyze-historical-commands-17988) *(Last modified: 2025-07-10)*
+- [linux-analyze-network-ports-and-sessions-with-netstat-in-linux-592740](https://labex.io/zh/tutorials/linux-analyze-network-ports-and-sessions-with-netstat-in-linux-592740) *(Last modified: 2025-07-11)*
+- [linux-analyze-network-ports-and-sessions-with-netstat-in-linux-592741](https://labex.io/zh/tutorials/linux-analyze-network-ports-and-sessions-with-netstat-in-linux-592741) *(Last modified: 2025-07-11)*
 - [linux-analyze-programming-language-usage-with-linux-tools-421924](https://labex.io/zh/tutorials/linux-analyze-programming-language-usage-with-linux-tools-421924) *(Last modified: 2025-03-16)*
 - [linux-analyzing-disk-usage-7775](https://labex.io/zh/tutorials/linux-analyzing-disk-usage-7775) *(Last modified: 2025-07-10)*
 - [linux-analyzing-path-directories-385344](https://labex.io/zh/tutorials/linux-analyzing-path-directories-385344) *(Last modified: 2025-07-10)*
@@ -7496,11 +7500,15 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-encrypt-and-decrypt-files-with-gpg-in-linux-591832](https://labex.io/zh/tutorials/linux-encrypt-and-decrypt-files-with-gpg-in-linux-591832) *(Last modified: 2025-07-01)*
 - [linux-enhance-copying-and-moving-with-advcpmv-295937](https://labex.io/zh/tutorials/linux-enhance-copying-and-moving-with-advcpmv-295937) *(Last modified: 2025-07-10)*
 - [linux-environment-variables-in-linux-385274](https://labex.io/zh/tutorials/linux-environment-variables-in-linux-385274) *(Last modified: 2025-07-10)*
+- [linux-examine-network-interface-settings-with-ethtool-in-linux-592758](https://labex.io/zh/tutorials/linux-examine-network-interface-settings-with-ethtool-in-linux-592758) *(Last modified: 2025-07-11)*
+- [linux-examine-network-interface-settings-with-ethtool-in-linux-592759](https://labex.io/zh/tutorials/linux-examine-network-interface-settings-with-ethtool-in-linux-592759) *(Last modified: 2025-07-11)*
 - [linux-explore-disk-usage-with-ncdu-296141](https://labex.io/zh/tutorials/linux-explore-disk-usage-with-ncdu-296141) *(Last modified: 2025-07-10)*
 - [linux-explore-hardware-devices-in-linux-591143](https://labex.io/zh/tutorials/linux-explore-hardware-devices-in-linux-591143) *(Last modified: 2025-06-27)*
 - [linux-explore-linux-environment-variables-416111](https://labex.io/zh/tutorials/linux-explore-linux-environment-variables-416111) *(Last modified: 2025-03-16)*
 - [linux-explore-linux-file-system-and-automate-tasks-398452](https://labex.io/zh/tutorials/linux-explore-linux-file-system-and-automate-tasks-398452) *(Last modified: 2025-03-16)*
 - [linux-explore-linux-file-system-architecture-392697](https://labex.io/zh/tutorials/linux-explore-linux-file-system-architecture-392697) *(Last modified: 2025-03-16)*
+- [linux-explore-network-layer-interaction-with-ping-and-arp-in-linux-592745](https://labex.io/zh/tutorials/linux-explore-network-layer-interaction-with-ping-and-arp-in-linux-592745) *(Last modified: 2025-07-11)*
+- [linux-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746](https://labex.io/zh/tutorials/linux-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746) *(Last modified: 2025-07-11)*
 - [linux-explore-the-linux-man-command-398447](https://labex.io/zh/tutorials/linux-explore-the-linux-man-command-398447) *(Last modified: 2025-03-16)*
 - [linux-explore-the-linux-shell-fundamentals-and-automation-398376](https://labex.io/zh/tutorials/linux-explore-the-linux-shell-fundamentals-and-automation-398376) *(Last modified: 2025-03-16)*
 - [linux-explore-the-power-of-the-linux-operating-system-411746](https://labex.io/zh/tutorials/linux-explore-the-power-of-the-linux-operating-system-411746) *(Last modified: 2025-03-16)*
@@ -9725,6 +9733,8 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-setting-up-a-lamp-server-372834](https://labex.io/zh/tutorials/linux-setting-up-a-lamp-server-372834) *(Last modified: 2025-07-10)*
 - [linux-setting-up-a-new-project-structure-387859](https://labex.io/zh/tutorials/linux-setting-up-a-new-project-structure-387859) *(Last modified: 2025-07-10)*
 - [linux-simple-text-processing-18004](https://labex.io/zh/tutorials/linux-simple-text-processing-18004) *(Last modified: 2025-07-10)*
+- [linux-simulate-network-layer-connectivity-in-linux-592751](https://labex.io/zh/tutorials/linux-simulate-network-layer-connectivity-in-linux-592751) *(Last modified: 2025-07-11)*
+- [linux-simulate-network-layer-connectivity-in-linux-592752](https://labex.io/zh/tutorials/linux-simulate-network-layer-connectivity-in-linux-592752) *(Last modified: 2025-07-11)*
 - [linux-sky-editing-adventure-271338](https://labex.io/zh/tutorials/linux-sky-editing-adventure-271338) *(Last modified: 2025-07-10)*
 - [linux-software-installation-on-linux-18005](https://labex.io/zh/tutorials/linux-software-installation-on-linux-18005) *(Last modified: 2025-07-10)*
 - [linux-space-battle-data-pipeline-385343](https://labex.io/zh/tutorials/linux-space-battle-data-pipeline-385343) *(Last modified: 2025-07-10)*
@@ -11092,7 +11102,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [postgresql-postgresql-relationships-and-joins-550959](https://labex.io/zh/tutorials/postgresql-postgresql-relationships-and-joins-550959) *(Last modified: 2025-07-10)*
 - [postgresql-postgresql-relationships-and-joins-551238](https://labex.io/zh/tutorials/postgresql-postgresql-relationships-and-joins-551238) *(Last modified: 2025-04-09)*
 - [postgresql-postgresql-relationships-and-joins-588020](https://labex.io/zh/tutorials/postgresql-postgresql-relationships-and-joins-588020) *(Last modified: 2025-05-30)*
-- [postgresql-postgresql-role-and-permission-management-550960](https://labex.io/zh/tutorials/postgresql-postgresql-role-and-permission-management-550960) *(Last modified: 2025-07-10)*
+- [postgresql-postgresql-role-and-permission-management-550960](https://labex.io/zh/tutorials/postgresql-postgresql-role-and-permission-management-550960) *(Last modified: 2025-07-11)*
 - [postgresql-postgresql-table-creation-and-data-types-550901](https://labex.io/zh/tutorials/postgresql-postgresql-table-creation-and-data-types-550901) *(Last modified: 2025-07-10)*
 - [postgresql-postgresql-table-creation-and-data-types-551107](https://labex.io/zh/tutorials/postgresql-postgresql-table-creation-and-data-types-551107) *(Last modified: 2025-04-07)*
 - [postgresql-postgresql-transaction-management-588026](https://labex.io/zh/tutorials/postgresql-postgresql-transaction-management-588026) *(Last modified: 2025-05-30)*
