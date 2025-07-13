@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Pt Sitemap
 
-> Last updated: 2025-07-12 00:04 UTC
+> Last updated: 2025-07-13 00:05 UTC
 
 This file contains all courses-pt related links from LabEx website.
 
