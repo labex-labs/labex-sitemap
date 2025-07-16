@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-De Sitemap
 
-> Last updated: 2025-07-15 00:04 UTC
+> Last updated: 2025-07-16 00:04 UTC
 
 This file contains all tutorials-de related links from LabEx website.
 
@@ -3451,7 +3451,6 @@ This file contains all tutorials-de related links from LabEx website.
 - [java-how-to-read-a-file-to-string-117443](https://labex.io/de/tutorials/java-how-to-read-a-file-to-string-117443) *(Last modified: 2025-07-14)*
 - [java-how-to-read-a-long-integer-input-using-scanner-in-java-417653](https://labex.io/de/tutorials/java-how-to-read-a-long-integer-input-using-scanner-in-java-417653) *(Last modified: 2025-03-16)*
 - [java-how-to-read-float-input-from-the-user-using-the-scanner-class-414121](https://labex.io/de/tutorials/java-how-to-read-float-input-from-the-user-using-the-scanner-class-414121) *(Last modified: 2025-03-16)*
-- [java-how-to-read-json-file-from-relative-path-in-java-417587](https://labex.io/de/tutorials/java-how-to-read-json-file-from-relative-path-in-java-417587) *(Last modified: 2025-07-14)*
 - [java-how-to-reduce-java-memory-consumption-421174](https://labex.io/de/tutorials/java-how-to-reduce-java-memory-consumption-421174) *(Last modified: 2025-04-09)*
 - [java-how-to-remove-base64-padding-characters-464451](https://labex.io/de/tutorials/java-how-to-remove-base64-padding-characters-464451) *(Last modified: 2025-03-16)*
 - [java-how-to-remove-duplicates-from-an-arraylist-using-a-hashset-in-java-414124](https://labex.io/de/tutorials/java-how-to-remove-duplicates-from-an-arraylist-using-a-hashset-in-java-414124) *(Last modified: 2025-03-16)*

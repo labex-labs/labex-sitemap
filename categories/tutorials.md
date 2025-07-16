@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2025-07-15 00:04 UTC
+> Last updated: 2025-07-16 00:04 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -5721,7 +5721,8 @@ This file contains all tutorials related links from LabEx website.
 - [java-how-to-read-float-safely-in-java-421486](https://labex.io/tutorials/java-how-to-read-float-safely-in-java-421486) *(Last modified: 2025-03-16)*
 - [java-how-to-read-integer-input-correctly-502975](https://labex.io/tutorials/java-how-to-read-integer-input-correctly-502975) *(Last modified: 2025-03-01)*
 - [java-how-to-read-integer-inputs-securely-419554](https://labex.io/tutorials/java-how-to-read-integer-inputs-securely-419554) *(Last modified: 2025-03-16)*
-- [java-how-to-read-json-file-from-relative-path-in-java-417587](https://labex.io/tutorials/java-how-to-read-json-file-from-relative-path-in-java-417587) *(Last modified: 2025-07-14)*
+- [java-how-to-read-json-file-from-relative-path-in-java-417587](https://labex.io/tutorials/java-how-to-read-json-file-from-relative-path-in-java-417587) *(Last modified: 2025-07-15)*
+- [java-how-to-read-json-file-from-relative-path-in-java-592805](https://labex.io/tutorials/java-how-to-read-json-file-from-relative-path-in-java-592805) *(Last modified: 2025-07-15)*
 - [java-how-to-read-single-char-from-input-502210](https://labex.io/tutorials/java-how-to-read-single-char-from-input-502210) *(Last modified: 2025-03-01)*
 - [java-how-to-read-single-characters-435227](https://labex.io/tutorials/java-how-to-read-single-characters-435227) *(Last modified: 2025-03-16)*
 - [java-how-to-read-stdin-in-java-502562](https://labex.io/tutorials/java-how-to-read-stdin-in-java-502562) *(Last modified: 2025-03-01)*

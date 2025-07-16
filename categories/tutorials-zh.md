@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-07-15 00:04 UTC
+> Last updated: 2025-07-16 00:04 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -5634,7 +5634,8 @@ This file contains all tutorials-zh related links from LabEx website.
 - [java-how-to-read-float-input-from-the-user-using-the-scanner-class-414121](https://labex.io/zh/tutorials/java-how-to-read-float-input-from-the-user-using-the-scanner-class-414121) *(Last modified: 2025-03-16)*
 - [java-how-to-read-float-safely-in-java-421486](https://labex.io/zh/tutorials/java-how-to-read-float-safely-in-java-421486) *(Last modified: 2025-03-16)*
 - [java-how-to-read-integer-inputs-securely-419554](https://labex.io/zh/tutorials/java-how-to-read-integer-inputs-securely-419554) *(Last modified: 2025-03-16)*
-- [java-how-to-read-json-file-from-relative-path-in-java-417587](https://labex.io/zh/tutorials/java-how-to-read-json-file-from-relative-path-in-java-417587) *(Last modified: 2025-07-14)*
+- [java-how-to-read-json-file-from-relative-path-in-java-417587](https://labex.io/zh/tutorials/java-how-to-read-json-file-from-relative-path-in-java-417587) *(Last modified: 2025-07-15)*
+- [java-how-to-read-json-file-from-relative-path-in-java-592805](https://labex.io/zh/tutorials/java-how-to-read-json-file-from-relative-path-in-java-592805) *(Last modified: 2025-07-15)*
 - [java-how-to-read-single-characters-435227](https://labex.io/zh/tutorials/java-how-to-read-single-characters-435227) *(Last modified: 2025-03-16)*
 - [java-how-to-read-user-input-and-convert-it-to-octal-in-java-414122](https://labex.io/zh/tutorials/java-how-to-read-user-input-and-convert-it-to-octal-in-java-414122) *(Last modified: 2025-03-16)*
 - [java-how-to-read-user-input-and-print-the-number-of-trailing-zeros-in-a-java-program-414123](https://labex.io/zh/tutorials/java-how-to-read-user-input-and-print-the-number-of-trailing-zeros-in-a-java-program-414123) *(Last modified: 2025-03-16)*

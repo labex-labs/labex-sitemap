@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Pt Sitemap
 
-> Last updated: 2025-07-15 00:04 UTC
+> Last updated: 2025-07-16 00:04 UTC
 
 This file contains all tutorials-pt related links from LabEx website.
 
@@ -3036,7 +3036,8 @@ This file contains all tutorials-pt related links from LabEx website.
 - [java-how-to-print-a-java-boolean-result-414108](https://labex.io/pt/tutorials/java-how-to-print-a-java-boolean-result-414108) *(Last modified: 2025-07-14)*
 - [java-how-to-print-variable-type-in-java-421459](https://labex.io/pt/tutorials/java-how-to-print-variable-type-in-java-421459) *(Last modified: 2025-07-14)*
 - [java-how-to-read-a-file-to-string-117443](https://labex.io/pt/tutorials/java-how-to-read-a-file-to-string-117443) *(Last modified: 2025-07-14)*
-- [java-how-to-read-json-file-from-relative-path-in-java-417587](https://labex.io/pt/tutorials/java-how-to-read-json-file-from-relative-path-in-java-417587) *(Last modified: 2025-07-14)*
+- [java-how-to-read-json-file-from-relative-path-in-java-417587](https://labex.io/pt/tutorials/java-how-to-read-json-file-from-relative-path-in-java-417587) *(Last modified: 2025-07-15)*
+- [java-how-to-read-json-file-from-relative-path-in-java-592805](https://labex.io/pt/tutorials/java-how-to-read-json-file-from-relative-path-in-java-592805) *(Last modified: 2025-07-15)*
 - [java-how-to-repeat-a-string-n-times-117448](https://labex.io/pt/tutorials/java-how-to-repeat-a-string-n-times-117448) *(Last modified: 2025-07-14)*
 - [java-how-to-resolve-cannot-access-class-error-417323](https://labex.io/pt/tutorials/java-how-to-resolve-cannot-access-class-error-417323) *(Last modified: 2025-07-14)*
 - [java-how-to-resolve-cannot-find-symbol-error-in-java-415709](https://labex.io/pt/tutorials/java-how-to-resolve-cannot-find-symbol-error-in-java-415709) *(Last modified: 2025-07-14)*
