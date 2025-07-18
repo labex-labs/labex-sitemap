@@ -4,7 +4,7 @@ layout: default
 
 # Courses-De Sitemap
 
-> Last updated: 2025-07-17 00:03 UTC
+> Last updated: 2025-07-18 00:04 UTC
 
 This file contains all courses-de related links from LabEx website.
 
@@ -122,6 +122,7 @@ This file contains all courses-de related links from LabEx website.
 - [css](https://labex.io/de/projects/category/css)
 - [data-science](https://labex.io/de/projects/category/data-science)
 - [devops](https://labex.io/de/projects/category/devops)
+- [docker](https://labex.io/de/projects/category/docker)
 - [go](https://labex.io/de/projects/category/go)
 - [html](https://labex.io/de/projects/category/html)
 - [java](https://labex.io/de/projects/category/java)

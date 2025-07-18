@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ru Sitemap
 
-> Last updated: 2025-07-17 00:03 UTC
+> Last updated: 2025-07-18 00:04 UTC
 
 This file contains all tutorials-ru related links from LabEx website.
 
@@ -4526,6 +4526,9 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-collect-files-from-specified-time-301463](https://labex.io/ru/tutorials/linux-collect-files-from-specified-time-301463) *(Last modified: 2025-05-21)*
 - [linux-commands-full-list-practical-examples-423950](https://labex.io/ru/tutorials/linux-commands-full-list-practical-examples-423950) *(Last modified: 2025-05-25)*
 - [linux-conditional-statements-in-shell-388815](https://labex.io/ru/tutorials/linux-conditional-statements-in-shell-388815) *(Last modified: 2025-07-16)*
+- [linux-configure-an-ipv4-to-ipv6-6to4-tunnel-in-linux-592867](https://labex.io/ru/tutorials/linux-configure-an-ipv4-to-ipv6-6to4-tunnel-in-linux-592867) *(Last modified: 2025-07-17)*
+- [linux-configure-and-verify-ipv6-addresses-in-linux-592857](https://labex.io/ru/tutorials/linux-configure-and-verify-ipv6-addresses-in-linux-592857) *(Last modified: 2025-07-17)*
+- [linux-configure-and-verify-ipv6-addresses-in-linux-592858](https://labex.io/ru/tutorials/linux-configure-and-verify-ipv6-addresses-in-linux-592858) *(Last modified: 2025-07-17)*
 - [linux-configure-development-environment-385293](https://labex.io/ru/tutorials/linux-configure-development-environment-385293) *(Last modified: 2025-07-16)*
 - [linux-configure-firewalld-to-allow-web-traffic-in-linux-591817](https://labex.io/ru/tutorials/linux-configure-firewalld-to-allow-web-traffic-in-linux-591817) *(Last modified: 2025-06-30)*
 - [linux-configure-linux-environment-variables-437861](https://labex.io/ru/tutorials/linux-configure-linux-environment-variables-437861) *(Last modified: 2025-07-16)*
@@ -4547,6 +4550,8 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-create-and-restore-a-backup-with-tar-in-linux-591079](https://labex.io/ru/tutorials/linux-create-and-restore-a-backup-with-tar-in-linux-591079) *(Last modified: 2025-06-27)*
 - [linux-create-personalized-terminal-greeting-446322](https://labex.io/ru/tutorials/linux-create-personalized-terminal-greeting-446322) *(Last modified: 2025-07-16)*
 - [linux-create-shell-script-with-inputs-588941](https://labex.io/ru/tutorials/linux-create-shell-script-with-inputs-588941) *(Last modified: 2025-06-13)*
+- [linux-create-vlan-interfaces-in-linux-using-the-ip-command-592841](https://labex.io/ru/tutorials/linux-create-vlan-interfaces-in-linux-using-the-ip-command-592841) *(Last modified: 2025-07-17)*
+- [linux-create-vlan-interfaces-in-linux-using-the-ip-command-592842](https://labex.io/ru/tutorials/linux-create-vlan-interfaces-in-linux-using-the-ip-command-592842) *(Last modified: 2025-07-17)*
 - [linux-creating-a-typing-game-using-bash-298847](https://labex.io/ru/tutorials/linux-creating-a-typing-game-using-bash-298847) *(Last modified: 2025-07-16)*
 - [linux-customize-the-grub2-boot-menu-in-linux-591133](https://labex.io/ru/tutorials/linux-customize-the-grub2-boot-menu-in-linux-591133) *(Last modified: 2025-06-27)*
 - [linux-customizing-linux-file-listing-301467](https://labex.io/ru/tutorials/linux-customizing-linux-file-listing-301467) *(Last modified: 2025-05-23)*
@@ -4895,6 +4900,9 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-introduction-to-labex-178589](https://labex.io/ru/tutorials/linux-introduction-to-labex-178589) *(Last modified: 2025-07-16)*
 - [linux-introductory-labex-programming-tutorial-189472](https://labex.io/ru/tutorials/linux-introductory-labex-programming-tutorial-189472) *(Last modified: 2025-07-16)*
 - [linux-json-data-processing-with-jq-279945](https://labex.io/ru/tutorials/linux-json-data-processing-with-jq-279945) *(Last modified: 2025-07-16)*
+- [linux-link-aggregation-port-bonding-in-linux-592850](https://labex.io/ru/tutorials/linux-link-aggregation-port-bonding-in-linux-592850) *(Last modified: 2025-07-17)*
+- [linux-link-aggregation-port-bonding-in-linux-592851](https://labex.io/ru/tutorials/linux-link-aggregation-port-bonding-in-linux-592851) *(Last modified: 2025-07-17)*
+- [linux-link-aggregation-port-bonding-in-linux-592853](https://labex.io/ru/tutorials/linux-link-aggregation-port-bonding-in-linux-592853) *(Last modified: 2025-07-17)*
 - [linux-linux-aplay-command-with-practical-examples-422545](https://labex.io/ru/tutorials/linux-linux-aplay-command-with-practical-examples-422545) *(Last modified: 2025-03-16)*
 - [linux-linux-arithmetic-calculations-271229](https://labex.io/ru/tutorials/linux-linux-arithmetic-calculations-271229) *(Last modified: 2025-07-16)*
 - [linux-linux-awk-command-text-processing-388493](https://labex.io/ru/tutorials/linux-linux-awk-command-text-processing-388493) *(Last modified: 2025-07-16)*
@@ -5110,6 +5118,8 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-online-linux-playground-372915](https://labex.io/ru/tutorials/linux-online-linux-playground-372915) *(Last modified: 2025-07-08)*
 - [linux-organizing-files-and-directories-387877](https://labex.io/ru/tutorials/linux-organizing-files-and-directories-387877) *(Last modified: 2025-07-16)*
 - [linux-perform-ip-subnetting-and-binary-conversion-in-the-linux-terminal-592782](https://labex.io/ru/tutorials/linux-perform-ip-subnetting-and-binary-conversion-in-the-linux-terminal-592782) *(Last modified: 2025-07-16)*
+- [linux-perform-ipv6-dns-lookups-in-linux-592861](https://labex.io/ru/tutorials/linux-perform-ipv6-dns-lookups-in-linux-592861) *(Last modified: 2025-07-17)*
+- [linux-perform-ipv6-dns-lookups-in-linux-592862](https://labex.io/ru/tutorials/linux-perform-ipv6-dns-lookups-in-linux-592862) *(Last modified: 2025-07-17)*
 - [linux-permissions-of-files-270252](https://labex.io/ru/tutorials/linux-permissions-of-files-270252) *(Last modified: 2025-07-16)*
 - [linux-preserve-airship-s-mystical-archives-with-tar-271397](https://labex.io/ru/tutorials/linux-preserve-airship-s-mystical-archives-with-tar-271397) *(Last modified: 2025-07-16)*
 - [linux-process-arguments-in-bash-scripts-588622](https://labex.io/ru/tutorials/linux-process-arguments-in-bash-scripts-588622) *(Last modified: 2025-06-06)*
@@ -5162,7 +5172,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-visualize-file-differences-with-icdiff-272381](https://labex.io/ru/tutorials/linux-visualize-file-differences-with-icdiff-272381) *(Last modified: 2025-07-16)*
 - [linux-word-count-and-sorting-388125](https://labex.io/ru/tutorials/linux-word-count-and-sorting-388125) *(Last modified: 2025-07-16)*
 - [linux-yarn-architecture-and-development-272324](https://labex.io/ru/tutorials/linux-yarn-architecture-and-development-272324) *(Last modified: 2025-07-16)*
-- [linux-your-first-linux-lab-270253](https://labex.io/ru/tutorials/linux-your-first-linux-lab-270253) *(Last modified: 2025-07-16)*
+- [linux-your-first-linux-lab-270253](https://labex.io/ru/tutorials/linux-your-first-linux-lab-270253) *(Last modified: 2025-07-17)*
 - [linux-your-first-linux-lab-515577](https://labex.io/ru/tutorials/linux-your-first-linux-lab-515577) *(Last modified: 2025-02-26)*
 - [manage-ip-addressing-in-linux-592735](https://labex.io/ru/tutorials/manage-ip-addressing-in-linux-592735) *(Last modified: 2025-07-10)*
 - [matplotlib-3d-contour-plotting-with-matplotlib-48623](https://labex.io/ru/tutorials/matplotlib-3d-contour-plotting-with-matplotlib-48623) *(Last modified: 2025-07-16)*
@@ -8517,7 +8527,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [wireshark-analyze-tcp-traffic-with-wireshark-follow-tcp-stream-feature-548836](https://labex.io/ru/tutorials/wireshark-analyze-tcp-traffic-with-wireshark-follow-tcp-stream-feature-548836) *(Last modified: 2025-03-25)*
 - [wireshark-apply-capture-filters-in-tshark-548914](https://labex.io/ru/tutorials/wireshark-apply-capture-filters-in-tshark-548914) *(Last modified: 2025-07-16)*
 - [wireshark-apply-capture-filters-in-tshark-548945](https://labex.io/ru/tutorials/wireshark-apply-capture-filters-in-tshark-548945) *(Last modified: 2025-03-27)*
-- [wireshark-apply-wireshark-capture-filters-for-network-traffic-analysis-415940](https://labex.io/ru/tutorials/wireshark-apply-wireshark-capture-filters-for-network-traffic-analysis-415940) *(Last modified: 2025-07-16)*
+- [wireshark-apply-wireshark-capture-filters-for-network-traffic-analysis-415940](https://labex.io/ru/tutorials/wireshark-apply-wireshark-capture-filters-for-network-traffic-analysis-415940) *(Last modified: 2025-07-17)*
 - [wireshark-automate-file-rotation-in-tshark-548915](https://labex.io/ru/tutorials/wireshark-automate-file-rotation-in-tshark-548915) *(Last modified: 2025-07-16)*
 - [wireshark-automate-file-rotation-in-tshark-548946](https://labex.io/ru/tutorials/wireshark-automate-file-rotation-in-tshark-548946) *(Last modified: 2025-03-27)*
 - [wireshark-capture-and-analyze-network-traffic-with-wireshark-415956](https://labex.io/ru/tutorials/wireshark-capture-and-analyze-network-traffic-with-wireshark-415956) *(Last modified: 2025-07-16)*
@@ -8551,7 +8561,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [wireshark-export-filtered-packets-in-tshark-548956](https://labex.io/ru/tutorials/wireshark-export-filtered-packets-in-tshark-548956) *(Last modified: 2025-03-27)*
 - [wireshark-export-http-objects-in-tshark-548925](https://labex.io/ru/tutorials/wireshark-export-http-objects-in-tshark-548925) *(Last modified: 2025-07-16)*
 - [wireshark-export-http-objects-in-tshark-548958](https://labex.io/ru/tutorials/wireshark-export-http-objects-in-tshark-548958) *(Last modified: 2025-03-27)*
-- [wireshark-export-packets-from-wireshark-415945](https://labex.io/ru/tutorials/wireshark-export-packets-from-wireshark-415945) *(Last modified: 2025-07-16)*
+- [wireshark-export-packets-from-wireshark-415945](https://labex.io/ru/tutorials/wireshark-export-packets-from-wireshark-415945) *(Last modified: 2025-07-17)*
 - [wireshark-export-suspicious-network-evidence-548846](https://labex.io/ru/tutorials/wireshark-export-suspicious-network-evidence-548846) *(Last modified: 2025-03-25)*
 - [wireshark-export-suspicious-network-evidence-548847](https://labex.io/ru/tutorials/wireshark-export-suspicious-network-evidence-548847) *(Last modified: 2025-07-16)*
 - [wireshark-extend-tshark-with-lua-scripts-548926](https://labex.io/ru/tutorials/wireshark-extend-tshark-with-lua-scripts-548926) *(Last modified: 2025-07-16)*
@@ -8771,7 +8781,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [wireshark-track-ipv6-traffic-patterns-548851](https://labex.io/ru/tutorials/wireshark-track-ipv6-traffic-patterns-548851) *(Last modified: 2025-07-16)*
 - [wireshark-troubleshoot-dns-queries-in-tshark-548938](https://labex.io/ru/tutorials/wireshark-troubleshoot-dns-queries-in-tshark-548938) *(Last modified: 2025-07-16)*
 - [wireshark-troubleshoot-dns-queries-in-tshark-548984](https://labex.io/ru/tutorials/wireshark-troubleshoot-dns-queries-in-tshark-548984) *(Last modified: 2025-03-27)*
-- [wireshark-uncover-suspicious-dns-queries-548854](https://labex.io/ru/tutorials/wireshark-uncover-suspicious-dns-queries-548854) *(Last modified: 2025-07-16)*
+- [wireshark-uncover-suspicious-dns-queries-548854](https://labex.io/ru/tutorials/wireshark-uncover-suspicious-dns-queries-548854) *(Last modified: 2025-07-17)*
 - [wireshark-use-display-filters-in-tshark-548939](https://labex.io/ru/tutorials/wireshark-use-display-filters-in-tshark-548939) *(Last modified: 2025-07-16)*
 - [wireshark-use-display-filters-in-tshark-548986](https://labex.io/ru/tutorials/wireshark-use-display-filters-in-tshark-548986) *(Last modified: 2025-03-27)*
 - [wireshark-use-display-filters-in-tshark-588129](https://labex.io/ru/tutorials/wireshark-use-display-filters-in-tshark-588129) *(Last modified: 2025-06-03)*
