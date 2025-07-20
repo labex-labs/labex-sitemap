@@ -1,6 +1,6 @@
 {
   "name": "@labex-labs/sitemap",
-  "version": "1.1.28",
+  "version": "1.1.29",
   "description": "A collection of LabEx website sitemaps - A hands-on learning platform for Linux, DevOps, and Cybersecurity",
   "main": "index.js",
   "files": [
