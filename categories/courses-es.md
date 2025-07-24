@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Es Sitemap
 
-> Last updated: 2025-07-23 00:05 UTC
+> Last updated: 2025-07-24 00:04 UTC
 
 This file contains all courses-es related links from LabEx website.
 
@@ -24,8 +24,6 @@ This file contains all courses-es related links from LabEx website.
 - [foundations-of-deep-learning](https://labex.io/es/courses/foundations-of-deep-learning)
 - [linux-basic-commands-practice-online](https://labex.io/es/courses/linux-basic-commands-practice-online)
 - [linux-for-noobs](https://labex.io/es/courses/linux-for-noobs)
-- [linux-software-playgrounds](https://labex.io/es/courses/linux-software-playgrounds)
-- [mysql-practice-challenges](https://labex.io/es/courses/mysql-practice-challenges)
 - [practical-python-programming](https://labex.io/es/courses/practical-python-programming)
 - [project-2048-web-game-using-jquery](https://labex.io/es/courses/project-2048-web-game-using-jquery)
 - [project-ascii-art-animation-with-opencv](https://labex.io/es/courses/project-ascii-art-animation-with-opencv)
@@ -37,6 +35,7 @@ This file contains all courses-es related links from LabEx website.
 - [project-build-a-task-scheduler-using-bash](https://labex.io/es/courses/project-build-a-task-scheduler-using-bash)
 - [project-build-a-tic-tac-toe-web-app](https://labex.io/es/courses/project-build-a-tic-tac-toe-web-app)
 - [project-build-aliens-game-using-pygame](https://labex.io/es/courses/project-build-aliens-game-using-pygame)
+- [project-build-an-image-cropping-tool-using-html5](https://labex.io/es/courses/project-build-an-image-cropping-tool-using-html5)
 - [project-build-an-vscode-extension-with-chatgpt](https://labex.io/es/courses/project-build-an-vscode-extension-with-chatgpt)
 - [project-build-flappy-bird-using-pygame](https://labex.io/es/courses/project-build-flappy-bird-using-pygame)
 - [project-build-maze-game-using-pygame](https://labex.io/es/courses/project-build-maze-game-using-pygame)
@@ -58,8 +57,10 @@ This file contains all courses-es related links from LabEx website.
 - [project-creating-a-code-rain-animation-using-pygame](https://labex.io/es/courses/project-creating-a-code-rain-animation-using-pygame)
 - [project-creating-a-code-rain-in-c-using-ncurses](https://labex.io/es/courses/project-creating-a-code-rain-in-c-using-ncurses)
 - [project-creating-a-drawing-board-web-app](https://labex.io/es/courses/project-creating-a-drawing-board-web-app)
+- [project-creating-a-dynamic-heart-animation-with-c](https://labex.io/es/courses/project-creating-a-dynamic-heart-animation-with-c)
 - [project-creating-a-gomoku-game-in-c](https://labex.io/es/courses/project-creating-a-gomoku-game-in-c)
 - [project-creating-a-minesweeper-game-with-javascript](https://labex.io/es/courses/project-creating-a-minesweeper-game-with-javascript)
+- [project-creating-a-simple-clock-animation-using-opengl-and-glut](https://labex.io/es/courses/project-creating-a-simple-clock-animation-using-opengl-and-glut)
 - [project-creating-a-simple-docker-container-in-cpp](https://labex.io/es/courses/project-creating-a-simple-docker-container-in-cpp)
 - [project-creating-a-simple-tic-tac-toe-game-in-c](https://labex.io/es/courses/project-creating-a-simple-tic-tac-toe-game-in-c)
 - [project-creating-a-snake-game-in-c](https://labex.io/es/courses/project-creating-a-snake-game-in-c)
@@ -109,13 +110,12 @@ This file contains all courses-es related links from LabEx website.
 - [quick-start-with-python](https://labex.io/es/courses/quick-start-with-python)
 - [quick-start-with-react](https://labex.io/es/courses/quick-start-with-react)
 - [quick-start-with-rust](https://labex.io/es/courses/quick-start-with-rust)
-- [quick-start-with-scikit-learn](https://labex.io/es/courses/quick-start-with-scikit-learn)
 - [quick-start-with-shell](https://labex.io/es/courses/quick-start-with-shell)
 - [quick-start-with-tensorflow](https://labex.io/es/courses/quick-start-with-tensorflow)
 - [rust-practice-labs](https://labex.io/es/courses/rust-practice-labs)
+- [seaborn-data-visualization-basics](https://labex.io/es/courses/seaborn-data-visualization-basics)
 - [supervised-learning-classification](https://labex.io/es/courses/supervised-learning-classification)
 - [supervised-learning-regression](https://labex.io/es/courses/supervised-learning-regression)
-- [the-advanced-python-mastery](https://labex.io/es/courses/the-advanced-python-mastery)
 - [unsupervised-learning-clustering](https://labex.io/es/courses/unsupervised-learning-clustering)
 - [c](https://labex.io/es/projects/category/c)
 - [cpp](https://labex.io/es/projects/category/cpp)
