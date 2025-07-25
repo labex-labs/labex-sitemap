@@ -4,7 +4,7 @@ layout: default
 
 # Pages Sitemap
 
-> Last updated: 2025-07-24 00:04 UTC
+> Last updated: 2025-07-25 00:03 UTC
 
 This file contains all pages related links from LabEx website.
 
