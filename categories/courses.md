@@ -4,7 +4,7 @@ layout: default
 
 # Courses Sitemap
 
-> Last updated: 2025-07-28 00:07 UTC
+> Last updated: 2025-07-29 00:05 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -457,6 +457,7 @@ This file contains all courses related links from LabEx website.
 - [quick-start-with-kubernetes](https://labex.io/courses/quick-start-with-kubernetes)
 - [quick-start-with-linux](https://labex.io/courses/quick-start-with-linux)
 - [quick-start-with-matplotlib](https://labex.io/courses/quick-start-with-matplotlib)
+- [quick-start-with-mongodb](https://labex.io/courses/quick-start-with-mongodb)
 - [quick-start-with-mysql](https://labex.io/courses/quick-start-with-mysql)
 - [quick-start-with-nmap](https://labex.io/courses/quick-start-with-nmap)
 - [quick-start-with-numpy](https://labex.io/courses/quick-start-with-numpy)
@@ -473,6 +474,7 @@ This file contains all courses related links from LabEx website.
 - [red-hat-system-administration-rh124-labs](https://labex.io/courses/red-hat-system-administration-rh124-labs)
 - [red-hat-system-administration-rh134-labs](https://labex.io/courses/red-hat-system-administration-rh134-labs)
 - [redis-for-beginners](https://labex.io/courses/redis-for-beginners)
+- [rhcsa-certification-exam-practice-exercises](https://labex.io/courses/rhcsa-certification-exam-practice-exercises)
 - [rust-practice-labs](https://labex.io/courses/rust-practice-labs)
 - [seaborn-data-visualization-basics](https://labex.io/courses/seaborn-data-visualization-basics)
 - [shell-practice-challenges](https://labex.io/courses/shell-practice-challenges)
