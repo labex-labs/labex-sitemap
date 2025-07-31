@@ -4,7 +4,7 @@ layout: default
 
 # Pages-Ja Sitemap
 
-> Last updated: 2025-07-30 00:05 UTC
+> Last updated: 2025-07-31 00:05 UTC
 
 This file contains all pages-ja related links from LabEx website.
 

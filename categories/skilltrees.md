@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees Sitemap
 
-> Last updated: 2025-07-30 00:05 UTC
+> Last updated: 2025-07-31 00:05 UTC
 
 This file contains all skilltrees related links from LabEx website.
 
@@ -15,44 +15,47 @@ This file contains all skilltrees related links from LabEx website.
 ## Links
 
 
+### learn
+
+- [ansible](https://labex.io/learn/ansible)
+- [c](https://labex.io/learn/c)
+- [comptia](https://labex.io/learn/comptia)
+- [cpp](https://labex.io/learn/cpp)
+- [css](https://labex.io/learn/css)
+- [cybersecurity](https://labex.io/learn/cybersecurity)
+- [data-science](https://labex.io/learn/data-science)
+- [database](https://labex.io/learn/database)
+- [devops](https://labex.io/learn/devops)
+- [docker](https://labex.io/learn/docker)
+- [git](https://labex.io/learn/git)
+- [go](https://labex.io/learn/go)
+- [html](https://labex.io/learn/html)
+- [hydra](https://labex.io/learn/hydra)
+- [java](https://labex.io/learn/java)
+- [javascript](https://labex.io/learn/javascript)
+- [kali](https://labex.io/learn/kali)
+- [kubernetes](https://labex.io/learn/kubernetes)
+- [linux](https://labex.io/learn/linux)
+- [matplotlib](https://labex.io/learn/matplotlib)
+- [ml](https://labex.io/learn/ml)
+- [mongodb](https://labex.io/learn/mongodb)
+- [mysql](https://labex.io/learn/mysql)
+- [nmap](https://labex.io/learn/nmap)
+- [numpy](https://labex.io/learn/numpy)
+- [pandas](https://labex.io/learn/pandas)
+- [postgresql](https://labex.io/learn/postgresql)
+- [python](https://labex.io/learn/python)
+- [react](https://labex.io/learn/react)
+- [redis](https://labex.io/learn/redis)
+- [rhel](https://labex.io/learn/rhel)
+- [shell](https://labex.io/learn/shell)
+- [sklearn](https://labex.io/learn/sklearn)
+- [sqlite](https://labex.io/learn/sqlite)
+- [web-development](https://labex.io/learn/web-development)
+- [wireshark](https://labex.io/learn/wireshark)
+
 ### skilltrees
 
-- [ansible](https://labex.io/skilltrees/ansible)
-- [c](https://labex.io/skilltrees/c)
-- [comptia](https://labex.io/skilltrees/comptia)
-- [cpp](https://labex.io/skilltrees/cpp)
-- [css](https://labex.io/skilltrees/css)
-- [cybersecurity](https://labex.io/skilltrees/cybersecurity)
-- [data-science](https://labex.io/skilltrees/data-science)
-- [database](https://labex.io/skilltrees/database)
-- [devops](https://labex.io/skilltrees/devops)
-- [docker](https://labex.io/skilltrees/docker)
-- [git](https://labex.io/skilltrees/git)
-- [go](https://labex.io/skilltrees/go)
-- [html](https://labex.io/skilltrees/html)
-- [hydra](https://labex.io/skilltrees/hydra)
-- [java](https://labex.io/skilltrees/java)
-- [javascript](https://labex.io/skilltrees/javascript)
-- [kali](https://labex.io/skilltrees/kali)
-- [kubernetes](https://labex.io/skilltrees/kubernetes)
-- [linux](https://labex.io/skilltrees/linux)
-- [matplotlib](https://labex.io/skilltrees/matplotlib)
-- [ml](https://labex.io/skilltrees/ml)
-- [mongodb](https://labex.io/skilltrees/mongodb)
-- [mysql](https://labex.io/skilltrees/mysql)
-- [nmap](https://labex.io/skilltrees/nmap)
-- [numpy](https://labex.io/skilltrees/numpy)
-- [pandas](https://labex.io/skilltrees/pandas)
-- [postgresql](https://labex.io/skilltrees/postgresql)
-- [python](https://labex.io/skilltrees/python)
-- [react](https://labex.io/skilltrees/react)
-- [redis](https://labex.io/skilltrees/redis)
-- [rhel](https://labex.io/skilltrees/rhel)
-- [shell](https://labex.io/skilltrees/shell)
-- [sklearn](https://labex.io/skilltrees/sklearn)
-- [sqlite](https://labex.io/skilltrees/sqlite)
-- [web-development](https://labex.io/skilltrees/web-development)
-- [wireshark](https://labex.io/skilltrees/wireshark)
 - [AnsibleSetupandConfigurationGroup](https://labex.io/skilltrees/ansible/groups/AnsibleSetupandConfigurationGroup)
 - [InventoryManagementGroup](https://labex.io/skilltrees/ansible/groups/InventoryManagementGroup)
 - [ModuleOperationsGroup](https://labex.io/skilltrees/ansible/groups/ModuleOperationsGroup)
