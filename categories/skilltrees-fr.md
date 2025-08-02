@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Fr Sitemap
 
-> Last updated: 2025-08-01 00:05 UTC
+> Last updated: 2025-08-02 00:04 UTC
 
 This file contains all skilltrees-fr related links from LabEx website.
 
@@ -661,6 +661,7 @@ This file contains all skilltrees-fr related links from LabEx website.
 - [file-ctrl](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/file-ctrl)
 - [fw-ctrl](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/fw-ctrl)
 - [git-ctrl](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/git-ctrl)
+- [gobuster](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/gobuster)
 - [hashcat-ops](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/hashcat-ops)
 - [hydra-ops](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/hydra-ops)
 - [john-ops](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/john-ops)
