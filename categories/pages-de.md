@@ -4,7 +4,7 @@ layout: default
 
 # Pages-De Sitemap
 
-> Last updated: 2025-08-04 00:05 UTC
+> Last updated: 2025-08-05 00:05 UTC
 
 This file contains all pages-de related links from LabEx website.
 

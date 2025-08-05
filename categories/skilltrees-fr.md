@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Fr Sitemap
 
-> Last updated: 2025-08-04 00:05 UTC
+> Last updated: 2025-08-05 00:05 UTC
 
 This file contains all skilltrees-fr related links from LabEx website.
 
@@ -659,6 +659,7 @@ This file contains all skilltrees-fr related links from LabEx website.
 - [burp-ops](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/burp-ops)
 - [cron-ops](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/cron-ops)
 - [file-ctrl](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/file-ctrl)
+- [fluxion](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/fluxion)
 - [fw-ctrl](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/fw-ctrl)
 - [git-ctrl](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/git-ctrl)
 - [gobuster](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/gobuster)
