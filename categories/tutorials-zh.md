@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-08-07 00:05 UTC
+> Last updated: 2025-08-08 00:05 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
