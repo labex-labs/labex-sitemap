@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Es Sitemap
 
-> Last updated: 2025-08-09 00:02 UTC
+> Last updated: 2025-08-10 00:05 UTC
 
 This file contains all tutorials-es related links from LabEx website.
 
@@ -4554,7 +4554,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [kali-set-a-delay-between-scan-requests-in-nikto-594539](https://labex.io/es/tutorials/kali-set-a-delay-between-scan-requests-in-nikto-594539) *(Last modified: 2025-08-05)*
 - [kali-set-a-request-timeout-in-nikto-594540](https://labex.io/es/tutorials/kali-set-a-request-timeout-in-nikto-594540) *(Last modified: 2025-08-05)*
 - [kali-set-up-a-browser-autopwn-attack-in-metasploit-594361](https://labex.io/es/tutorials/kali-set-up-a-browser-autopwn-attack-in-metasploit-594361) *(Last modified: 2025-08-05)*
-- [kali-set-up-a-controlled-lab-environment-594480](https://labex.io/es/tutorials/kali-set-up-a-controlled-lab-environment-594480) *(Last modified: 2025-08-05)*
+- [kali-set-up-a-controlled-lab-environment-594480](https://labex.io/es/tutorials/kali-set-up-a-controlled-lab-environment-594480) *(Last modified: 2025-08-09)*
 - [kali-set-up-browser-proxy-connection-in-firefox-594013](https://labex.io/es/tutorials/kali-set-up-browser-proxy-connection-in-firefox-594013) *(Last modified: 2025-08-05)*
 - [kali-setting-up-your-kali-linux-environment-552195](https://labex.io/es/tutorials/kali-setting-up-your-kali-linux-environment-552195) *(Last modified: 2025-08-08)*
 - [kali-show-ip-addresses-in-dns-scan-results-in-gobuster-594111](https://labex.io/es/tutorials/kali-show-ip-addresses-in-dns-scan-results-in-gobuster-594111) *(Last modified: 2025-08-05)*
