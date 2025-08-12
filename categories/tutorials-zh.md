@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-08-11 00:06 UTC
+> Last updated: 2025-08-12 00:05 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -1457,7 +1457,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [docker-exporting-docker-images-for-easy-deployment-and-distribution-400151](https://labex.io/zh/tutorials/docker-exporting-docker-images-for-easy-deployment-and-distribution-400151) *(Last modified: 2025-05-27)*
 - [docker-fix-docker-container-init-volume-mount-errors-416183](https://labex.io/zh/tutorials/docker-fix-docker-container-init-volume-mount-errors-416183) *(Last modified: 2025-05-29)*
 - [docker-forwarding-ports-in-docker-containers-for-application-access-393010](https://labex.io/zh/tutorials/docker-forwarding-ports-in-docker-containers-for-application-access-393010) *(Last modified: 2025-05-27)*
-- [docker-from-basics-to-multi-stage-builds-389193](https://labex.io/zh/tutorials/docker-from-basics-to-multi-stage-builds-389193) *(Last modified: 2025-08-10)*
+- [docker-from-basics-to-multi-stage-builds-389193](https://labex.io/zh/tutorials/docker-from-basics-to-multi-stage-builds-389193) *(Last modified: 2025-08-11)*
 - [docker-getting-started-with-claude-s-computer-use-demo-414860](https://labex.io/zh/tutorials/docker-getting-started-with-claude-s-computer-use-demo-414860) *(Last modified: 2025-08-10)*
 - [docker-how-to-access-a-docker-container-s-read-write-layer-from-the-host-411500](https://labex.io/zh/tutorials/docker-how-to-access-a-docker-container-s-read-write-layer-from-the-host-411500) *(Last modified: 2025-05-27)*
 - [docker-how-to-access-a-web-application-running-in-a-docker-container-415069](https://labex.io/zh/tutorials/docker-how-to-access-a-web-application-running-in-a-docker-container-415069) *(Last modified: 2025-08-10)*
@@ -7629,7 +7629,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [kubernetes-scheduing-with-node-selectors-15001](https://labex.io/zh/tutorials/kubernetes-scheduing-with-node-selectors-15001) *(Last modified: 2025-08-10)*
 - [kubernetes-secure-kubernetes-dashboard-access-434106](https://labex.io/zh/tutorials/kubernetes-secure-kubernetes-dashboard-access-434106) *(Last modified: 2025-08-10)*
 - [kubernetes-simplifying-kubernetes-management-with-lens-ide-394874](https://labex.io/zh/tutorials/kubernetes-simplifying-kubernetes-management-with-lens-ide-394874) *(Last modified: 2025-03-01)*
-- [kubernetes-storing-application-data-with-persistentvolumes-9685](https://labex.io/zh/tutorials/kubernetes-storing-application-data-with-persistentvolumes-9685) *(Last modified: 2025-08-10)*
+- [kubernetes-storing-application-data-with-persistentvolumes-9685](https://labex.io/zh/tutorials/kubernetes-storing-application-data-with-persistentvolumes-9685) *(Last modified: 2025-08-11)*
 - [kubernetes-taint-kubernetes-nodes-for-workload-isolation-414817](https://labex.io/zh/tutorials/kubernetes-taint-kubernetes-nodes-for-workload-isolation-414817) *(Last modified: 2025-03-16)*
 - [kubernetes-taints-and-tolerations-34029](https://labex.io/zh/tutorials/kubernetes-taints-and-tolerations-34029) *(Last modified: 2025-08-10)*
 - [kubernetes-troubleshoot-error-pulling-image-configuration-download-392972](https://labex.io/zh/tutorials/kubernetes-troubleshoot-error-pulling-image-configuration-download-392972) *(Last modified: 2025-04-09)*

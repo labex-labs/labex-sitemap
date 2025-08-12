@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Fr Sitemap
 
-> Last updated: 2025-08-11 00:06 UTC
+> Last updated: 2025-08-12 00:05 UTC
 
 This file contains all tutorials-fr related links from LabEx website.
 
@@ -1394,7 +1394,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [docker-exporting-docker-images-for-easy-deployment-and-distribution-400151](https://labex.io/fr/tutorials/docker-exporting-docker-images-for-easy-deployment-and-distribution-400151) *(Last modified: 2025-05-27)*
 - [docker-fix-docker-container-init-volume-mount-errors-416183](https://labex.io/fr/tutorials/docker-fix-docker-container-init-volume-mount-errors-416183) *(Last modified: 2025-05-29)*
 - [docker-forwarding-ports-in-docker-containers-for-application-access-393010](https://labex.io/fr/tutorials/docker-forwarding-ports-in-docker-containers-for-application-access-393010) *(Last modified: 2025-05-27)*
-- [docker-from-basics-to-multi-stage-builds-389193](https://labex.io/fr/tutorials/docker-from-basics-to-multi-stage-builds-389193) *(Last modified: 2025-08-10)*
+- [docker-from-basics-to-multi-stage-builds-389193](https://labex.io/fr/tutorials/docker-from-basics-to-multi-stage-builds-389193) *(Last modified: 2025-08-11)*
 - [docker-getting-started-with-claude-s-computer-use-demo-414860](https://labex.io/fr/tutorials/docker-getting-started-with-claude-s-computer-use-demo-414860) *(Last modified: 2025-08-10)*
 - [docker-how-to-access-a-docker-container-s-read-write-layer-from-the-host-411500](https://labex.io/fr/tutorials/docker-how-to-access-a-docker-container-s-read-write-layer-from-the-host-411500) *(Last modified: 2025-05-27)*
 - [docker-how-to-access-a-web-application-running-in-a-docker-container-415069](https://labex.io/fr/tutorials/docker-how-to-access-a-web-application-running-in-a-docker-container-415069) *(Last modified: 2025-08-10)*
@@ -4647,7 +4647,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [kubernetes-scheduing-with-node-affinity-18468](https://labex.io/fr/tutorials/kubernetes-scheduing-with-node-affinity-18468) *(Last modified: 2025-08-10)*
 - [kubernetes-scheduing-with-node-selectors-15001](https://labex.io/fr/tutorials/kubernetes-scheduing-with-node-selectors-15001) *(Last modified: 2025-08-10)*
 - [kubernetes-secure-kubernetes-dashboard-access-434106](https://labex.io/fr/tutorials/kubernetes-secure-kubernetes-dashboard-access-434106) *(Last modified: 2025-08-10)*
-- [kubernetes-storing-application-data-with-persistentvolumes-9685](https://labex.io/fr/tutorials/kubernetes-storing-application-data-with-persistentvolumes-9685) *(Last modified: 2025-08-10)*
+- [kubernetes-storing-application-data-with-persistentvolumes-9685](https://labex.io/fr/tutorials/kubernetes-storing-application-data-with-persistentvolumes-9685) *(Last modified: 2025-08-11)*
 - [kubernetes-taints-and-tolerations-34029](https://labex.io/fr/tutorials/kubernetes-taints-and-tolerations-34029) *(Last modified: 2025-08-10)*
 - [kubernetes-update-and-rollback-applications-434649](https://labex.io/fr/tutorials/kubernetes-update-and-rollback-applications-434649) *(Last modified: 2025-08-10)*
 - [kubernetes-use-statefulsets-controller-9205](https://labex.io/fr/tutorials/kubernetes-use-statefulsets-controller-9205) *(Last modified: 2025-08-10)*
