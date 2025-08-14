@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Pt Sitemap
 
-> Last updated: 2025-08-13 00:04 UTC
+> Last updated: 2025-08-14 00:05 UTC
 
 This file contains all tutorials-pt related links from LabEx website.
 
@@ -4653,7 +4653,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-linux-text-formatting-271361](https://labex.io/pt/tutorials/linux-linux-text-formatting-271361) *(Last modified: 2025-08-12)*
 - [linux-linux-text-processing-271227](https://labex.io/pt/tutorials/linux-linux-text-processing-271227) *(Last modified: 2025-08-12)*
 - [linux-linux-text-sorting-271385](https://labex.io/pt/tutorials/linux-linux-text-sorting-271385) *(Last modified: 2025-08-12)*
-- [linux-linux-tftp-command-with-practical-examples-422956](https://labex.io/pt/tutorials/linux-linux-tftp-command-with-practical-examples-422956) *(Last modified: 2025-08-12)*
+- [linux-linux-tftp-command-with-practical-examples-422956](https://labex.io/pt/tutorials/linux-linux-tftp-command-with-practical-examples-422956) *(Last modified: 2025-08-13)*
 - [linux-linux-time-command-command-timing-219197](https://labex.io/pt/tutorials/linux-linux-time-command-command-timing-219197) *(Last modified: 2025-08-12)*
 - [linux-linux-timekeeping-for-intergalactic-diplomacy-271260](https://labex.io/pt/tutorials/linux-linux-timekeeping-for-intergalactic-diplomacy-271260) *(Last modified: 2025-08-12)*
 - [linux-linux-top-command-real-time-system-monitoring-388500](https://labex.io/pt/tutorials/linux-linux-top-command-real-time-system-monitoring-388500) *(Last modified: 2025-08-12)*
@@ -7265,7 +7265,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [rhel-locate-setuid-files-588259](https://labex.io/pt/tutorials/rhel-locate-setuid-files-588259) *(Last modified: 2025-08-12)*
 - [rhel-log-in-and-switch-users-588260](https://labex.io/pt/tutorials/rhel-log-in-and-switch-users-588260) *(Last modified: 2025-08-12)*
 - [rhel-manage-file-permissions-588264](https://labex.io/pt/tutorials/rhel-manage-file-permissions-588264) *(Last modified: 2025-08-12)*
-- [rhel-manage-files-in-red-hat-enterprise-linux-588463](https://labex.io/pt/tutorials/rhel-manage-files-in-red-hat-enterprise-linux-588463) *(Last modified: 2025-08-12)*
+- [rhel-manage-files-in-red-hat-enterprise-linux-588463](https://labex.io/pt/tutorials/rhel-manage-files-in-red-hat-enterprise-linux-588463) *(Last modified: 2025-08-13)*
 - [rhel-manage-logs-and-archives-588265](https://labex.io/pt/tutorials/rhel-manage-logs-and-archives-588265) *(Last modified: 2025-08-12)*
 - [rhel-manage-rhel-storage-partitions-and-swap-space-589241](https://labex.io/pt/tutorials/rhel-manage-rhel-storage-partitions-and-swap-space-589241) *(Last modified: 2025-08-12)*
 - [rhel-manage-selinux-security-in-rhel-589233](https://labex.io/pt/tutorials/rhel-manage-selinux-security-in-rhel-589233) *(Last modified: 2025-08-12)*
