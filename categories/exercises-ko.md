@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Ko Sitemap
 
-> Last updated: 2025-08-18 00:05 UTC
+> Last updated: 2025-08-19 00:05 UTC
 
 This file contains all exercises-ko related links from LabEx website.
 
