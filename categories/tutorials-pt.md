@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Pt Sitemap
 
-> Last updated: 2025-08-19 00:05 UTC
+> Last updated: 2025-08-20 00:05 UTC
 
 This file contains all tutorials-pt related links from LabEx website.
 
@@ -1370,6 +1370,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [docker-comparing-containerd-and-docker-for-container-management-398325](https://labex.io/pt/tutorials/docker-comparing-containerd-and-docker-for-container-management-398325) *(Last modified: 2025-05-26)*
 - [docker-comprehensive-docker-course-containerization-391838](https://labex.io/pt/tutorials/docker-comprehensive-docker-course-containerization-391838) *(Last modified: 2025-05-27)*
 - [docker-connect-containers-with-link-49351](https://labex.io/pt/tutorials/docker-connect-containers-with-link-49351) *(Last modified: 2025-08-18)*
+- [docker-container-inspection-adventure-271466](https://labex.io/pt/tutorials/docker-container-inspection-adventure-271466) *(Last modified: 2025-08-19)*
 - [docker-create-docker-images-step-by-step-391128](https://labex.io/pt/tutorials/docker-create-docker-images-step-by-step-391128) *(Last modified: 2025-05-27)*
 - [docker-create-postgres-docker-container-on-ubuntu-392758](https://labex.io/pt/tutorials/docker-create-postgres-docker-container-on-ubuntu-392758) *(Last modified: 2025-05-27)*
 - [docker-custom-docker-images-389185](https://labex.io/pt/tutorials/docker-custom-docker-images-389185) *(Last modified: 2025-08-18)*
@@ -1377,6 +1378,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [docker-deploy-docker-containers-efficiently-391583](https://labex.io/pt/tutorials/docker-deploy-docker-containers-efficiently-391583) *(Last modified: 2025-05-30)*
 - [docker-deploy-docker-containers-on-ubuntu-392860](https://labex.io/pt/tutorials/docker-deploy-docker-containers-on-ubuntu-392860) *(Last modified: 2025-05-27)*
 - [docker-deploying-a-simple-tensorflow-model-298840](https://labex.io/pt/tutorials/docker-deploying-a-simple-tensorflow-model-298840) *(Last modified: 2025-08-18)*
+- [docker-deploying-local-docker-registry-17804](https://labex.io/pt/tutorials/docker-deploying-local-docker-registry-17804) *(Last modified: 2025-08-19)*
 - [docker-dive-into-docker-networking-389047](https://labex.io/pt/tutorials/docker-dive-into-docker-networking-389047) *(Last modified: 2025-08-18)*
 - [docker-diving-deeper-into-containers-388951](https://labex.io/pt/tutorials/docker-diving-deeper-into-containers-388951) *(Last modified: 2025-08-18)*
 - [docker-docker-build-args-391816](https://labex.io/pt/tutorials/docker-docker-build-args-391816) *(Last modified: 2025-05-26)*
@@ -1408,6 +1410,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [docker-docker-manage-docker-271503](https://labex.io/pt/tutorials/docker-docker-manage-docker-271503) *(Last modified: 2025-08-18)*
 - [docker-docker-manage-networks-271477](https://labex.io/pt/tutorials/docker-docker-manage-networks-271477) *(Last modified: 2025-08-18)*
 - [docker-docker-manage-volumes-271511](https://labex.io/pt/tutorials/docker-docker-manage-volumes-271511) *(Last modified: 2025-08-18)*
+- [docker-docker-mastery-in-gelasian-grasslands-271502](https://labex.io/pt/tutorials/docker-docker-mastery-in-gelasian-grasslands-271502) *(Last modified: 2025-08-19)*
 - [docker-docker-network-playground-389054](https://labex.io/pt/tutorials/docker-docker-network-playground-389054) *(Last modified: 2025-08-18)*
 - [docker-docker-networking-basics-389048](https://labex.io/pt/tutorials/docker-docker-networking-basics-389048) *(Last modified: 2025-08-18)*
 - [docker-docker-pull-image-from-repository-271485](https://labex.io/pt/tutorials/docker-docker-pull-image-from-repository-271485) *(Last modified: 2025-08-18)*
@@ -2157,7 +2160,9 @@ This file contains all tutorials-pt related links from LabEx website.
 - [docker-strategies-for-deleting-docker-images-392913](https://labex.io/pt/tutorials/docker-strategies-for-deleting-docker-images-392913) *(Last modified: 2025-05-27)*
 - [docker-streamlining-the-process-of-rebuilding-docker-images-413823](https://labex.io/pt/tutorials/docker-streamlining-the-process-of-rebuilding-docker-images-413823) *(Last modified: 2025-05-27)*
 - [docker-structuring-your-dockerfile-directory-for-optimal-docker-builds-392985](https://labex.io/pt/tutorials/docker-structuring-your-dockerfile-directory-for-optimal-docker-builds-392985) *(Last modified: 2025-05-27)*
+- [docker-superpower-image-organization-in-docker-271462](https://labex.io/pt/tutorials/docker-superpower-image-organization-in-docker-271462) *(Last modified: 2025-08-19)*
 - [docker-top-docker-commands-for-building-applications-392964](https://labex.io/pt/tutorials/docker-top-docker-commands-for-building-applications-392964) *(Last modified: 2025-05-27)*
+- [docker-treasure-island-cleanup-271492](https://labex.io/pt/tutorials/docker-treasure-island-cleanup-271492) *(Last modified: 2025-08-19)*
 - [docker-troubleshoot-and-fix-docker-compose-build-hanging-at-startup-392991](https://labex.io/pt/tutorials/docker-troubleshoot-and-fix-docker-compose-build-hanging-at-startup-392991) *(Last modified: 2025-05-27)*
 - [docker-troubleshoot-and-fix-docker-daemon-not-running-400165](https://labex.io/pt/tutorials/docker-troubleshoot-and-fix-docker-daemon-not-running-400165) *(Last modified: 2025-05-27)*
 - [docker-troubleshoot-zsh-command-not-found-docker-compose-with-docker-compose-390523](https://labex.io/pt/tutorials/docker-troubleshoot-zsh-command-not-found-docker-compose-with-docker-compose-390523) *(Last modified: 2025-08-18)*
@@ -2385,6 +2390,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [git-how-to-view-changes-in-a-specific-git-commit-417721](https://labex.io/pt/tutorials/git-how-to-view-changes-in-a-specific-git-commit-417721) *(Last modified: 2025-08-18)*
 - [git-how-to-view-the-commit-history-of-a-remote-git-branch-414840](https://labex.io/pt/tutorials/git-how-to-view-the-commit-history-of-a-remote-git-branch-414840) *(Last modified: 2025-08-18)*
 - [git-how-to-view-your-git-username-in-terminal-398375](https://labex.io/pt/tutorials/git-how-to-view-your-git-username-in-terminal-398375) *(Last modified: 2025-08-18)*
+- [git-initialize-git-project-385166](https://labex.io/pt/tutorials/git-initialize-git-project-385166) *(Last modified: 2025-08-19)*
 - [git-installing-a-git-server-299593](https://labex.io/pt/tutorials/git-installing-a-git-server-299593) *(Last modified: 2025-08-18)*
 - [git-list-all-git-aliases-12737](https://labex.io/pt/tutorials/git-list-all-git-aliases-12737) *(Last modified: 2025-08-18)*
 - [git-list-all-stashes-12738](https://labex.io/pt/tutorials/git-list-all-stashes-12738) *(Last modified: 2025-08-18)*
@@ -2438,7 +2444,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [git-view-merged-branches-12779](https://labex.io/pt/tutorials/git-view-merged-branches-12779) *(Last modified: 2025-08-18)*
 - [git-view-the-remote-url-12780](https://labex.io/pt/tutorials/git-view-the-remote-url-12780) *(Last modified: 2025-08-18)*
 - [git-view-undo-history-12782](https://labex.io/pt/tutorials/git-view-undo-history-12782) *(Last modified: 2025-08-18)*
-- [git-working-with-files-and-staging-area-387457](https://labex.io/pt/tutorials/git-working-with-files-and-staging-area-387457) *(Last modified: 2025-08-18)*
+- [git-working-with-files-and-staging-area-387457](https://labex.io/pt/tutorials/git-working-with-files-and-staging-area-387457) *(Last modified: 2025-08-19)*
 - [git-your-first-git-lab-92739](https://labex.io/pt/tutorials/git-your-first-git-lab-92739) *(Last modified: 2025-08-18)*
 - [go-anonymous-functions-in-golang-149099](https://labex.io/pt/tutorials/go-anonymous-functions-in-golang-149099) *(Last modified: 2025-08-18)*
 - [go-array-operations-in-golang-149075](https://labex.io/pt/tutorials/go-array-operations-in-golang-149075) *(Last modified: 2025-08-18)*
@@ -4293,7 +4299,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-chess-board-in-terminal-299820](https://labex.io/pt/tutorials/linux-chess-board-in-terminal-299820) *(Last modified: 2025-08-18)*
 - [linux-collect-files-from-specified-time-301463](https://labex.io/pt/tutorials/linux-collect-files-from-specified-time-301463) *(Last modified: 2025-05-21)*
 - [linux-commands-full-list-practical-examples-423950](https://labex.io/pt/tutorials/linux-commands-full-list-practical-examples-423950) *(Last modified: 2025-05-25)*
-- [linux-conditional-statements-in-shell-388815](https://labex.io/pt/tutorials/linux-conditional-statements-in-shell-388815) *(Last modified: 2025-08-18)*
+- [linux-conditional-statements-in-shell-388815](https://labex.io/pt/tutorials/linux-conditional-statements-in-shell-388815) *(Last modified: 2025-08-19)*
 - [linux-configure-an-ipv4-to-ipv6-6to4-tunnel-in-linux-592867](https://labex.io/pt/tutorials/linux-configure-an-ipv4-to-ipv6-6to4-tunnel-in-linux-592867) *(Last modified: 2025-08-18)*
 - [linux-configure-and-verify-ipv6-addresses-in-linux-592858](https://labex.io/pt/tutorials/linux-configure-and-verify-ipv6-addresses-in-linux-592858) *(Last modified: 2025-08-18)*
 - [linux-configure-development-environment-385293](https://labex.io/pt/tutorials/linux-configure-development-environment-385293) *(Last modified: 2025-08-18)*
@@ -4521,7 +4527,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-linux-arithmetic-calculations-271229](https://labex.io/pt/tutorials/linux-linux-arithmetic-calculations-271229) *(Last modified: 2025-08-18)*
 - [linux-linux-awk-command-text-processing-388493](https://labex.io/pt/tutorials/linux-linux-awk-command-text-processing-388493) *(Last modified: 2025-08-18)*
 - [linux-linux-background-management-271231](https://labex.io/pt/tutorials/linux-linux-background-management-271231) *(Last modified: 2025-08-18)*
-- [linux-linux-background-running-271233](https://labex.io/pt/tutorials/linux-linux-background-running-271233) *(Last modified: 2025-08-18)*
+- [linux-linux-background-running-271233](https://labex.io/pt/tutorials/linux-linux-background-running-271233) *(Last modified: 2025-08-19)*
 - [linux-linux-cat-command-file-concatenating-210986](https://labex.io/pt/tutorials/linux-linux-cat-command-file-concatenating-210986) *(Last modified: 2025-08-18)*
 - [linux-linux-cd-command-directory-changing-209733](https://labex.io/pt/tutorials/linux-linux-cd-command-directory-changing-209733) *(Last modified: 2025-08-18)*
 - [linux-linux-character-translating-271411](https://labex.io/pt/tutorials/linux-linux-character-translating-271411) *(Last modified: 2025-08-18)*
@@ -4729,6 +4735,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-software-installation-on-linux-18005](https://labex.io/pt/tutorials/linux-software-installation-on-linux-18005) *(Last modified: 2025-08-18)*
 - [linux-space-battle-data-pipeline-385343](https://labex.io/pt/tutorials/linux-space-battle-data-pipeline-385343) *(Last modified: 2025-08-18)*
 - [linux-space-exploration-disk-analysis-271266](https://labex.io/pt/tutorials/linux-space-exploration-disk-analysis-271266) *(Last modified: 2025-08-18)*
+- [linux-stream-editor-sed-7973](https://labex.io/pt/tutorials/linux-stream-editor-sed-7973) *(Last modified: 2025-08-19)*
 - [linux-system-information-displaying-script-18281](https://labex.io/pt/tutorials/linux-system-information-displaying-script-18281) *(Last modified: 2025-08-18)*
 - [linux-technical-interview-questions-and-answers-593708](https://labex.io/pt/tutorials/linux-technical-interview-questions-and-answers-593708) *(Last modified: 2025-07-31)*
 - [linux-terminate-processes-by-name-and-id-31](https://labex.io/pt/tutorials/linux-terminate-processes-by-name-and-id-31) *(Last modified: 2025-08-18)*
@@ -4740,9 +4747,11 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-treasure-island-networking-adventure-271340](https://labex.io/pt/tutorials/linux-treasure-island-networking-adventure-271340) *(Last modified: 2025-08-18)*
 - [linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859](https://labex.io/pt/tutorials/linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859) *(Last modified: 2025-08-18)*
 - [linux-troubleshooting-su-authentication-failures-on-linux-392816](https://labex.io/pt/tutorials/linux-troubleshooting-su-authentication-failures-on-linux-392816) *(Last modified: 2025-08-18)*
+- [linux-unleashing-vidyutpada-linux-input-mastery-271366](https://labex.io/pt/tutorials/linux-unleashing-vidyutpada-linux-input-mastery-271366) *(Last modified: 2025-08-19)*
 - [linux-user-account-management-49](https://labex.io/pt/tutorials/linux-user-account-management-49) *(Last modified: 2025-08-18)*
 - [linux-users-and-groups-creation-and-deletion-batch-301459](https://labex.io/pt/tutorials/linux-users-and-groups-creation-and-deletion-batch-301459) *(Last modified: 2025-05-21)*
 - [linux-using-hydra-to-crack-passwords-415960](https://labex.io/pt/tutorials/linux-using-hydra-to-crack-passwords-415960) *(Last modified: 2025-08-18)*
+- [linux-using-netcat-for-simple-network-communication-415961](https://labex.io/pt/tutorials/linux-using-netcat-for-simple-network-communication-415961) *(Last modified: 2025-08-19)*
 - [linux-viewing-log-and-configuration-files-in-linux-387914](https://labex.io/pt/tutorials/linux-viewing-log-and-configuration-files-in-linux-387914) *(Last modified: 2025-08-18)*
 - [linux-visualize-file-differences-with-icdiff-272381](https://labex.io/pt/tutorials/linux-visualize-file-differences-with-icdiff-272381) *(Last modified: 2025-08-18)*
 - [linux-web-development-interview-questions-and-answers-593705](https://labex.io/pt/tutorials/linux-web-development-interview-questions-and-answers-593705) *(Last modified: 2025-07-31)*
@@ -6213,6 +6222,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [python-filter-non-unique-list-values-13631](https://labex.io/pt/tutorials/python-filter-non-unique-list-values-13631) *(Last modified: 2025-05-25)*
 - [python-filter-unique-list-values-13632](https://labex.io/pt/tutorials/python-filter-unique-list-values-13632) *(Last modified: 2025-05-25)*
 - [python-find-all-matching-indexes-13633](https://labex.io/pt/tutorials/python-find-all-matching-indexes-13633) *(Last modified: 2025-05-25)*
+- [python-find-cloned-soldiers-165959](https://labex.io/pt/tutorials/python-find-cloned-soldiers-165959) *(Last modified: 2025-08-19)*
 - [python-find-common-elements-in-python-lists-13664](https://labex.io/pt/tutorials/python-find-common-elements-in-python-lists-13664) *(Last modified: 2025-05-25)*
 - [python-find-key-by-value-in-python-dictionary-13635](https://labex.io/pt/tutorials/python-find-key-by-value-in-python-dictionary-13635) *(Last modified: 2025-05-25)*
 - [python-find-keys-with-value-13636](https://labex.io/pt/tutorials/python-find-keys-with-value-13636) *(Last modified: 2025-05-25)*
@@ -7235,32 +7245,41 @@ This file contains all tutorials-pt related links from LabEx website.
 - [rhel-adjust-process-scheduling-588219](https://labex.io/pt/tutorials/rhel-adjust-process-scheduling-588219) *(Last modified: 2025-08-18)*
 - [rhel-analyze-logs-in-red-hat-enterprise-linux-588456](https://labex.io/pt/tutorials/rhel-analyze-logs-in-red-hat-enterprise-linux-588456) *(Last modified: 2025-08-18)*
 - [rhel-assign-physical-volumes-to-volume-groups-588220](https://labex.io/pt/tutorials/rhel-assign-physical-volumes-to-volume-groups-588220) *(Last modified: 2025-08-18)*
+- [rhel-change-passwords-and-adjust-password-aging-for-local-user-accounts-588224](https://labex.io/pt/tutorials/rhel-change-passwords-and-adjust-password-aging-for-local-user-accounts-588224) *(Last modified: 2025-08-19)*
 - [rhel-configure-autofs-588226](https://labex.io/pt/tutorials/rhel-configure-autofs-588226) *(Last modified: 2025-08-18)*
 - [rhel-configure-file-systems-by-uuid-588227](https://labex.io/pt/tutorials/rhel-configure-file-systems-by-uuid-588227) *(Last modified: 2025-08-18)*
+- [rhel-configure-firewall-using-firewall-cmd-firewalld-588228](https://labex.io/pt/tutorials/rhel-configure-firewall-using-firewall-cmd-firewalld-588228) *(Last modified: 2025-08-19)*
 - [rhel-configure-hostname-resolution-588229](https://labex.io/pt/tutorials/rhel-configure-hostname-resolution-588229) *(Last modified: 2025-08-18)*
 - [rhel-configure-ipv4-and-ipv6-addresses-588230](https://labex.io/pt/tutorials/rhel-configure-ipv4-and-ipv6-addresses-588230) *(Last modified: 2025-08-18)*
-- [rhel-configure-network-services-to-start-automatically-at-boot-588232](https://labex.io/pt/tutorials/rhel-configure-network-services-to-start-automatically-at-boot-588232) *(Last modified: 2025-08-18)*
+- [rhel-configure-key-based-authentication-for-ssh-588231](https://labex.io/pt/tutorials/rhel-configure-key-based-authentication-for-ssh-588231) *(Last modified: 2025-08-19)*
+- [rhel-configure-network-services-to-start-automatically-at-boot-588232](https://labex.io/pt/tutorials/rhel-configure-network-services-to-start-automatically-at-boot-588232) *(Last modified: 2025-08-19)*
 - [rhel-configure-networking-in-red-hat-enterprise-linux-588457](https://labex.io/pt/tutorials/rhel-configure-networking-in-red-hat-enterprise-linux-588457) *(Last modified: 2025-08-18)*
 - [rhel-configure-nfs-client-access-in-rhel-589252](https://labex.io/pt/tutorials/rhel-configure-nfs-client-access-in-rhel-589252) *(Last modified: 2025-08-18)*
+- [rhel-configure-superuser-access-588233](https://labex.io/pt/tutorials/rhel-configure-superuser-access-588233) *(Last modified: 2025-08-19)*
 - [rhel-configure-system-to-boot-into-a-specific-target-automatically-588234](https://labex.io/pt/tutorials/rhel-configure-system-to-boot-into-a-specific-target-automatically-588234) *(Last modified: 2025-08-18)*
 - [rhel-configure-time-service-clients-588235](https://labex.io/pt/tutorials/rhel-configure-time-service-clients-588235) *(Last modified: 2025-08-18)*
 - [rhel-control-ansible-playbook-execution-on-rhel-590569](https://labex.io/pt/tutorials/rhel-control-ansible-playbook-execution-on-rhel-590569) *(Last modified: 2025-08-18)*
 - [rhel-control-file-access-in-red-hat-enterprise-linux-588458](https://labex.io/pt/tutorials/rhel-control-file-access-in-red-hat-enterprise-linux-588458) *(Last modified: 2025-08-18)*
 - [rhel-control-services-in-red-hat-enterprise-linux-588459](https://labex.io/pt/tutorials/rhel-control-services-in-red-hat-enterprise-linux-588459) *(Last modified: 2025-08-18)*
+- [rhel-create-a-conditional-shell-script-588236](https://labex.io/pt/tutorials/rhel-create-a-conditional-shell-script-588236) *(Last modified: 2025-08-19)*
 - [rhel-create-and-configure-file-systems-588237](https://labex.io/pt/tutorials/rhel-create-and-configure-file-systems-588237) *(Last modified: 2025-08-18)*
 - [rhel-create-and-delete-logical-volumes-588238](https://labex.io/pt/tutorials/rhel-create-and-delete-logical-volumes-588238) *(Last modified: 2025-08-18)*
 - [rhel-create-and-execute-bash-scripts-in-rhel-588877](https://labex.io/pt/tutorials/rhel-create-and-execute-bash-scripts-in-rhel-588877) *(Last modified: 2025-08-18)*
 - [rhel-create-and-extend-lvm-logical-volumes-in-rhel-589245](https://labex.io/pt/tutorials/rhel-create-and-extend-lvm-logical-volumes-in-rhel-589245) *(Last modified: 2025-08-18)*
 - [rhel-create-and-extract-tar-archives-588239](https://labex.io/pt/tutorials/rhel-create-and-extract-tar-archives-588239) *(Last modified: 2025-08-18)*
+- [rhel-create-and-manage-local-groups-588240](https://labex.io/pt/tutorials/rhel-create-and-manage-local-groups-588240) *(Last modified: 2025-08-19)*
+- [rhel-create-and-manage-local-user-accounts-588241](https://labex.io/pt/tutorials/rhel-create-and-manage-local-user-accounts-588241) *(Last modified: 2025-08-19)*
 - [rhel-create-and-manipulate-symbolic-links-588242](https://labex.io/pt/tutorials/rhel-create-and-manipulate-symbolic-links-588242) *(Last modified: 2025-08-18)*
 - [rhel-create-set-gid-directories-for-collaboration-588244](https://labex.io/pt/tutorials/rhel-create-set-gid-directories-for-collaboration-588244) *(Last modified: 2025-08-18)*
 - [rhel-create-shell-script-with-inputs-588245](https://labex.io/pt/tutorials/rhel-create-shell-script-with-inputs-588245) *(Last modified: 2025-08-18)*
 - [rhel-create-shell-scripts-to-process-command-output-588246](https://labex.io/pt/tutorials/rhel-create-shell-scripts-to-process-command-output-588246) *(Last modified: 2025-08-18)*
 - [rhel-create-shell-scripts-with-loops-588247](https://labex.io/pt/tutorials/rhel-create-shell-scripts-with-loops-588247) *(Last modified: 2025-08-18)*
+- [rhel-diagnose-and-address-selinux-policy-violations-588248](https://labex.io/pt/tutorials/rhel-diagnose-and-address-selinux-policy-violations-588248) *(Last modified: 2025-08-19)*
 - [rhel-diagnose-and-correct-file-permission-problems-588249](https://labex.io/pt/tutorials/rhel-diagnose-and-correct-file-permission-problems-588249) *(Last modified: 2025-08-18)*
 - [rhel-edit-text-files-in-red-hat-enterprise-linux-588460](https://labex.io/pt/tutorials/rhel-edit-text-files-in-red-hat-enterprise-linux-588460) *(Last modified: 2025-08-18)*
 - [rhel-extend-existing-logical-volumes-588250](https://labex.io/pt/tutorials/rhel-extend-existing-logical-volumes-588250) *(Last modified: 2025-08-18)*
 - [rhel-get-help-in-red-hat-enterprise-linux-588461](https://labex.io/pt/tutorials/rhel-get-help-in-red-hat-enterprise-linux-588461) *(Last modified: 2025-08-18)*
+- [rhel-identify-selinux-file-context-588252](https://labex.io/pt/tutorials/rhel-identify-selinux-file-context-588252) *(Last modified: 2025-08-19)*
 - [rhel-implement-hard-links-in-linux-588253](https://labex.io/pt/tutorials/rhel-implement-hard-links-in-linux-588253) *(Last modified: 2025-08-18)*
 - [rhel-install-and-automate-rhel-deployments-589257](https://labex.io/pt/tutorials/rhel-install-and-automate-rhel-deployments-589257) *(Last modified: 2025-08-18)*
 - [rhel-install-and-update-software-packages-588255](https://labex.io/pt/tutorials/rhel-install-and-update-software-packages-588255) *(Last modified: 2025-08-18)*
@@ -7270,14 +7289,17 @@ This file contains all tutorials-pt related links from LabEx website.
 - [rhel-locate-and-interpret-system-log-files-588258](https://labex.io/pt/tutorials/rhel-locate-and-interpret-system-log-files-588258) *(Last modified: 2025-08-18)*
 - [rhel-locate-setuid-files-588259](https://labex.io/pt/tutorials/rhel-locate-setuid-files-588259) *(Last modified: 2025-08-18)*
 - [rhel-log-in-and-switch-users-588260](https://labex.io/pt/tutorials/rhel-log-in-and-switch-users-588260) *(Last modified: 2025-08-18)*
+- [rhel-manage-default-file-permissions-588263](https://labex.io/pt/tutorials/rhel-manage-default-file-permissions-588263) *(Last modified: 2025-08-19)*
 - [rhel-manage-file-permissions-588264](https://labex.io/pt/tutorials/rhel-manage-file-permissions-588264) *(Last modified: 2025-08-18)*
 - [rhel-manage-files-in-red-hat-enterprise-linux-588463](https://labex.io/pt/tutorials/rhel-manage-files-in-red-hat-enterprise-linux-588463) *(Last modified: 2025-08-18)*
 - [rhel-manage-logs-and-archives-588265](https://labex.io/pt/tutorials/rhel-manage-logs-and-archives-588265) *(Last modified: 2025-08-18)*
 - [rhel-manage-rhel-storage-partitions-and-swap-space-589241](https://labex.io/pt/tutorials/rhel-manage-rhel-storage-partitions-and-swap-space-589241) *(Last modified: 2025-08-18)*
+- [rhel-manage-selinux-port-labels-588266](https://labex.io/pt/tutorials/rhel-manage-selinux-port-labels-588266) *(Last modified: 2025-08-19)*
 - [rhel-manage-selinux-security-in-rhel-589233](https://labex.io/pt/tutorials/rhel-manage-selinux-security-in-rhel-589233) *(Last modified: 2025-08-18)*
 - [rhel-manage-tuning-profiles-588267](https://labex.io/pt/tutorials/rhel-manage-tuning-profiles-588267) *(Last modified: 2025-08-18)*
 - [rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464](https://labex.io/pt/tutorials/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464) *(Last modified: 2025-08-18)*
 - [rhel-managing-packages-with-rpm-in-linux-590868](https://labex.io/pt/tutorials/rhel-managing-packages-with-rpm-in-linux-590868) *(Last modified: 2025-08-18)*
+- [rhel-modify-selinux-boolean-settings-588268](https://labex.io/pt/tutorials/rhel-modify-selinux-boolean-settings-588268) *(Last modified: 2025-08-19)*
 - [rhel-modify-the-system-bootloader-588269](https://labex.io/pt/tutorials/rhel-modify-the-system-bootloader-588269) *(Last modified: 2025-08-18)*
 - [rhel-monitor-processes-in-red-hat-enterprise-linux-588465](https://labex.io/pt/tutorials/rhel-monitor-processes-in-red-hat-enterprise-linux-588465) *(Last modified: 2025-08-18)*
 - [rhel-mount-and-unmount-network-file-systems-using-nfs-588270](https://labex.io/pt/tutorials/rhel-mount-and-unmount-network-file-systems-using-nfs-588270) *(Last modified: 2025-08-18)*
@@ -7286,15 +7308,19 @@ This file contains all tutorials-pt related links from LabEx website.
 - [rhel-process-arguments-in-bash-scripts-588272](https://labex.io/pt/tutorials/rhel-process-arguments-in-bash-scripts-588272) *(Last modified: 2025-08-18)*
 - [rhel-query-and-update-packages-with-yum-in-linux-590869](https://labex.io/pt/tutorials/rhel-query-and-update-packages-with-yum-in-linux-590869) *(Last modified: 2025-08-18)*
 - [rhel-red-hat-enterprise-linux-interview-questions-and-answers-593701](https://labex.io/pt/tutorials/rhel-red-hat-enterprise-linux-interview-questions-and-answers-593701) *(Last modified: 2025-07-31)*
+- [rhel-restore-default-file-contexts-588273](https://labex.io/pt/tutorials/rhel-restore-default-file-contexts-588273) *(Last modified: 2025-08-19)*
+- [rhel-restrict-network-access-using-firewall-cmd-588274](https://labex.io/pt/tutorials/rhel-restrict-network-access-using-firewall-cmd-588274) *(Last modified: 2025-08-19)*
 - [rhel-run-containers-with-podman-on-rhel-589256](https://labex.io/pt/tutorials/rhel-run-containers-with-podman-on-rhel-589256) *(Last modified: 2025-08-18)*
 - [rhel-schedule-tasks-in-red-hat-enterprise-linux-588897](https://labex.io/pt/tutorials/rhel-schedule-tasks-in-red-hat-enterprise-linux-588897) *(Last modified: 2025-08-18)*
 - [rhel-schedule-tasks-using-at-and-cron-588276](https://labex.io/pt/tutorials/rhel-schedule-tasks-using-at-and-cron-588276) *(Last modified: 2025-08-18)*
 - [rhel-secure-ssh-in-red-hat-enterprise-linux-588466](https://labex.io/pt/tutorials/rhel-secure-ssh-in-red-hat-enterprise-linux-588466) *(Last modified: 2025-08-18)*
 - [rhel-secure-with-firewalld-and-selinux-in-rhel-589259](https://labex.io/pt/tutorials/rhel-secure-with-firewalld-and-selinux-in-rhel-589259) *(Last modified: 2025-08-18)*
+- [rhel-set-selinux-mode-588277](https://labex.io/pt/tutorials/rhel-set-selinux-mode-588277) *(Last modified: 2025-08-19)*
 - [rhel-start-and-configure-services-588278](https://labex.io/pt/tutorials/rhel-start-and-configure-services-588278) *(Last modified: 2025-08-18)*
 - [rhel-start-stop-and-check-the-status-of-network-services-588279](https://labex.io/pt/tutorials/rhel-start-stop-and-check-the-status-of-network-services-588279) *(Last modified: 2025-08-18)*
 - [rhel-transfer-files-in-red-hat-enterprise-linux-588467](https://labex.io/pt/tutorials/rhel-transfer-files-in-red-hat-enterprise-linux-588467) *(Last modified: 2025-08-18)*
 - [rhel-troubleshoot-the-rhel-boot-process-589253](https://labex.io/pt/tutorials/rhel-troubleshoot-the-rhel-boot-process-589253) *(Last modified: 2025-08-18)*
+- [rhel-tune-system-performance-in-rhel-588907](https://labex.io/pt/tutorials/rhel-tune-system-performance-in-rhel-588907) *(Last modified: 2025-08-19)*
 - [round-number-to-given-precision-28605](https://labex.io/pt/tutorials/round-number-to-given-precision-28605) *(Last modified: 2025-08-18)*
 - [rust-abort-and-unwind-99232](https://labex.io/pt/tutorials/rust-abort-and-unwind-99232) *(Last modified: 2025-08-18)*
 - [rust-accepting-command-line-arguments-100418](https://labex.io/pt/tutorials/rust-accepting-command-line-arguments-100418) *(Last modified: 2025-08-18)*
