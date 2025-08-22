@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Es Sitemap
 
-> Last updated: 2025-08-21 00:04 UTC
+> Last updated: 2025-08-22 00:05 UTC
 
 This file contains all courses-es related links from LabEx website.
 
@@ -481,7 +481,6 @@ This file contains all courses-es related links from LabEx website.
 - [quick-start-with-html](https://labex.io/es/courses/quick-start-with-html)
 - [quick-start-with-java](https://labex.io/es/courses/quick-start-with-java)
 - [quick-start-with-javascript](https://labex.io/es/courses/quick-start-with-javascript)
-- [quick-start-with-jenkins](https://labex.io/es/courses/quick-start-with-jenkins)
 - [quick-start-with-jquery](https://labex.io/es/courses/quick-start-with-jquery)
 - [quick-start-with-kubernetes](https://labex.io/es/courses/quick-start-with-kubernetes)
 - [quick-start-with-linux](https://labex.io/es/courses/quick-start-with-linux)

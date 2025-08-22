@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Pt Sitemap
 
-> Last updated: 2025-08-21 00:04 UTC
+> Last updated: 2025-08-22 00:05 UTC
 
 This file contains all tutorials-pt related links from LabEx website.
 
@@ -3902,8 +3902,11 @@ This file contains all tutorials-pt related links from LabEx website.
 - [javascript-weekly-weather-forecast-application-development-445676](https://labex.io/pt/tutorials/javascript-weekly-weather-forecast-application-development-445676) *(Last modified: 2025-05-21)*
 - [javascript-weighted-random-sampling-in-javascript-28696](https://labex.io/pt/tutorials/javascript-weighted-random-sampling-in-javascript-28696) *(Last modified: 2025-08-20)*
 - [javascript-word-wrap-string-28697](https://labex.io/pt/tutorials/javascript-word-wrap-string-28697) *(Last modified: 2025-08-20)*
-- [jenkins-installing-jenkins-with-docker-391174](https://labex.io/pt/tutorials/jenkins-installing-jenkins-with-docker-391174) *(Last modified: 2025-08-20)*
-- [jenkins-jenkins-user-management-391302](https://labex.io/pt/tutorials/jenkins-jenkins-user-management-391302) *(Last modified: 2025-06-13)*
+- [jenkins-configuring-basic-freestyle-projects-595302](https://labex.io/pt/tutorials/jenkins-configuring-basic-freestyle-projects-595302) *(Last modified: 2025-08-21)*
+- [jenkins-exploring-the-jenkins-interface-595303](https://labex.io/pt/tutorials/jenkins-exploring-the-jenkins-interface-595303) *(Last modified: 2025-08-21)*
+- [jenkins-installing-jenkins-with-docker-391174](https://labex.io/pt/tutorials/jenkins-installing-jenkins-with-docker-391174) *(Last modified: 2025-08-21)*
+- [jenkins-integrating-jenkins-with-source-control-git-595304](https://labex.io/pt/tutorials/jenkins-integrating-jenkins-with-source-control-git-595304) *(Last modified: 2025-08-21)*
+- [jenkins-jenkins-user-management-391302](https://labex.io/pt/tutorials/jenkins-jenkins-user-management-391302) *(Last modified: 2025-08-21)*
 - [jenkins-online-jenkins-playground-415838](https://labex.io/pt/tutorials/jenkins-online-jenkins-playground-415838) *(Last modified: 2025-08-04)*
 - [jquery-go-to-the-next-step-445660](https://labex.io/pt/tutorials/jquery-go-to-the-next-step-445660) *(Last modified: 2025-06-29)*
 - [jquery-how-jquery-works-153752](https://labex.io/pt/tutorials/jquery-how-jquery-works-153752) *(Last modified: 2025-08-20)*
@@ -4352,7 +4355,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-file-structure-visualization-with-tre-384505](https://labex.io/pt/tutorials/linux-file-structure-visualization-with-tre-384505) *(Last modified: 2025-08-20)*
 - [linux-file-system-and-disk-management-17999](https://labex.io/pt/tutorials/linux-file-system-and-disk-management-17999) *(Last modified: 2025-08-20)*
 - [linux-files-and-directories-270246](https://labex.io/pt/tutorials/linux-files-and-directories-270246) *(Last modified: 2025-08-20)*
-- [linux-find-a-file-17993](https://labex.io/pt/tutorials/linux-find-a-file-17993) *(Last modified: 2025-08-20)*
+- [linux-find-a-file-17993](https://labex.io/pt/tutorials/linux-find-a-file-17993) *(Last modified: 2025-08-21)*
 - [linux-foundational-security-concepts-cia-triad-in-linux-592882](https://labex.io/pt/tutorials/linux-foundational-security-concepts-cia-triad-in-linux-592882) *(Last modified: 2025-08-20)*
 - [linux-galactic-secure-connections-with-linux-271388](https://labex.io/pt/tutorials/linux-galactic-secure-connections-with-linux-271388) *(Last modified: 2025-08-20)*
 - [linux-get-help-on-linux-commands-18000](https://labex.io/pt/tutorials/linux-get-help-on-linux-commands-18000) *(Last modified: 2025-08-20)*
@@ -4683,7 +4686,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-linux-wildcard-character-271447](https://labex.io/pt/tutorials/linux-linux-wildcard-character-271447) *(Last modified: 2025-08-20)*
 - [linux-linux-xargs-command-command-building-219201](https://labex.io/pt/tutorials/linux-linux-xargs-command-command-building-219201) *(Last modified: 2025-08-20)*
 - [linux-logical-commands-and-redirection-387332](https://labex.io/pt/tutorials/linux-logical-commands-and-redirection-387332) *(Last modified: 2025-08-20)*
-- [linux-manage-ip-addressing-in-linux-592736](https://labex.io/pt/tutorials/linux-manage-ip-addressing-in-linux-592736) *(Last modified: 2025-08-20)*
+- [linux-manage-ip-addressing-in-linux-592736](https://labex.io/pt/tutorials/linux-manage-ip-addressing-in-linux-592736) *(Last modified: 2025-08-21)*
 - [linux-manage-local-hostname-resolution-in-linux-592792](https://labex.io/pt/tutorials/linux-manage-local-hostname-resolution-in-linux-592792) *(Last modified: 2025-08-20)*
 - [linux-manage-multiple-terminals-with-screen-271827](https://labex.io/pt/tutorials/linux-manage-multiple-terminals-with-screen-271827) *(Last modified: 2025-08-20)*
 - [linux-manage-special-permissions-and-umask-in-linux-590846](https://labex.io/pt/tutorials/linux-manage-special-permissions-and-umask-in-linux-590846) *(Last modified: 2025-08-20)*

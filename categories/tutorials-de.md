@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-De Sitemap
 
-> Last updated: 2025-08-21 00:04 UTC
+> Last updated: 2025-08-22 00:05 UTC
 
 This file contains all tutorials-de related links from LabEx website.
 
@@ -4344,6 +4344,8 @@ This file contains all tutorials-de related links from LabEx website.
 - [javascript-weekly-weather-forecast-application-development-445676](https://labex.io/de/tutorials/javascript-weekly-weather-forecast-application-development-445676) *(Last modified: 2025-05-21)*
 - [javascript-weighted-random-sampling-in-javascript-28696](https://labex.io/de/tutorials/javascript-weighted-random-sampling-in-javascript-28696) *(Last modified: 2025-08-20)*
 - [javascript-word-wrap-string-28697](https://labex.io/de/tutorials/javascript-word-wrap-string-28697) *(Last modified: 2025-08-20)*
+- [jenkins-configuring-basic-freestyle-projects-595302](https://labex.io/de/tutorials/jenkins-configuring-basic-freestyle-projects-595302) *(Last modified: 2025-08-21)*
+- [jenkins-exploring-the-jenkins-interface-595303](https://labex.io/de/tutorials/jenkins-exploring-the-jenkins-interface-595303) *(Last modified: 2025-08-21)*
 - [jenkins-how-to-access-the-jenkins-web-interface-414782](https://labex.io/de/tutorials/jenkins-how-to-access-the-jenkins-web-interface-414782) *(Last modified: 2025-03-16)*
 - [jenkins-how-to-add-team-members-to-a-jenkins-environment-414783](https://labex.io/de/tutorials/jenkins-how-to-add-team-members-to-a-jenkins-environment-414783) *(Last modified: 2025-03-16)*
 - [jenkins-how-to-fix-repository-connection-failure-in-jenkins-415717](https://labex.io/de/tutorials/jenkins-how-to-fix-repository-connection-failure-in-jenkins-415717) *(Last modified: 2025-03-16)*
@@ -4351,8 +4353,9 @@ This file contains all tutorials-de related links from LabEx website.
 - [jenkins-how-to-manage-users-in-jenkins-414784](https://labex.io/de/tutorials/jenkins-how-to-manage-users-in-jenkins-414784) *(Last modified: 2025-03-16)*
 - [jenkins-how-to-set-jenkins-to-start-automatically-on-system-boot-415720](https://labex.io/de/tutorials/jenkins-how-to-set-jenkins-to-start-automatically-on-system-boot-415720) *(Last modified: 2025-03-16)*
 - [jenkins-how-to-verify-jenkins-docker-image-version-415670](https://labex.io/de/tutorials/jenkins-how-to-verify-jenkins-docker-image-version-415670) *(Last modified: 2025-03-16)*
-- [jenkins-installing-jenkins-with-docker-391174](https://labex.io/de/tutorials/jenkins-installing-jenkins-with-docker-391174) *(Last modified: 2025-08-20)*
-- [jenkins-jenkins-user-management-391302](https://labex.io/de/tutorials/jenkins-jenkins-user-management-391302) *(Last modified: 2025-06-13)*
+- [jenkins-installing-jenkins-with-docker-391174](https://labex.io/de/tutorials/jenkins-installing-jenkins-with-docker-391174) *(Last modified: 2025-08-21)*
+- [jenkins-integrating-jenkins-with-source-control-git-595304](https://labex.io/de/tutorials/jenkins-integrating-jenkins-with-source-control-git-595304) *(Last modified: 2025-08-21)*
+- [jenkins-jenkins-user-management-391302](https://labex.io/de/tutorials/jenkins-jenkins-user-management-391302) *(Last modified: 2025-08-21)*
 - [jenkins-online-jenkins-playground-415838](https://labex.io/de/tutorials/jenkins-online-jenkins-playground-415838) *(Last modified: 2025-08-04)*
 - [jquery-go-to-the-next-step-445660](https://labex.io/de/tutorials/jquery-go-to-the-next-step-445660) *(Last modified: 2025-06-29)*
 - [jquery-how-jquery-works-153752](https://labex.io/de/tutorials/jquery-how-jquery-works-153752) *(Last modified: 2025-08-20)*
@@ -4836,7 +4839,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-file-structure-visualization-with-tre-384505](https://labex.io/de/tutorials/linux-file-structure-visualization-with-tre-384505) *(Last modified: 2025-08-20)*
 - [linux-file-system-and-disk-management-17999](https://labex.io/de/tutorials/linux-file-system-and-disk-management-17999) *(Last modified: 2025-08-20)*
 - [linux-files-and-directories-270246](https://labex.io/de/tutorials/linux-files-and-directories-270246) *(Last modified: 2025-08-20)*
-- [linux-find-a-file-17993](https://labex.io/de/tutorials/linux-find-a-file-17993) *(Last modified: 2025-08-20)*
+- [linux-find-a-file-17993](https://labex.io/de/tutorials/linux-find-a-file-17993) *(Last modified: 2025-08-21)*
 - [linux-find-the-flags-7931](https://labex.io/de/tutorials/linux-find-the-flags-7931) *(Last modified: 2025-08-20)*
 - [linux-foundational-security-concepts-cia-triad-in-linux-592882](https://labex.io/de/tutorials/linux-foundational-security-concepts-cia-triad-in-linux-592882) *(Last modified: 2025-08-20)*
 - [linux-galactic-secure-connections-with-linux-271388](https://labex.io/de/tutorials/linux-galactic-secure-connections-with-linux-271388) *(Last modified: 2025-08-20)*
@@ -5325,7 +5328,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-linux-wildcard-character-271447](https://labex.io/de/tutorials/linux-linux-wildcard-character-271447) *(Last modified: 2025-08-20)*
 - [linux-linux-xargs-command-command-building-219201](https://labex.io/de/tutorials/linux-linux-xargs-command-command-building-219201) *(Last modified: 2025-08-20)*
 - [linux-logical-commands-and-redirection-387332](https://labex.io/de/tutorials/linux-logical-commands-and-redirection-387332) *(Last modified: 2025-08-20)*
-- [linux-manage-ip-addressing-in-linux-592736](https://labex.io/de/tutorials/linux-manage-ip-addressing-in-linux-592736) *(Last modified: 2025-08-20)*
+- [linux-manage-ip-addressing-in-linux-592736](https://labex.io/de/tutorials/linux-manage-ip-addressing-in-linux-592736) *(Last modified: 2025-08-21)*
 - [linux-manage-local-hostname-resolution-in-linux-592792](https://labex.io/de/tutorials/linux-manage-local-hostname-resolution-in-linux-592792) *(Last modified: 2025-08-20)*
 - [linux-manage-multiple-terminals-with-screen-271827](https://labex.io/de/tutorials/linux-manage-multiple-terminals-with-screen-271827) *(Last modified: 2025-08-20)*
 - [linux-manage-special-permissions-and-umask-in-linux-590846](https://labex.io/de/tutorials/linux-manage-special-permissions-and-umask-in-linux-590846) *(Last modified: 2025-08-20)*

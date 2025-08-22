@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2025-08-21 00:04 UTC
+> Last updated: 2025-08-22 00:05 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -6922,7 +6922,9 @@ This file contains all tutorials related links from LabEx website.
 - [javascript-weekly-weather-forecast-application-development-445676](https://labex.io/tutorials/javascript-weekly-weather-forecast-application-development-445676) *(Last modified: 2025-05-21)*
 - [javascript-weighted-random-sampling-in-javascript-28696](https://labex.io/tutorials/javascript-weighted-random-sampling-in-javascript-28696) *(Last modified: 2025-08-20)*
 - [javascript-word-wrap-string-28697](https://labex.io/tutorials/javascript-word-wrap-string-28697) *(Last modified: 2025-08-20)*
+- [jenkins-configuring-basic-freestyle-projects-595302](https://labex.io/tutorials/jenkins-configuring-basic-freestyle-projects-595302) *(Last modified: 2025-08-21)*
 - [jenkins-enhance-jenkins-functionality-with-plugins-398425](https://labex.io/tutorials/jenkins-enhance-jenkins-functionality-with-plugins-398425) *(Last modified: 2025-03-16)*
+- [jenkins-exploring-the-jenkins-interface-595303](https://labex.io/tutorials/jenkins-exploring-the-jenkins-interface-595303) *(Last modified: 2025-08-21)*
 - [jenkins-how-to-access-the-jenkins-web-interface-414782](https://labex.io/tutorials/jenkins-how-to-access-the-jenkins-web-interface-414782) *(Last modified: 2025-03-16)*
 - [jenkins-how-to-add-team-members-to-a-jenkins-environment-414783](https://labex.io/tutorials/jenkins-how-to-add-team-members-to-a-jenkins-environment-414783) *(Last modified: 2025-03-16)*
 - [jenkins-how-to-configure-jenkins-docker-for-specific-use-cases-414501](https://labex.io/tutorials/jenkins-how-to-configure-jenkins-docker-for-specific-use-cases-414501) *(Last modified: 2025-04-09)*
@@ -6941,8 +6943,9 @@ This file contains all tutorials related links from LabEx website.
 - [jenkins-how-to-start-docker-service-on-linux-for-jenkins-415669](https://labex.io/tutorials/jenkins-how-to-start-docker-service-on-linux-for-jenkins-415669) *(Last modified: 2025-03-16)*
 - [jenkins-how-to-verify-jenkins-docker-image-version-415670](https://labex.io/tutorials/jenkins-how-to-verify-jenkins-docker-image-version-415670) *(Last modified: 2025-03-16)*
 - [jenkins-implementing-continuous-integration-and-deployment-with-jenkins-411499](https://labex.io/tutorials/jenkins-implementing-continuous-integration-and-deployment-with-jenkins-411499) *(Last modified: 2025-03-16)*
-- [jenkins-installing-jenkins-with-docker-391174](https://labex.io/tutorials/jenkins-installing-jenkins-with-docker-391174) *(Last modified: 2025-08-20)*
-- [jenkins-jenkins-user-management-391302](https://labex.io/tutorials/jenkins-jenkins-user-management-391302) *(Last modified: 2025-06-13)*
+- [jenkins-installing-jenkins-with-docker-391174](https://labex.io/tutorials/jenkins-installing-jenkins-with-docker-391174) *(Last modified: 2025-08-21)*
+- [jenkins-integrating-jenkins-with-source-control-git-595304](https://labex.io/tutorials/jenkins-integrating-jenkins-with-source-control-git-595304) *(Last modified: 2025-08-21)*
+- [jenkins-jenkins-user-management-391302](https://labex.io/tutorials/jenkins-jenkins-user-management-391302) *(Last modified: 2025-08-21)*
 - [jenkins-online-jenkins-playground-415838](https://labex.io/tutorials/jenkins-online-jenkins-playground-415838) *(Last modified: 2025-08-04)*
 - [jquery-go-to-the-next-step-445660](https://labex.io/tutorials/jquery-go-to-the-next-step-445660) *(Last modified: 2025-06-29)*
 - [jquery-how-jquery-works-153752](https://labex.io/tutorials/jquery-how-jquery-works-153752) *(Last modified: 2025-08-20)*
@@ -7864,7 +7867,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-file-structure-visualization-with-tre-384505](https://labex.io/tutorials/linux-file-structure-visualization-with-tre-384505) *(Last modified: 2025-08-20)*
 - [linux-file-system-and-disk-management-17999](https://labex.io/tutorials/linux-file-system-and-disk-management-17999) *(Last modified: 2025-08-20)*
 - [linux-files-and-directories-270246](https://labex.io/tutorials/linux-files-and-directories-270246) *(Last modified: 2025-08-20)*
-- [linux-find-a-file-17993](https://labex.io/tutorials/linux-find-a-file-17993) *(Last modified: 2025-08-20)*
+- [linux-find-a-file-17993](https://labex.io/tutorials/linux-find-a-file-17993) *(Last modified: 2025-08-21)*
 - [linux-find-linux-command-locations-quickly-417674](https://labex.io/tutorials/linux-find-linux-command-locations-quickly-417674) *(Last modified: 2025-03-16)*
 - [linux-find-the-flags-7931](https://labex.io/tutorials/linux-find-the-flags-7931) *(Last modified: 2025-08-20)*
 - [linux-foundational-security-concepts-cia-triad-in-linux-592882](https://labex.io/tutorials/linux-foundational-security-concepts-cia-triad-in-linux-592882) *(Last modified: 2025-08-20)*
@@ -10000,7 +10003,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-logical-commands-and-redirection-387332](https://labex.io/tutorials/linux-logical-commands-and-redirection-387332) *(Last modified: 2025-08-20)*
 - [linux-manage-and-secure-linux-user-passwords-414804](https://labex.io/tutorials/linux-manage-and-secure-linux-user-passwords-414804) *(Last modified: 2025-03-16)*
 - [linux-manage-and-troubleshoot-the-docker-daemon-on-linux-398318](https://labex.io/tutorials/linux-manage-and-troubleshoot-the-docker-daemon-on-linux-398318) *(Last modified: 2025-03-16)*
-- [linux-manage-ip-addressing-in-linux-592736](https://labex.io/tutorials/linux-manage-ip-addressing-in-linux-592736) *(Last modified: 2025-08-20)*
+- [linux-manage-ip-addressing-in-linux-592736](https://labex.io/tutorials/linux-manage-ip-addressing-in-linux-592736) *(Last modified: 2025-08-21)*
 - [linux-manage-linux-file-permissions-effectively-419885](https://labex.io/tutorials/linux-manage-linux-file-permissions-effectively-419885) *(Last modified: 2025-03-16)*
 - [linux-manage-linux-file-permissions-effectively-420758](https://labex.io/tutorials/linux-manage-linux-file-permissions-effectively-420758) *(Last modified: 2025-03-16)*
 - [linux-manage-linux-file-permissions-with-chmod-398329](https://labex.io/tutorials/linux-manage-linux-file-permissions-with-chmod-398329) *(Last modified: 2025-03-16)*
