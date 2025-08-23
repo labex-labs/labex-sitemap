@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Ko Sitemap
 
-> Last updated: 2025-08-22 00:05 UTC
+> Last updated: 2025-08-23 00:05 UTC
 
 This file contains all exercises-ko related links from LabEx website.
 
@@ -33,6 +33,7 @@ This file contains all exercises-ko related links from LabEx website.
 - [hydra](https://labex.io/ko/exercises/hydra)
 - [java](https://labex.io/ko/exercises/java)
 - [javascript](https://labex.io/ko/exercises/javascript)
+- [jenkins](https://labex.io/ko/exercises/jenkins)
 - [kali](https://labex.io/ko/exercises/kali)
 - [kubernetes](https://labex.io/ko/exercises/kubernetes)
 - [linux](https://labex.io/ko/exercises/linux)

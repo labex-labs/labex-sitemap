@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Fr Sitemap
 
-> Last updated: 2025-08-22 00:05 UTC
+> Last updated: 2025-08-23 00:05 UTC
 
 This file contains all skilltrees-fr related links from LabEx website.
 
@@ -33,6 +33,7 @@ This file contains all skilltrees-fr related links from LabEx website.
 - [hydra](https://labex.io/fr/learn/hydra)
 - [java](https://labex.io/fr/learn/java)
 - [javascript](https://labex.io/fr/learn/javascript)
+- [jenkins](https://labex.io/fr/learn/jenkins)
 - [kali](https://labex.io/fr/learn/kali)
 - [kubernetes](https://labex.io/fr/learn/kubernetes)
 - [linux](https://labex.io/fr/learn/linux)
@@ -69,6 +70,7 @@ This file contains all skilltrees-fr related links from LabEx website.
 - [hydra](https://labex.io/fr/tutorials/category/hydra)
 - [java](https://labex.io/fr/tutorials/category/java)
 - [javascript](https://labex.io/fr/tutorials/category/javascript)
+- [jenkins](https://labex.io/fr/tutorials/category/jenkins)
 - [kali](https://labex.io/fr/tutorials/category/kali)
 - [kubernetes](https://labex.io/fr/tutorials/category/kubernetes)
 - [linux](https://labex.io/fr/tutorials/category/linux)
@@ -162,6 +164,11 @@ This file contains all skilltrees-fr related links from LabEx website.
 - [NetworkingGroup](https://labex.io/fr/skilltrees/javascript/groups/NetworkingGroup)
 - [SecurityGroup](https://labex.io/fr/skilltrees/javascript/groups/SecurityGroup)
 - [ToolsandEnvironmentGroup](https://labex.io/fr/skilltrees/javascript/groups/ToolsandEnvironmentGroup)
+- [BlueOceanGroup](https://labex.io/fr/skilltrees/jenkins/groups/BlueOceanGroup)
+- [InstallingJenkinsGroup](https://labex.io/fr/skilltrees/jenkins/groups/InstallingJenkinsGroup)
+- [ManagingJenkinsGroup](https://labex.io/fr/skilltrees/jenkins/groups/ManagingJenkinsGroup)
+- [PipelineGroup](https://labex.io/fr/skilltrees/jenkins/groups/PipelineGroup)
+- [UsingJenkinsGroup](https://labex.io/fr/skilltrees/jenkins/groups/UsingJenkinsGroup)
 - [KaliGroup](https://labex.io/fr/skilltrees/kali/groups/KaliGroup)
 - [AdvancedCommandsGroup](https://labex.io/fr/skilltrees/kubernetes/groups/AdvancedCommandsGroup)
 - [AdvancedDeploymentGroup](https://labex.io/fr/skilltrees/kubernetes/groups/AdvancedDeploymentGroup)
@@ -654,6 +661,21 @@ This file contains all skilltrees-fr related links from LabEx website.
 - [debugging](https://labex.io/fr/skilltrees/javascript/groups/ToolsandEnvironmentGroup/skills/debugging)
 - [version-control](https://labex.io/fr/skilltrees/javascript/groups/ToolsandEnvironmentGroup/skills/version-control)
 - [web-storage](https://labex.io/fr/skilltrees/javascript/groups/ToolsandEnvironmentGroup/skills/web-storage)
+- [activity-view](https://labex.io/fr/skilltrees/jenkins/groups/BlueOceanGroup/skills/activity-view)
+- [blue-ocean](https://labex.io/fr/skilltrees/jenkins/groups/BlueOceanGroup/skills/blue-ocean)
+- [creating-a-pipeline](https://labex.io/fr/skilltrees/jenkins/groups/BlueOceanGroup/skills/creating-a-pipeline)
+- [docker-installation](https://labex.io/fr/skilltrees/jenkins/groups/InstallingJenkinsGroup/skills/docker-installation)
+- [initial-settings](https://labex.io/fr/skilltrees/jenkins/groups/InstallingJenkinsGroup/skills/initial-settings)
+- [war-files-installation](https://labex.io/fr/skilltrees/jenkins/groups/InstallingJenkinsGroup/skills/war-files-installation)
+- [manage-users](https://labex.io/fr/skilltrees/jenkins/groups/ManagingJenkinsGroup/skills/manage-users)
+- [managing-plugins](https://labex.io/fr/skilltrees/jenkins/groups/ManagingJenkinsGroup/skills/managing-plugins)
+- [managing-tools](https://labex.io/fr/skilltrees/jenkins/groups/ManagingJenkinsGroup/skills/managing-tools)
+- [pipeline](https://labex.io/fr/skilltrees/jenkins/groups/PipelineGroup/skills/pipeline)
+- [running-pipelines](https://labex.io/fr/skilltrees/jenkins/groups/PipelineGroup/skills/running-pipelines)
+- [build-history](https://labex.io/fr/skilltrees/jenkins/groups/UsingJenkinsGroup/skills/build-history)
+- [create-project](https://labex.io/fr/skilltrees/jenkins/groups/UsingJenkinsGroup/skills/create-project)
+- [credentials-manage](https://labex.io/fr/skilltrees/jenkins/groups/UsingJenkinsGroup/skills/credentials-manage)
+- [role-based-authorization](https://labex.io/fr/skilltrees/jenkins/groups/UsingJenkinsGroup/skills/role-based-authorization)
 - [aircrack-ops](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/aircrack-ops)
 - [bash-code](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/bash-code)
 - [burp-ops](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/burp-ops)

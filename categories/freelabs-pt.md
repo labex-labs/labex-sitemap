@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Pt Sitemap
 
-> Last updated: 2025-08-22 00:05 UTC
+> Last updated: 2025-08-23 00:05 UTC
 
 This file contains all freelabs-pt related links from LabEx website.
 
@@ -34,6 +34,7 @@ This file contains all freelabs-pt related links from LabEx website.
 - [hydra](https://labex.io/pt/free-labs/hydra)
 - [java](https://labex.io/pt/free-labs/java)
 - [javascript](https://labex.io/pt/free-labs/javascript)
+- [jenkins](https://labex.io/pt/free-labs/jenkins)
 - [kali](https://labex.io/pt/free-labs/kali)
 - [kubernetes](https://labex.io/pt/free-labs/kubernetes)
 - [linux](https://labex.io/pt/free-labs/linux)
