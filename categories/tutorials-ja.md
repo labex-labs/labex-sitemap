@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ja Sitemap
 
-> Last updated: 2025-08-23 00:05 UTC
+> Last updated: 2025-08-24 00:05 UTC
 
 This file contains all tutorials-ja related links from LabEx website.
 
@@ -1786,7 +1786,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [docker-how-to-move-a-file-within-a-docker-container-411578](https://labex.io/ja/tutorials/docker-how-to-move-a-file-within-a-docker-container-411578) *(Last modified: 2025-05-27)*
 - [docker-how-to-name-and-run-docker-containers-398431](https://labex.io/ja/tutorials/docker-how-to-name-and-run-docker-containers-398431) *(Last modified: 2025-05-27)*
 - [docker-how-to-navigate-the-docker-image-repository-using-commands-414772](https://labex.io/ja/tutorials/docker-how-to-navigate-the-docker-image-repository-using-commands-414772) *(Last modified: 2025-05-27)*
-- [docker-how-to-optimize-docker-image-layers-391180](https://labex.io/ja/tutorials/docker-how-to-optimize-docker-image-layers-391180) *(Last modified: 2025-08-16)*
+- [docker-how-to-optimize-docker-image-layers-391180](https://labex.io/ja/tutorials/docker-how-to-optimize-docker-image-layers-391180) *(Last modified: 2025-08-23)*
 - [docker-how-to-optimize-docker-image-versioning-and-tagging-392568](https://labex.io/ja/tutorials/docker-how-to-optimize-docker-image-versioning-and-tagging-392568) *(Last modified: 2025-05-27)*
 - [docker-how-to-optimize-docker-resource-utilization-411579](https://labex.io/ja/tutorials/docker-how-to-optimize-docker-resource-utilization-411579) *(Last modified: 2025-05-27)*
 - [docker-how-to-optimize-resource-usage-of-a-docker-container-417538](https://labex.io/ja/tutorials/docker-how-to-optimize-resource-usage-of-a-docker-container-417538) *(Last modified: 2025-05-27)*
