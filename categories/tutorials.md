@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2025-08-25 00:05 UTC
+> Last updated: 2025-08-26 00:05 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -18,7 +18,7 @@ This file contains all tutorials related links from LabEx website.
 ### tutorials
 
 - [ansible-ansible-ad-hoc-commands-390441](https://labex.io/tutorials/ansible-ansible-ad-hoc-commands-390441) *(Last modified: 2025-08-24)*
-- [ansible-ansible-apt-module-289651](https://labex.io/tutorials/ansible-ansible-apt-module-289651) *(Last modified: 2025-08-24)*
+- [ansible-ansible-apt-module-289651](https://labex.io/tutorials/ansible-ansible-apt-module-289651) *(Last modified: 2025-08-25)*
 - [ansible-ansible-blockinfile-391150](https://labex.io/tutorials/ansible-ansible-blockinfile-391150) *(Last modified: 2025-05-25)*
 - [ansible-ansible-command-module-290161](https://labex.io/tutorials/ansible-ansible-command-module-290161) *(Last modified: 2025-08-24)*
 - [ansible-ansible-conditionals-and-loops-390455](https://labex.io/tutorials/ansible-ansible-conditionals-and-loops-390455) *(Last modified: 2025-08-24)*
@@ -7878,7 +7878,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-galactic-secure-connections-with-linux-271388](https://labex.io/tutorials/linux-galactic-secure-connections-with-linux-271388) *(Last modified: 2025-08-24)*
 - [linux-get-help-on-linux-commands-18000](https://labex.io/tutorials/linux-get-help-on-linux-commands-18000) *(Last modified: 2025-08-24)*
 - [linux-get-program-that-satisfies-the-condition-301473](https://labex.io/tutorials/linux-get-program-that-satisfies-the-condition-301473) *(Last modified: 2025-05-21)*
-- [linux-getting-started-with-linux-446315](https://labex.io/tutorials/linux-getting-started-with-linux-446315) *(Last modified: 2025-08-24)*
+- [linux-getting-started-with-linux-446315](https://labex.io/tutorials/linux-getting-started-with-linux-446315) *(Last modified: 2025-08-25)*
 - [linux-guardians-lightning-command-mastery-271442](https://labex.io/tutorials/linux-guardians-lightning-command-mastery-271442) *(Last modified: 2025-08-24)*
 - [linux-hadoop-installation-and-deployment-272321](https://labex.io/tutorials/linux-hadoop-installation-and-deployment-272321) *(Last modified: 2025-08-24)*
 - [linux-hardening-a-linux-endpoint-with-firewall-and-service-management-594582](https://labex.io/tutorials/linux-hardening-a-linux-endpoint-with-firewall-and-service-management-594582) *(Last modified: 2025-08-24)*
@@ -11423,7 +11423,6 @@ This file contains all tutorials related links from LabEx website.
 - [postgresql-create-employee-table-in-postgresql-551115](https://labex.io/tutorials/postgresql-create-employee-table-in-postgresql-551115) *(Last modified: 2025-08-24)*
 - [postgresql-create-your-own-recipe-database-551100](https://labex.io/tutorials/postgresql-create-your-own-recipe-database-551100) *(Last modified: 2025-08-24)*
 - [postgresql-data-filtering-and-simple-queries-in-postgresql-550898](https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550898) *(Last modified: 2025-08-24)*
-- [postgresql-data-filtering-and-simple-queries-in-postgresql-550947](https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550947) *(Last modified: 2025-08-24)*
 - [postgresql-data-filtering-and-simple-queries-in-postgresql-550948](https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550948) *(Last modified: 2025-08-24)*
 - [postgresql-data-filtering-and-simple-queries-in-postgresql-550949](https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550949) *(Last modified: 2025-08-24)*
 - [postgresql-data-filtering-and-simple-queries-in-postgresql-550951](https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550951) *(Last modified: 2025-08-24)*
@@ -11441,6 +11440,7 @@ This file contains all tutorials related links from LabEx website.
 - [postgresql-find-marketing-employees-in-postgresql-551146](https://labex.io/tutorials/postgresql-find-marketing-employees-in-postgresql-551146) *(Last modified: 2025-08-24)*
 - [postgresql-installation-and-initial-setup-of-postgresql-550900](https://labex.io/tutorials/postgresql-installation-and-initial-setup-of-postgresql-550900) *(Last modified: 2025-08-24)*
 - [postgresql-manage-employee-data-in-postgresql-551130](https://labex.io/tutorials/postgresql-manage-employee-data-in-postgresql-551130) *(Last modified: 2025-08-24)*
+- [postgresql-postgresql-advanced-data-types-550947](https://labex.io/tutorials/postgresql-postgresql-advanced-data-types-550947) *(Last modified: 2025-08-25)*
 - [postgresql-postgresql-database-maintenance-550950](https://labex.io/tutorials/postgresql-postgresql-database-maintenance-550950) *(Last modified: 2025-08-24)*
 - [postgresql-postgresql-event-trigger-setup-550953](https://labex.io/tutorials/postgresql-postgresql-event-trigger-setup-550953) *(Last modified: 2025-08-24)*
 - [postgresql-postgresql-interview-questions-and-answers-593697](https://labex.io/tutorials/postgresql-postgresql-interview-questions-and-answers-593697) *(Last modified: 2025-07-31)*
