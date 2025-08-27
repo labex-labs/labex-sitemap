@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Fr Sitemap
 
-> Last updated: 2025-08-26 00:05 UTC
+> Last updated: 2025-08-27 00:03 UTC
 
 This file contains all courses-fr related links from LabEx website.
 
@@ -35,7 +35,6 @@ This file contains all courses-fr related links from LabEx website.
 - [cpp-programming-for-beginners](https://labex.io/fr/courses/cpp-programming-for-beginners)
 - [cybersecurity-analysis-with-wireshark-and-tshark](https://labex.io/fr/courses/cybersecurity-analysis-with-wireshark-and-tshark)
 - [cybersecurity-labs-for-beginners](https://labex.io/fr/courses/cybersecurity-labs-for-beginners)
-- [docker-command-labs](https://labex.io/fr/courses/docker-command-labs)
 - [docker-practice-challenges](https://labex.io/fr/courses/docker-practice-challenges)
 - [docker-practice-labs](https://labex.io/fr/courses/docker-practice-labs)
 - [foundations-of-deep-learning](https://labex.io/fr/courses/foundations-of-deep-learning)
@@ -57,16 +56,13 @@ This file contains all courses-fr related links from LabEx website.
 - [kali-server-exploitation-in-action](https://labex.io/fr/courses/kali-server-exploitation-in-action)
 - [kali-web-application-attacks-in-action](https://labex.io/fr/courses/kali-web-application-attacks-in-action)
 - [kubernetes-for-noobs](https://labex.io/fr/courses/kubernetes-for-noobs)
-- [labex-playground](https://labex.io/fr/courses/labex-playground)
 - [labex-vm](https://labex.io/fr/courses/labex-vm)
 - [linux-basic-commands-practice-online](https://labex.io/fr/courses/linux-basic-commands-practice-online)
-- [linux-commands-cheatsheet](https://labex.io/fr/courses/linux-commands-cheatsheet)
 - [linux-for-noobs](https://labex.io/fr/courses/linux-for-noobs)
 - [linux-in-depth-mastery](https://labex.io/fr/courses/linux-in-depth-mastery)
 - [linux-practice-challenges](https://labex.io/fr/courses/linux-practice-challenges)
 - [linux-practice-labs](https://labex.io/fr/courses/linux-practice-labs)
 - [linux-software-playgrounds](https://labex.io/fr/courses/linux-software-playgrounds)
-- [linux-status-and-configuration](https://labex.io/fr/courses/linux-status-and-configuration)
 - [matplotlib-practice-labs](https://labex.io/fr/courses/matplotlib-practice-labs)
 - [ml-practice-challenges](https://labex.io/fr/courses/ml-practice-challenges)
 - [ml-practice-labs](https://labex.io/fr/courses/ml-practice-labs)
@@ -466,9 +462,7 @@ This file contains all courses-fr related links from LabEx website.
 - [project-wuxu-reform-duration-calculation](https://labex.io/fr/courses/project-wuxu-reform-duration-calculation)
 - [project-yin-book-encryption](https://labex.io/fr/courses/project-yin-book-encryption)
 - [python-for-beginners](https://labex.io/fr/courses/python-for-beginners)
-- [python-in-depth-mastery](https://labex.io/fr/courses/python-in-depth-mastery)
 - [python-practice-challenges](https://labex.io/fr/courses/python-practice-challenges)
-- [python-practice-labs](https://labex.io/fr/courses/python-practice-labs)
 - [quick-start-with-algorithm](https://labex.io/fr/courses/quick-start-with-algorithm)
 - [quick-start-with-ansible](https://labex.io/fr/courses/quick-start-with-ansible)
 - [quick-start-with-c](https://labex.io/fr/courses/quick-start-with-c)
