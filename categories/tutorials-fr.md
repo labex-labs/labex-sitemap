@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Fr Sitemap
 
-> Last updated: 2025-08-27 00:03 UTC
+> Last updated: 2025-08-28 00:04 UTC
 
 This file contains all tutorials-fr related links from LabEx website.
 
@@ -719,7 +719,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [comptia-configure-firewalld-to-allow-web-traffic-in-linux-590854](https://labex.io/fr/tutorials/comptia-configure-firewalld-to-allow-web-traffic-in-linux-590854) *(Last modified: 2025-08-24)*
 - [comptia-configure-raid-and-lvm-storage-in-linux-590842](https://labex.io/fr/tutorials/comptia-configure-raid-and-lvm-storage-in-linux-590842) *(Last modified: 2025-08-24)*
 - [comptia-configure-ssh-public-key-authentication-in-linux-590855](https://labex.io/fr/tutorials/comptia-configure-ssh-public-key-authentication-in-linux-590855) *(Last modified: 2025-08-24)*
-- [comptia-configure-user-accounts-and-sudo-privileges-in-linux-590856](https://labex.io/fr/tutorials/comptia-configure-user-accounts-and-sudo-privileges-in-linux-590856) *(Last modified: 2025-08-24)*
+- [comptia-configure-user-accounts-and-sudo-privileges-in-linux-590856](https://labex.io/fr/tutorials/comptia-configure-user-accounts-and-sudo-privileges-in-linux-590856) *(Last modified: 2025-08-27)*
 - [comptia-create-and-activate-a-swap-file-in-linux-590858](https://labex.io/fr/tutorials/comptia-create-and-activate-a-swap-file-in-linux-590858) *(Last modified: 2025-08-24)*
 - [comptia-create-and-restore-a-backup-with-tar-in-linux-590843](https://labex.io/fr/tutorials/comptia-create-and-restore-a-backup-with-tar-in-linux-590843) *(Last modified: 2025-08-24)*
 - [comptia-customize-the-grub2-boot-menu-in-linux-590859](https://labex.io/fr/tutorials/comptia-customize-the-grub2-boot-menu-in-linux-590859) *(Last modified: 2025-08-24)*
@@ -4683,7 +4683,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [linux-background-job-management-43](https://labex.io/fr/tutorials/linux-background-job-management-43) *(Last modified: 2025-08-24)*
 - [linux-backup-system-log-17989](https://labex.io/fr/tutorials/linux-backup-system-log-17989) *(Last modified: 2025-08-24)*
 - [linux-bash-trap-command-388820](https://labex.io/fr/tutorials/linux-bash-trap-command-388820) *(Last modified: 2025-08-24)*
-- [linux-basic-file-operations-in-linux-18001](https://labex.io/fr/tutorials/linux-basic-file-operations-in-linux-18001) *(Last modified: 2025-08-24)*
+- [linux-basic-file-operations-in-linux-18001](https://labex.io/fr/tutorials/linux-basic-file-operations-in-linux-18001) *(Last modified: 2025-08-27)*
 - [linux-basic-files-operations-270248](https://labex.io/fr/tutorials/linux-basic-files-operations-270248) *(Last modified: 2025-08-24)*
 - [linux-basic-vulnerability-scanning-with-nmap-594554](https://labex.io/fr/tutorials/linux-basic-vulnerability-scanning-with-nmap-594554) *(Last modified: 2025-08-24)*
 - [linux-build-a-linux-system-monitor-using-bash-298845](https://labex.io/fr/tutorials/linux-build-a-linux-system-monitor-using-bash-298845) *(Last modified: 2025-08-24)*
@@ -4741,7 +4741,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [linux-fast-searching-with-ripgrep-384504](https://labex.io/fr/tutorials/linux-fast-searching-with-ripgrep-384504) *(Last modified: 2025-08-24)*
 - [linux-file-and-directory-operations-17997](https://labex.io/fr/tutorials/linux-file-and-directory-operations-17997) *(Last modified: 2025-08-24)*
 - [linux-file-contents-and-comparing-270251](https://labex.io/fr/tutorials/linux-file-contents-and-comparing-270251) *(Last modified: 2025-08-24)*
-- [linux-file-packaging-and-compression-385413](https://labex.io/fr/tutorials/linux-file-packaging-and-compression-385413) *(Last modified: 2025-08-24)*
+- [linux-file-packaging-and-compression-385413](https://labex.io/fr/tutorials/linux-file-packaging-and-compression-385413) *(Last modified: 2025-08-27)*
 - [linux-file-structure-visualization-with-tre-384505](https://labex.io/fr/tutorials/linux-file-structure-visualization-with-tre-384505) *(Last modified: 2025-08-24)*
 - [linux-file-system-and-disk-management-17999](https://labex.io/fr/tutorials/linux-file-system-and-disk-management-17999) *(Last modified: 2025-08-24)*
 - [linux-files-and-directories-270246](https://labex.io/fr/tutorials/linux-files-and-directories-270246) *(Last modified: 2025-08-24)*
@@ -5710,17 +5710,17 @@ This file contains all tutorials-fr related links from LabEx website.
 - [ml-weighted-dataset-decision-function-plotting-49292](https://labex.io/fr/tutorials/ml-weighted-dataset-decision-function-plotting-49292) *(Last modified: 2025-08-24)*
 - [ml-wikipedia-pagerank-with-randomized-svd-49334](https://labex.io/fr/tutorials/ml-wikipedia-pagerank-with-randomized-svd-49334) *(Last modified: 2025-08-24)*
 - [ml-working-with-text-data-71103](https://labex.io/fr/tutorials/ml-working-with-text-data-71103) *(Last modified: 2025-08-24)*
-- [mongodb-build-mongodb-user-profiles-422077](https://labex.io/fr/tutorials/mongodb-build-mongodb-user-profiles-422077) *(Last modified: 2025-05-25)*
-- [mongodb-create-mongodb-collection-420695](https://labex.io/fr/tutorials/mongodb-create-mongodb-collection-420695) *(Last modified: 2025-08-24)*
-- [mongodb-create-mongodb-indexes-422078](https://labex.io/fr/tutorials/mongodb-create-mongodb-indexes-422078) *(Last modified: 2025-05-25)*
-- [mongodb-delete-mongodb-data-420822](https://labex.io/fr/tutorials/mongodb-delete-mongodb-data-420822) *(Last modified: 2025-08-24)*
-- [mongodb-design-mongodb-order-schema-422080](https://labex.io/fr/tutorials/mongodb-design-mongodb-order-schema-422080) *(Last modified: 2025-05-25)*
-- [mongodb-export-mongodb-data-422081](https://labex.io/fr/tutorials/mongodb-export-mongodb-data-422081) *(Last modified: 2025-05-25)*
-- [mongodb-filter-mongodb-collections-421806](https://labex.io/fr/tutorials/mongodb-filter-mongodb-collections-421806) *(Last modified: 2025-05-20)*
-- [mongodb-group-mongodb-data-422083](https://labex.io/fr/tutorials/mongodb-group-mongodb-data-422083) *(Last modified: 2025-05-25)*
-- [mongodb-handle-mongodb-arrays-422084](https://labex.io/fr/tutorials/mongodb-handle-mongodb-arrays-422084) *(Last modified: 2025-06-28)*
-- [mongodb-handle-mongodb-errors-422085](https://labex.io/fr/tutorials/mongodb-handle-mongodb-errors-422085) *(Last modified: 2025-05-25)*
-- [mongodb-honor-roll-tracker-425476](https://labex.io/fr/tutorials/mongodb-honor-roll-tracker-425476) *(Last modified: 2025-08-24)*
+- [mongodb-build-mongodb-user-profiles-422077](https://labex.io/fr/tutorials/mongodb-build-mongodb-user-profiles-422077) *(Last modified: 2025-08-27)*
+- [mongodb-create-mongodb-collection-420695](https://labex.io/fr/tutorials/mongodb-create-mongodb-collection-420695) *(Last modified: 2025-08-27)*
+- [mongodb-create-mongodb-indexes-422078](https://labex.io/fr/tutorials/mongodb-create-mongodb-indexes-422078) *(Last modified: 2025-08-27)*
+- [mongodb-delete-mongodb-data-420822](https://labex.io/fr/tutorials/mongodb-delete-mongodb-data-420822) *(Last modified: 2025-08-27)*
+- [mongodb-design-mongodb-order-schema-422080](https://labex.io/fr/tutorials/mongodb-design-mongodb-order-schema-422080) *(Last modified: 2025-08-27)*
+- [mongodb-export-mongodb-data-422081](https://labex.io/fr/tutorials/mongodb-export-mongodb-data-422081) *(Last modified: 2025-08-27)*
+- [mongodb-filter-mongodb-collections-421806](https://labex.io/fr/tutorials/mongodb-filter-mongodb-collections-421806) *(Last modified: 2025-08-27)*
+- [mongodb-group-mongodb-data-422083](https://labex.io/fr/tutorials/mongodb-group-mongodb-data-422083) *(Last modified: 2025-08-27)*
+- [mongodb-handle-mongodb-arrays-422084](https://labex.io/fr/tutorials/mongodb-handle-mongodb-arrays-422084) *(Last modified: 2025-08-27)*
+- [mongodb-handle-mongodb-errors-422085](https://labex.io/fr/tutorials/mongodb-handle-mongodb-errors-422085) *(Last modified: 2025-08-27)*
+- [mongodb-honor-roll-tracker-425476](https://labex.io/fr/tutorials/mongodb-honor-roll-tracker-425476) *(Last modified: 2025-08-27)*
 - [mongodb-how-to-add-timestamps-to-mongodb-documents-435646](https://labex.io/fr/tutorials/mongodb-how-to-add-timestamps-to-mongodb-documents-435646) *(Last modified: 2025-06-30)*
 - [mongodb-how-to-define-unique-id-in-mongodb-435539](https://labex.io/fr/tutorials/mongodb-how-to-define-unique-id-in-mongodb-435539) *(Last modified: 2025-04-09)*
 - [mongodb-how-to-find-min-max-in-mongodb-435714](https://labex.io/fr/tutorials/mongodb-how-to-find-min-max-in-mongodb-435714) *(Last modified: 2025-03-16)*
@@ -5734,28 +5734,28 @@ This file contains all tutorials-fr related links from LabEx website.
 - [mongodb-how-to-resolve-mongodb-duplicate-key-error-435214](https://labex.io/fr/tutorials/mongodb-how-to-resolve-mongodb-duplicate-key-error-435214) *(Last modified: 2025-04-09)*
 - [mongodb-how-to-validate-mongodb-connection-string-436465](https://labex.io/fr/tutorials/mongodb-how-to-validate-mongodb-connection-string-436465) *(Last modified: 2025-03-16)*
 - [mongodb-how-to-view-mongodb-database-schema-435725](https://labex.io/fr/tutorials/mongodb-how-to-view-mongodb-database-schema-435725) *(Last modified: 2025-04-09)*
-- [mongodb-import-mongodb-data-422086](https://labex.io/fr/tutorials/mongodb-import-mongodb-data-422086) *(Last modified: 2025-07-28)*
-- [mongodb-insert-data-in-mongodb-420696](https://labex.io/fr/tutorials/mongodb-insert-data-in-mongodb-420696) *(Last modified: 2025-08-24)*
-- [mongodb-link-mongodb-documents-422087](https://labex.io/fr/tutorials/mongodb-link-mongodb-documents-422087) *(Last modified: 2025-05-25)*
-- [mongodb-manage-mongodb-embedded-docs-422088](https://labex.io/fr/tutorials/mongodb-manage-mongodb-embedded-docs-422088) *(Last modified: 2025-05-25)*
+- [mongodb-import-mongodb-data-422086](https://labex.io/fr/tutorials/mongodb-import-mongodb-data-422086) *(Last modified: 2025-08-27)*
+- [mongodb-insert-data-in-mongodb-420696](https://labex.io/fr/tutorials/mongodb-insert-data-in-mongodb-420696) *(Last modified: 2025-08-27)*
+- [mongodb-link-mongodb-documents-422087](https://labex.io/fr/tutorials/mongodb-link-mongodb-documents-422087) *(Last modified: 2025-08-27)*
+- [mongodb-manage-mongodb-embedded-docs-422088](https://labex.io/fr/tutorials/mongodb-manage-mongodb-embedded-docs-422088) *(Last modified: 2025-08-27)*
 - [mongodb-mongodb-interview-questions-and-answers-593692](https://labex.io/fr/tutorials/mongodb-mongodb-interview-questions-and-answers-593692) *(Last modified: 2025-07-31)*
 - [mongodb-online-mongodb-database-playground-593611](https://labex.io/fr/tutorials/mongodb-online-mongodb-database-playground-593611) *(Last modified: 2025-07-29)*
-- [mongodb-populate-the-students-collection-425481](https://labex.io/fr/tutorials/mongodb-populate-the-students-collection-425481) *(Last modified: 2025-08-24)*
-- [mongodb-project-mongodb-fields-422089](https://labex.io/fr/tutorials/mongodb-project-mongodb-fields-422089) *(Last modified: 2025-05-25)*
-- [mongodb-query-mongodb-arrays-422090](https://labex.io/fr/tutorials/mongodb-query-mongodb-arrays-422090) *(Last modified: 2025-05-25)*
-- [mongodb-sort-and-limit-mongodb-results-421807](https://labex.io/fr/tutorials/mongodb-sort-and-limit-mongodb-results-421807) *(Last modified: 2025-05-20)*
-- [mongodb-structure-mongodb-product-data-422092](https://labex.io/fr/tutorials/mongodb-structure-mongodb-product-data-422092) *(Last modified: 2025-05-25)*
-- [mongodb-summarize-mongodb-data-422093](https://labex.io/fr/tutorials/mongodb-summarize-mongodb-data-422093) *(Last modified: 2025-05-25)*
-- [mongodb-transform-mongodb-data-422094](https://labex.io/fr/tutorials/mongodb-transform-mongodb-data-422094) *(Last modified: 2025-05-25)*
-- [mongodb-update-mongodb-arrays-422095](https://labex.io/fr/tutorials/mongodb-update-mongodb-arrays-422095) *(Last modified: 2025-05-25)*
-- [mongodb-update-mongodb-records-420823](https://labex.io/fr/tutorials/mongodb-update-mongodb-records-420823) *(Last modified: 2025-08-24)*
-- [mongodb-use-mongodb-basic-types-422097](https://labex.io/fr/tutorials/mongodb-use-mongodb-basic-types-422097) *(Last modified: 2025-05-25)*
-- [mongodb-use-mongodb-indexes-422098](https://labex.io/fr/tutorials/mongodb-use-mongodb-indexes-422098) *(Last modified: 2025-05-25)*
-- [mongodb-use-mongodb-references-422099](https://labex.io/fr/tutorials/mongodb-use-mongodb-references-422099) *(Last modified: 2025-05-25)*
-- [mongodb-validate-mongodb-data-422100](https://labex.io/fr/tutorials/mongodb-validate-mongodb-data-422100) *(Last modified: 2025-05-25)*
-- [mongodb-work-with-mongodb-dates-422101](https://labex.io/fr/tutorials/mongodb-work-with-mongodb-dates-422101) *(Last modified: 2025-05-25)*
-- [mongodb-write-basic-mongodb-queries-420824](https://labex.io/fr/tutorials/mongodb-write-basic-mongodb-queries-420824) *(Last modified: 2025-05-20)*
-- [mongodb-your-first-mongodb-lab-420660](https://labex.io/fr/tutorials/mongodb-your-first-mongodb-lab-420660) *(Last modified: 2025-08-24)*
+- [mongodb-populate-the-students-collection-425481](https://labex.io/fr/tutorials/mongodb-populate-the-students-collection-425481) *(Last modified: 2025-08-27)*
+- [mongodb-project-mongodb-fields-422089](https://labex.io/fr/tutorials/mongodb-project-mongodb-fields-422089) *(Last modified: 2025-08-27)*
+- [mongodb-query-mongodb-arrays-422090](https://labex.io/fr/tutorials/mongodb-query-mongodb-arrays-422090) *(Last modified: 2025-08-27)*
+- [mongodb-sort-and-limit-mongodb-results-421807](https://labex.io/fr/tutorials/mongodb-sort-and-limit-mongodb-results-421807) *(Last modified: 2025-08-27)*
+- [mongodb-structure-mongodb-product-data-422092](https://labex.io/fr/tutorials/mongodb-structure-mongodb-product-data-422092) *(Last modified: 2025-08-27)*
+- [mongodb-summarize-mongodb-data-422093](https://labex.io/fr/tutorials/mongodb-summarize-mongodb-data-422093) *(Last modified: 2025-08-27)*
+- [mongodb-transform-mongodb-data-422094](https://labex.io/fr/tutorials/mongodb-transform-mongodb-data-422094) *(Last modified: 2025-08-27)*
+- [mongodb-update-mongodb-arrays-422095](https://labex.io/fr/tutorials/mongodb-update-mongodb-arrays-422095) *(Last modified: 2025-08-27)*
+- [mongodb-update-mongodb-records-420823](https://labex.io/fr/tutorials/mongodb-update-mongodb-records-420823) *(Last modified: 2025-08-27)*
+- [mongodb-use-mongodb-basic-types-422097](https://labex.io/fr/tutorials/mongodb-use-mongodb-basic-types-422097) *(Last modified: 2025-08-27)*
+- [mongodb-use-mongodb-indexes-422098](https://labex.io/fr/tutorials/mongodb-use-mongodb-indexes-422098) *(Last modified: 2025-08-27)*
+- [mongodb-use-mongodb-references-422099](https://labex.io/fr/tutorials/mongodb-use-mongodb-references-422099) *(Last modified: 2025-08-27)*
+- [mongodb-validate-mongodb-data-422100](https://labex.io/fr/tutorials/mongodb-validate-mongodb-data-422100) *(Last modified: 2025-08-27)*
+- [mongodb-work-with-mongodb-dates-422101](https://labex.io/fr/tutorials/mongodb-work-with-mongodb-dates-422101) *(Last modified: 2025-08-27)*
+- [mongodb-write-basic-mongodb-queries-420824](https://labex.io/fr/tutorials/mongodb-write-basic-mongodb-queries-420824) *(Last modified: 2025-08-27)*
+- [mongodb-your-first-mongodb-lab-420660](https://labex.io/fr/tutorials/mongodb-your-first-mongodb-lab-420660) *(Last modified: 2025-08-27)*
 - [monitor-files-in-tripwire-549943](https://labex.io/fr/tutorials/monitor-files-in-tripwire-549943) *(Last modified: 2025-05-28)*
 - [mysql-a-simple-course-database-301272](https://labex.io/fr/tutorials/mysql-a-simple-course-database-301272) *(Last modified: 2025-05-21)*
 - [mysql-accessing-mysql-database-and-querying-gnp-301315](https://labex.io/fr/tutorials/mysql-accessing-mysql-database-and-querying-gnp-301315) *(Last modified: 2025-05-21)*
@@ -8170,7 +8170,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [redis-redis-sorted-set-operations-552105](https://labex.io/fr/tutorials/redis-redis-sorted-set-operations-552105) *(Last modified: 2025-08-24)*
 - [redis-redis-transactions-552106](https://labex.io/fr/tutorials/redis-redis-transactions-552106) *(Last modified: 2025-08-24)*
 - [redis-verify-redis-server-status-552152](https://labex.io/fr/tutorials/redis-verify-redis-server-status-552152) *(Last modified: 2025-08-24)*
-- [rhel-access-command-line-in-red-hat-enterprise-linux-588454](https://labex.io/fr/tutorials/rhel-access-command-line-in-red-hat-enterprise-linux-588454) *(Last modified: 2025-08-24)*
+- [rhel-access-command-line-in-red-hat-enterprise-linux-588454](https://labex.io/fr/tutorials/rhel-access-command-line-in-red-hat-enterprise-linux-588454) *(Last modified: 2025-08-27)*
 - [rhel-access-file-systems-in-red-hat-enterprise-linux-588455](https://labex.io/fr/tutorials/rhel-access-file-systems-in-red-hat-enterprise-linux-588455) *(Last modified: 2025-08-24)*
 - [rhel-add-new-partitions-and-logical-volumes-588218](https://labex.io/fr/tutorials/rhel-add-new-partitions-and-logical-volumes-588218) *(Last modified: 2025-08-24)*
 - [rhel-adjust-process-scheduling-588219](https://labex.io/fr/tutorials/rhel-adjust-process-scheduling-588219) *(Last modified: 2025-08-24)*

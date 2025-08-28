@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ja Sitemap
 
-> Last updated: 2025-08-27 00:03 UTC
+> Last updated: 2025-08-28 00:04 UTC
 
 This file contains all courses-ja related links from LabEx website.
 
@@ -66,6 +66,7 @@ This file contains all courses-ja related links from LabEx website.
 - [matplotlib-practice-labs](https://labex.io/ja/courses/matplotlib-practice-labs)
 - [ml-practice-challenges](https://labex.io/ja/courses/ml-practice-challenges)
 - [ml-practice-labs](https://labex.io/ja/courses/ml-practice-labs)
+- [mongodb-for-beginners](https://labex.io/ja/courses/mongodb-for-beginners)
 - [mysql-practice-challenges](https://labex.io/ja/courses/mysql-practice-challenges)
 - [numpy-practice-challenges](https://labex.io/ja/courses/numpy-practice-challenges)
 - [numpy-practice-labs](https://labex.io/ja/courses/numpy-practice-labs)
@@ -479,7 +480,6 @@ This file contains all courses-ja related links from LabEx website.
 - [quick-start-with-kubernetes](https://labex.io/ja/courses/quick-start-with-kubernetes)
 - [quick-start-with-linux](https://labex.io/ja/courses/quick-start-with-linux)
 - [quick-start-with-matplotlib](https://labex.io/ja/courses/quick-start-with-matplotlib)
-- [quick-start-with-mongodb](https://labex.io/ja/courses/quick-start-with-mongodb)
 - [quick-start-with-mysql](https://labex.io/ja/courses/quick-start-with-mysql)
 - [quick-start-with-nmap](https://labex.io/ja/courses/quick-start-with-nmap)
 - [quick-start-with-numpy](https://labex.io/ja/courses/quick-start-with-numpy)
