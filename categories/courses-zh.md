@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Zh Sitemap
 
-> Last updated: 2025-08-30 00:04 UTC
+> Last updated: 2025-08-31 00:05 UTC
 
 This file contains all courses-zh related links from LabEx website.
 
