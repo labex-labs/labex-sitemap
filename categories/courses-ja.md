@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ja Sitemap
 
-> Last updated: 2025-09-01 00:05 UTC
+> Last updated: 2025-09-02 00:04 UTC
 
 This file contains all courses-ja related links from LabEx website.
 
@@ -52,7 +52,6 @@ This file contains all courses-ja related links from LabEx website.
 - [java-exercises](https://labex.io/ja/courses/java-exercises)
 - [java-practice-labs](https://labex.io/ja/courses/java-practice-labs)
 - [kali-linux-for-beginners](https://labex.io/ja/courses/kali-linux-for-beginners)
-- [kali-linux-security-labs](https://labex.io/ja/courses/kali-linux-security-labs)
 - [kali-server-exploitation-in-action](https://labex.io/ja/courses/kali-server-exploitation-in-action)
 - [kali-web-application-attacks-in-action](https://labex.io/ja/courses/kali-web-application-attacks-in-action)
 - [kubernetes-for-noobs](https://labex.io/ja/courses/kubernetes-for-noobs)
