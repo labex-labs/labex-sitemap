@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Fr Sitemap
 
-> Last updated: 2025-09-02 00:04 UTC
+> Last updated: 2025-09-03 00:04 UTC
 
 This file contains all courses-fr related links from LabEx website.
 
@@ -63,8 +63,6 @@ This file contains all courses-fr related links from LabEx website.
 - [linux-practice-labs](https://labex.io/fr/courses/linux-practice-labs)
 - [linux-software-playgrounds](https://labex.io/fr/courses/linux-software-playgrounds)
 - [matplotlib-practice-labs](https://labex.io/fr/courses/matplotlib-practice-labs)
-- [ml-practice-challenges](https://labex.io/fr/courses/ml-practice-challenges)
-- [ml-practice-labs](https://labex.io/fr/courses/ml-practice-labs)
 - [mongodb-for-beginners](https://labex.io/fr/courses/mongodb-for-beginners)
 - [mysql-practice-challenges](https://labex.io/fr/courses/mysql-practice-challenges)
 - [numpy-practice-challenges](https://labex.io/fr/courses/numpy-practice-challenges)

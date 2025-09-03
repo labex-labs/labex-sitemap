@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ja Sitemap
 
-> Last updated: 2025-09-02 00:04 UTC
+> Last updated: 2025-09-03 00:04 UTC
 
 This file contains all courses-ja related links from LabEx website.
 
@@ -63,8 +63,6 @@ This file contains all courses-ja related links from LabEx website.
 - [linux-practice-labs](https://labex.io/ja/courses/linux-practice-labs)
 - [linux-software-playgrounds](https://labex.io/ja/courses/linux-software-playgrounds)
 - [matplotlib-practice-labs](https://labex.io/ja/courses/matplotlib-practice-labs)
-- [ml-practice-challenges](https://labex.io/ja/courses/ml-practice-challenges)
-- [ml-practice-labs](https://labex.io/ja/courses/ml-practice-labs)
 - [mongodb-for-beginners](https://labex.io/ja/courses/mongodb-for-beginners)
 - [mysql-practice-challenges](https://labex.io/ja/courses/mysql-practice-challenges)
 - [numpy-practice-challenges](https://labex.io/ja/courses/numpy-practice-challenges)

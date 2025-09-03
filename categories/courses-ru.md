@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ru Sitemap
 
-> Last updated: 2025-09-02 00:04 UTC
+> Last updated: 2025-09-03 00:04 UTC
 
 This file contains all courses-ru related links from LabEx website.
 
@@ -63,8 +63,6 @@ This file contains all courses-ru related links from LabEx website.
 - [linux-practice-labs](https://labex.io/ru/courses/linux-practice-labs)
 - [linux-software-playgrounds](https://labex.io/ru/courses/linux-software-playgrounds)
 - [matplotlib-practice-labs](https://labex.io/ru/courses/matplotlib-practice-labs)
-- [ml-practice-challenges](https://labex.io/ru/courses/ml-practice-challenges)
-- [ml-practice-labs](https://labex.io/ru/courses/ml-practice-labs)
 - [mongodb-for-beginners](https://labex.io/ru/courses/mongodb-for-beginners)
 - [mysql-practice-challenges](https://labex.io/ru/courses/mysql-practice-challenges)
 - [numpy-practice-challenges](https://labex.io/ru/courses/numpy-practice-challenges)

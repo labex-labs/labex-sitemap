@@ -4,7 +4,7 @@ layout: default
 
 # Pages-Ja Sitemap
 
-> Last updated: 2025-09-02 00:04 UTC
+> Last updated: 2025-09-03 00:04 UTC
 
 This file contains all pages-ja related links from LabEx website.
 
@@ -14,15 +14,3 @@ This file contains all pages-ja related links from LabEx website.
 
 ## Links
 
-
-### ja
-
-- [courses](https://labex.io/ja/courses)
-- [forgot-password](https://labex.io/ja/forgot-password)
-- [learn](https://labex.io/ja/learn)
-- [login](https://labex.io/ja/login)
-- [pricing](https://labex.io/ja/pricing)
-- [projects](https://labex.io/ja/projects)
-- [register](https://labex.io/ja/register)
-- [tutorials](https://labex.io/ja/tutorials)
-- [ja](https://labex.io/ja)

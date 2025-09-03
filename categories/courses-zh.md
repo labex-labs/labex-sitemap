@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Zh Sitemap
 
-> Last updated: 2025-09-02 00:04 UTC
+> Last updated: 2025-09-03 00:04 UTC
 
 This file contains all courses-zh related links from LabEx website.
 
@@ -63,8 +63,6 @@ This file contains all courses-zh related links from LabEx website.
 - [linux-practice-labs](https://labex.io/zh/courses/linux-practice-labs)
 - [linux-software-playgrounds](https://labex.io/zh/courses/linux-software-playgrounds)
 - [matplotlib-practice-labs](https://labex.io/zh/courses/matplotlib-practice-labs)
-- [ml-practice-challenges](https://labex.io/zh/courses/ml-practice-challenges)
-- [ml-practice-labs](https://labex.io/zh/courses/ml-practice-labs)
 - [mongodb-for-beginners](https://labex.io/zh/courses/mongodb-for-beginners)
 - [mysql-practice-challenges](https://labex.io/zh/courses/mysql-practice-challenges)
 - [numpy-practice-challenges](https://labex.io/zh/courses/numpy-practice-challenges)
