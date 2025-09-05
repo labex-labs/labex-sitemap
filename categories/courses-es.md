@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Es Sitemap
 
-> Last updated: 2025-09-04 00:05 UTC
+> Last updated: 2025-09-05 00:05 UTC
 
 This file contains all courses-es related links from LabEx website.
 
@@ -24,6 +24,7 @@ This file contains all courses-es related links from LabEx website.
 - [advanced-postgresql-practical-labs](https://labex.io/es/courses/advanced-postgresql-practical-labs)
 - [algorithm-practice-challenges](https://labex.io/es/courses/algorithm-practice-challenges)
 - [basic-django](https://labex.io/es/courses/basic-django)
+- [become-a-junior-system-administrator](https://labex.io/es/courses/become-a-junior-system-administrator)
 - [c-practice-challenges](https://labex.io/es/courses/c-practice-challenges)
 - [c-practice-labs](https://labex.io/es/courses/c-practice-labs)
 - [c-programming-for-beginners](https://labex.io/es/courses/c-programming-for-beginners)
