@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Pt Sitemap
 
-> Last updated: 2025-09-05 00:05 UTC
+> Last updated: 2025-09-06 00:02 UTC
 
 This file contains all courses-pt related links from LabEx website.
 
@@ -34,6 +34,7 @@ This file contains all courses-pt related links from LabEx website.
 - [cpp-practice-challenges](https://labex.io/pt/courses/cpp-practice-challenges)
 - [cpp-practice-labs](https://labex.io/pt/courses/cpp-practice-labs)
 - [cpp-programming-for-beginners](https://labex.io/pt/courses/cpp-programming-for-beginners)
+- [ctf-for-beginners](https://labex.io/pt/courses/ctf-for-beginners)
 - [cybersecurity-analysis-with-wireshark-and-tshark](https://labex.io/pt/courses/cybersecurity-analysis-with-wireshark-and-tshark)
 - [cybersecurity-labs-for-beginners](https://labex.io/pt/courses/cybersecurity-labs-for-beginners)
 - [docker-practice-challenges](https://labex.io/pt/courses/docker-practice-challenges)

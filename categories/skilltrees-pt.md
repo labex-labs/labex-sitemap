@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Pt Sitemap
 
-> Last updated: 2025-09-05 00:05 UTC
+> Last updated: 2025-09-06 00:02 UTC
 
 This file contains all skilltrees-pt related links from LabEx website.
 

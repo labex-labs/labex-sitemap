@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2025-09-05 00:05 UTC
+> Last updated: 2025-09-06 00:02 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -7849,7 +7849,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-database-interview-questions-and-answers-593677](https://labex.io/tutorials/linux-database-interview-questions-and-answers-593677) *(Last modified: 2025-07-31)*
 - [linux-day-1-the-lay-of-the-land-596200](https://labex.io/tutorials/linux-day-1-the-lay-of-the-land-596200) *(Last modified: 2025-09-04)*
 - [linux-day-2-the-digital-architect-596201](https://labex.io/tutorials/linux-day-2-the-digital-architect-596201) *(Last modified: 2025-09-04)*
-- [linux-day-3-the-log-investigator-596202](https://labex.io/tutorials/linux-day-3-the-log-investigator-596202) *(Last modified: 2025-09-04)*
+- [linux-day-3-the-log-investigator-596202](https://labex.io/tutorials/linux-day-3-the-log-investigator-596202) *(Last modified: 2025-09-05)*
 - [linux-day-4-the-fortress-guardian-596203](https://labex.io/tutorials/linux-day-4-the-fortress-guardian-596203) *(Last modified: 2025-09-04)*
 - [linux-day-5-the-keeper-of-the-keys-596204](https://labex.io/tutorials/linux-day-5-the-keeper-of-the-keys-596204) *(Last modified: 2025-09-04)*
 - [linux-decrypting-top-secret-document-415952](https://labex.io/tutorials/linux-decrypting-top-secret-document-415952) *(Last modified: 2025-09-03)*
@@ -14329,7 +14329,7 @@ This file contains all tutorials related links from LabEx website.
 - [python-lasso-selector-demo-sgskip-48798](https://labex.io/tutorials/python-lasso-selector-demo-sgskip-48798) *(Last modified: 2025-09-03)*
 - [python-last-list-element-13681](https://labex.io/tutorials/python-last-list-element-13681) *(Last modified: 2025-05-25)*
 - [python-leap-year-or-common-year-302741](https://labex.io/tutorials/python-leap-year-or-common-year-302741) *(Last modified: 2025-06-29)*
-- [python-learn-about-class-decorators-132516](https://labex.io/tutorials/python-learn-about-class-decorators-132516) *(Last modified: 2025-09-03)*
+- [python-learn-about-class-decorators-132516](https://labex.io/tutorials/python-learn-about-class-decorators-132516) *(Last modified: 2025-09-05)*
 - [python-learn-about-delegating-generators-132527](https://labex.io/tutorials/python-learn-about-delegating-generators-132527) *(Last modified: 2025-09-03)*
 - [python-learn-about-descriptors-132501](https://labex.io/tutorials/python-learn-about-descriptors-132501) *(Last modified: 2025-09-03)*
 - [python-learn-about-managed-generators-132526](https://labex.io/tutorials/python-learn-about-managed-generators-132526) *(Last modified: 2025-09-03)*
