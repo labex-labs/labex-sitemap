@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Es Sitemap
 
-> Last updated: 2025-09-06 00:02 UTC
+> Last updated: 2025-09-07 00:05 UTC
 
 This file contains all tutorials-es related links from LabEx website.
 
@@ -4802,7 +4802,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [linux-data-science-interview-questions-and-answers-593678](https://labex.io/es/tutorials/linux-data-science-interview-questions-and-answers-593678) *(Last modified: 2025-07-31)*
 - [linux-data-stream-redirection-17995](https://labex.io/es/tutorials/linux-data-stream-redirection-17995) *(Last modified: 2025-09-03)*
 - [linux-database-interview-questions-and-answers-593677](https://labex.io/es/tutorials/linux-database-interview-questions-and-answers-593677) *(Last modified: 2025-07-31)*
-- [linux-day-1-the-lay-of-the-land-596200](https://labex.io/es/tutorials/linux-day-1-the-lay-of-the-land-596200) *(Last modified: 2025-09-04)*
+- [linux-day-1-the-lay-of-the-land-596200](https://labex.io/es/tutorials/linux-day-1-the-lay-of-the-land-596200) *(Last modified: 2025-09-06)*
 - [linux-day-2-the-digital-architect-596201](https://labex.io/es/tutorials/linux-day-2-the-digital-architect-596201) *(Last modified: 2025-09-04)*
 - [linux-day-3-the-log-investigator-596202](https://labex.io/es/tutorials/linux-day-3-the-log-investigator-596202) *(Last modified: 2025-09-05)*
 - [linux-day-4-the-fortress-guardian-596203](https://labex.io/es/tutorials/linux-day-4-the-fortress-guardian-596203) *(Last modified: 2025-09-04)*
