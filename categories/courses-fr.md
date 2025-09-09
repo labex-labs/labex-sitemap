@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Fr Sitemap
 
-> Last updated: 2025-09-08 00:05 UTC
+> Last updated: 2025-09-09 00:05 UTC
 
 This file contains all courses-fr related links from LabEx website.
 
@@ -67,8 +67,8 @@ This file contains all courses-fr related links from LabEx website.
 - [matplotlib-practice-labs](https://labex.io/fr/courses/matplotlib-practice-labs)
 - [mongodb-for-beginners](https://labex.io/fr/courses/mongodb-for-beginners)
 - [mysql-practice-challenges](https://labex.io/fr/courses/mysql-practice-challenges)
+- [numpy-for-beginners](https://labex.io/fr/courses/numpy-for-beginners)
 - [numpy-practice-challenges](https://labex.io/fr/courses/numpy-practice-challenges)
-- [numpy-practice-labs](https://labex.io/fr/courses/numpy-practice-labs)
 - [pandas-practice-challenges](https://labex.io/fr/courses/pandas-practice-challenges)
 - [pandas-practice-labs](https://labex.io/fr/courses/pandas-practice-labs)
 - [postgresql-for-beginners](https://labex.io/fr/courses/postgresql-for-beginners)
@@ -481,7 +481,6 @@ This file contains all courses-fr related links from LabEx website.
 - [quick-start-with-matplotlib](https://labex.io/fr/courses/quick-start-with-matplotlib)
 - [quick-start-with-mysql](https://labex.io/fr/courses/quick-start-with-mysql)
 - [quick-start-with-nmap](https://labex.io/fr/courses/quick-start-with-nmap)
-- [quick-start-with-numpy](https://labex.io/fr/courses/quick-start-with-numpy)
 - [quick-start-with-opencv](https://labex.io/fr/courses/quick-start-with-opencv)
 - [quick-start-with-pandas](https://labex.io/fr/courses/quick-start-with-pandas)
 - [quick-start-with-python](https://labex.io/fr/courses/quick-start-with-python)

@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Fr Sitemap
 
-> Last updated: 2025-09-08 00:05 UTC
+> Last updated: 2025-09-09 00:05 UTC
 
 This file contains all tutorials-fr related links from LabEx website.
 
@@ -732,7 +732,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [comptia-customize-the-grub2-boot-menu-in-linux-590859](https://labex.io/fr/tutorials/comptia-customize-the-grub2-boot-menu-in-linux-590859) *(Last modified: 2025-09-07)*
 - [comptia-demonstrating-input-validation-and-code-integrity-594556](https://labex.io/fr/tutorials/comptia-demonstrating-input-validation-and-code-integrity-594556) *(Last modified: 2025-09-07)*
 - [comptia-digital-forensics-evidence-acquisition-and-integrity-594581](https://labex.io/fr/tutorials/comptia-digital-forensics-evidence-acquisition-and-integrity-594581) *(Last modified: 2025-09-07)*
-- [comptia-edit-text-files-in-linux-with-vim-and-nano-591076](https://labex.io/fr/tutorials/comptia-edit-text-files-in-linux-with-vim-and-nano-591076) *(Last modified: 2025-09-07)*
+- [comptia-edit-text-files-in-linux-with-vim-and-nano-591076](https://labex.io/fr/tutorials/comptia-edit-text-files-in-linux-with-vim-and-nano-591076) *(Last modified: 2025-09-08)*
 - [comptia-encrypt-and-decrypt-files-with-gpg-in-linux-590860](https://labex.io/fr/tutorials/comptia-encrypt-and-decrypt-files-with-gpg-in-linux-590860) *(Last modified: 2025-09-07)*
 - [comptia-ensuring-data-integrity-and-authenticity-with-cryptography-594576](https://labex.io/fr/tutorials/comptia-ensuring-data-integrity-and-authenticity-with-cryptography-594576) *(Last modified: 2025-09-07)*
 - [comptia-examine-network-interface-settings-with-ethtool-in-linux-592759](https://labex.io/fr/tutorials/comptia-examine-network-interface-settings-with-ethtool-in-linux-592759) *(Last modified: 2025-09-07)*
@@ -4739,7 +4739,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [linux-database-interview-questions-and-answers-593677](https://labex.io/fr/tutorials/linux-database-interview-questions-and-answers-593677) *(Last modified: 2025-07-31)*
 - [linux-day-1-the-lay-of-the-land-596200](https://labex.io/fr/tutorials/linux-day-1-the-lay-of-the-land-596200) *(Last modified: 2025-09-07)*
 - [linux-day-2-the-digital-architect-596201](https://labex.io/fr/tutorials/linux-day-2-the-digital-architect-596201) *(Last modified: 2025-09-07)*
-- [linux-day-3-the-log-investigator-596202](https://labex.io/fr/tutorials/linux-day-3-the-log-investigator-596202) *(Last modified: 2025-09-07)*
+- [linux-day-3-the-log-investigator-596202](https://labex.io/fr/tutorials/linux-day-3-the-log-investigator-596202) *(Last modified: 2025-09-08)*
 - [linux-day-4-the-fortress-guardian-596203](https://labex.io/fr/tutorials/linux-day-4-the-fortress-guardian-596203) *(Last modified: 2025-09-07)*
 - [linux-day-5-the-keeper-of-the-keys-596204](https://labex.io/fr/tutorials/linux-day-5-the-keeper-of-the-keys-596204) *(Last modified: 2025-09-07)*
 - [linux-decrypting-top-secret-document-415952](https://labex.io/fr/tutorials/linux-decrypting-top-secret-document-415952) *(Last modified: 2025-09-07)*
@@ -6295,11 +6295,10 @@ This file contains all tutorials-fr related links from LabEx website.
 - [numpy-creating-a-numpy-array-using-existing-data-86398](https://labex.io/fr/tutorials/numpy-creating-a-numpy-array-using-existing-data-86398) *(Last modified: 2025-09-07)*
 - [numpy-creating-empty-zeroes-and-ones-arrays-86395](https://labex.io/fr/tutorials/numpy-creating-empty-zeroes-and-ones-arrays-86395) *(Last modified: 2025-09-07)*
 - [numpy-creating-numpy-arrays-from-numerical-ranges-86396](https://labex.io/fr/tutorials/numpy-creating-numpy-arrays-from-numerical-ranges-86396) *(Last modified: 2025-09-07)*
-- [numpy-fundamentals-of-numpy-array-manipulation-85703](https://labex.io/fr/tutorials/numpy-fundamentals-of-numpy-array-manipulation-85703) *(Last modified: 2025-09-07)*
 - [numpy-generating-evenly-spaced-numbers-with-numpy-86473](https://labex.io/fr/tutorials/numpy-generating-evenly-spaced-numbers-with-numpy-86473) *(Last modified: 2025-09-07)*
-- [numpy-introduction-to-indexing-in-numpy-85699](https://labex.io/fr/tutorials/numpy-introduction-to-indexing-in-numpy-85699) *(Last modified: 2025-09-07)*
 - [numpy-numpy-amax-function-86387](https://labex.io/fr/tutorials/numpy-numpy-amax-function-86387) *(Last modified: 2025-09-07)*
 - [numpy-numpy-arange-function-86393](https://labex.io/fr/tutorials/numpy-numpy-arange-function-86393) *(Last modified: 2025-09-07)*
+- [numpy-numpy-array-creation-596338](https://labex.io/fr/tutorials/numpy-numpy-array-creation-596338) *(Last modified: 2025-09-08)*
 - [numpy-numpy-array-function-86400](https://labex.io/fr/tutorials/numpy-numpy-array-function-86400) *(Last modified: 2025-09-07)*
 - [numpy-numpy-array-mean-calculation-86481](https://labex.io/fr/tutorials/numpy-numpy-array-mean-calculation-86481) *(Last modified: 2025-09-07)*
 - [numpy-numpy-array-operations-1403](https://labex.io/fr/tutorials/numpy-numpy-array-operations-1403) *(Last modified: 2025-09-07)*
@@ -6307,21 +6306,27 @@ This file contains all tutorials-fr related links from LabEx website.
 - [numpy-numpy-bitwise-and-function-86406](https://labex.io/fr/tutorials/numpy-numpy-bitwise-and-function-86406) *(Last modified: 2025-09-07)*
 - [numpy-numpy-bitwise-or-practical-86408](https://labex.io/fr/tutorials/numpy-numpy-bitwise-or-practical-86408) *(Last modified: 2025-09-07)*
 - [numpy-numpy-bitwise-xor-operation-86410](https://labex.io/fr/tutorials/numpy-numpy-bitwise-xor-operation-86410) *(Last modified: 2025-09-07)*
-- [numpy-numpy-broadcasting-for-efficient-computation-85702](https://labex.io/fr/tutorials/numpy-numpy-broadcasting-for-efficient-computation-85702) *(Last modified: 2025-09-07)*
+- [numpy-numpy-broadcasting-596342](https://labex.io/fr/tutorials/numpy-numpy-broadcasting-596342) *(Last modified: 2025-09-08)*
 - [numpy-numpy-broadcasting-fundamentals-86412](https://labex.io/fr/tutorials/numpy-numpy-broadcasting-fundamentals-86412) *(Last modified: 2025-09-07)*
 - [numpy-numpy-ceil-function-86414](https://labex.io/fr/tutorials/numpy-numpy-ceil-function-86414) *(Last modified: 2025-09-07)*
 - [numpy-numpy-center-function-86416](https://labex.io/fr/tutorials/numpy-numpy-center-function-86416) *(Last modified: 2025-09-07)*
 - [numpy-numpy-char-partition-function-86418](https://labex.io/fr/tutorials/numpy-numpy-char-partition-function-86418) *(Last modified: 2025-09-07)*
 - [numpy-numpy-concatenate-function-86420](https://labex.io/fr/tutorials/numpy-numpy-concatenate-function-86420) *(Last modified: 2025-09-07)*
+- [numpy-numpy-copies-and-views-596343](https://labex.io/fr/tutorials/numpy-numpy-copies-and-views-596343) *(Last modified: 2025-09-08)*
+- [numpy-numpy-data-types-596341](https://labex.io/fr/tutorials/numpy-numpy-data-types-596341) *(Last modified: 2025-09-08)*
 - [numpy-numpy-datatype-exploration-86425](https://labex.io/fr/tutorials/numpy-numpy-datatype-exploration-86425) *(Last modified: 2025-09-07)*
 - [numpy-numpy-decode-function-86427](https://labex.io/fr/tutorials/numpy-numpy-decode-function-86427) *(Last modified: 2025-09-07)*
 - [numpy-numpy-dot-function-86429](https://labex.io/fr/tutorials/numpy-numpy-dot-function-86429) *(Last modified: 2025-09-07)*
+- [numpy-numpy-einsum-function-8001](https://labex.io/fr/tutorials/numpy-numpy-einsum-function-8001) *(Last modified: 2025-09-08)*
+- [numpy-numpy-file-io-127](https://labex.io/fr/tutorials/numpy-numpy-file-io-127) *(Last modified: 2025-09-08)*
 - [numpy-numpy-floor-function-86441](https://labex.io/fr/tutorials/numpy-numpy-floor-function-86441) *(Last modified: 2025-09-07)*
 - [numpy-numpy-fromiter-function-86445](https://labex.io/fr/tutorials/numpy-numpy-fromiter-function-86445) *(Last modified: 2025-09-07)*
 - [numpy-numpy-identity-function-86448](https://labex.io/fr/tutorials/numpy-numpy-identity-function-86448) *(Last modified: 2025-09-07)*
 - [numpy-numpy-index-function-86450](https://labex.io/fr/tutorials/numpy-numpy-index-function-86450) *(Last modified: 2025-09-07)*
 - [numpy-numpy-indexing-and-slicing-86452](https://labex.io/fr/tutorials/numpy-numpy-indexing-and-slicing-86452) *(Last modified: 2025-09-07)*
+- [numpy-numpy-indexing-on-ndarrays-596339](https://labex.io/fr/tutorials/numpy-numpy-indexing-on-ndarrays-596339) *(Last modified: 2025-09-08)*
 - [numpy-numpy-interview-questions-and-answers-593695](https://labex.io/fr/tutorials/numpy-numpy-interview-questions-and-answers-593695) *(Last modified: 2025-07-31)*
+- [numpy-numpy-io-genfromtxt-596340](https://labex.io/fr/tutorials/numpy-numpy-io-genfromtxt-596340) *(Last modified: 2025-09-08)*
 - [numpy-numpy-isdecimal-function-86458](https://labex.io/fr/tutorials/numpy-numpy-isdecimal-function-86458) *(Last modified: 2025-09-07)*
 - [numpy-numpy-isdigit-function-86460](https://labex.io/fr/tutorials/numpy-numpy-isdigit-function-86460) *(Last modified: 2025-09-07)*
 - [numpy-numpy-isnumeric-function-86462](https://labex.io/fr/tutorials/numpy-numpy-isnumeric-function-86462) *(Last modified: 2025-09-07)*
@@ -6335,12 +6340,14 @@ This file contains all tutorials-fr related links from LabEx website.
 - [numpy-numpy-ones-function-86487](https://labex.io/fr/tutorials/numpy-numpy-ones-function-86487) *(Last modified: 2025-09-07)*
 - [numpy-numpy-ptp-function-86491](https://labex.io/fr/tutorials/numpy-numpy-ptp-function-86491) *(Last modified: 2025-09-07)*
 - [numpy-numpy-replace-function-86494](https://labex.io/fr/tutorials/numpy-numpy-replace-function-86494) *(Last modified: 2025-09-07)*
-- [numpy-numpy-shape-manipulation-214](https://labex.io/fr/tutorials/numpy-numpy-shape-manipulation-214) *(Last modified: 2025-09-07)*
+- [numpy-numpy-shape-manipulation-214](https://labex.io/fr/tutorials/numpy-numpy-shape-manipulation-214) *(Last modified: 2025-09-08)*
 - [numpy-numpy-split-function-86502](https://labex.io/fr/tutorials/numpy-numpy-split-function-86502) *(Last modified: 2025-09-07)*
 - [numpy-numpy-splitlines-function-86504](https://labex.io/fr/tutorials/numpy-numpy-splitlines-function-86504) *(Last modified: 2025-09-07)*
 - [numpy-numpy-startswith-function-86506](https://labex.io/fr/tutorials/numpy-numpy-startswith-function-86506) *(Last modified: 2025-09-07)*
 - [numpy-numpy-std-function-86508](https://labex.io/fr/tutorials/numpy-numpy-std-function-86508) *(Last modified: 2025-09-07)*
+- [numpy-numpy-structured-arrays-596344](https://labex.io/fr/tutorials/numpy-numpy-structured-arrays-596344) *(Last modified: 2025-09-08)*
 - [numpy-numpy-transpose-function-86512](https://labex.io/fr/tutorials/numpy-numpy-transpose-function-86512) *(Last modified: 2025-09-07)*
+- [numpy-numpy-universal-functions-596345](https://labex.io/fr/tutorials/numpy-numpy-universal-functions-596345) *(Last modified: 2025-09-08)*
 - [numpy-numpy-upper-function-86516](https://labex.io/fr/tutorials/numpy-numpy-upper-function-86516) *(Last modified: 2025-09-07)*
 - [numpy-online-numpy-playground-593614](https://labex.io/fr/tutorials/numpy-online-numpy-playground-593614) *(Last modified: 2025-07-29)*
 - [numpy-sorting-numpy-arrays-with-algorithms-86500](https://labex.io/fr/tutorials/numpy-sorting-numpy-arrays-with-algorithms-86500) *(Last modified: 2025-09-07)*
@@ -6818,7 +6825,6 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-ftp-weak-password-scanner-using-python-298882](https://labex.io/fr/tutorials/python-ftp-weak-password-scanner-using-python-298882) *(Last modified: 2025-09-07)*
 - [python-function-argument-passing-conventions-132509](https://labex.io/fr/tutorials/python-function-argument-passing-conventions-132509) *(Last modified: 2025-09-07)*
 - [python-function-composition-with-python-13607](https://labex.io/fr/tutorials/python-function-composition-with-python-13607) *(Last modified: 2025-05-25)*
-- [python-fundamental-numpy-array-creation-techniques-85698](https://labex.io/fr/tutorials/python-fundamental-numpy-array-creation-techniques-85698) *(Last modified: 2025-09-07)*
 - [python-generate-date-range-in-python-13612](https://labex.io/fr/tutorials/python-generate-date-range-in-python-13612) *(Last modified: 2025-05-25)*
 - [python-generate-fibonacci-sequence-in-python-13630](https://labex.io/fr/tutorials/python-generate-fibonacci-sequence-in-python-13630) *(Last modified: 2025-05-25)*
 - [python-generating-a-battle-report-302731](https://labex.io/fr/tutorials/python-generating-a-battle-report-302731) *(Last modified: 2025-06-29)*
@@ -7388,7 +7394,6 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-implementing-minkowski-distance-metric-373572](https://labex.io/fr/tutorials/python-implementing-minkowski-distance-metric-373572) *(Last modified: 2025-05-21)*
 - [python-implementing-rail-fence-cipher-in-python-302758](https://labex.io/fr/tutorials/python-implementing-rail-fence-cipher-in-python-302758) *(Last modified: 2025-06-29)*
 - [python-import-modules-and-packages-in-python-585766](https://labex.io/fr/tutorials/python-import-modules-and-packages-in-python-585766) *(Last modified: 2025-07-23)*
-- [python-importing-data-with-genfromtxt-85700](https://labex.io/fr/tutorials/python-importing-data-with-genfromtxt-85700) *(Last modified: 2025-09-07)*
 - [python-index-of-max-element-13687](https://labex.io/fr/tutorials/python-index-of-max-element-13687) *(Last modified: 2025-05-25)*
 - [python-index-of-min-element-13694](https://labex.io/fr/tutorials/python-index-of-min-element-13694) *(Last modified: 2025-05-25)*
 - [python-initialize-2d-list-13660](https://labex.io/fr/tutorials/python-initialize-2d-list-13660) *(Last modified: 2025-05-25)*
@@ -7403,7 +7408,6 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-interactive-matplotlib-visualization-techniques-48864](https://labex.io/fr/tutorials/python-interactive-matplotlib-visualization-techniques-48864) *(Last modified: 2025-09-07)*
 - [python-interactive-plotting-with-textbox-48986](https://labex.io/fr/tutorials/python-interactive-plotting-with-textbox-48986) *(Last modified: 2025-09-07)*
 - [python-introducing-python-lists-fundamentals-132704](https://labex.io/fr/tutorials/python-introducing-python-lists-fundamentals-132704) *(Last modified: 2025-09-07)*
-- [python-introduction-to-numpy-universal-functions-85705](https://labex.io/fr/tutorials/python-introduction-to-numpy-universal-functions-85705) *(Last modified: 2025-09-07)*
 - [python-introduction-to-pandas-65440](https://labex.io/fr/tutorials/python-introduction-to-pandas-65440) *(Last modified: 2025-09-07)*
 - [python-invert-dictionary-with-duplicates-13603](https://labex.io/fr/tutorials/python-invert-dictionary-with-duplicates-13603) *(Last modified: 2025-05-25)*
 - [python-inverting-axes-of-a-matplotlib-plot-48790](https://labex.io/fr/tutorials/python-inverting-axes-of-a-matplotlib-plot-48790) *(Last modified: 2025-09-07)*
@@ -7613,7 +7617,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-number-to-hex-13732](https://labex.io/fr/tutorials/python-number-to-hex-13732) *(Last modified: 2025-05-25)*
 - [python-numpy-accessing-array-elements-iteration-86381](https://labex.io/fr/tutorials/python-numpy-accessing-array-elements-iteration-86381) *(Last modified: 2025-09-07)*
 - [python-numpy-advance-indexing-86385](https://labex.io/fr/tutorials/python-numpy-advance-indexing-86385) *(Last modified: 2025-09-07)*
-- [python-numpy-advanced-topics-11](https://labex.io/fr/tutorials/python-numpy-advanced-topics-11) *(Last modified: 2025-09-07)*
+- [python-numpy-advanced-topics-11](https://labex.io/fr/tutorials/python-numpy-advanced-topics-11) *(Last modified: 2025-09-08)*
 - [python-numpy-amin-function-86389](https://labex.io/fr/tutorials/python-numpy-amin-function-86389) *(Last modified: 2025-09-07)*
 - [python-numpy-append-function-86391](https://labex.io/fr/tutorials/python-numpy-append-function-86391) *(Last modified: 2025-09-07)*
 - [python-numpy-arrays-and-data-types-4996](https://labex.io/fr/tutorials/python-numpy-arrays-and-data-types-4996) *(Last modified: 2025-09-07)*
@@ -7623,7 +7627,6 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-numpy-empty-function-86431](https://labex.io/fr/tutorials/python-numpy-empty-function-86431) *(Last modified: 2025-09-07)*
 - [python-numpy-encode-function-86433](https://labex.io/fr/tutorials/python-numpy-encode-function-86433) *(Last modified: 2025-09-07)*
 - [python-numpy-eye-function-86435](https://labex.io/fr/tutorials/python-numpy-eye-function-86435) *(Last modified: 2025-09-07)*
-- [python-numpy-file-io-127](https://labex.io/fr/tutorials/python-numpy-file-io-127) *(Last modified: 2025-09-07)*
 - [python-numpy-frombuffer-function-86443](https://labex.io/fr/tutorials/python-numpy-frombuffer-function-86443) *(Last modified: 2025-09-07)*
 - [python-numpy-invert-function-86454](https://labex.io/fr/tutorials/python-numpy-invert-function-86454) *(Last modified: 2025-09-07)*
 - [python-numpy-isalpha-function-86456](https://labex.io/fr/tutorials/python-numpy-isalpha-function-86456) *(Last modified: 2025-09-07)*
@@ -7951,7 +7954,6 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-stem-plot-visualization-with-python-48958](https://labex.io/fr/tutorials/python-stem-plot-visualization-with-python-48958) *(Last modified: 2025-09-07)*
 - [python-stix-fonts-demo-48961](https://labex.io/fr/tutorials/python-stix-fonts-demo-48961) *(Last modified: 2025-09-07)*
 - [python-stopwatch-using-python-and-tkinter-298904](https://labex.io/fr/tutorials/python-stopwatch-using-python-and-tkinter-298904) *(Last modified: 2025-09-07)*
-- [python-structured-arrays-in-numpy-85704](https://labex.io/fr/tutorials/python-structured-arrays-in-numpy-85704) *(Last modified: 2025-09-07)*
 - [python-structured-data-output-for-data-analysis-132709](https://labex.io/fr/tutorials/python-structured-data-output-for-data-analysis-132709) *(Last modified: 2025-09-07)*
 - [python-styling-text-boxes-using-bbox-parameters-48725](https://labex.io/fr/tutorials/python-styling-text-boxes-using-bbox-parameters-48725) *(Last modified: 2025-09-07)*
 - [python-subplot-customization-with-gridspec-48679](https://labex.io/fr/tutorials/python-subplot-customization-with-gridspec-48679) *(Last modified: 2025-09-07)*
@@ -7998,7 +8000,6 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-understand-number-types-and-operations-in-python-585779](https://labex.io/fr/tutorials/python-understand-number-types-and-operations-in-python-585779) *(Last modified: 2025-07-23)*
 - [python-understand-operator-precedence-in-python-585780](https://labex.io/fr/tutorials/python-understand-operator-precedence-in-python-585780) *(Last modified: 2025-07-23)*
 - [python-understand-operators-in-python-585781](https://labex.io/fr/tutorials/python-understand-operators-in-python-585781) *(Last modified: 2025-07-23)*
-- [python-understanding-numpy-data-types-85701](https://labex.io/fr/tutorials/python-understanding-numpy-data-types-85701) *(Last modified: 2025-09-07)*
 - [python-unique-character-sorting-in-python-302760](https://labex.io/fr/tutorials/python-unique-character-sorting-in-python-302760) *(Last modified: 2025-06-29)*
 - [python-unique-elements-in-list-13739](https://labex.io/fr/tutorials/python-unique-elements-in-list-13739) *(Last modified: 2025-05-25)*
 - [python-unique-list-combination-in-python-13738](https://labex.io/fr/tutorials/python-unique-list-combination-in-python-13738) *(Last modified: 2025-05-25)*
