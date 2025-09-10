@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-09-09 00:05 UTC
+> Last updated: 2025-09-10 00:04 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -36,7 +36,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [ansible-ansible-jinja2-templates-390470](https://labex.io/zh/tutorials/ansible-ansible-jinja2-templates-390470) *(Last modified: 2025-09-07)*
 - [ansible-ansible-local-action-module-290189](https://labex.io/zh/tutorials/ansible-ansible-local-action-module-290189) *(Last modified: 2025-09-07)*
 - [ansible-ansible-playbook-basics-390426](https://labex.io/zh/tutorials/ansible-ansible-playbook-basics-390426) *(Last modified: 2025-09-07)*
-- [ansible-ansible-roles-390467](https://labex.io/zh/tutorials/ansible-ansible-roles-390467) *(Last modified: 2025-09-07)*
+- [ansible-ansible-roles-390467](https://labex.io/zh/tutorials/ansible-ansible-roles-390467) *(Last modified: 2025-09-09)*
 - [ansible-ansible-roles-and-collections-on-rhel-590574](https://labex.io/zh/tutorials/ansible-ansible-roles-and-collections-on-rhel-590574) *(Last modified: 2025-09-07)*
 - [ansible-ansible-script-module-289411](https://labex.io/zh/tutorials/ansible-ansible-script-module-289411) *(Last modified: 2025-09-07)*
 - [ansible-ansible-shell-module-289409](https://labex.io/zh/tutorials/ansible-ansible-shell-module-289409) *(Last modified: 2025-09-07)*
@@ -7741,7 +7741,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-create-automated-linux-cron-jobs-400163](https://labex.io/zh/tutorials/linux-create-automated-linux-cron-jobs-400163) *(Last modified: 2025-03-16)*
 - [linux-create-jenkins-ci-cd-pipeline-on-linux-392790](https://labex.io/zh/tutorials/linux-create-jenkins-ci-cd-pipeline-on-linux-392790) *(Last modified: 2025-03-16)*
 - [linux-create-linux-compressed-archives-409821](https://labex.io/zh/tutorials/linux-create-linux-compressed-archives-409821) *(Last modified: 2025-03-01)*
-- [linux-create-personalized-terminal-greeting-446322](https://labex.io/zh/tutorials/linux-create-personalized-terminal-greeting-446322) *(Last modified: 2025-09-07)*
+- [linux-create-personalized-terminal-greeting-446322](https://labex.io/zh/tutorials/linux-create-personalized-terminal-greeting-446322) *(Last modified: 2025-09-09)*
 - [linux-create-read-only-filesystems-in-linux-415253](https://labex.io/zh/tutorials/linux-create-read-only-filesystems-in-linux-415253) *(Last modified: 2025-03-16)*
 - [linux-create-scheduled-linux-cron-jobs-400146](https://labex.io/zh/tutorials/linux-create-scheduled-linux-cron-jobs-400146) *(Last modified: 2025-03-16)*
 - [linux-create-scheduled-linux-tasks-with-cron-400123](https://labex.io/zh/tutorials/linux-create-scheduled-linux-tasks-with-cron-400123) *(Last modified: 2025-03-16)*
@@ -10004,7 +10004,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-terminate-processes-in-linux-44](https://labex.io/zh/tutorials/linux-terminate-processes-in-linux-44) *(Last modified: 2025-09-07)*
 - [linux-text-processing-and-regular-expressions-18003](https://labex.io/zh/tutorials/linux-text-processing-and-regular-expressions-18003) *(Last modified: 2025-09-07)*
 - [linux-the-joker-s-trick-270247](https://labex.io/zh/tutorials/linux-the-joker-s-trick-270247) *(Last modified: 2025-09-07)*
-- [linux-the-manuscript-mystery-384742](https://labex.io/zh/tutorials/linux-the-manuscript-mystery-384742) *(Last modified: 2025-09-07)*
+- [linux-the-manuscript-mystery-384742](https://labex.io/zh/tutorials/linux-the-manuscript-mystery-384742) *(Last modified: 2025-09-09)*
 - [linux-transcribe-media-to-text-with-whisper-289658](https://labex.io/zh/tutorials/linux-transcribe-media-to-text-with-whisper-289658) *(Last modified: 2025-09-07)*
 - [linux-treasure-island-networking-adventure-271340](https://labex.io/zh/tutorials/linux-treasure-island-networking-adventure-271340) *(Last modified: 2025-09-07)*
 - [linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859](https://labex.io/zh/tutorials/linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859) *(Last modified: 2025-09-07)*
@@ -11236,7 +11236,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [numpy-generating-evenly-spaced-numbers-with-numpy-86473](https://labex.io/zh/tutorials/numpy-generating-evenly-spaced-numbers-with-numpy-86473) *(Last modified: 2025-09-07)*
 - [numpy-numpy-amax-function-86387](https://labex.io/zh/tutorials/numpy-numpy-amax-function-86387) *(Last modified: 2025-09-07)*
 - [numpy-numpy-arange-function-86393](https://labex.io/zh/tutorials/numpy-numpy-arange-function-86393) *(Last modified: 2025-09-07)*
-- [numpy-numpy-array-creation-596338](https://labex.io/zh/tutorials/numpy-numpy-array-creation-596338) *(Last modified: 2025-09-08)*
+- [numpy-numpy-array-creation-596338](https://labex.io/zh/tutorials/numpy-numpy-array-creation-596338) *(Last modified: 2025-09-09)*
 - [numpy-numpy-array-function-86400](https://labex.io/zh/tutorials/numpy-numpy-array-function-86400) *(Last modified: 2025-09-07)*
 - [numpy-numpy-array-mean-calculation-86481](https://labex.io/zh/tutorials/numpy-numpy-array-mean-calculation-86481) *(Last modified: 2025-09-07)*
 - [numpy-numpy-array-operations-1403](https://labex.io/zh/tutorials/numpy-numpy-array-operations-1403) *(Last modified: 2025-09-07)*
@@ -11264,7 +11264,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [numpy-numpy-indexing-and-slicing-86452](https://labex.io/zh/tutorials/numpy-numpy-indexing-and-slicing-86452) *(Last modified: 2025-09-07)*
 - [numpy-numpy-indexing-on-ndarrays-596339](https://labex.io/zh/tutorials/numpy-numpy-indexing-on-ndarrays-596339) *(Last modified: 2025-09-08)*
 - [numpy-numpy-interview-questions-and-answers-593695](https://labex.io/zh/tutorials/numpy-numpy-interview-questions-and-answers-593695) *(Last modified: 2025-07-31)*
-- [numpy-numpy-io-genfromtxt-596340](https://labex.io/zh/tutorials/numpy-numpy-io-genfromtxt-596340) *(Last modified: 2025-09-08)*
+- [numpy-numpy-io-genfromtxt-596340](https://labex.io/zh/tutorials/numpy-numpy-io-genfromtxt-596340) *(Last modified: 2025-09-09)*
 - [numpy-numpy-isdecimal-function-86458](https://labex.io/zh/tutorials/numpy-numpy-isdecimal-function-86458) *(Last modified: 2025-09-07)*
 - [numpy-numpy-isdigit-function-86460](https://labex.io/zh/tutorials/numpy-numpy-isdigit-function-86460) *(Last modified: 2025-09-07)*
 - [numpy-numpy-isnumeric-function-86462](https://labex.io/zh/tutorials/numpy-numpy-isnumeric-function-86462) *(Last modified: 2025-09-07)*

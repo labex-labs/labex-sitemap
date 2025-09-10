@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Fr Sitemap
 
-> Last updated: 2025-09-09 00:05 UTC
+> Last updated: 2025-09-10 00:04 UTC
 
 This file contains all courses-fr related links from LabEx website.
 
@@ -69,8 +69,8 @@ This file contains all courses-fr related links from LabEx website.
 - [mysql-practice-challenges](https://labex.io/fr/courses/mysql-practice-challenges)
 - [numpy-for-beginners](https://labex.io/fr/courses/numpy-for-beginners)
 - [numpy-practice-challenges](https://labex.io/fr/courses/numpy-practice-challenges)
+- [pandas-for-beginners](https://labex.io/fr/courses/pandas-for-beginners)
 - [pandas-practice-challenges](https://labex.io/fr/courses/pandas-practice-challenges)
-- [pandas-practice-labs](https://labex.io/fr/courses/pandas-practice-labs)
 - [postgresql-for-beginners](https://labex.io/fr/courses/postgresql-for-beginners)
 - [practical-python-programming](https://labex.io/fr/courses/practical-python-programming)
 - [privilege-escalation-techniques-on-linux](https://labex.io/fr/courses/privilege-escalation-techniques-on-linux)
@@ -482,7 +482,6 @@ This file contains all courses-fr related links from LabEx website.
 - [quick-start-with-mysql](https://labex.io/fr/courses/quick-start-with-mysql)
 - [quick-start-with-nmap](https://labex.io/fr/courses/quick-start-with-nmap)
 - [quick-start-with-opencv](https://labex.io/fr/courses/quick-start-with-opencv)
-- [quick-start-with-pandas](https://labex.io/fr/courses/quick-start-with-pandas)
 - [quick-start-with-python](https://labex.io/fr/courses/quick-start-with-python)
 - [quick-start-with-react](https://labex.io/fr/courses/quick-start-with-react)
 - [quick-start-with-rust](https://labex.io/fr/courses/quick-start-with-rust)

@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ko Sitemap
 
-> Last updated: 2025-09-09 00:05 UTC
+> Last updated: 2025-09-10 00:04 UTC
 
 This file contains all courses-ko related links from LabEx website.
 
@@ -69,8 +69,8 @@ This file contains all courses-ko related links from LabEx website.
 - [mysql-practice-challenges](https://labex.io/ko/courses/mysql-practice-challenges)
 - [numpy-for-beginners](https://labex.io/ko/courses/numpy-for-beginners)
 - [numpy-practice-challenges](https://labex.io/ko/courses/numpy-practice-challenges)
+- [pandas-for-beginners](https://labex.io/ko/courses/pandas-for-beginners)
 - [pandas-practice-challenges](https://labex.io/ko/courses/pandas-practice-challenges)
-- [pandas-practice-labs](https://labex.io/ko/courses/pandas-practice-labs)
 - [postgresql-for-beginners](https://labex.io/ko/courses/postgresql-for-beginners)
 - [practical-python-programming](https://labex.io/ko/courses/practical-python-programming)
 - [privilege-escalation-techniques-on-linux](https://labex.io/ko/courses/privilege-escalation-techniques-on-linux)
@@ -482,7 +482,6 @@ This file contains all courses-ko related links from LabEx website.
 - [quick-start-with-mysql](https://labex.io/ko/courses/quick-start-with-mysql)
 - [quick-start-with-nmap](https://labex.io/ko/courses/quick-start-with-nmap)
 - [quick-start-with-opencv](https://labex.io/ko/courses/quick-start-with-opencv)
-- [quick-start-with-pandas](https://labex.io/ko/courses/quick-start-with-pandas)
 - [quick-start-with-python](https://labex.io/ko/courses/quick-start-with-python)
 - [quick-start-with-react](https://labex.io/ko/courses/quick-start-with-react)
 - [quick-start-with-rust](https://labex.io/ko/courses/quick-start-with-rust)
