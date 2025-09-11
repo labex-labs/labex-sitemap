@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Ja Sitemap
 
-> Last updated: 2025-09-10 00:04 UTC
+> Last updated: 2025-09-11 00:05 UTC
 
 This file contains all skilltrees-ja related links from LabEx website.
 
@@ -38,7 +38,6 @@ This file contains all skilltrees-ja related links from LabEx website.
 - [kubernetes](https://labex.io/ja/learn/kubernetes)
 - [linux](https://labex.io/ja/learn/linux)
 - [matplotlib](https://labex.io/ja/learn/matplotlib)
-- [ml](https://labex.io/ja/learn/ml)
 - [mongodb](https://labex.io/ja/learn/mongodb)
 - [mysql](https://labex.io/ja/learn/mysql)
 - [nmap](https://labex.io/ja/learn/nmap)
@@ -75,7 +74,6 @@ This file contains all skilltrees-ja related links from LabEx website.
 - [kubernetes](https://labex.io/ja/tutorials/category/kubernetes)
 - [linux](https://labex.io/ja/tutorials/category/linux)
 - [matplotlib](https://labex.io/ja/tutorials/category/matplotlib)
-- [ml](https://labex.io/ja/tutorials/category/ml)
 - [mongodb](https://labex.io/ja/tutorials/category/mongodb)
 - [mysql](https://labex.io/ja/tutorials/category/mysql)
 - [nmap](https://labex.io/ja/tutorials/category/nmap)

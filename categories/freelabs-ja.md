@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Ja Sitemap
 
-> Last updated: 2025-09-10 00:04 UTC
+> Last updated: 2025-09-11 00:05 UTC
 
 This file contains all freelabs-ja related links from LabEx website.
 
@@ -39,7 +39,6 @@ This file contains all freelabs-ja related links from LabEx website.
 - [kubernetes](https://labex.io/ja/free-labs/kubernetes)
 - [linux](https://labex.io/ja/free-labs/linux)
 - [matplotlib](https://labex.io/ja/free-labs/matplotlib)
-- [ml](https://labex.io/ja/free-labs/ml)
 - [mongodb](https://labex.io/ja/free-labs/mongodb)
 - [mysql](https://labex.io/ja/free-labs/mysql)
 - [nmap](https://labex.io/ja/free-labs/nmap)

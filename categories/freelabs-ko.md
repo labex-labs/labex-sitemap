@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Ko Sitemap
 
-> Last updated: 2025-09-10 00:04 UTC
+> Last updated: 2025-09-11 00:05 UTC
 
 This file contains all freelabs-ko related links from LabEx website.
 
@@ -39,7 +39,6 @@ This file contains all freelabs-ko related links from LabEx website.
 - [kubernetes](https://labex.io/ko/free-labs/kubernetes)
 - [linux](https://labex.io/ko/free-labs/linux)
 - [matplotlib](https://labex.io/ko/free-labs/matplotlib)
-- [ml](https://labex.io/ko/free-labs/ml)
 - [mongodb](https://labex.io/ko/free-labs/mongodb)
 - [mysql](https://labex.io/ko/free-labs/mysql)
 - [nmap](https://labex.io/ko/free-labs/nmap)

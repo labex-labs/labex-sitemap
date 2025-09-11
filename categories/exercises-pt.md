@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Pt Sitemap
 
-> Last updated: 2025-09-10 00:04 UTC
+> Last updated: 2025-09-11 00:05 UTC
 
 This file contains all exercises-pt related links from LabEx website.
 
@@ -38,7 +38,6 @@ This file contains all exercises-pt related links from LabEx website.
 - [kubernetes](https://labex.io/pt/exercises/kubernetes)
 - [linux](https://labex.io/pt/exercises/linux)
 - [matplotlib](https://labex.io/pt/exercises/matplotlib)
-- [ml](https://labex.io/pt/exercises/ml)
 - [mongodb](https://labex.io/pt/exercises/mongodb)
 - [mysql](https://labex.io/pt/exercises/mysql)
 - [nmap](https://labex.io/pt/exercises/nmap)

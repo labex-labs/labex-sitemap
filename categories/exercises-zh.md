@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Zh Sitemap
 
-> Last updated: 2025-09-10 00:04 UTC
+> Last updated: 2025-09-11 00:05 UTC
 
 This file contains all exercises-zh related links from LabEx website.
 
@@ -38,7 +38,6 @@ This file contains all exercises-zh related links from LabEx website.
 - [kubernetes](https://labex.io/zh/exercises/kubernetes)
 - [linux](https://labex.io/zh/exercises/linux)
 - [matplotlib](https://labex.io/zh/exercises/matplotlib)
-- [ml](https://labex.io/zh/exercises/ml)
 - [mongodb](https://labex.io/zh/exercises/mongodb)
 - [mysql](https://labex.io/zh/exercises/mysql)
 - [nmap](https://labex.io/zh/exercises/nmap)

@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Es Sitemap
 
-> Last updated: 2025-09-10 00:04 UTC
+> Last updated: 2025-09-11 00:05 UTC
 
 This file contains all skilltrees-es related links from LabEx website.
 
@@ -38,7 +38,6 @@ This file contains all skilltrees-es related links from LabEx website.
 - [kubernetes](https://labex.io/es/learn/kubernetes)
 - [linux](https://labex.io/es/learn/linux)
 - [matplotlib](https://labex.io/es/learn/matplotlib)
-- [ml](https://labex.io/es/learn/ml)
 - [mongodb](https://labex.io/es/learn/mongodb)
 - [mysql](https://labex.io/es/learn/mysql)
 - [nmap](https://labex.io/es/learn/nmap)
@@ -75,7 +74,6 @@ This file contains all skilltrees-es related links from LabEx website.
 - [kubernetes](https://labex.io/es/tutorials/category/kubernetes)
 - [linux](https://labex.io/es/tutorials/category/linux)
 - [matplotlib](https://labex.io/es/tutorials/category/matplotlib)
-- [ml](https://labex.io/es/tutorials/category/ml)
 - [mongodb](https://labex.io/es/tutorials/category/mongodb)
 - [mysql](https://labex.io/es/tutorials/category/mysql)
 - [nmap](https://labex.io/es/tutorials/category/nmap)

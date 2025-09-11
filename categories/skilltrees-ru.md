@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Ru Sitemap
 
-> Last updated: 2025-09-10 00:04 UTC
+> Last updated: 2025-09-11 00:05 UTC
 
 This file contains all skilltrees-ru related links from LabEx website.
 
@@ -38,7 +38,6 @@ This file contains all skilltrees-ru related links from LabEx website.
 - [kubernetes](https://labex.io/ru/learn/kubernetes)
 - [linux](https://labex.io/ru/learn/linux)
 - [matplotlib](https://labex.io/ru/learn/matplotlib)
-- [ml](https://labex.io/ru/learn/ml)
 - [mongodb](https://labex.io/ru/learn/mongodb)
 - [mysql](https://labex.io/ru/learn/mysql)
 - [nmap](https://labex.io/ru/learn/nmap)
@@ -75,7 +74,6 @@ This file contains all skilltrees-ru related links from LabEx website.
 - [kubernetes](https://labex.io/ru/tutorials/category/kubernetes)
 - [linux](https://labex.io/ru/tutorials/category/linux)
 - [matplotlib](https://labex.io/ru/tutorials/category/matplotlib)
-- [ml](https://labex.io/ru/tutorials/category/ml)
 - [mongodb](https://labex.io/ru/tutorials/category/mongodb)
 - [mysql](https://labex.io/ru/tutorials/category/mysql)
 - [nmap](https://labex.io/ru/tutorials/category/nmap)

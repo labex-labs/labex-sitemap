@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Ja Sitemap
 
-> Last updated: 2025-09-10 00:04 UTC
+> Last updated: 2025-09-11 00:05 UTC
 
 This file contains all exercises-ja related links from LabEx website.
 
@@ -38,7 +38,6 @@ This file contains all exercises-ja related links from LabEx website.
 - [kubernetes](https://labex.io/ja/exercises/kubernetes)
 - [linux](https://labex.io/ja/exercises/linux)
 - [matplotlib](https://labex.io/ja/exercises/matplotlib)
-- [ml](https://labex.io/ja/exercises/ml)
 - [mongodb](https://labex.io/ja/exercises/mongodb)
 - [mysql](https://labex.io/ja/exercises/mysql)
 - [nmap](https://labex.io/ja/exercises/nmap)
