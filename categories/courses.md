@@ -4,7 +4,7 @@ layout: default
 
 # Courses Sitemap
 
-> Last updated: 2025-09-12 00:04 UTC
+> Last updated: 2025-09-13 00:04 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -319,6 +319,7 @@ This file contains all courses related links from LabEx website.
 - [project-network-data-packet-statistics](https://labex.io/courses/project-network-data-packet-statistics)
 - [project-new-colleague-system-account-setup](https://labex.io/courses/project-new-colleague-system-account-setup)
 - [project-news-api](https://labex.io/courses/project-news-api)
+- [project-nmap-port-scanning-and-telnet-access](https://labex.io/courses/project-nmap-port-scanning-and-telnet-access)
 - [project-number-of-users-with-modify-permissions](https://labex.io/courses/project-number-of-users-with-modify-permissions)
 - [project-obtain-pi-with-two-decimals](https://labex.io/courses/project-obtain-pi-with-two-decimals)
 - [project-official-languages-in-various-countries](https://labex.io/courses/project-official-languages-in-various-countries)
@@ -493,6 +494,7 @@ This file contains all courses related links from LabEx website.
 - [c](https://labex.io/projects/category/c)
 - [cpp](https://labex.io/projects/category/cpp)
 - [css](https://labex.io/projects/category/css)
+- [cybersecurity](https://labex.io/projects/category/cybersecurity)
 - [data-science](https://labex.io/projects/category/data-science)
 - [devops](https://labex.io/projects/category/devops)
 - [docker](https://labex.io/projects/category/docker)
