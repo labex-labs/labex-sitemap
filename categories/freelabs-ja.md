@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Ja Sitemap
 
-> Last updated: 2025-09-14 00:04 UTC
+> Last updated: 2025-09-15 00:04 UTC
 
 This file contains all freelabs-ja related links from LabEx website.
 
