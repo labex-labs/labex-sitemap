@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ko Sitemap
 
-> Last updated: 2025-09-15 00:04 UTC
+> Last updated: 2025-09-16 00:03 UTC
 
 This file contains all courses-ko related links from LabEx website.
 
@@ -503,6 +503,7 @@ This file contains all courses-ko related links from LabEx website.
 - [linux](https://labex.io/ko/projects/category/linux)
 - [matplotlib](https://labex.io/ko/projects/category/matplotlib)
 - [mysql](https://labex.io/ko/projects/category/mysql)
+- [nmap](https://labex.io/ko/projects/category/nmap)
 - [numpy](https://labex.io/ko/projects/category/numpy)
 - [pandas](https://labex.io/ko/projects/category/pandas)
 - [python](https://labex.io/ko/projects/category/python)

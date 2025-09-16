@@ -4,7 +4,7 @@ layout: default
 
 # Courses-De Sitemap
 
-> Last updated: 2025-09-15 00:04 UTC
+> Last updated: 2025-09-16 00:03 UTC
 
 This file contains all courses-de related links from LabEx website.
 
@@ -503,6 +503,7 @@ This file contains all courses-de related links from LabEx website.
 - [linux](https://labex.io/de/projects/category/linux)
 - [matplotlib](https://labex.io/de/projects/category/matplotlib)
 - [mysql](https://labex.io/de/projects/category/mysql)
+- [nmap](https://labex.io/de/projects/category/nmap)
 - [numpy](https://labex.io/de/projects/category/numpy)
 - [pandas](https://labex.io/de/projects/category/pandas)
 - [python](https://labex.io/de/projects/category/python)

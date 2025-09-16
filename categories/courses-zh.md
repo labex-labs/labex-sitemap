@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Zh Sitemap
 
-> Last updated: 2025-09-15 00:04 UTC
+> Last updated: 2025-09-16 00:03 UTC
 
 This file contains all courses-zh related links from LabEx website.
 
@@ -503,6 +503,7 @@ This file contains all courses-zh related links from LabEx website.
 - [linux](https://labex.io/zh/projects/category/linux)
 - [matplotlib](https://labex.io/zh/projects/category/matplotlib)
 - [mysql](https://labex.io/zh/projects/category/mysql)
+- [nmap](https://labex.io/zh/projects/category/nmap)
 - [numpy](https://labex.io/zh/projects/category/numpy)
 - [pandas](https://labex.io/zh/projects/category/pandas)
 - [python](https://labex.io/zh/projects/category/python)

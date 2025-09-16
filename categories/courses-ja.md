@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ja Sitemap
 
-> Last updated: 2025-09-15 00:04 UTC
+> Last updated: 2025-09-16 00:03 UTC
 
 This file contains all courses-ja related links from LabEx website.
 
@@ -503,6 +503,7 @@ This file contains all courses-ja related links from LabEx website.
 - [linux](https://labex.io/ja/projects/category/linux)
 - [matplotlib](https://labex.io/ja/projects/category/matplotlib)
 - [mysql](https://labex.io/ja/projects/category/mysql)
+- [nmap](https://labex.io/ja/projects/category/nmap)
 - [numpy](https://labex.io/ja/projects/category/numpy)
 - [pandas](https://labex.io/ja/projects/category/pandas)
 - [python](https://labex.io/ja/projects/category/python)
