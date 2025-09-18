@@ -5,6 +5,13 @@ from collections import defaultdict
 from pathlib import Path
 import json
 import os
+import logging
+
+# 配置日志
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(message)s", datefmt="%H:%M:%S"
+)
+logger = logging.getLogger(__name__)
 
 
 def fetch_sitemap(url):
@@ -17,13 +24,13 @@ def fetch_sitemap(url):
             if x_auth:
                 headers["x-auth"] = x_auth
             else:
-                print("Warning: LABEX_X_AUTH environment variable not found")
+                logger.warning("未找到 LABEX_X_AUTH 环境变量")
 
         response = requests.get(url, headers=headers)
         response.raise_for_status()
         return response.text
     except requests.RequestException as e:
-        print(f"Error fetching sitemap: {e}")
+        logger.error(f"获取站点地图失败：{e}")
         return None
 
 
@@ -225,7 +232,7 @@ def load_previous_link_counts():
             with open(counts_file, "r", encoding="utf-8") as f:
                 return json.load(f)
     except Exception as e:
-        print(f"Error loading previous link counts: {e}")
+        logger.warning(f"加载历史链接数据失败：{e}")
 
     return {}
 
@@ -234,7 +241,7 @@ def send_feishu_notification(title, text):
     """Send notification to Feishu webhook"""
     webhook_url = os.getenv("FEISHU_WEBHOOK_URL")
     if not webhook_url:
-        print("Warning: FEISHU_WEBHOOK_URL environment variable not found")
+        logger.warning("未找到飞书 Webhook 地址")
         return False
 
     try:
@@ -243,17 +250,17 @@ def send_feishu_notification(title, text):
             json={"title": title, "text": text, "to": "huhuhang"},
         )
         response.raise_for_status()
-        print("Feishu notification sent successfully")
+        logger.info("飞书通知发送成功")
         return True
     except requests.RequestException as e:
-        print(f"Error sending Feishu notification: {e}")
+        logger.error(f"飞书通知发送失败：{e}")
         return False
 
 
 def check_and_notify_link_changes(current_counts, previous_counts):
     """Check for significant link count changes and send notifications"""
     if not previous_counts:
-        print("No previous link counts found, skipping notification check")
+        logger.info("首次运行，跳过变化检测")
         return
 
     total_current = sum(current_counts.values())
@@ -279,11 +286,10 @@ def check_and_notify_link_changes(current_counts, previous_counts):
 
         text = "\n".join(text_parts)
 
-        print(f"Significant link count change detected: {total_change:+,}")
-        print("Sending Feishu notification...")
+        logger.info(f"检测到重大变化：{total_change:+,} 个链接")
         send_feishu_notification(title, text)
     else:
-        print(f"Link count change within threshold: {total_change:+,}")
+        logger.info(f"链接变化在阈值范围内：{total_change:+,}")
 
 
 def update_package_version():
@@ -308,10 +314,10 @@ def update_package_version():
             # Add newline at end of file
             f.write("\n")
 
-        print(f"Updated package version to {package_data['version']}")
+        logger.info(f"版本更新至 {package_data['version']}")
 
     except Exception as e:
-        print(f"Error updating package version: {e}")
+        logger.error(f"版本更新失败：{e}")
 
 
 def generate_llms_txt(sitemaps_with_urls):
@@ -359,27 +365,32 @@ def generate_llms_txt(sitemaps_with_urls):
     with open("llms.txt", "w", encoding="utf-8") as f:
         f.write(content)
 
-    print("Generated llms.txt file")
+    logger.info("生成 llms.txt 文件")
 
 
 def main():
+    logger.info("开始更新站点地图")
+
     # Load previous link counts for comparison
     previous_counts = load_previous_link_counts()
 
     # 获取 sitemap 索引
     sitemap_index_url = "https://labex.io/sitemap_index.xml"
+    logger.info("获取站点地图索引")
     xml_content = fetch_sitemap(sitemap_index_url)
 
     if xml_content:
         # 解析主 sitemap
         sitemaps = parse_sitemap_index(xml_content)
+        logger.info(f"发现 {len(sitemaps)} 个子站点地图")
 
         # 存储所有 sitemap 及其包含的 URL
         sitemaps_with_urls = {}
+        total_urls = 0
 
         # 获取每个子 sitemap 的内容
         for sitemap_type, sitemap_url in sitemaps.items():
-            print(f"Fetching {sitemap_type} sitemap...")
+            logger.info(f"处理 {sitemap_type} 站点地图")
             sub_sitemap_content = fetch_sitemap(sitemap_url)
 
             if sub_sitemap_content:
@@ -388,19 +399,23 @@ def main():
                     "sitemap_url": sitemap_url,
                     "urls": urls,
                 }
-                print(f"Found {len(urls)} URLs in {sitemap_type} sitemap")
+                total_urls += len(urls)
+                logger.info(f"{sitemap_type}: {len(urls)} 个链接")
             else:
-                print(f"Failed to fetch {sitemap_type} sitemap")
+                logger.error(f"{sitemap_type} 站点地图获取失败")
                 sitemaps_with_urls[sitemap_type] = {
                     "sitemap_url": sitemap_url,
                     "urls": [],
                 }
+
+        logger.info(f"总计 {total_urls} 个链接")
 
         # Save current link counts and check for significant changes
         current_counts = save_link_counts(sitemaps_with_urls)
         check_and_notify_link_changes(current_counts, previous_counts)
 
         # 更新所有文件
+        logger.info("更新 Markdown 文件")
         update_files(sitemaps_with_urls)
 
         # Generate llms.txt file
@@ -409,9 +424,9 @@ def main():
         # Update package version
         update_package_version()
 
-        print("All files have been updated successfully!")
+        logger.info("所有文件更新完成")
     else:
-        print("Failed to fetch sitemap index.")
+        logger.error("站点地图索引获取失败")
 
 
 if __name__ == "__main__":
