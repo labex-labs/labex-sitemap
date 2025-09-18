@@ -4,7 +4,7 @@ layout: default
 
 # Courses Sitemap
 
-> Last updated: 2025-09-17 00:03 UTC
+> Last updated: 2025-09-18 00:03 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -51,6 +51,7 @@ This file contains all courses related links from LabEx website.
 - [linux-practice-challenges](https://labex.io/courses/linux-practice-challenges)
 - [matplotlib-for-beginners](https://labex.io/courses/matplotlib-for-beginners)
 - [mongodb-for-beginners](https://labex.io/courses/mongodb-for-beginners)
+- [nmap-for-beginners](https://labex.io/courses/nmap-for-beginners)
 - [numpy-for-beginners](https://labex.io/courses/numpy-for-beginners)
 - [numpy-practice-challenges](https://labex.io/courses/numpy-practice-challenges)
 - [pandas-for-beginners](https://labex.io/courses/pandas-for-beginners)
@@ -244,6 +245,7 @@ This file contains all courses related links from LabEx website.
 - [project-fruit-for-fun](https://labex.io/courses/project-fruit-for-fun)
 - [project-fruit-platter](https://labex.io/courses/project-fruit-platter)
 - [project-fruit-stacker](https://labex.io/courses/project-fruit-stacker)
+- [project-ftp-enumeration-and-anonymous-access](https://labex.io/courses/project-ftp-enumeration-and-anonymous-access)
 - [project-ftp-weak-password-scanner-using-python](https://labex.io/courses/project-ftp-weak-password-scanner-using-python)
 - [project-fun-shopping](https://labex.io/courses/project-fun-shopping)
 - [project-general-function-comprehensive-challenge](https://labex.io/courses/project-general-function-comprehensive-challenge)
@@ -462,13 +464,11 @@ This file contains all courses related links from LabEx website.
 - [quick-start-with-linux](https://labex.io/courses/quick-start-with-linux)
 - [quick-start-with-matplotlib](https://labex.io/courses/quick-start-with-matplotlib)
 - [quick-start-with-mysql](https://labex.io/courses/quick-start-with-mysql)
-- [quick-start-with-nmap](https://labex.io/courses/quick-start-with-nmap)
 - [quick-start-with-opencv](https://labex.io/courses/quick-start-with-opencv)
 - [quick-start-with-python](https://labex.io/courses/quick-start-with-python)
 - [quick-start-with-react](https://labex.io/courses/quick-start-with-react)
 - [quick-start-with-shell](https://labex.io/courses/quick-start-with-shell)
 - [quick-start-with-tensorflow](https://labex.io/courses/quick-start-with-tensorflow)
-- [quick-start-with-wireshark](https://labex.io/courses/quick-start-with-wireshark)
 - [react-practice-challenges](https://labex.io/courses/react-practice-challenges)
 - [red-hat-enterprise-linux-automation-with-ansible-rh294](https://labex.io/courses/red-hat-enterprise-linux-automation-with-ansible-rh294)
 - [red-hat-system-administration-rh124-labs](https://labex.io/courses/red-hat-system-administration-rh124-labs)
@@ -488,6 +488,7 @@ This file contains all courses related links from LabEx website.
 - [unsupervised-learning-clustering](https://labex.io/courses/unsupervised-learning-clustering)
 - [web-development-interactive-challenges](https://labex.io/courses/web-development-interactive-challenges)
 - [web-vulnerability-mastery](https://labex.io/courses/web-vulnerability-mastery)
+- [wireshark-for-beginners](https://labex.io/courses/wireshark-for-beginners)
 
 ### projects
 
