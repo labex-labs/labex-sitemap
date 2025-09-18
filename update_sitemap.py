@@ -268,7 +268,7 @@ def check_and_notify_link_changes(current_counts, previous_counts):
     total_change = total_current - total_previous
 
     # Check total change only
-    if abs(total_change) > 100:
+    if abs(total_change) > 50:
         # Prepare notification message
         title = "LabEx 网站地图链接数量变化提醒"
 
