@@ -43,7 +43,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500;600&display=swap"
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Saira:ital,wght@0,100..900;1,100..900&display=swap"
       rel="stylesheet"
     />
 
@@ -63,9 +63,9 @@
 
     <style>
       body {
-        font-family: "IBM Plex Mono", monospace;
-        background: #fff;
-        color: #111;
+        font-family: "Saira", sans-serif;
+        background: #111;
+        color: #fff;
       }
 
       h1,
@@ -74,6 +74,7 @@
         font-weight: 600;
         text-transform: uppercase;
         letter-spacing: 0.03em;
+        color: #fff;
       }
 
       /* TOC wrapper */
@@ -87,25 +88,32 @@
         display: flex;
         justify-content: space-between;
         font-size: 0.85rem;
-        color: #555;
-        border-bottom: 1px solid #111;
+        color: #aaa;
+        border-bottom: 1px solid #fff;
         margin-bottom: 2rem;
         padding-bottom: 0.25rem;
       }
 
       .toc-grid {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 2rem 4rem;
+        display: block;
       }
 
       .toc-section {
-        margin-bottom: 2rem;
+        margin-bottom: 3rem;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid #333;
+      }
+
+      .toc-section:last-child {
+        border-bottom: none;
       }
 
       .toc-section h2 {
         font-size: 0.95rem;
         margin-bottom: 0.75rem;
+        color: #fff;
+        border-bottom: 1px solid #444;
+        padding-bottom: 0.25rem;
       }
 
       .toc-section ul {
@@ -115,7 +123,10 @@
       }
 
       .toc-section li {
-        font-size: 0.85rem;
+        font-size: 0.95rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
         display: flex;
         justify-content: space-between;
         align-items: baseline;
@@ -124,10 +135,61 @@
       }
 
       .toc-section li span {
-        color: #777;
+        color: #888;
         font-size: 0.75rem;
         margin-left: 1rem;
         white-space: nowrap;
+      }
+
+      /* Markdown content spacing and styling */
+      .toc p {
+        margin: 1rem 0;
+        font-size: 0.85rem;
+        color: #ccc;
+        line-height: 1.5;
+      }
+
+      .toc p:first-child {
+        margin-top: 0;
+      }
+
+      .toc p:last-child {
+        margin-bottom: 0;
+      }
+
+      /* Style markdown links similar to TOC items */
+      .toc a {
+        color: #fff;
+        text-decoration: none;
+        font-size: 0.85rem;
+        display: inline-block;
+        padding: 0.2rem 0;
+        border-bottom: 1px dashed #ccc;
+        margin: 0.1rem 0;
+      }
+
+      .toc a:hover {
+        color: #fff;
+        border-bottom-color: #fff;
+      }
+
+      /* Style markdown lists similar to TOC structure */
+      .toc ul {
+        list-style: none;
+        padding: 0;
+        margin: 1rem 0;
+      }
+
+      .toc li {
+        font-size: 0.85rem;
+        color: #ccc;
+        padding: 0.3rem 0;
+        border-bottom: 1px dashed #444;
+        line-height: 1.4;
+      }
+
+      .toc li:last-child {
+        border-bottom: none;
       }
     </style>
 
@@ -135,18 +197,18 @@
   </head>
   <body class="min-h-screen">
     <!-- Navigation -->
-    <nav class="bg-white border-b border-gray-200">
+    <nav class="bg-gray-900 border-b border-gray-700">
       <div class="max-w-5xl mx-auto px-4 sm:px-6">
         <div class="flex justify-between h-14 items-center">
           <a
             href="/"
-            class="text-sm font-medium text-gray-700 hover:text-black"
+            class="text-sm font-medium text-gray-300 hover:text-white"
           >
-            LabEx
+            LabEx Sitemap
           </a>
           <a
             href="https://labex.io"
-            class="text-sm text-blue-600 hover:text-blue-800"
+            class="text-sm text-blue-400 hover:text-blue-300"
           >
             Visit →
           </a>
@@ -156,17 +218,13 @@
 
     <!-- TOC Content -->
     <main class="toc">
-      <div class="toc-header">
-        <span>TABLE OF CONTENTS</span>
-      </div>
-
       <div class="toc-grid">{{ content }}</div>
     </main>
 
     <!-- Footer -->
-    <footer class="mt-8 border-t border-gray-200">
+    <footer class="mt-8 border-t border-gray-700">
       <div class="max-w-5xl mx-auto py-6 px-4 sm:px-6">
-        <p class="text-center text-sm text-gray-500">
+        <p class="text-center text-sm text-gray-400">
           © {{ 'now' | date: "%Y" }} LabEx, All rights reserved.
         </p>
       </div>
