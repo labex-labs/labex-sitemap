@@ -31,6 +31,7 @@ jobs:
         run: python update_sitemap.py
         env:
           LABEX_X_AUTH: ${{ secrets.LABEX_X_AUTH }}
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
 
       - name: Get version from package.json
         id: package-version

@@ -204,6 +204,88 @@ def update_files(sitemaps_with_urls):
             f.write(category_content)
 
 
+def save_link_counts(sitemaps_with_urls):
+    """Save current link counts to a file for comparison"""
+    counts = {}
+    for category, data in sitemaps_with_urls.items():
+        counts[category] = len(data["urls"])
+
+    counts_file = "link_counts.json"
+    with open(counts_file, "w", encoding="utf-8") as f:
+        json.dump(counts, f, indent=2)
+
+    return counts
+
+
+def load_previous_link_counts():
+    """Load previous link counts from file"""
+    counts_file = "link_counts.json"
+    try:
+        if os.path.exists(counts_file):
+            with open(counts_file, "r", encoding="utf-8") as f:
+                return json.load(f)
+    except Exception as e:
+        print(f"Error loading previous link counts: {e}")
+
+    return {}
+
+
+def send_feishu_notification(title, text):
+    """Send notification to Feishu webhook"""
+    webhook_url = os.getenv("FEISHU_WEBHOOK_URL")
+    if not webhook_url:
+        print("Warning: FEISHU_WEBHOOK_URL environment variable not found")
+        return False
+
+    try:
+        response = requests.post(
+            webhook_url,
+            json={"title": title, "text": text, "to": "huhuhang"},
+        )
+        response.raise_for_status()
+        print("Feishu notification sent successfully")
+        return True
+    except requests.RequestException as e:
+        print(f"Error sending Feishu notification: {e}")
+        return False
+
+
+def check_and_notify_link_changes(current_counts, previous_counts):
+    """Check for significant link count changes and send notifications"""
+    if not previous_counts:
+        print("No previous link counts found, skipping notification check")
+        return
+
+    total_current = sum(current_counts.values())
+    total_previous = sum(previous_counts.values())
+    total_change = total_current - total_previous
+
+    # Check total change only
+    if abs(total_change) > 100:
+        # Prepare notification message
+        title = "LabEx 网站地图链接数量变化提醒"
+
+        text_parts = [
+            f"🔔 **网站地图链接变化检测**",
+            f"",
+            f"📊 **总链接数统计：**",
+            f"• 之前数量：{total_previous:,}",
+            f"• 当前数量：{total_current:,}",
+            f"• 变化数量：{total_change:+,}",
+            f"",
+            f"🕐 **更新时间：** {datetime.now(UTC).strftime('%Y-%m-%d %H:%M UTC')}",
+            f"🔗 **代码仓库：** https://github.com/labex-labs/labex-sitemap",
+        ]
+
+        text = "\n".join(text_parts)
+
+        print(f"Significant link count change detected: {total_change:+,}")
+        print("Sending Feishu notification...")
+        send_feishu_notification(title, text)
+    else:
+        print(f"Link count change within threshold: {total_change:+,}")
+
+
 def update_package_version():
     """Update package.json version number"""
     try:
@@ -281,6 +363,9 @@ def generate_llms_txt(sitemaps_with_urls):
 
 
 def main():
+    # Load previous link counts for comparison
+    previous_counts = load_previous_link_counts()
+
     # 获取 sitemap 索引
     sitemap_index_url = "https://labex.io/sitemap_index.xml"
     xml_content = fetch_sitemap(sitemap_index_url)
@@ -310,6 +395,10 @@ def main():
                     "sitemap_url": sitemap_url,
                     "urls": [],
                 }
+
+        # Save current link counts and check for significant changes
+        current_counts = save_link_counts(sitemaps_with_urls)
+        check_and_notify_link_changes(current_counts, previous_counts)
 
         # 更新所有文件
         update_files(sitemaps_with_urls)
