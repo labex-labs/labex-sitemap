@@ -244,17 +244,23 @@ def send_feishu_notification(title, text):
         logger.warning("未找到飞书 Webhook 地址")
         return False
 
-    try:
-        response = requests.post(
-            webhook_url,
-            json={"title": title, "text": text, "to": "huhuhang"},
-        )
-        response.raise_for_status()
-        logger.info("飞书通知发送成功")
-        return True
-    except requests.RequestException as e:
-        logger.error(f"飞书通知发送失败：{e}")
-        return False
+    # 发送给多个接收者
+    recipients = ["huhuhang", "labex"]
+    success_count = 0
+
+    for recipient in recipients:
+        try:
+            response = requests.post(
+                webhook_url,
+                json={"title": title, "text": text, "to": recipient},
+            )
+            response.raise_for_status()
+            logger.info(f"飞书通知发送成功给 {recipient}")
+            success_count += 1
+        except requests.RequestException as e:
+            logger.error(f"飞书通知发送失败给 {recipient}：{e}")
+
+    return success_count > 0
 
 
 def check_and_notify_link_changes(current_counts, previous_counts):
