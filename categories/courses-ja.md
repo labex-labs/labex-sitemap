@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ja Sitemap
 
-> Last updated: 2025-09-18 01:10 UTC
+> Last updated: 2025-09-19 00:03 UTC
 
 This file contains all courses-ja related links from LabEx website.
 
@@ -262,6 +262,7 @@ This file contains all courses-ja related links from LabEx website.
 - [project-hard-work-pays-off](https://labex.io/ja/courses/project-hard-work-pays-off)
 - [project-haste-makes-waste](https://labex.io/ja/courses/project-haste-makes-waste)
 - [project-holiday-greeting-card](https://labex.io/ja/courses/project-holiday-greeting-card)
+- [project-http-enumeration-and-directory-traversal](https://labex.io/ja/courses/project-http-enumeration-and-directory-traversal)
 - [project-identify-mvp-recipient-in-game](https://labex.io/ja/courses/project-identify-mvp-recipient-in-game)
 - [project-image-upload-based-on-tcp-protocol](https://labex.io/ja/courses/project-image-upload-based-on-tcp-protocol)
 - [project-image-viewer-using-python-and-tkinter](https://labex.io/ja/courses/project-image-viewer-using-python-and-tkinter)
@@ -365,6 +366,7 @@ This file contains all courses-ja related links from LabEx website.
 - [project-querying-official-languages-of-each-country](https://labex.io/ja/courses/project-querying-official-languages-of-each-country)
 - [project-racing-game-using-pygame](https://labex.io/ja/courses/project-racing-game-using-pygame)
 - [project-rail-fence-cipher](https://labex.io/ja/courses/project-rail-fence-cipher)
+- [project-rdp-enumeration-and-weak-password-access](https://labex.io/ja/courses/project-rdp-enumeration-and-weak-password-access)
 - [project-read-it](https://labex.io/ja/courses/project-read-it)
 - [project-recording-web-page-accesses-using-listeners](https://labex.io/ja/courses/project-recording-web-page-accesses-using-listeners)
 - [project-remove-duplicates](https://labex.io/ja/courses/project-remove-duplicates)
