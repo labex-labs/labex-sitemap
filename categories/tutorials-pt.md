@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Pt Sitemap
 
-> Last updated: 2025-09-19 01:40 UTC
+> Last updated: 2025-09-20 00:04 UTC
 
 This file contains all tutorials-pt related links from LabEx website.
 
@@ -4737,9 +4737,10 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-random-password-generator-development-301484](https://labex.io/pt/tutorials/linux-random-password-generator-development-301484) *(Last modified: 2025-09-18)*
 - [linux-random-password-generator-development-301485](https://labex.io/pt/tutorials/linux-random-password-generator-development-301485) *(Last modified: 2025-06-29)*
 - [linux-rapid-threat-detection-387930](https://labex.io/pt/tutorials/linux-rapid-threat-detection-387930) *(Last modified: 2025-09-18)*
-- [linux-rdp-enumeration-and-weak-password-access-596714](https://labex.io/pt/tutorials/linux-rdp-enumeration-and-weak-password-access-596714) *(Last modified: 2025-09-18)*
+- [linux-rdp-enumeration-and-weak-password-access-596714](https://labex.io/pt/tutorials/linux-rdp-enumeration-and-weak-password-access-596714) *(Last modified: 2025-09-19)*
 - [linux-receive-messages-using-netcat-415953](https://labex.io/pt/tutorials/linux-receive-messages-using-netcat-415953) *(Last modified: 2025-09-18)*
 - [linux-restore-access-to-website-301487](https://labex.io/pt/tutorials/linux-restore-access-to-website-301487) *(Last modified: 2025-05-21)*
+- [linux-rsync-enumeration-and-anonymous-sync-596715](https://labex.io/pt/tutorials/linux-rsync-enumeration-and-anonymous-sync-596715) *(Last modified: 2025-09-19)*
 - [linux-searching-for-specific-files-301489](https://labex.io/pt/tutorials/linux-searching-for-specific-files-301489) *(Last modified: 2025-06-29)*
 - [linux-secure-file-transfer-basics-40](https://labex.io/pt/tutorials/linux-secure-file-transfer-basics-40) *(Last modified: 2025-09-18)*
 - [linux-sequence-control-and-pipeline-17994](https://labex.io/pt/tutorials/linux-sequence-control-and-pipeline-17994) *(Last modified: 2025-09-18)*
@@ -4748,12 +4749,15 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-setting-up-a-new-project-structure-387859](https://labex.io/pt/tutorials/linux-setting-up-a-new-project-structure-387859) *(Last modified: 2025-09-18)*
 - [linux-simple-text-processing-18004](https://labex.io/pt/tutorials/linux-simple-text-processing-18004) *(Last modified: 2025-09-18)*
 - [linux-sky-editing-adventure-271338](https://labex.io/pt/tutorials/linux-sky-editing-adventure-271338) *(Last modified: 2025-09-18)*
+- [linux-smb-enumeration-and-guest-access-596716](https://labex.io/pt/tutorials/linux-smb-enumeration-and-guest-access-596716) *(Last modified: 2025-09-19)*
 - [linux-software-installation-on-linux-18005](https://labex.io/pt/tutorials/linux-software-installation-on-linux-18005) *(Last modified: 2025-09-18)*
 - [linux-space-battle-data-pipeline-385343](https://labex.io/pt/tutorials/linux-space-battle-data-pipeline-385343) *(Last modified: 2025-09-18)*
 - [linux-space-exploration-disk-analysis-271266](https://labex.io/pt/tutorials/linux-space-exploration-disk-analysis-271266) *(Last modified: 2025-09-18)*
+- [linux-ssh-enumeration-and-key-based-access-596717](https://labex.io/pt/tutorials/linux-ssh-enumeration-and-key-based-access-596717) *(Last modified: 2025-09-19)*
 - [linux-stream-editor-sed-7973](https://labex.io/pt/tutorials/linux-stream-editor-sed-7973) *(Last modified: 2025-09-18)*
 - [linux-system-information-displaying-script-18281](https://labex.io/pt/tutorials/linux-system-information-displaying-script-18281) *(Last modified: 2025-09-18)*
 - [linux-technical-interview-questions-and-answers-593708](https://labex.io/pt/tutorials/linux-technical-interview-questions-and-answers-593708) *(Last modified: 2025-07-31)*
+- [linux-telnet-brute-force-and-weak-credentials-596718](https://labex.io/pt/tutorials/linux-telnet-brute-force-and-weak-credentials-596718) *(Last modified: 2025-09-19)*
 - [linux-terminate-processes-by-name-and-id-31](https://labex.io/pt/tutorials/linux-terminate-processes-by-name-and-id-31) *(Last modified: 2025-09-18)*
 - [linux-terminate-processes-in-linux-44](https://labex.io/pt/tutorials/linux-terminate-processes-in-linux-44) *(Last modified: 2025-09-18)*
 - [linux-text-processing-and-regular-expressions-18003](https://labex.io/pt/tutorials/linux-text-processing-and-regular-expressions-18003) *(Last modified: 2025-09-18)*
@@ -5248,7 +5252,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [mysql-format-query-for-teacher-salary-301340](https://labex.io/pt/tutorials/mysql-format-query-for-teacher-salary-301340) *(Last modified: 2025-05-21)*
 - [mysql-general-function-comprehensive-301342](https://labex.io/pt/tutorials/mysql-general-function-comprehensive-301342) *(Last modified: 2025-05-21)*
 - [mysql-identify-mvp-recipient-in-game-301346](https://labex.io/pt/tutorials/mysql-identify-mvp-recipient-in-game-301346) *(Last modified: 2025-05-21)*
-- [mysql-installation-and-basic-configuration-of-mysql-418415](https://labex.io/pt/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415) *(Last modified: 2025-09-18)*
+- [mysql-installation-and-basic-configuration-of-mysql-418415](https://labex.io/pt/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415) *(Last modified: 2025-09-19)*
 - [mysql-make-database-more-secure-391535](https://labex.io/pt/tutorials/mysql-make-database-more-secure-391535) *(Last modified: 2025-09-18)*
 - [mysql-manage-mysql-user-permissions-301430](https://labex.io/pt/tutorials/mysql-manage-mysql-user-permissions-301430) *(Last modified: 2025-05-21)*
 - [mysql-managing-database-indexes-in-mysql-301274](https://labex.io/pt/tutorials/mysql-managing-database-indexes-in-mysql-301274) *(Last modified: 2025-05-21)*

@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Fr Sitemap
 
-> Last updated: 2025-09-19 01:40 UTC
+> Last updated: 2025-09-20 00:04 UTC
 
 This file contains all courses-fr related links from LabEx website.
 
@@ -382,6 +382,7 @@ This file contains all courses-fr related links from LabEx website.
 - [project-revisit-route-triggers-too-early](https://labex.io/fr/courses/project-revisit-route-triggers-too-early)
 - [project-right-outer-join-query-user-level](https://labex.io/fr/courses/project-right-outer-join-query-user-level)
 - [project-router-query-value-changed](https://labex.io/fr/courses/project-router-query-value-changed)
+- [project-rsync-enumeration-and-anonymous-sync](https://labex.io/fr/courses/project-rsync-enumeration-and-anonymous-sync)
 - [project-salary-range-for-teachers-by-department](https://labex.io/fr/courses/project-salary-range-for-teachers-by-department)
 - [project-sales-dashboard](https://labex.io/fr/courses/project-sales-dashboard)
 - [project-scratch-card-game](https://labex.io/fr/courses/project-scratch-card-game)
@@ -394,6 +395,7 @@ This file contains all courses-fr related links from LabEx website.
 - [project-simple-handwritten-character-recognition-classifier](https://labex.io/fr/courses/project-simple-handwritten-character-recognition-classifier)
 - [project-skeleton-screen](https://labex.io/fr/courses/project-skeleton-screen)
 - [project-skip-when-a-multiple-of-x](https://labex.io/fr/courses/project-skip-when-a-multiple-of-x)
+- [project-smb-enumeration-and-guest-access](https://labex.io/fr/courses/project-smb-enumeration-and-guest-access)
 - [project-snake-game-using-python-and-pygame](https://labex.io/fr/courses/project-snake-game-using-python-and-pygame)
 - [project-soldier-serial-number-generator](https://labex.io/fr/courses/project-soldier-serial-number-generator)
 - [project-spell-out-a-future](https://labex.io/fr/courses/project-spell-out-a-future)
@@ -401,6 +403,7 @@ This file contains all courses-fr related links from LabEx website.
 - [project-spring-ioc-employee-management-system](https://labex.io/fr/courses/project-spring-ioc-employee-management-system)
 - [project-square-root-and-cube-root](https://labex.io/fr/courses/project-square-root-and-cube-root)
 - [project-square-root-formatting](https://labex.io/fr/courses/project-square-root-formatting)
+- [project-ssh-enumeration-and-key-based-access](https://labex.io/fr/courses/project-ssh-enumeration-and-key-based-access)
 - [project-statement-for-querying-teacher-table](https://labex.io/fr/courses/project-statement-for-querying-teacher-table)
 - [project-statistical-analysis-of-json-data](https://labex.io/fr/courses/project-statistical-analysis-of-json-data)
 - [project-stopwatch-using-python-and-tkinter](https://labex.io/fr/courses/project-stopwatch-using-python-and-tkinter)
@@ -418,6 +421,7 @@ This file contains all courses-fr related links from LabEx website.
 - [project-switch-between-light-and-dark](https://labex.io/fr/courses/project-switch-between-light-and-dark)
 - [project-switch-business-status](https://labex.io/fr/courses/project-switch-business-status)
 - [project-table-data-conversion](https://labex.io/fr/courses/project-table-data-conversion)
+- [project-telnet-brute-force-and-weak-credentials](https://labex.io/fr/courses/project-telnet-brute-force-and-weak-credentials)
 - [project-the-boundless-sea-of-learning](https://labex.io/fr/courses/project-the-boundless-sea-of-learning)
 - [project-tic-tac-toe-using-pygame](https://labex.io/fr/courses/project-tic-tac-toe-using-pygame)
 - [project-time-conversion-tool](https://labex.io/fr/courses/project-time-conversion-tool)
