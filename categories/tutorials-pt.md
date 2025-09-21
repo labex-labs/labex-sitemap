@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Pt Sitemap
 
-> Last updated: 2025-09-20 00:04 UTC
+> Last updated: 2025-09-21 00:04 UTC
 
 This file contains all tutorials-pt related links from LabEx website.
 
