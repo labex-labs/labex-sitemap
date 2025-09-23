@@ -273,8 +273,25 @@ def check_and_notify_link_changes(current_counts, previous_counts):
     total_previous = sum(previous_counts.values())
     total_change = total_current - total_previous
 
-    # Check total change only
-    if abs(total_change) > 50:
+    # Check changes for each category
+    category_changes = {}
+    significant_changes = []
+
+    for category in current_counts:
+        current_count = current_counts.get(category, 0)
+        previous_count = previous_counts.get(category, 0)
+        change = current_count - previous_count
+
+        if abs(change) > 10:  # Threshold for individual category changes
+            category_changes[category] = {
+                "previous": previous_count,
+                "current": current_count,
+                "change": change,
+            }
+            significant_changes.append(category)
+
+    # Check if there are significant changes (total or individual categories)
+    if abs(total_change) > 50 or significant_changes:
         # Prepare notification message
         title = "LabEx 网站地图链接数量变化提醒"
 
@@ -286,13 +303,32 @@ def check_and_notify_link_changes(current_counts, previous_counts):
             f"• 当前数量：{total_current:,}",
             f"• 变化数量：{total_change:+,}",
             f"",
-            f"🕐 **更新时间：** {datetime.now(UTC).strftime('%Y-%m-%d %H:%M UTC')}",
-            f"🔗 **代码仓库：** https://github.com/labex-labs/labex-sitemap",
         ]
+
+        # Add individual category changes if any
+        if significant_changes:
+            text_parts.append(f"📈 **细分 sitemap 变化详情：**")
+            for category in sorted(significant_changes):
+                change_info = category_changes[category]
+                change_symbol = "📈" if change_info["change"] > 0 else "📉"
+                text_parts.append(
+                    f"{change_symbol} **{category.title()}**: {change_info['previous']:,} → {change_info['current']:,} ({change_info['change']:+,})"
+                )
+            text_parts.append("")
+
+        text_parts.extend(
+            [
+                f"🕐 **更新时间：** {datetime.now(UTC).strftime('%Y-%m-%d %H:%M UTC')}",
+                f"🔗 **代码仓库：** https://github.com/labex-labs/labex-sitemap",
+            ]
+        )
 
         text = "\n".join(text_parts)
 
-        logger.info(f"检测到重大变化：{total_change:+,} 个链接")
+        if significant_changes:
+            logger.info(f"检测到细分变化：{', '.join(significant_changes)}")
+        if abs(total_change) > 50:
+            logger.info(f"检测到重大总变化：{total_change:+,} 个链接")
         send_feishu_notification(title, text)
     else:
         logger.info(f"链接变化在阈值范围内：{total_change:+,}")
