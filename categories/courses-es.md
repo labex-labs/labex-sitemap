@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Es Sitemap
 
-> Last updated: 2025-09-22 00:04 UTC
+> Last updated: 2025-09-23 00:04 UTC
 
 This file contains all courses-es related links from LabEx website.
 
@@ -28,6 +28,7 @@ This file contains all courses-es related links from LabEx website.
 - [comptia-network-plus-training-labs](https://labex.io/es/courses/comptia-network-plus-training-labs)
 - [comptia-security-plus-training-labs](https://labex.io/es/courses/comptia-security-plus-training-labs)
 - [cpp-programming-for-beginners](https://labex.io/es/courses/cpp-programming-for-beginners)
+- [css-for-beginners](https://labex.io/es/courses/css-for-beginners)
 - [ctf-for-beginners](https://labex.io/es/courses/ctf-for-beginners)
 - [cybersecurity-analysis-with-wireshark-and-tshark](https://labex.io/es/courses/cybersecurity-analysis-with-wireshark-and-tshark)
 - [cybersecurity-labs-for-beginners](https://labex.io/es/courses/cybersecurity-labs-for-beginners)
@@ -56,6 +57,7 @@ This file contains all courses-es related links from LabEx website.
 - [numpy-practice-challenges](https://labex.io/es/courses/numpy-practice-challenges)
 - [pandas-for-beginners](https://labex.io/es/courses/pandas-for-beginners)
 - [pandas-practice-challenges](https://labex.io/es/courses/pandas-practice-challenges)
+- [penetration-testing-for-beginners](https://labex.io/es/courses/penetration-testing-for-beginners)
 - [postgresql-for-beginners](https://labex.io/es/courses/postgresql-for-beginners)
 - [privilege-escalation-techniques-on-linux](https://labex.io/es/courses/privilege-escalation-techniques-on-linux)
 - [project-2048-web-game-using-jquery](https://labex.io/es/courses/project-2048-web-game-using-jquery)
@@ -458,14 +460,12 @@ This file contains all courses-es related links from LabEx website.
 - [quick-start-with-algorithm](https://labex.io/es/courses/quick-start-with-algorithm)
 - [quick-start-with-ansible](https://labex.io/es/courses/quick-start-with-ansible)
 - [quick-start-with-cpp](https://labex.io/es/courses/quick-start-with-cpp)
-- [quick-start-with-css](https://labex.io/es/courses/quick-start-with-css)
 - [quick-start-with-docker](https://labex.io/es/courses/quick-start-with-docker)
 - [quick-start-with-git](https://labex.io/es/courses/quick-start-with-git)
 - [quick-start-with-go](https://labex.io/es/courses/quick-start-with-go)
 - [quick-start-with-hadoop](https://labex.io/es/courses/quick-start-with-hadoop)
 - [quick-start-with-java](https://labex.io/es/courses/quick-start-with-java)
 - [quick-start-with-javascript](https://labex.io/es/courses/quick-start-with-javascript)
-- [quick-start-with-jquery](https://labex.io/es/courses/quick-start-with-jquery)
 - [quick-start-with-kubernetes](https://labex.io/es/courses/quick-start-with-kubernetes)
 - [quick-start-with-linux](https://labex.io/es/courses/quick-start-with-linux)
 - [quick-start-with-matplotlib](https://labex.io/es/courses/quick-start-with-matplotlib)
