@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Ru Sitemap
 
-> Last updated: 2025-09-23 00:45 UTC
+> Last updated: 2025-09-24 00:03 UTC
 
 This file contains all skilltrees-ru related links from LabEx website.
 
@@ -625,7 +625,6 @@ This file contains all skilltrees-ru related links from LabEx website.
 - [higher-funcs](https://labex.io/ru/skilltrees/javascript/groups/AdvancedConceptsGroup/skills/higher-funcs)
 - [oop](https://labex.io/ru/skilltrees/javascript/groups/AdvancedConceptsGroup/skills/oop)
 - [proto-inherit](https://labex.io/ru/skilltrees/javascript/groups/AdvancedConceptsGroup/skills/proto-inherit)
-- [spread-rest](https://labex.io/ru/skilltrees/javascript/groups/AdvancedConceptsGroup/skills/spread-rest)
 - [template-lit](https://labex.io/ru/skilltrees/javascript/groups/AdvancedConceptsGroup/skills/template-lit)
 - [arith-ops](https://labex.io/ru/skilltrees/javascript/groups/BasicConceptsGroup/skills/arith-ops)
 - [array-methods](https://labex.io/ru/skilltrees/javascript/groups/BasicConceptsGroup/skills/array-methods)

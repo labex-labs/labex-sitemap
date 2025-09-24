@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ru Sitemap
 
-> Last updated: 2025-09-23 00:45 UTC
+> Last updated: 2025-09-24 00:03 UTC
 
 This file contains all courses-ru related links from LabEx website.
 
@@ -43,6 +43,7 @@ This file contains all courses-ru related links from LabEx website.
 - [hydra-cybersecurity-attack-labs](https://labex.io/ru/courses/hydra-cybersecurity-attack-labs)
 - [hydra-for-beginners](https://labex.io/ru/courses/hydra-for-beginners)
 - [java-exercises](https://labex.io/ru/courses/java-exercises)
+- [javascript-for-beginners](https://labex.io/ru/courses/javascript-for-beginners)
 - [jenkins-for-beginners](https://labex.io/ru/courses/jenkins-for-beginners)
 - [kali-linux-for-beginners](https://labex.io/ru/courses/kali-linux-for-beginners)
 - [kali-server-exploitation-in-action](https://labex.io/ru/courses/kali-server-exploitation-in-action)
@@ -465,7 +466,6 @@ This file contains all courses-ru related links from LabEx website.
 - [quick-start-with-go](https://labex.io/ru/courses/quick-start-with-go)
 - [quick-start-with-hadoop](https://labex.io/ru/courses/quick-start-with-hadoop)
 - [quick-start-with-java](https://labex.io/ru/courses/quick-start-with-java)
-- [quick-start-with-javascript](https://labex.io/ru/courses/quick-start-with-javascript)
 - [quick-start-with-kubernetes](https://labex.io/ru/courses/quick-start-with-kubernetes)
 - [quick-start-with-linux](https://labex.io/ru/courses/quick-start-with-linux)
 - [quick-start-with-matplotlib](https://labex.io/ru/courses/quick-start-with-matplotlib)
