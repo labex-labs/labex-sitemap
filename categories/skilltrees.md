@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees Sitemap
 
-> Last updated: 2025-09-24 00:03 UTC
+> Last updated: 2025-09-25 00:04 UTC
 
 This file contains all skilltrees related links from LabEx website.
 
@@ -208,7 +208,6 @@ This file contains all skilltrees related links from LabEx website.
 - [PythonStandardLibraryGroup](https://labex.io/skilltrees/python/groups/PythonStandardLibraryGroup)
 - [AdvancedConceptsGroup](https://labex.io/skilltrees/react/groups/AdvancedConceptsGroup)
 - [FundamentalsGroup](https://labex.io/skilltrees/react/groups/FundamentalsGroup)
-- [PerformanceOptimizationGroup](https://labex.io/skilltrees/react/groups/PerformanceOptimizationGroup)
 - [RoutingGroup](https://labex.io/skilltrees/react/groups/RoutingGroup)
 - [StateManagementGroup](https://labex.io/skilltrees/react/groups/StateManagementGroup)
 - [StylingGroup](https://labex.io/skilltrees/react/groups/StylingGroup)
@@ -592,7 +591,6 @@ This file contains all skilltrees related links from LabEx website.
 - [higher-funcs](https://labex.io/skilltrees/javascript/groups/AdvancedConceptsGroup/skills/higher-funcs)
 - [oop](https://labex.io/skilltrees/javascript/groups/AdvancedConceptsGroup/skills/oop)
 - [proto-inherit](https://labex.io/skilltrees/javascript/groups/AdvancedConceptsGroup/skills/proto-inherit)
-- [spread-rest](https://labex.io/skilltrees/javascript/groups/AdvancedConceptsGroup/skills/spread-rest)
 - [template-lit](https://labex.io/skilltrees/javascript/groups/AdvancedConceptsGroup/skills/template-lit)
 - [arith-ops](https://labex.io/skilltrees/javascript/groups/BasicConceptsGroup/skills/arith-ops)
 - [array-methods](https://labex.io/skilltrees/javascript/groups/BasicConceptsGroup/skills/array-methods)
@@ -1043,7 +1041,6 @@ This file contains all skilltrees related links from LabEx website.
 - [jsx](https://labex.io/skilltrees/react/groups/FundamentalsGroup/skills/jsx)
 - [list-keys](https://labex.io/skilltrees/react/groups/FundamentalsGroup/skills/list-keys)
 - [state-lifecycle](https://labex.io/skilltrees/react/groups/FundamentalsGroup/skills/state-lifecycle)
-- [memoization](https://labex.io/skilltrees/react/groups/PerformanceOptimizationGroup/skills/memoization)
 - [router-basic](https://labex.io/skilltrees/react/groups/RoutingGroup/skills/router-basic)
 - [context-state](https://labex.io/skilltrees/react/groups/StateManagementGroup/skills/context-state)
 - [use-state-reducer](https://labex.io/skilltrees/react/groups/StateManagementGroup/skills/use-state-reducer)

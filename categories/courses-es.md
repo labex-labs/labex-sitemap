@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Es Sitemap
 
-> Last updated: 2025-09-24 00:03 UTC
+> Last updated: 2025-09-25 00:04 UTC
 
 This file contains all courses-es related links from LabEx website.
 
@@ -472,10 +472,9 @@ This file contains all courses-es related links from LabEx website.
 - [quick-start-with-mysql](https://labex.io/es/courses/quick-start-with-mysql)
 - [quick-start-with-opencv](https://labex.io/es/courses/quick-start-with-opencv)
 - [quick-start-with-python](https://labex.io/es/courses/quick-start-with-python)
-- [quick-start-with-react](https://labex.io/es/courses/quick-start-with-react)
 - [quick-start-with-shell](https://labex.io/es/courses/quick-start-with-shell)
 - [quick-start-with-tensorflow](https://labex.io/es/courses/quick-start-with-tensorflow)
-- [react-practice-challenges](https://labex.io/es/courses/react-practice-challenges)
+- [react-for-beginners](https://labex.io/es/courses/react-for-beginners)
 - [red-hat-enterprise-linux-automation-with-ansible-rh294](https://labex.io/es/courses/red-hat-enterprise-linux-automation-with-ansible-rh294)
 - [red-hat-system-administration-rh124-labs](https://labex.io/es/courses/red-hat-system-administration-rh124-labs)
 - [red-hat-system-administration-rh134-labs](https://labex.io/es/courses/red-hat-system-administration-rh134-labs)

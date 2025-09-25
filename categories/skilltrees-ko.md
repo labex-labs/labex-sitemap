@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Ko Sitemap
 
-> Last updated: 2025-09-24 00:03 UTC
+> Last updated: 2025-09-25 00:04 UTC
 
 This file contains all skilltrees-ko related links from LabEx website.
 
@@ -241,7 +241,6 @@ This file contains all skilltrees-ko related links from LabEx website.
 - [PythonStandardLibraryGroup](https://labex.io/ko/skilltrees/python/groups/PythonStandardLibraryGroup)
 - [AdvancedConceptsGroup](https://labex.io/ko/skilltrees/react/groups/AdvancedConceptsGroup)
 - [FundamentalsGroup](https://labex.io/ko/skilltrees/react/groups/FundamentalsGroup)
-- [PerformanceOptimizationGroup](https://labex.io/ko/skilltrees/react/groups/PerformanceOptimizationGroup)
 - [RoutingGroup](https://labex.io/ko/skilltrees/react/groups/RoutingGroup)
 - [StateManagementGroup](https://labex.io/ko/skilltrees/react/groups/StateManagementGroup)
 - [StylingGroup](https://labex.io/ko/skilltrees/react/groups/StylingGroup)
@@ -1075,7 +1074,6 @@ This file contains all skilltrees-ko related links from LabEx website.
 - [jsx](https://labex.io/ko/skilltrees/react/groups/FundamentalsGroup/skills/jsx)
 - [list-keys](https://labex.io/ko/skilltrees/react/groups/FundamentalsGroup/skills/list-keys)
 - [state-lifecycle](https://labex.io/ko/skilltrees/react/groups/FundamentalsGroup/skills/state-lifecycle)
-- [memoization](https://labex.io/ko/skilltrees/react/groups/PerformanceOptimizationGroup/skills/memoization)
 - [router-basic](https://labex.io/ko/skilltrees/react/groups/RoutingGroup/skills/router-basic)
 - [context-state](https://labex.io/ko/skilltrees/react/groups/StateManagementGroup/skills/context-state)
 - [use-state-reducer](https://labex.io/ko/skilltrees/react/groups/StateManagementGroup/skills/use-state-reducer)
