@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Es Sitemap
 
-> Last updated: 2025-09-25 00:04 UTC
+> Last updated: 2025-09-26 00:03 UTC
 
 This file contains all courses-es related links from LabEx website.
 
@@ -32,9 +32,11 @@ This file contains all courses-es related links from LabEx website.
 - [ctf-for-beginners](https://labex.io/es/courses/ctf-for-beginners)
 - [cybersecurity-analysis-with-wireshark-and-tshark](https://labex.io/es/courses/cybersecurity-analysis-with-wireshark-and-tshark)
 - [cybersecurity-labs-for-beginners](https://labex.io/es/courses/cybersecurity-labs-for-beginners)
+- [docker-for-beginners](https://labex.io/es/courses/docker-for-beginners)
 - [docker-practice-challenges](https://labex.io/es/courses/docker-practice-challenges)
 - [docker-practice-labs](https://labex.io/es/courses/docker-practice-labs)
 - [foundations-of-deep-learning](https://labex.io/es/courses/foundations-of-deep-learning)
+- [git-for-beginners](https://labex.io/es/courses/git-for-beginners)
 - [git-practice-challenges](https://labex.io/es/courses/git-practice-challenges)
 - [hadoop-practice-challenges](https://labex.io/es/courses/hadoop-practice-challenges)
 - [hadoop-practice-labs](https://labex.io/es/courses/hadoop-practice-labs)
@@ -43,10 +45,12 @@ This file contains all courses-es related links from LabEx website.
 - [hydra-cybersecurity-attack-labs](https://labex.io/es/courses/hydra-cybersecurity-attack-labs)
 - [hydra-for-beginners](https://labex.io/es/courses/hydra-for-beginners)
 - [java-exercises](https://labex.io/es/courses/java-exercises)
+- [java-for-beginners](https://labex.io/es/courses/java-for-beginners)
 - [javascript-for-beginners](https://labex.io/es/courses/javascript-for-beginners)
 - [jenkins-for-beginners](https://labex.io/es/courses/jenkins-for-beginners)
 - [kali-linux-for-beginners](https://labex.io/es/courses/kali-linux-for-beginners)
 - [kali-server-exploitation-in-action](https://labex.io/es/courses/kali-server-exploitation-in-action)
+- [kubernetes-for-beginners](https://labex.io/es/courses/kubernetes-for-beginners)
 - [kubernetes-for-noobs](https://labex.io/es/courses/kubernetes-for-noobs)
 - [linux-basic-commands-practice-online](https://labex.io/es/courses/linux-basic-commands-practice-online)
 - [linux-for-noobs](https://labex.io/es/courses/linux-for-noobs)
@@ -461,18 +465,13 @@ This file contains all courses-es related links from LabEx website.
 - [quick-start-with-algorithm](https://labex.io/es/courses/quick-start-with-algorithm)
 - [quick-start-with-ansible](https://labex.io/es/courses/quick-start-with-ansible)
 - [quick-start-with-cpp](https://labex.io/es/courses/quick-start-with-cpp)
-- [quick-start-with-docker](https://labex.io/es/courses/quick-start-with-docker)
-- [quick-start-with-git](https://labex.io/es/courses/quick-start-with-git)
 - [quick-start-with-go](https://labex.io/es/courses/quick-start-with-go)
 - [quick-start-with-hadoop](https://labex.io/es/courses/quick-start-with-hadoop)
-- [quick-start-with-java](https://labex.io/es/courses/quick-start-with-java)
-- [quick-start-with-kubernetes](https://labex.io/es/courses/quick-start-with-kubernetes)
 - [quick-start-with-linux](https://labex.io/es/courses/quick-start-with-linux)
 - [quick-start-with-matplotlib](https://labex.io/es/courses/quick-start-with-matplotlib)
 - [quick-start-with-mysql](https://labex.io/es/courses/quick-start-with-mysql)
 - [quick-start-with-opencv](https://labex.io/es/courses/quick-start-with-opencv)
 - [quick-start-with-python](https://labex.io/es/courses/quick-start-with-python)
-- [quick-start-with-shell](https://labex.io/es/courses/quick-start-with-shell)
 - [quick-start-with-tensorflow](https://labex.io/es/courses/quick-start-with-tensorflow)
 - [react-for-beginners](https://labex.io/es/courses/react-for-beginners)
 - [red-hat-enterprise-linux-automation-with-ansible-rh294](https://labex.io/es/courses/red-hat-enterprise-linux-automation-with-ansible-rh294)
@@ -483,6 +482,7 @@ This file contains all courses-es related links from LabEx website.
 - [rhcsa-certification-exam-practice-exercises](https://labex.io/es/courses/rhcsa-certification-exam-practice-exercises)
 - [scikit-learn-for-beginners](https://labex.io/es/courses/scikit-learn-for-beginners)
 - [seaborn-data-visualization-basics](https://labex.io/es/courses/seaborn-data-visualization-basics)
+- [shell-for-beginners](https://labex.io/es/courses/shell-for-beginners)
 - [shell-practice-challenges](https://labex.io/es/courses/shell-practice-challenges)
 - [sklearn-practice-challenges](https://labex.io/es/courses/sklearn-practice-challenges)
 - [sqlite-for-beginners](https://labex.io/es/courses/sqlite-for-beginners)
