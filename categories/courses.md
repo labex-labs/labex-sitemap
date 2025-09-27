@@ -4,7 +4,7 @@ layout: default
 
 # Courses Sitemap
 
-> Last updated: 2025-09-26 00:03 UTC
+> Last updated: 2025-09-27 00:03 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -22,6 +22,7 @@ This file contains all courses related links from LabEx website.
 - [a-beginner-guide-to-labex](https://labex.io/courses/a-beginner-guide-to-labex)
 - [advanced-mysql-practical-labs](https://labex.io/courses/advanced-mysql-practical-labs)
 - [advanced-postgresql-practical-labs](https://labex.io/courses/advanced-postgresql-practical-labs)
+- [ansible-for-beginners](https://labex.io/courses/ansible-for-beginners)
 - [become-a-junior-system-administrator](https://labex.io/courses/become-a-junior-system-administrator)
 - [c-programming-for-beginners](https://labex.io/courses/c-programming-for-beginners)
 - [comptia-linux-plus-training-labs](https://labex.io/courses/comptia-linux-plus-training-labs)
@@ -38,6 +39,7 @@ This file contains all courses related links from LabEx website.
 - [foundations-of-deep-learning](https://labex.io/courses/foundations-of-deep-learning)
 - [git-for-beginners](https://labex.io/courses/git-for-beginners)
 - [git-practice-challenges](https://labex.io/courses/git-practice-challenges)
+- [golang-for-beginners](https://labex.io/courses/golang-for-beginners)
 - [hadoop-practice-challenges](https://labex.io/courses/hadoop-practice-challenges)
 - [hadoop-practice-labs](https://labex.io/courses/hadoop-practice-labs)
 - [hands-on-network-scanning-with-nmap-on-linux](https://labex.io/courses/hands-on-network-scanning-with-nmap-on-linux)
@@ -57,6 +59,8 @@ This file contains all courses related links from LabEx website.
 - [linux-practice-challenges](https://labex.io/courses/linux-practice-challenges)
 - [matplotlib-for-beginners](https://labex.io/courses/matplotlib-for-beginners)
 - [mongodb-for-beginners](https://labex.io/courses/mongodb-for-beginners)
+- [monitoring-and-logging-for-devops](https://labex.io/courses/monitoring-and-logging-for-devops)
+- [mysql-for-beginners](https://labex.io/courses/mysql-for-beginners)
 - [nmap-for-beginners](https://labex.io/courses/nmap-for-beginners)
 - [numpy-for-beginners](https://labex.io/courses/numpy-for-beginners)
 - [numpy-practice-challenges](https://labex.io/courses/numpy-practice-challenges)
@@ -463,13 +467,10 @@ This file contains all courses related links from LabEx website.
 - [python-for-beginners](https://labex.io/courses/python-for-beginners)
 - [python-practice-challenges](https://labex.io/courses/python-practice-challenges)
 - [quick-start-with-algorithm](https://labex.io/courses/quick-start-with-algorithm)
-- [quick-start-with-ansible](https://labex.io/courses/quick-start-with-ansible)
 - [quick-start-with-cpp](https://labex.io/courses/quick-start-with-cpp)
-- [quick-start-with-go](https://labex.io/courses/quick-start-with-go)
 - [quick-start-with-hadoop](https://labex.io/courses/quick-start-with-hadoop)
 - [quick-start-with-linux](https://labex.io/courses/quick-start-with-linux)
 - [quick-start-with-matplotlib](https://labex.io/courses/quick-start-with-matplotlib)
-- [quick-start-with-mysql](https://labex.io/courses/quick-start-with-mysql)
 - [quick-start-with-opencv](https://labex.io/courses/quick-start-with-opencv)
 - [quick-start-with-python](https://labex.io/courses/quick-start-with-python)
 - [quick-start-with-tensorflow](https://labex.io/courses/quick-start-with-tensorflow)
