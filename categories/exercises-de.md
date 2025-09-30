@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-De Sitemap
 
-> Last updated: 2025-09-29 00:03 UTC
+> Last updated: 2025-09-30 00:04 UTC
 
 This file contains all exercises-de related links from LabEx website.
 
