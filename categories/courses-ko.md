@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ko Sitemap
 
-> Last updated: 2025-09-30 00:04 UTC
+> Last updated: 2025-10-01 00:04 UTC
 
 This file contains all courses-ko related links from LabEx website.
 
