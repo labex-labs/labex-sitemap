@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-De Sitemap
 
-> Last updated: 2025-10-01 00:04 UTC
+> Last updated: 2025-10-02 00:03 UTC
 
 This file contains all tutorials-de related links from LabEx website.
 
@@ -2028,7 +2028,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [docker-deploy-docker-containers-efficiently-391583](https://labex.io/de/tutorials/docker-deploy-docker-containers-efficiently-391583) *(Last modified: 2025-05-30)*
 - [docker-deploy-docker-containers-on-ubuntu-392860](https://labex.io/de/tutorials/docker-deploy-docker-containers-on-ubuntu-392860) *(Last modified: 2025-05-27)*
 - [docker-deploying-a-simple-tensorflow-model-298840](https://labex.io/de/tutorials/docker-deploying-a-simple-tensorflow-model-298840) *(Last modified: 2025-09-30)*
-- [docker-deploying-local-docker-registry-17804](https://labex.io/de/tutorials/docker-deploying-local-docker-registry-17804) *(Last modified: 2025-09-30)*
+- [docker-deploying-local-docker-registry-17804](https://labex.io/de/tutorials/docker-deploying-local-docker-registry-17804) *(Last modified: 2025-10-01)*
 - [docker-dive-into-docker-networking-389047](https://labex.io/de/tutorials/docker-dive-into-docker-networking-389047) *(Last modified: 2025-09-30)*
 - [docker-diving-deeper-into-containers-388951](https://labex.io/de/tutorials/docker-diving-deeper-into-containers-388951) *(Last modified: 2025-09-30)*
 - [docker-docker-build-args-391816](https://labex.io/de/tutorials/docker-docker-build-args-391816) *(Last modified: 2025-05-26)*
@@ -5165,7 +5165,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [kubernetes-scheduing-with-node-affinity-18468](https://labex.io/de/tutorials/kubernetes-scheduing-with-node-affinity-18468) *(Last modified: 2025-09-30)*
 - [kubernetes-scheduing-with-node-selectors-15001](https://labex.io/de/tutorials/kubernetes-scheduing-with-node-selectors-15001) *(Last modified: 2025-09-30)*
 - [kubernetes-secure-kubernetes-dashboard-access-434106](https://labex.io/de/tutorials/kubernetes-secure-kubernetes-dashboard-access-434106) *(Last modified: 2025-09-30)*
-- [kubernetes-storing-application-data-with-persistentvolumes-9685](https://labex.io/de/tutorials/kubernetes-storing-application-data-with-persistentvolumes-9685) *(Last modified: 2025-09-30)*
+- [kubernetes-storing-application-data-with-persistentvolumes-9685](https://labex.io/de/tutorials/kubernetes-storing-application-data-with-persistentvolumes-9685) *(Last modified: 2025-10-01)*
 - [kubernetes-taints-and-tolerations-34029](https://labex.io/de/tutorials/kubernetes-taints-and-tolerations-34029) *(Last modified: 2025-09-30)*
 - [kubernetes-update-and-rollback-applications-434649](https://labex.io/de/tutorials/kubernetes-update-and-rollback-applications-434649) *(Last modified: 2025-09-30)*
 - [kubernetes-use-statefulsets-controller-9205](https://labex.io/de/tutorials/kubernetes-use-statefulsets-controller-9205) *(Last modified: 2025-09-30)*
