@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Pt Sitemap
 
-> Last updated: 2025-10-07 00:03 UTC
+> Last updated: 2025-10-08 00:03 UTC
 
 This file contains all tutorials-pt related links from LabEx website.
 
@@ -1033,7 +1033,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [comptia-customize-the-grub2-boot-menu-in-linux-590859](https://labex.io/pt/tutorials/comptia-customize-the-grub2-boot-menu-in-linux-590859) *(Last modified: 2025-10-06)*
 - [comptia-demonstrating-input-validation-and-code-integrity-594556](https://labex.io/pt/tutorials/comptia-demonstrating-input-validation-and-code-integrity-594556) *(Last modified: 2025-10-06)*
 - [comptia-digital-forensics-evidence-acquisition-and-integrity-594581](https://labex.io/pt/tutorials/comptia-digital-forensics-evidence-acquisition-and-integrity-594581) *(Last modified: 2025-10-06)*
-- [comptia-edit-text-files-in-linux-with-vim-and-nano-591076](https://labex.io/pt/tutorials/comptia-edit-text-files-in-linux-with-vim-and-nano-591076) *(Last modified: 2025-10-06)*
+- [comptia-edit-text-files-in-linux-with-vim-and-nano-591076](https://labex.io/pt/tutorials/comptia-edit-text-files-in-linux-with-vim-and-nano-591076) *(Last modified: 2025-10-07)*
 - [comptia-encrypt-and-decrypt-files-with-gpg-in-linux-590860](https://labex.io/pt/tutorials/comptia-encrypt-and-decrypt-files-with-gpg-in-linux-590860) *(Last modified: 2025-10-06)*
 - [comptia-ensuring-data-integrity-and-authenticity-with-cryptography-594576](https://labex.io/pt/tutorials/comptia-ensuring-data-integrity-and-authenticity-with-cryptography-594576) *(Last modified: 2025-10-06)*
 - [comptia-examine-network-interface-settings-with-ethtool-in-linux-592759](https://labex.io/pt/tutorials/comptia-examine-network-interface-settings-with-ethtool-in-linux-592759) *(Last modified: 2025-10-06)*
@@ -1058,7 +1058,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [comptia-manage-kernel-modules-in-linux-590865](https://labex.io/pt/tutorials/comptia-manage-kernel-modules-in-linux-590865) *(Last modified: 2025-10-06)*
 - [comptia-manage-linux-groups-with-groupadd-usermod-and-groupdel-590836](https://labex.io/pt/tutorials/comptia-manage-linux-groups-with-groupadd-usermod-and-groupdel-590836) *(Last modified: 2025-10-06)*
 - [comptia-manage-linux-partitions-and-filesystems-590845](https://labex.io/pt/tutorials/comptia-manage-linux-partitions-and-filesystems-590845) *(Last modified: 2025-10-06)*
-- [comptia-manage-linux-user-accounts-with-useradd-usermod-and-userdel-590837](https://labex.io/pt/tutorials/comptia-manage-linux-user-accounts-with-useradd-usermod-and-userdel-590837) *(Last modified: 2025-10-06)*
+- [comptia-manage-linux-user-accounts-with-useradd-usermod-and-userdel-590837](https://labex.io/pt/tutorials/comptia-manage-linux-user-accounts-with-useradd-usermod-and-userdel-590837) *(Last modified: 2025-10-07)*
 - [comptia-manage-local-hostname-resolution-in-linux-592792](https://labex.io/pt/tutorials/comptia-manage-local-hostname-resolution-in-linux-592792) *(Last modified: 2025-10-06)*
 - [comptia-manage-selinux-file-contexts-for-apache-in-linux-590866](https://labex.io/pt/tutorials/comptia-manage-selinux-file-contexts-for-apache-in-linux-590866) *(Last modified: 2025-10-06)*
 - [comptia-manage-shared-libraries-in-linux-590867](https://labex.io/pt/tutorials/comptia-manage-shared-libraries-in-linux-590867) *(Last modified: 2025-10-06)*
