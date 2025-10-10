@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ru Sitemap
 
-> Last updated: 2025-10-09 00:04 UTC
+> Last updated: 2025-10-10 00:04 UTC
 
 This file contains all courses-ru related links from LabEx website.
 
@@ -38,7 +38,6 @@ This file contains all courses-ru related links from LabEx website.
 - [docker-practice-labs](https://labex.io/ru/courses/docker-practice-labs)
 - [foundations-of-deep-learning](https://labex.io/ru/courses/foundations-of-deep-learning)
 - [git-for-beginners](https://labex.io/ru/courses/git-for-beginners)
-- [git-practice-challenges](https://labex.io/ru/courses/git-practice-challenges)
 - [golang-for-beginners](https://labex.io/ru/courses/golang-for-beginners)
 - [hadoop-practice-challenges](https://labex.io/ru/courses/hadoop-practice-challenges)
 - [hadoop-practice-labs](https://labex.io/ru/courses/hadoop-practice-labs)
@@ -466,11 +465,9 @@ This file contains all courses-ru related links from LabEx website.
 - [project-yin-book-encryption](https://labex.io/ru/courses/project-yin-book-encryption)
 - [python-for-beginners](https://labex.io/ru/courses/python-for-beginners)
 - [python-practice-challenges](https://labex.io/ru/courses/python-practice-challenges)
-- [quick-start-with-algorithm](https://labex.io/ru/courses/quick-start-with-algorithm)
 - [quick-start-with-cpp](https://labex.io/ru/courses/quick-start-with-cpp)
 - [quick-start-with-hadoop](https://labex.io/ru/courses/quick-start-with-hadoop)
 - [quick-start-with-linux](https://labex.io/ru/courses/quick-start-with-linux)
-- [quick-start-with-matplotlib](https://labex.io/ru/courses/quick-start-with-matplotlib)
 - [quick-start-with-opencv](https://labex.io/ru/courses/quick-start-with-opencv)
 - [quick-start-with-python](https://labex.io/ru/courses/quick-start-with-python)
 - [quick-start-with-tensorflow](https://labex.io/ru/courses/quick-start-with-tensorflow)
@@ -490,7 +487,6 @@ This file contains all courses-ru related links from LabEx website.
 - [sqlite-intermediate-to-advanced](https://labex.io/ru/courses/sqlite-intermediate-to-advanced)
 - [supervised-learning-classification](https://labex.io/ru/courses/supervised-learning-classification)
 - [supervised-learning-regression](https://labex.io/ru/courses/supervised-learning-regression)
-- [the-advanced-python-mastery](https://labex.io/ru/courses/the-advanced-python-mastery)
 - [unsupervised-learning-clustering](https://labex.io/ru/courses/unsupervised-learning-clustering)
 - [web-development-interactive-challenges](https://labex.io/ru/courses/web-development-interactive-challenges)
 - [web-vulnerability-mastery](https://labex.io/ru/courses/web-vulnerability-mastery)
