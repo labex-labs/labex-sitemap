@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Es Sitemap
 
-> Last updated: 2025-10-11 00:03 UTC
+> Last updated: 2025-10-12 00:03 UTC
 
 This file contains all courses-es related links from LabEx website.
 
@@ -42,6 +42,7 @@ This file contains all courses-es related links from LabEx website.
 - [hadoop-practice-challenges](https://labex.io/es/courses/hadoop-practice-challenges)
 - [hadoop-practice-labs](https://labex.io/es/courses/hadoop-practice-labs)
 - [hands-on-network-scanning-with-nmap-on-linux](https://labex.io/es/courses/hands-on-network-scanning-with-nmap-on-linux)
+- [hashcat-for-beginners](https://labex.io/es/courses/hashcat-for-beginners)
 - [html-for-beginners](https://labex.io/es/courses/html-for-beginners)
 - [hydra-cybersecurity-attack-labs](https://labex.io/es/courses/hydra-cybersecurity-attack-labs)
 - [hydra-for-beginners](https://labex.io/es/courses/hydra-for-beginners)
@@ -481,7 +482,6 @@ This file contains all courses-es related links from LabEx website.
 - [scikit-learn-for-beginners](https://labex.io/es/courses/scikit-learn-for-beginners)
 - [seaborn-data-visualization-basics](https://labex.io/es/courses/seaborn-data-visualization-basics)
 - [shell-for-beginners](https://labex.io/es/courses/shell-for-beginners)
-- [shell-practice-challenges](https://labex.io/es/courses/shell-practice-challenges)
 - [sklearn-practice-challenges](https://labex.io/es/courses/sklearn-practice-challenges)
 - [sqlite-for-beginners](https://labex.io/es/courses/sqlite-for-beginners)
 - [sqlite-intermediate-to-advanced](https://labex.io/es/courses/sqlite-intermediate-to-advanced)

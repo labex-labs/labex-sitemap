@@ -4,7 +4,7 @@ layout: default
 
 # Pages-Zh Sitemap
 
-> Last updated: 2025-10-11 00:03 UTC
+> Last updated: 2025-10-12 00:03 UTC
 
 This file contains all pages-zh related links from LabEx website.
 
@@ -14,25 +14,15 @@ This file contains all pages-zh related links from LabEx website.
 
 ## Links
 
+- [zh](https://labex.io/zh)
 
-### forgot-password
+### zh
 
-- [reset](https://labex.io/forgot-password/reset)
-- [labex.io](https://labex.io/)
-- [alibaba](https://labex.io/alibaba)
-- [career](https://labex.io/career)
-- [courses](https://labex.io/courses)
-- [exercise](https://labex.io/exercise)
-- [forgot-password](https://labex.io/forgot-password)
-- [forum](https://labex.io/forum)
-- [free-labs](https://labex.io/free-labs)
-- [learn](https://labex.io/learn)
-- [login](https://labex.io/login)
-- [pricing](https://labex.io/pricing)
-- [privacy](https://labex.io/privacy)
-- [projects](https://labex.io/projects)
-- [purpose](https://labex.io/purpose)
-- [register](https://labex.io/register)
-- [teams](https://labex.io/teams)
-- [terms](https://labex.io/terms)
-- [tutorials](https://labex.io/tutorials)
+- [courses](https://labex.io/zh/courses)
+- [forgot-password](https://labex.io/zh/forgot-password)
+- [learn](https://labex.io/zh/learn)
+- [login](https://labex.io/zh/login)
+- [pricing](https://labex.io/zh/pricing)
+- [projects](https://labex.io/zh/projects)
+- [register](https://labex.io/zh/register)
+- [tutorials](https://labex.io/zh/tutorials)
