@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ko Sitemap
 
-> Last updated: 2025-10-12 00:03 UTC
+> Last updated: 2025-10-13 00:03 UTC
 
 This file contains all tutorials-ko related links from LabEx website.
 
@@ -5162,7 +5162,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [linux-online-debian-playground-environment-593626](https://labex.io/ko/tutorials/linux-online-debian-playground-environment-593626) *(Last modified: 2025-10-09)*
 - [linux-online-fedora-playground-environment-593627](https://labex.io/ko/tutorials/linux-online-fedora-playground-environment-593627) *(Last modified: 2025-10-09)*
 - [linux-online-hydra-playground-593605](https://labex.io/ko/tutorials/linux-online-hydra-playground-593605) *(Last modified: 2025-10-09)*
-- [linux-online-linux-terminal-and-playground-372915](https://labex.io/ko/tutorials/linux-online-linux-terminal-and-playground-372915) *(Last modified: 2025-10-09)*
+- [linux-online-linux-terminal-and-playground-372915](https://labex.io/ko/tutorials/linux-online-linux-terminal-and-playground-372915) *(Last modified: 2025-10-12)*
 - [linux-online-shell-terminal-and-playground-593621](https://labex.io/ko/tutorials/linux-online-shell-terminal-and-playground-593621) *(Last modified: 2025-10-09)*
 - [linux-online-ubuntu-playground-environment-593628](https://labex.io/ko/tutorials/linux-online-ubuntu-playground-environment-593628) *(Last modified: 2025-10-09)*
 - [linux-online-virtual-machines-and-playgrounds-593595](https://labex.io/ko/tutorials/linux-online-virtual-machines-and-playgrounds-593595) *(Last modified: 2025-10-09)*
