@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Zh Sitemap
 
-> Last updated: 2025-10-13 00:03 UTC
+> Last updated: 2025-10-14 00:03 UTC
 
 This file contains all courses-zh related links from LabEx website.
 
@@ -58,6 +58,7 @@ This file contains all courses-zh related links from LabEx website.
 - [linux-for-noobs](https://labex.io/zh/courses/linux-for-noobs)
 - [linux-practice-challenges](https://labex.io/zh/courses/linux-practice-challenges)
 - [matplotlib-for-beginners](https://labex.io/zh/courses/matplotlib-for-beginners)
+- [metasploit-for-beginners](https://labex.io/zh/courses/metasploit-for-beginners)
 - [mongodb-for-beginners](https://labex.io/zh/courses/mongodb-for-beginners)
 - [monitoring-and-logging-for-devops](https://labex.io/zh/courses/monitoring-and-logging-for-devops)
 - [mysql-for-beginners](https://labex.io/zh/courses/mysql-for-beginners)

@@ -4,7 +4,7 @@ layout: default
 
 # Courses-De Sitemap
 
-> Last updated: 2025-10-13 00:03 UTC
+> Last updated: 2025-10-14 00:03 UTC
 
 This file contains all courses-de related links from LabEx website.
 
@@ -58,6 +58,7 @@ This file contains all courses-de related links from LabEx website.
 - [linux-for-noobs](https://labex.io/de/courses/linux-for-noobs)
 - [linux-practice-challenges](https://labex.io/de/courses/linux-practice-challenges)
 - [matplotlib-for-beginners](https://labex.io/de/courses/matplotlib-for-beginners)
+- [metasploit-for-beginners](https://labex.io/de/courses/metasploit-for-beginners)
 - [mongodb-for-beginners](https://labex.io/de/courses/mongodb-for-beginners)
 - [monitoring-and-logging-for-devops](https://labex.io/de/courses/monitoring-and-logging-for-devops)
 - [mysql-for-beginners](https://labex.io/de/courses/mysql-for-beginners)
