@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ru Sitemap
 
-> Last updated: 2025-10-14 00:03 UTC
+> Last updated: 2025-10-15 00:03 UTC
 
 This file contains all tutorials-ru related links from LabEx website.
 
@@ -4752,7 +4752,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [jenkins-integrating-jenkins-with-source-control-git-595304](https://labex.io/ru/tutorials/jenkins-integrating-jenkins-with-source-control-git-595304) *(Last modified: 2025-10-13)*
 - [jenkins-introduction-to-jenkins-pipelines-595305](https://labex.io/ru/tutorials/jenkins-introduction-to-jenkins-pipelines-595305) *(Last modified: 2025-10-13)*
 - [jenkins-jenkins-user-management-391302](https://labex.io/ru/tutorials/jenkins-jenkins-user-management-391302) *(Last modified: 2025-10-13)*
-- [jenkins-managing-plugins-in-jenkins-595307](https://labex.io/ru/tutorials/jenkins-managing-plugins-in-jenkins-595307) *(Last modified: 2025-10-13)*
+- [jenkins-managing-plugins-in-jenkins-595307](https://labex.io/ru/tutorials/jenkins-managing-plugins-in-jenkins-595307) *(Last modified: 2025-10-14)*
 - [jenkins-online-jenkins-playground-415838](https://labex.io/ru/tutorials/jenkins-online-jenkins-playground-415838) *(Last modified: 2025-10-09)*
 - [jenkins-parameterizing-builds-and-using-scripts-595308](https://labex.io/ru/tutorials/jenkins-parameterizing-builds-and-using-scripts-595308) *(Last modified: 2025-10-13)*
 - [join-array-into-string-28455](https://labex.io/ru/tutorials/join-array-into-string-28455) *(Last modified: 2025-10-13)*
