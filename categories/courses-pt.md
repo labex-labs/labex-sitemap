@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Pt Sitemap
 
-> Last updated: 2025-10-15 00:03 UTC
+> Last updated: 2025-10-16 00:03 UTC
 
 This file contains all courses-pt related links from LabEx website.
 
@@ -488,6 +488,7 @@ This file contains all courses-pt related links from LabEx website.
 - [sqlite-intermediate-to-advanced](https://labex.io/pt/courses/sqlite-intermediate-to-advanced)
 - [supervised-learning-classification](https://labex.io/pt/courses/supervised-learning-classification)
 - [supervised-learning-regression](https://labex.io/pt/courses/supervised-learning-regression)
+- [terraform-for-beginners](https://labex.io/pt/courses/terraform-for-beginners)
 - [unsupervised-learning-clustering](https://labex.io/pt/courses/unsupervised-learning-clustering)
 - [web-development-interactive-challenges](https://labex.io/pt/courses/web-development-interactive-challenges)
 - [web-vulnerability-mastery](https://labex.io/pt/courses/web-vulnerability-mastery)

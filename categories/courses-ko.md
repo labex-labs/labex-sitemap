@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ko Sitemap
 
-> Last updated: 2025-10-15 00:03 UTC
+> Last updated: 2025-10-16 00:03 UTC
 
 This file contains all courses-ko related links from LabEx website.
 
@@ -488,6 +488,7 @@ This file contains all courses-ko related links from LabEx website.
 - [sqlite-intermediate-to-advanced](https://labex.io/ko/courses/sqlite-intermediate-to-advanced)
 - [supervised-learning-classification](https://labex.io/ko/courses/supervised-learning-classification)
 - [supervised-learning-regression](https://labex.io/ko/courses/supervised-learning-regression)
+- [terraform-for-beginners](https://labex.io/ko/courses/terraform-for-beginners)
 - [unsupervised-learning-clustering](https://labex.io/ko/courses/unsupervised-learning-clustering)
 - [web-development-interactive-challenges](https://labex.io/ko/courses/web-development-interactive-challenges)
 - [web-vulnerability-mastery](https://labex.io/ko/courses/web-vulnerability-mastery)
