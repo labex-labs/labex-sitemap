@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ja Sitemap
 
-> Last updated: 2025-10-16 00:03 UTC
+> Last updated: 2025-10-17 00:03 UTC
 
 This file contains all tutorials-ja related links from LabEx website.
 
@@ -4551,7 +4551,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [java-mybatis-database-integration-project-300374](https://labex.io/ja/tutorials/java-mybatis-database-integration-project-300374) *(Last modified: 2025-10-11)*
 - [java-number-string-and-array-178548](https://labex.io/ja/tutorials/java-number-string-and-array-178548) *(Last modified: 2025-10-15)*
 - [java-object-mapping-with-jackson-library-117464](https://labex.io/ja/tutorials/java-object-mapping-with-jackson-library-117464) *(Last modified: 2025-10-15)*
-- [java-online-java-playground-372914](https://labex.io/ja/tutorials/java-online-java-playground-372914) *(Last modified: 2025-10-09)*
+- [java-online-java-playground-372914](https://labex.io/ja/tutorials/java-online-java-playground-372914) *(Last modified: 2025-10-16)*
 - [java-optimizing-java-application-performance-117968](https://labex.io/ja/tutorials/java-optimizing-java-application-performance-117968) *(Last modified: 2025-10-15)*
 - [java-outputting-triangle-with-out-object-300388](https://labex.io/ja/tutorials/java-outputting-triangle-with-out-object-300388) *(Last modified: 2025-10-11)*
 - [java-overloading-and-overriding-178549](https://labex.io/ja/tutorials/java-overloading-and-overriding-178549) *(Last modified: 2025-10-15)*
