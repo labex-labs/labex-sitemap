@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Zh Sitemap
 
-> Last updated: 2025-10-20 00:04 UTC
+> Last updated: 2025-10-21 00:03 UTC
 
 This file contains all courses-zh related links from LabEx website.
 
@@ -29,6 +29,7 @@ This file contains all courses-zh related links from LabEx website.
 - [comptia-network-plus-training-labs](https://labex.io/zh/courses/comptia-network-plus-training-labs)
 - [comptia-security-plus-training-labs](https://labex.io/zh/courses/comptia-security-plus-training-labs)
 - [cpp-programming-for-beginners](https://labex.io/zh/courses/cpp-programming-for-beginners)
+- [cryptography-for-beginners](https://labex.io/zh/courses/cryptography-for-beginners)
 - [css-for-beginners](https://labex.io/zh/courses/css-for-beginners)
 - [ctf-for-beginners](https://labex.io/zh/courses/ctf-for-beginners)
 - [cybersecurity-analysis-with-wireshark-and-tshark](https://labex.io/zh/courses/cybersecurity-analysis-with-wireshark-and-tshark)

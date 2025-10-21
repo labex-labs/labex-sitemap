@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ko Sitemap
 
-> Last updated: 2025-10-20 00:04 UTC
+> Last updated: 2025-10-21 00:03 UTC
 
 This file contains all courses-ko related links from LabEx website.
 
@@ -29,6 +29,7 @@ This file contains all courses-ko related links from LabEx website.
 - [comptia-network-plus-training-labs](https://labex.io/ko/courses/comptia-network-plus-training-labs)
 - [comptia-security-plus-training-labs](https://labex.io/ko/courses/comptia-security-plus-training-labs)
 - [cpp-programming-for-beginners](https://labex.io/ko/courses/cpp-programming-for-beginners)
+- [cryptography-for-beginners](https://labex.io/ko/courses/cryptography-for-beginners)
 - [css-for-beginners](https://labex.io/ko/courses/css-for-beginners)
 - [ctf-for-beginners](https://labex.io/ko/courses/ctf-for-beginners)
 - [cybersecurity-analysis-with-wireshark-and-tshark](https://labex.io/ko/courses/cybersecurity-analysis-with-wireshark-and-tshark)
