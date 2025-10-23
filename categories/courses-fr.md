@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Fr Sitemap
 
-> Last updated: 2025-10-22 00:04 UTC
+> Last updated: 2025-10-23 00:04 UTC
 
 This file contains all courses-fr related links from LabEx website.
 
@@ -25,6 +25,7 @@ This file contains all courses-fr related links from LabEx website.
 - [ansible-for-beginners](https://labex.io/fr/courses/ansible-for-beginners)
 - [become-a-junior-system-administrator](https://labex.io/fr/courses/become-a-junior-system-administrator)
 - [c-programming-for-beginners](https://labex.io/fr/courses/c-programming-for-beginners)
+- [comptia-a-plus-training-labs](https://labex.io/fr/courses/comptia-a-plus-training-labs)
 - [comptia-linux-plus-training-labs](https://labex.io/fr/courses/comptia-linux-plus-training-labs)
 - [comptia-network-plus-training-labs](https://labex.io/fr/courses/comptia-network-plus-training-labs)
 - [comptia-security-plus-training-labs](https://labex.io/fr/courses/comptia-security-plus-training-labs)
