@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Fr Sitemap
 
-> Last updated: 2025-10-26 00:04 UTC
+> Last updated: 2025-10-27 00:03 UTC
 
 This file contains all tutorials-fr related links from LabEx website.
 
@@ -1960,7 +1960,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [docker-create-docker-images-step-by-step-391128](https://labex.io/fr/tutorials/docker-create-docker-images-step-by-step-391128) *(Last modified: 2025-10-11)*
 - [docker-create-postgres-docker-container-on-ubuntu-392758](https://labex.io/fr/tutorials/docker-create-postgres-docker-container-on-ubuntu-392758) *(Last modified: 2025-10-11)*
 - [docker-custom-docker-images-389185](https://labex.io/fr/tutorials/docker-custom-docker-images-389185) *(Last modified: 2025-10-25)*
-- [docker-customize-docker-whale-s-language-389015](https://labex.io/fr/tutorials/docker-customize-docker-whale-s-language-389015) *(Last modified: 2025-10-25)*
+- [docker-customize-docker-whale-s-language-389015](https://labex.io/fr/tutorials/docker-customize-docker-whale-s-language-389015) *(Last modified: 2025-10-26)*
 - [docker-deploy-docker-containers-on-ubuntu-392860](https://labex.io/fr/tutorials/docker-deploy-docker-containers-on-ubuntu-392860) *(Last modified: 2025-10-11)*
 - [docker-deploying-a-simple-tensorflow-model-298840](https://labex.io/fr/tutorials/docker-deploying-a-simple-tensorflow-model-298840) *(Last modified: 2025-10-25)*
 - [docker-deploying-local-docker-registry-17804](https://labex.io/fr/tutorials/docker-deploying-local-docker-registry-17804) *(Last modified: 2025-10-25)*
