@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ko Sitemap
 
-> Last updated: 2025-10-27 00:03 UTC
+> Last updated: 2025-10-28 00:03 UTC
 
 This file contains all tutorials-ko related links from LabEx website.
 
@@ -7261,7 +7261,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [rhel-install-and-automate-rhel-deployments-589257](https://labex.io/ko/tutorials/rhel-install-and-automate-rhel-deployments-589257) *(Last modified: 2025-10-25)*
 - [rhel-install-and-update-software-packages-588255](https://labex.io/ko/tutorials/rhel-install-and-update-software-packages-588255) *(Last modified: 2025-10-25)*
 - [rhel-install-ansible-on-red-hat-enterprise-linux-590544](https://labex.io/ko/tutorials/rhel-install-ansible-on-red-hat-enterprise-linux-590544) *(Last modified: 2025-10-25)*
-- [rhel-install-software-in-red-hat-enterprise-linux-588462](https://labex.io/ko/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588462) *(Last modified: 2025-10-25)*
+- [rhel-install-software-in-red-hat-enterprise-linux-588462](https://labex.io/ko/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588462) *(Last modified: 2025-10-27)*
 - [rhel-list-create-and-delete-partitions-on-mbr-and-gpt-disks-588257](https://labex.io/ko/tutorials/rhel-list-create-and-delete-partitions-on-mbr-and-gpt-disks-588257) *(Last modified: 2025-10-25)*
 - [rhel-locate-and-interpret-system-log-files-588258](https://labex.io/ko/tutorials/rhel-locate-and-interpret-system-log-files-588258) *(Last modified: 2025-10-25)*
 - [rhel-locate-setuid-files-588259](https://labex.io/ko/tutorials/rhel-locate-setuid-files-588259) *(Last modified: 2025-10-25)*
