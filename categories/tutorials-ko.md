@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ko Sitemap
 
-> Last updated: 2025-10-28 00:03 UTC
+> Last updated: 2025-10-29 00:03 UTC
 
 This file contains all tutorials-ko related links from LabEx website.
 
@@ -1028,7 +1028,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [comptia-configure-firewalld-to-allow-web-traffic-in-linux-590854](https://labex.io/ko/tutorials/comptia-configure-firewalld-to-allow-web-traffic-in-linux-590854) *(Last modified: 2025-10-25)*
 - [comptia-configure-raid-and-lvm-storage-in-linux-590842](https://labex.io/ko/tutorials/comptia-configure-raid-and-lvm-storage-in-linux-590842) *(Last modified: 2025-10-25)*
 - [comptia-configure-ssh-public-key-authentication-in-linux-590855](https://labex.io/ko/tutorials/comptia-configure-ssh-public-key-authentication-in-linux-590855) *(Last modified: 2025-10-25)*
-- [comptia-configure-user-accounts-and-sudo-privileges-in-linux-590856](https://labex.io/ko/tutorials/comptia-configure-user-accounts-and-sudo-privileges-in-linux-590856) *(Last modified: 2025-10-25)*
+- [comptia-configure-user-accounts-and-sudo-privileges-in-linux-590856](https://labex.io/ko/tutorials/comptia-configure-user-accounts-and-sudo-privileges-in-linux-590856) *(Last modified: 2025-10-28)*
 - [comptia-create-and-activate-a-swap-file-in-linux-590858](https://labex.io/ko/tutorials/comptia-create-and-activate-a-swap-file-in-linux-590858) *(Last modified: 2025-10-25)*
 - [comptia-create-and-restore-a-backup-with-tar-in-linux-590843](https://labex.io/ko/tutorials/comptia-create-and-restore-a-backup-with-tar-in-linux-590843) *(Last modified: 2025-10-25)*
 - [comptia-create-vlan-interfaces-in-linux-using-the-ip-command-592842](https://labex.io/ko/tutorials/comptia-create-vlan-interfaces-in-linux-using-the-ip-command-592842) *(Last modified: 2025-10-25)*
