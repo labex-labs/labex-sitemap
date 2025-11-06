@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Fr Sitemap
 
-> Last updated: 2025-11-05 00:03 UTC
+> Last updated: 2025-11-06 00:03 UTC
 
 This file contains all tutorials-fr related links from LabEx website.
 
@@ -1512,7 +1512,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [cpp-online-c-compiler-372911](https://labex.io/fr/tutorials/cpp-online-c-compiler-372911) *(Last modified: 2025-10-09)*
 - [cpp-perform-arithmetic-operations-using-functions-96201](https://labex.io/fr/tutorials/cpp-perform-arithmetic-operations-using-functions-96201) *(Last modified: 2025-10-11)*
 - [cpp-perform-basic-operations-using-class-96152](https://labex.io/fr/tutorials/cpp-perform-basic-operations-using-class-96152) *(Last modified: 2025-10-11)*
-- [cpp-perform-file-operations-in-c-446086](https://labex.io/fr/tutorials/cpp-perform-file-operations-in-c-446086) *(Last modified: 2025-11-04)*
+- [cpp-perform-file-operations-in-c-446086](https://labex.io/fr/tutorials/cpp-perform-file-operations-in-c-446086) *(Last modified: 2025-11-05)*
 - [cpp-personalized-c-greeting-391809](https://labex.io/fr/tutorials/cpp-personalized-c-greeting-391809) *(Last modified: 2025-11-04)*
 - [cpp-prime-number-identification-in-c-96129](https://labex.io/fr/tutorials/cpp-prime-number-identification-in-c-96129) *(Last modified: 2025-10-11)*
 - [cpp-print-a-pattern-series-96202](https://labex.io/fr/tutorials/cpp-print-a-pattern-series-96202) *(Last modified: 2025-10-11)*
@@ -3374,7 +3374,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [go-multidimensional-arrays-in-golang-149076](https://labex.io/fr/tutorials/go-multidimensional-arrays-in-golang-149076) *(Last modified: 2025-11-04)*
 - [go-numerical-types-in-golang-149067](https://labex.io/fr/tutorials/go-numerical-types-in-golang-149067) *(Last modified: 2025-11-04)*
 - [go-online-golang-playground-372913](https://labex.io/fr/tutorials/go-online-golang-playground-372913) *(Last modified: 2025-10-09)*
-- [go-process-user-registration-strings-436083](https://labex.io/fr/tutorials/go-process-user-registration-strings-436083) *(Last modified: 2025-11-04)*
+- [go-process-user-registration-strings-436083](https://labex.io/fr/tutorials/go-process-user-registration-strings-436083) *(Last modified: 2025-11-05)*
 - [go-programming-language-methods-15488](https://labex.io/fr/tutorials/go-programming-language-methods-15488) *(Last modified: 2025-11-04)*
 - [go-reverse-string-with-go-loop-436520](https://labex.io/fr/tutorials/go-reverse-string-with-go-loop-436520) *(Last modified: 2025-11-04)*
 - [go-select-statement-demonstration-15503](https://labex.io/fr/tutorials/go-select-statement-demonstration-15503) *(Last modified: 2025-11-04)*
@@ -6056,7 +6056,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [mongodb-summarize-mongodb-data-422093](https://labex.io/fr/tutorials/mongodb-summarize-mongodb-data-422093) *(Last modified: 2025-11-04)*
 - [mongodb-transform-mongodb-data-422094](https://labex.io/fr/tutorials/mongodb-transform-mongodb-data-422094) *(Last modified: 2025-11-04)*
 - [mongodb-update-mongodb-arrays-422095](https://labex.io/fr/tutorials/mongodb-update-mongodb-arrays-422095) *(Last modified: 2025-11-04)*
-- [mongodb-update-mongodb-records-420823](https://labex.io/fr/tutorials/mongodb-update-mongodb-records-420823) *(Last modified: 2025-11-04)*
+- [mongodb-update-mongodb-records-420823](https://labex.io/fr/tutorials/mongodb-update-mongodb-records-420823) *(Last modified: 2025-11-05)*
 - [mongodb-use-mongodb-basic-types-422097](https://labex.io/fr/tutorials/mongodb-use-mongodb-basic-types-422097) *(Last modified: 2025-11-04)*
 - [mongodb-use-mongodb-indexes-422098](https://labex.io/fr/tutorials/mongodb-use-mongodb-indexes-422098) *(Last modified: 2025-11-04)*
 - [mongodb-use-mongodb-references-422099](https://labex.io/fr/tutorials/mongodb-use-mongodb-references-422099) *(Last modified: 2025-11-04)*
