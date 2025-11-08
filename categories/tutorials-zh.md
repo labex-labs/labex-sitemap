@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-11-07 00:04 UTC
+> Last updated: 2025-11-08 00:04 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -3282,7 +3282,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-check-if-a-git-user-name-is-configured-560117](https://labex.io/zh/tutorials/git-how-to-check-if-a-git-user-name-is-configured-560117) *(Last modified: 2025-10-09)*
 - [git-how-to-check-the-current-branch-414785](https://labex.io/zh/tutorials/git-how-to-check-the-current-branch-414785) *(Last modified: 2025-11-04)*
 - [git-how-to-check-the-current-git-working-directory-status-414506](https://labex.io/zh/tutorials/git-how-to-check-the-current-git-working-directory-status-414506) *(Last modified: 2025-10-11)*
-- [git-how-to-check-the-status-of-git-submodules-in-a-repository-415628](https://labex.io/zh/tutorials/git-how-to-check-the-status-of-git-submodules-in-a-repository-415628) *(Last modified: 2025-11-04)*
+- [git-how-to-check-the-status-of-git-submodules-in-a-repository-415628](https://labex.io/zh/tutorials/git-how-to-check-the-status-of-git-submodules-in-a-repository-415628) *(Last modified: 2025-11-07)*
 - [git-how-to-check-the-updated-git-configuration-settings-414955](https://labex.io/zh/tutorials/git-how-to-check-the-updated-git-configuration-settings-414955) *(Last modified: 2025-10-11)*
 - [git-how-to-checkout-files-from-another-branch-435731](https://labex.io/zh/tutorials/git-how-to-checkout-files-from-another-branch-435731) *(Last modified: 2025-10-11)*
 - [git-how-to-checkout-files-from-other-branches-435732](https://labex.io/zh/tutorials/git-how-to-checkout-files-from-other-branches-435732) *(Last modified: 2025-10-11)*
@@ -3476,7 +3476,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [git-how-to-handle-git-clone-unauthorized-437853](https://labex.io/zh/tutorials/git-how-to-handle-git-clone-unauthorized-437853) *(Last modified: 2025-10-11)*
 - [git-how-to-handle-git-commit-errors-446201](https://labex.io/zh/tutorials/git-how-to-handle-git-commit-errors-446201) *(Last modified: 2025-10-11)*
 - [git-how-to-handle-git-configuration-errors-425428](https://labex.io/zh/tutorials/git-how-to-handle-git-configuration-errors-425428) *(Last modified: 2025-10-11)*
-- [git-how-to-handle-git-connection-timeouts-419950](https://labex.io/zh/tutorials/git-how-to-handle-git-connection-timeouts-419950) *(Last modified: 2025-11-04)*
+- [git-how-to-handle-git-connection-timeouts-419950](https://labex.io/zh/tutorials/git-how-to-handle-git-connection-timeouts-419950) *(Last modified: 2025-11-07)*
 - [git-how-to-handle-git-filter-branch-errors-419166](https://labex.io/zh/tutorials/git-how-to-handle-git-filter-branch-errors-419166) *(Last modified: 2025-10-31)*
 - [git-how-to-handle-git-gc-object-cleanup-419042](https://labex.io/zh/tutorials/git-how-to-handle-git-gc-object-cleanup-419042) *(Last modified: 2025-10-11)*
 - [git-how-to-handle-git-init-command-failure-419353](https://labex.io/zh/tutorials/git-how-to-handle-git-init-command-failure-419353) *(Last modified: 2025-10-11)*
@@ -8176,7 +8176,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-discover-the-top-linux-apps-for-productivity-and-efficiency-411639](https://labex.io/zh/tutorials/linux-discover-the-top-linux-apps-for-productivity-and-efficiency-411639) *(Last modified: 2025-10-11)*
 - [linux-disk-usage-detective-388099](https://labex.io/zh/tutorials/linux-disk-usage-detective-388099) *(Last modified: 2025-11-04)*
 - [linux-display-os-info-stylishly-with-neofetch-299825](https://labex.io/zh/tutorials/linux-display-os-info-stylishly-with-neofetch-299825) *(Last modified: 2025-11-04)*
-- [linux-display-user-and-group-information-8718](https://labex.io/zh/tutorials/linux-display-user-and-group-information-8718) *(Last modified: 2025-11-04)*
+- [linux-display-user-and-group-information-8718](https://labex.io/zh/tutorials/linux-display-user-and-group-information-8718) *(Last modified: 2025-11-07)*
 - [linux-download-files-from-the-internet-387333](https://labex.io/zh/tutorials/linux-download-files-from-the-internet-387333) *(Last modified: 2025-11-04)*
 - [linux-download-media-with-you-get-289657](https://labex.io/zh/tutorials/linux-download-media-with-you-get-289657) *(Last modified: 2025-10-11)*
 - [linux-download-media-with-you-get-on-linux-409951](https://labex.io/zh/tutorials/linux-download-media-with-you-get-on-linux-409951) *(Last modified: 2025-10-11)*

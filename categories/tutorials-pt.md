@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Pt Sitemap
 
-> Last updated: 2025-11-07 00:04 UTC
+> Last updated: 2025-11-08 00:04 UTC
 
 This file contains all tutorials-pt related links from LabEx website.
 
@@ -3187,12 +3187,12 @@ This file contains all tutorials-pt related links from LabEx website.
 - [git-how-to-check-if-a-git-user-email-is-configured-560116](https://labex.io/pt/tutorials/git-how-to-check-if-a-git-user-email-is-configured-560116) *(Last modified: 2025-10-09)*
 - [git-how-to-check-if-a-git-user-name-is-configured-560117](https://labex.io/pt/tutorials/git-how-to-check-if-a-git-user-name-is-configured-560117) *(Last modified: 2025-10-09)*
 - [git-how-to-check-the-current-branch-414785](https://labex.io/pt/tutorials/git-how-to-check-the-current-branch-414785) *(Last modified: 2025-11-04)*
-- [git-how-to-check-the-status-of-git-submodules-in-a-repository-415628](https://labex.io/pt/tutorials/git-how-to-check-the-status-of-git-submodules-in-a-repository-415628) *(Last modified: 2025-11-04)*
+- [git-how-to-check-the-status-of-git-submodules-in-a-repository-415628](https://labex.io/pt/tutorials/git-how-to-check-the-status-of-git-submodules-in-a-repository-415628) *(Last modified: 2025-11-07)*
 - [git-how-to-clone-a-git-repository-with-username-and-password-authentication-400166](https://labex.io/pt/tutorials/git-how-to-clone-a-git-repository-with-username-and-password-authentication-400166) *(Last modified: 2025-11-04)*
 - [git-how-to-create-git-repositories-and-workflows-393109](https://labex.io/pt/tutorials/git-how-to-create-git-repositories-and-workflows-393109) *(Last modified: 2025-10-11)*
 - [git-how-to-fix-fatal-unable-to-read-config-file-error-in-git-417550](https://labex.io/pt/tutorials/git-how-to-fix-fatal-unable-to-read-config-file-error-in-git-417550) *(Last modified: 2025-11-04)*
 - [git-how-to-handle-error-untracked-working-tree-files-would-be-overwritten-by-checkout-in-git-417551](https://labex.io/pt/tutorials/git-how-to-handle-error-untracked-working-tree-files-would-be-overwritten-by-checkout-in-git-417551) *(Last modified: 2025-11-04)*
-- [git-how-to-handle-git-connection-timeouts-419950](https://labex.io/pt/tutorials/git-how-to-handle-git-connection-timeouts-419950) *(Last modified: 2025-11-04)*
+- [git-how-to-handle-git-connection-timeouts-419950](https://labex.io/pt/tutorials/git-how-to-handle-git-connection-timeouts-419950) *(Last modified: 2025-11-07)*
 - [git-how-to-ignore-exe-files-in-a-git-repository-using-gitignore-392944](https://labex.io/pt/tutorials/git-how-to-ignore-exe-files-in-a-git-repository-using-gitignore-392944) *(Last modified: 2025-11-04)*
 - [git-how-to-remove-cached-files-with-git-398319](https://labex.io/pt/tutorials/git-how-to-remove-cached-files-with-git-398319) *(Last modified: 2025-11-04)*
 - [git-how-to-resolve-fatal-unable-to-auto-detect-email-address-error-417552](https://labex.io/pt/tutorials/git-how-to-resolve-fatal-unable-to-auto-detect-email-address-error-417552) *(Last modified: 2025-11-04)*
@@ -4773,7 +4773,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-discover-linux-system-information-36](https://labex.io/pt/tutorials/linux-discover-linux-system-information-36) *(Last modified: 2025-11-04)*
 - [linux-disk-usage-detective-388099](https://labex.io/pt/tutorials/linux-disk-usage-detective-388099) *(Last modified: 2025-11-04)*
 - [linux-display-os-info-stylishly-with-neofetch-299825](https://labex.io/pt/tutorials/linux-display-os-info-stylishly-with-neofetch-299825) *(Last modified: 2025-11-04)*
-- [linux-display-user-and-group-information-8718](https://labex.io/pt/tutorials/linux-display-user-and-group-information-8718) *(Last modified: 2025-11-04)*
+- [linux-display-user-and-group-information-8718](https://labex.io/pt/tutorials/linux-display-user-and-group-information-8718) *(Last modified: 2025-11-07)*
 - [linux-download-files-from-the-internet-387333](https://labex.io/pt/tutorials/linux-download-files-from-the-internet-387333) *(Last modified: 2025-11-04)*
 - [linux-download-media-with-you-get-289657](https://labex.io/pt/tutorials/linux-download-media-with-you-get-289657) *(Last modified: 2025-10-11)*
 - [linux-empires-gedit-quest-271288](https://labex.io/pt/tutorials/linux-empires-gedit-quest-271288) *(Last modified: 2025-11-04)*
