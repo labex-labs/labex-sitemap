@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ko Sitemap
 
-> Last updated: 2025-11-09 00:03 UTC
+> Last updated: 2025-11-10 00:04 UTC
 
 This file contains all courses-ko related links from LabEx website.
 
@@ -467,7 +467,6 @@ This file contains all courses-ko related links from LabEx website.
 - [project-wish-sticky-note](https://labex.io/ko/courses/project-wish-sticky-note)
 - [project-wuxu-reform-duration-calculation](https://labex.io/ko/courses/project-wuxu-reform-duration-calculation)
 - [project-yin-book-encryption](https://labex.io/ko/courses/project-yin-book-encryption)
-- [python-for-beginners](https://labex.io/ko/courses/python-for-beginners)
 - [python-practice-challenges](https://labex.io/ko/courses/python-practice-challenges)
 - [quick-start-with-cpp](https://labex.io/ko/courses/quick-start-with-cpp)
 - [quick-start-with-hadoop](https://labex.io/ko/courses/quick-start-with-hadoop)
