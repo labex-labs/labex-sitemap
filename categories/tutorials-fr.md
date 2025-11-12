@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Fr Sitemap
 
-> Last updated: 2025-11-11 00:03 UTC
+> Last updated: 2025-11-12 00:04 UTC
 
 This file contains all tutorials-fr related links from LabEx website.
 
@@ -1034,7 +1034,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [comptia-customize-the-grub2-boot-menu-in-linux-590859](https://labex.io/fr/tutorials/comptia-customize-the-grub2-boot-menu-in-linux-590859) *(Last modified: 2025-11-10)*
 - [comptia-demonstrating-input-validation-and-code-integrity-594556](https://labex.io/fr/tutorials/comptia-demonstrating-input-validation-and-code-integrity-594556) *(Last modified: 2025-11-10)*
 - [comptia-digital-forensics-evidence-acquisition-and-integrity-594581](https://labex.io/fr/tutorials/comptia-digital-forensics-evidence-acquisition-and-integrity-594581) *(Last modified: 2025-11-10)*
-- [comptia-edit-text-files-in-linux-with-vim-and-nano-591076](https://labex.io/fr/tutorials/comptia-edit-text-files-in-linux-with-vim-and-nano-591076) *(Last modified: 2025-11-10)*
+- [comptia-edit-text-files-in-linux-with-vim-and-nano-591076](https://labex.io/fr/tutorials/comptia-edit-text-files-in-linux-with-vim-and-nano-591076) *(Last modified: 2025-11-11)*
 - [comptia-encrypt-and-decrypt-files-with-gpg-in-linux-590860](https://labex.io/fr/tutorials/comptia-encrypt-and-decrypt-files-with-gpg-in-linux-590860) *(Last modified: 2025-11-10)*
 - [comptia-ensuring-data-integrity-and-authenticity-with-cryptography-594576](https://labex.io/fr/tutorials/comptia-ensuring-data-integrity-and-authenticity-with-cryptography-594576) *(Last modified: 2025-11-10)*
 - [comptia-examine-network-interface-settings-with-ethtool-in-linux-592759](https://labex.io/fr/tutorials/comptia-examine-network-interface-settings-with-ethtool-in-linux-592759) *(Last modified: 2025-11-10)*

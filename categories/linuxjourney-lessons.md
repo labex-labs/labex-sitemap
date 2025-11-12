@@ -4,7 +4,7 @@ layout: default
 
 # Linuxjourney-Lessons Sitemap
 
-> Last updated: 2025-11-11 00:03 UTC
+> Last updated: 2025-11-12 00:04 UTC
 
 This file contains all linuxjourney-lessons related links from LabEx website.
 
