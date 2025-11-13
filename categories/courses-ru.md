@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ru Sitemap
 
-> Last updated: 2025-11-12 00:04 UTC
+> Last updated: 2025-11-13 00:03 UTC
 
 This file contains all courses-ru related links from LabEx website.
 
@@ -108,7 +108,6 @@ This file contains all courses-ru related links from LabEx website.
 - [project-build-a-web-based-tcp-port-scanner](https://labex.io/ru/courses/project-build-a-web-based-tcp-port-scanner)
 - [project-build-aliens-game-using-pygame](https://labex.io/ru/courses/project-build-aliens-game-using-pygame)
 - [project-build-an-image-cropping-tool-using-html5](https://labex.io/ru/courses/project-build-an-image-cropping-tool-using-html5)
-- [project-build-an-vscode-extension-with-chatgpt](https://labex.io/ru/courses/project-build-an-vscode-extension-with-chatgpt)
 - [project-build-flappy-bird-using-pygame](https://labex.io/ru/courses/project-build-flappy-bird-using-pygame)
 - [project-build-maze-game-using-pygame](https://labex.io/ru/courses/project-build-maze-game-using-pygame)
 - [project-building-a-christmas-wish-list-builder-in-react](https://labex.io/ru/courses/project-building-a-christmas-wish-list-builder-in-react)
