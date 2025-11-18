@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ja Sitemap
 
-> Last updated: 2025-11-17 00:03 UTC
+> Last updated: 2025-11-18 00:03 UTC
 
 This file contains all courses-ja related links from LabEx website.
 
@@ -466,6 +466,7 @@ This file contains all courses-ja related links from LabEx website.
 - [project-wish-sticky-note](https://labex.io/ja/courses/project-wish-sticky-note)
 - [project-wuxu-reform-duration-calculation](https://labex.io/ja/courses/project-wuxu-reform-duration-calculation)
 - [project-yin-book-encryption](https://labex.io/ja/courses/project-yin-book-encryption)
+- [python-cheatsheet](https://labex.io/ja/courses/python-cheatsheet)
 - [python-practice-challenges](https://labex.io/ja/courses/python-practice-challenges)
 - [quick-start-with-cpp](https://labex.io/ja/courses/quick-start-with-cpp)
 - [quick-start-with-hadoop](https://labex.io/ja/courses/quick-start-with-hadoop)

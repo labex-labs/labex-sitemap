@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Es Sitemap
 
-> Last updated: 2025-11-17 00:03 UTC
+> Last updated: 2025-11-18 00:03 UTC
 
 This file contains all courses-es related links from LabEx website.
 
@@ -466,6 +466,7 @@ This file contains all courses-es related links from LabEx website.
 - [project-wish-sticky-note](https://labex.io/es/courses/project-wish-sticky-note)
 - [project-wuxu-reform-duration-calculation](https://labex.io/es/courses/project-wuxu-reform-duration-calculation)
 - [project-yin-book-encryption](https://labex.io/es/courses/project-yin-book-encryption)
+- [python-cheatsheet](https://labex.io/es/courses/python-cheatsheet)
 - [python-practice-challenges](https://labex.io/es/courses/python-practice-challenges)
 - [quick-start-with-cpp](https://labex.io/es/courses/quick-start-with-cpp)
 - [quick-start-with-hadoop](https://labex.io/es/courses/quick-start-with-hadoop)
