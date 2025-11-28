@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-De Sitemap
 
-> Last updated: 2025-11-27 00:03 UTC
+> Last updated: 2025-11-28 00:04 UTC
 
 This file contains all tutorials-de related links from LabEx website.
 
@@ -3124,6 +3124,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [git-git-reset-and-reflog-387491](https://labex.io/de/tutorials/git-git-reset-and-reflog-387491) *(Last modified: 2025-11-24)*
 - [git-git-switch-vs-git-checkout-391555](https://labex.io/de/tutorials/git-git-switch-vs-git-checkout-391555) *(Last modified: 2025-11-24)*
 - [git-git-time-detective-387782](https://labex.io/de/tutorials/git-git-time-detective-387782) *(Last modified: 2025-11-24)*
+- [git-github-actions-introduction-and-setup-633882](https://labex.io/de/tutorials/git-github-actions-introduction-and-setup-633882) *(Last modified: 2025-11-27)*
 - [git-how-the-git-pull-command-updates-your-local-repository-395007](https://labex.io/de/tutorials/git-how-the-git-pull-command-updates-your-local-repository-395007) *(Last modified: 2025-10-11)*
 - [git-how-to-address-error-unable-to-create-temporary-file-issue-in-git-417547](https://labex.io/de/tutorials/git-how-to-address-error-unable-to-create-temporary-file-issue-in-git-417547) *(Last modified: 2025-10-11)*
 - [git-how-to-address-error-your-local-changes-would-be-overwritten-by-merge-in-git-417548](https://labex.io/de/tutorials/git-how-to-address-error-your-local-changes-would-be-overwritten-by-merge-in-git-417548) *(Last modified: 2025-11-24)*
@@ -3354,6 +3355,12 @@ This file contains all tutorials-de related links from LabEx website.
 - [git-understanding-the-git-merge-no-fast-forward-approach-411661](https://labex.io/de/tutorials/git-understanding-the-git-merge-no-fast-forward-approach-411661) *(Last modified: 2025-10-11)*
 - [git-working-with-files-and-staging-area-387457](https://labex.io/de/tutorials/git-working-with-files-and-staging-area-387457) *(Last modified: 2025-11-24)*
 - [git-your-first-git-lab-92739](https://labex.io/de/tutorials/git-your-first-git-lab-92739) *(Last modified: 2025-11-24)*
+- [github-actions-adding-environment-variables-633885](https://labex.io/de/tutorials/github-actions-adding-environment-variables-633885) *(Last modified: 2025-11-27)*
+- [github-actions-basic-build-and-test-633886](https://labex.io/de/tutorials/github-actions-basic-build-and-test-633886) *(Last modified: 2025-11-27)*
+- [github-actions-first-workflow-creation-633887](https://labex.io/de/tutorials/github-actions-first-workflow-creation-633887) *(Last modified: 2025-11-27)*
+- [github-actions-running-simple-commands-633888](https://labex.io/de/tutorials/github-actions-running-simple-commands-633888) *(Last modified: 2025-11-27)*
+- [github-actions-setting-up-secrets-633889](https://labex.io/de/tutorials/github-actions-setting-up-secrets-633889) *(Last modified: 2025-11-27)*
+- [github-actions-using-checkout-action-633890](https://labex.io/de/tutorials/github-actions-using-checkout-action-633890) *(Last modified: 2025-11-27)*
 - [go-anonymous-functions-in-golang-149099](https://labex.io/de/tutorials/go-anonymous-functions-in-golang-149099) *(Last modified: 2025-11-24)*
 - [go-array-operations-in-golang-149075](https://labex.io/de/tutorials/go-array-operations-in-golang-149075) *(Last modified: 2025-11-24)*
 - [go-basics-value-types-exploration-15526](https://labex.io/de/tutorials/go-basics-value-types-exploration-15526) *(Last modified: 2025-11-24)*

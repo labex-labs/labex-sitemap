@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-De Sitemap
 
-> Last updated: 2025-11-27 00:03 UTC
+> Last updated: 2025-11-28 00:04 UTC
 
 This file contains all freelabs-de related links from LabEx website.
 

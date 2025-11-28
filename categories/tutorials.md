@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2025-11-27 00:03 UTC
+> Last updated: 2025-11-28 00:04 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -113,7 +113,7 @@ This file contains all tutorials related links from LabEx website.
 - [ansible-ansible-script-module-289411](https://labex.io/tutorials/ansible-ansible-script-module-289411) *(Last modified: 2025-11-24)*
 - [ansible-ansible-shell-module-289409](https://labex.io/tutorials/ansible-ansible-shell-module-289409) *(Last modified: 2025-11-24)*
 - [ansible-ansible-stat-module-290192](https://labex.io/tutorials/ansible-ansible-stat-module-290192) *(Last modified: 2025-11-24)*
-- [ansible-automate-rhel-administration-tasks-with-ansible-590613](https://labex.io/tutorials/ansible-automate-rhel-administration-tasks-with-ansible-590613) *(Last modified: 2025-11-24)*
+- [ansible-automate-rhel-administration-tasks-with-ansible-590613](https://labex.io/tutorials/ansible-automate-rhel-administration-tasks-with-ansible-590613) *(Last modified: 2025-11-27)*
 - [ansible-deploy-and-manage-files-on-rhel-with-ansible-590573](https://labex.io/tutorials/ansible-deploy-and-manage-files-on-rhel-with-ansible-590573) *(Last modified: 2025-11-24)*
 - [ansible-deploy-infrastructure-with-ansible-automation-390550](https://labex.io/tutorials/ansible-deploy-infrastructure-with-ansible-automation-390550) *(Last modified: 2025-10-11)*
 - [ansible-deploying-ansible-on-ubuntu-operating-system-411632](https://labex.io/tutorials/ansible-deploying-ansible-on-ubuntu-operating-system-411632) *(Last modified: 2025-10-11)*
@@ -3150,6 +3150,7 @@ This file contains all tutorials related links from LabEx website.
 - [git-git-time-detective-387782](https://labex.io/tutorials/git-git-time-detective-387782) *(Last modified: 2025-11-24)*
 - [git-git-tutorial-discarding-local-changes-made-to-files-411658](https://labex.io/tutorials/git-git-tutorial-discarding-local-changes-made-to-files-411658) *(Last modified: 2025-10-11)*
 - [git-git-understanding-detached-head-in-version-control-392494](https://labex.io/tutorials/git-git-understanding-detached-head-in-version-control-392494) *(Last modified: 2025-10-11)*
+- [git-github-actions-introduction-and-setup-633882](https://labex.io/tutorials/git-github-actions-introduction-and-setup-633882) *(Last modified: 2025-11-27)*
 - [git-how-the-git-pull-command-updates-your-local-repository-395007](https://labex.io/tutorials/git-how-the-git-pull-command-updates-your-local-repository-395007) *(Last modified: 2025-10-11)*
 - [git-how-to-add-a-git-submodule-414972](https://labex.io/tutorials/git-how-to-add-a-git-submodule-414972) *(Last modified: 2025-10-11)*
 - [git-how-to-add-and-commit-changes-in-git-417712](https://labex.io/tutorials/git-how-to-add-and-commit-changes-in-git-417712) *(Last modified: 2025-10-11)*
@@ -4010,6 +4011,12 @@ This file contains all tutorials related links from LabEx website.
 - [git-when-and-how-to-use-force-pushing-in-git-411644](https://labex.io/tutorials/git-when-and-how-to-use-force-pushing-in-git-411644) *(Last modified: 2025-10-11)*
 - [git-working-with-files-and-staging-area-387457](https://labex.io/tutorials/git-working-with-files-and-staging-area-387457) *(Last modified: 2025-11-24)*
 - [git-your-first-git-lab-92739](https://labex.io/tutorials/git-your-first-git-lab-92739) *(Last modified: 2025-11-24)*
+- [github-actions-adding-environment-variables-633885](https://labex.io/tutorials/github-actions-adding-environment-variables-633885) *(Last modified: 2025-11-27)*
+- [github-actions-basic-build-and-test-633886](https://labex.io/tutorials/github-actions-basic-build-and-test-633886) *(Last modified: 2025-11-27)*
+- [github-actions-first-workflow-creation-633887](https://labex.io/tutorials/github-actions-first-workflow-creation-633887) *(Last modified: 2025-11-27)*
+- [github-actions-running-simple-commands-633888](https://labex.io/tutorials/github-actions-running-simple-commands-633888) *(Last modified: 2025-11-27)*
+- [github-actions-setting-up-secrets-633889](https://labex.io/tutorials/github-actions-setting-up-secrets-633889) *(Last modified: 2025-11-27)*
+- [github-actions-using-checkout-action-633890](https://labex.io/tutorials/github-actions-using-checkout-action-633890) *(Last modified: 2025-11-27)*
 - [go-anonymous-functions-in-golang-149099](https://labex.io/tutorials/go-anonymous-functions-in-golang-149099) *(Last modified: 2025-11-24)*
 - [go-array-operations-in-golang-149075](https://labex.io/tutorials/go-array-operations-in-golang-149075) *(Last modified: 2025-11-24)*
 - [go-basics-value-types-exploration-15526](https://labex.io/tutorials/go-basics-value-types-exploration-15526) *(Last modified: 2025-11-24)*

@@ -4,7 +4,7 @@ layout: default
 
 # Courses Sitemap
 
-> Last updated: 2025-11-27 00:03 UTC
+> Last updated: 2025-11-28 00:04 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -40,6 +40,7 @@ This file contains all courses related links from LabEx website.
 - [docker-practice-labs](https://labex.io/courses/docker-practice-labs)
 - [foundations-of-deep-learning](https://labex.io/courses/foundations-of-deep-learning)
 - [git-for-beginners](https://labex.io/courses/git-for-beginners)
+- [github-actions-for-beginners](https://labex.io/courses/github-actions-for-beginners)
 - [golang-for-beginners](https://labex.io/courses/golang-for-beginners)
 - [hadoop-practice-challenges](https://labex.io/courses/hadoop-practice-challenges)
 - [hadoop-practice-labs](https://labex.io/courses/hadoop-practice-labs)
