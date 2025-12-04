@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2025-12-03 00:03 UTC
+> Last updated: 2025-12-04 00:03 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -2822,7 +2822,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [docker-quickly-run-and-close-docker-containers-a-beginner-s-guide-392874](https://labex.io/zh/tutorials/docker-quickly-run-and-close-docker-containers-a-beginner-s-guide-392874) *(Last modified: 2025-10-11)*
 - [docker-quickly-set-up-a-docker-container-server-392820](https://labex.io/zh/tutorials/docker-quickly-set-up-a-docker-container-server-392820) *(Last modified: 2025-10-11)*
 - [docker-resolving-the-docker-compose-command-not-found-error-390530](https://labex.io/zh/tutorials/docker-resolving-the-docker-compose-command-not-found-error-390530) *(Last modified: 2025-12-02)*
-- [docker-run-your-first-container-388943](https://labex.io/zh/tutorials/docker-run-your-first-container-388943) *(Last modified: 2025-12-02)*
+- [docker-run-your-first-container-388943](https://labex.io/zh/tutorials/docker-run-your-first-container-388943) *(Last modified: 2025-12-03)*
 - [docker-safely-stopping-and-removing-docker-containers-398419](https://labex.io/zh/tutorials/docker-safely-stopping-and-removing-docker-containers-398419) *(Last modified: 2025-10-11)*
 - [docker-securing-docker-deployments-with-insecure-registry-management-413768](https://labex.io/zh/tutorials/docker-securing-docker-deployments-with-insecure-registry-management-413768) *(Last modified: 2025-10-11)*
 - [docker-step-by-step-guide-to-cloning-a-docker-container-image-392927](https://labex.io/zh/tutorials/docker-step-by-step-guide-to-cloning-a-docker-container-image-392927) *(Last modified: 2025-12-02)*
@@ -2851,7 +2851,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [docker-what-are-docker-containers-and-how-do-they-work-392713](https://labex.io/zh/tutorials/docker-what-are-docker-containers-and-how-do-they-work-392713) *(Last modified: 2025-10-11)*
 - [docker-working-with-docker-images-388939](https://labex.io/zh/tutorials/docker-working-with-docker-images-388939) *(Last modified: 2025-12-02)*
 - [docker-working-with-docker-volumes-389189](https://labex.io/zh/tutorials/docker-working-with-docker-volumes-389189) *(Last modified: 2025-12-02)*
-- [docker-your-first-docker-lab-92719](https://labex.io/zh/tutorials/docker-your-first-docker-lab-92719) *(Last modified: 2025-12-02)*
+- [docker-your-first-docker-lab-92719](https://labex.io/zh/tutorials/docker-your-first-docker-lab-92719) *(Last modified: 2025-12-03)*
 - [document-biclustering-using-spectral-co-clustering-algorithm-49069](https://labex.io/zh/tutorials/document-biclustering-using-spectral-co-clustering-algorithm-49069) *(Last modified: 2025-12-02)*
 - [documenting-rust-projects-with-markdown-99282](https://labex.io/zh/tutorials/documenting-rust-projects-with-markdown-99282) *(Last modified: 2025-12-02)*
 - [domain-specific-languages-99229](https://labex.io/zh/tutorials/domain-specific-languages-99229) *(Last modified: 2025-12-02)*
@@ -7227,9 +7227,9 @@ This file contains all tutorials-zh related links from LabEx website.
 - [javascript-weather-trend-chart-with-vue-and-echarts-445650](https://labex.io/zh/tutorials/javascript-weather-trend-chart-with-vue-and-echarts-445650) *(Last modified: 2025-10-11)*
 - [javascript-weekly-weather-forecast-application-development-445676](https://labex.io/zh/tutorials/javascript-weekly-weather-forecast-application-development-445676) *(Last modified: 2025-10-11)*
 - [javascript-your-first-javascript-lab-92948](https://labex.io/zh/tutorials/javascript-your-first-javascript-lab-92948) *(Last modified: 2025-12-02)*
-- [jenkins-configuring-basic-freestyle-projects-595302](https://labex.io/zh/tutorials/jenkins-configuring-basic-freestyle-projects-595302) *(Last modified: 2025-12-02)*
+- [jenkins-configuring-basic-freestyle-projects-595302](https://labex.io/zh/tutorials/jenkins-configuring-basic-freestyle-projects-595302) *(Last modified: 2025-12-03)*
 - [jenkins-enhance-jenkins-functionality-with-plugins-398425](https://labex.io/zh/tutorials/jenkins-enhance-jenkins-functionality-with-plugins-398425) *(Last modified: 2025-10-31)*
-- [jenkins-exploring-the-jenkins-interface-595303](https://labex.io/zh/tutorials/jenkins-exploring-the-jenkins-interface-595303) *(Last modified: 2025-12-02)*
+- [jenkins-exploring-the-jenkins-interface-595303](https://labex.io/zh/tutorials/jenkins-exploring-the-jenkins-interface-595303) *(Last modified: 2025-12-03)*
 - [jenkins-how-to-access-the-jenkins-web-interface-414782](https://labex.io/zh/tutorials/jenkins-how-to-access-the-jenkins-web-interface-414782) *(Last modified: 2025-10-11)*
 - [jenkins-how-to-add-team-members-to-a-jenkins-environment-414783](https://labex.io/zh/tutorials/jenkins-how-to-add-team-members-to-a-jenkins-environment-414783) *(Last modified: 2025-10-31)*
 - [jenkins-how-to-configure-jenkins-docker-for-specific-use-cases-414501](https://labex.io/zh/tutorials/jenkins-how-to-configure-jenkins-docker-for-specific-use-cases-414501) *(Last modified: 2025-10-31)*
@@ -7248,13 +7248,13 @@ This file contains all tutorials-zh related links from LabEx website.
 - [jenkins-how-to-start-docker-service-on-linux-for-jenkins-415669](https://labex.io/zh/tutorials/jenkins-how-to-start-docker-service-on-linux-for-jenkins-415669) *(Last modified: 2025-10-11)*
 - [jenkins-how-to-verify-jenkins-docker-image-version-415670](https://labex.io/zh/tutorials/jenkins-how-to-verify-jenkins-docker-image-version-415670) *(Last modified: 2025-10-31)*
 - [jenkins-implementing-continuous-integration-and-deployment-with-jenkins-411499](https://labex.io/zh/tutorials/jenkins-implementing-continuous-integration-and-deployment-with-jenkins-411499) *(Last modified: 2025-10-31)*
-- [jenkins-installing-jenkins-with-docker-391174](https://labex.io/zh/tutorials/jenkins-installing-jenkins-with-docker-391174) *(Last modified: 2025-12-02)*
-- [jenkins-integrating-jenkins-with-source-control-git-595304](https://labex.io/zh/tutorials/jenkins-integrating-jenkins-with-source-control-git-595304) *(Last modified: 2025-12-02)*
-- [jenkins-introduction-to-jenkins-pipelines-595305](https://labex.io/zh/tutorials/jenkins-introduction-to-jenkins-pipelines-595305) *(Last modified: 2025-12-02)*
-- [jenkins-jenkins-user-management-391302](https://labex.io/zh/tutorials/jenkins-jenkins-user-management-391302) *(Last modified: 2025-12-02)*
-- [jenkins-managing-plugins-in-jenkins-595307](https://labex.io/zh/tutorials/jenkins-managing-plugins-in-jenkins-595307) *(Last modified: 2025-12-02)*
+- [jenkins-installing-jenkins-with-docker-391174](https://labex.io/zh/tutorials/jenkins-installing-jenkins-with-docker-391174) *(Last modified: 2025-12-03)*
+- [jenkins-integrating-jenkins-with-source-control-git-595304](https://labex.io/zh/tutorials/jenkins-integrating-jenkins-with-source-control-git-595304) *(Last modified: 2025-12-03)*
+- [jenkins-introduction-to-jenkins-pipelines-595305](https://labex.io/zh/tutorials/jenkins-introduction-to-jenkins-pipelines-595305) *(Last modified: 2025-12-03)*
+- [jenkins-jenkins-user-management-391302](https://labex.io/zh/tutorials/jenkins-jenkins-user-management-391302) *(Last modified: 2025-12-03)*
+- [jenkins-managing-plugins-in-jenkins-595307](https://labex.io/zh/tutorials/jenkins-managing-plugins-in-jenkins-595307) *(Last modified: 2025-12-03)*
 - [jenkins-online-jenkins-playground-415838](https://labex.io/zh/tutorials/jenkins-online-jenkins-playground-415838) *(Last modified: 2025-10-09)*
-- [jenkins-parameterizing-builds-and-using-scripts-595308](https://labex.io/zh/tutorials/jenkins-parameterizing-builds-and-using-scripts-595308) *(Last modified: 2025-12-02)*
+- [jenkins-parameterizing-builds-and-using-scripts-595308](https://labex.io/zh/tutorials/jenkins-parameterizing-builds-and-using-scripts-595308) *(Last modified: 2025-12-03)*
 - [join-array-into-string-28455](https://labex.io/zh/tutorials/join-array-into-string-28455) *(Last modified: 2025-12-02)*
 - [join-url-segments-28456](https://labex.io/zh/tutorials/join-url-segments-28456) *(Last modified: 2025-12-02)*
 - [joint-feature-selection-with-multi-task-lasso-49220](https://labex.io/zh/tutorials/joint-feature-selection-with-multi-task-lasso-49220) *(Last modified: 2025-12-02)*
