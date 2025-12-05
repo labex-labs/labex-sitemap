@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-De Sitemap
 
-> Last updated: 2025-12-04 00:03 UTC
+> Last updated: 2025-12-05 00:04 UTC
 
 This file contains all tutorials-de related links from LabEx website.
 
@@ -2010,7 +2010,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [docker-a-comprehensive-guide-to-the-docker-file-reference-398345](https://labex.io/de/tutorials/docker-a-comprehensive-guide-to-the-docker-file-reference-398345) *(Last modified: 2025-10-11)*
 - [docker-access-and-manage-containers-389192](https://labex.io/de/tutorials/docker-access-and-manage-containers-389192) *(Last modified: 2025-12-02)*
 - [docker-accessing-and-utilizing-the-docker-socket-for-container-management-411676](https://labex.io/de/tutorials/docker-accessing-and-utilizing-the-docker-socket-for-container-management-411676) *(Last modified: 2025-10-11)*
-- [docker-advanced-dockerfile-techniques-389027](https://labex.io/de/tutorials/docker-advanced-dockerfile-techniques-389027) *(Last modified: 2025-12-02)*
+- [docker-advanced-dockerfile-techniques-389027](https://labex.io/de/tutorials/docker-advanced-dockerfile-techniques-389027) *(Last modified: 2025-12-04)*
 - [docker-build-and-optimize-docker-images-391172](https://labex.io/de/tutorials/docker-build-and-optimize-docker-images-391172) *(Last modified: 2025-10-11)*
 - [docker-build-docker-desktop-on-ubuntu-22-04-394873](https://labex.io/de/tutorials/docker-build-docker-desktop-on-ubuntu-22-04-394873) *(Last modified: 2025-10-11)*
 - [docker-building-docker-containers-using-a-custom-dockerfile-398125](https://labex.io/de/tutorials/docker-building-docker-containers-using-a-custom-dockerfile-398125) *(Last modified: 2025-10-11)*
@@ -5275,7 +5275,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-enabling-basic-firewall-632796](https://labex.io/de/tutorials/linux-enabling-basic-firewall-632796) *(Last modified: 2025-12-02)*
 - [linux-encrypt-files-in-openssl-549935](https://labex.io/de/tutorials/linux-encrypt-files-in-openssl-549935) *(Last modified: 2025-12-02)*
 - [linux-enhance-copying-and-moving-with-advcpmv-295937](https://labex.io/de/tutorials/linux-enhance-copying-and-moving-with-advcpmv-295937) *(Last modified: 2025-12-02)*
-- [linux-environment-variables-in-linux-385274](https://labex.io/de/tutorials/linux-environment-variables-in-linux-385274) *(Last modified: 2025-12-02)*
+- [linux-environment-variables-in-linux-385274](https://labex.io/de/tutorials/linux-environment-variables-in-linux-385274) *(Last modified: 2025-12-04)*
 - [linux-exploit-sql-injection-in-sqlmap-549938](https://labex.io/de/tutorials/linux-exploit-sql-injection-in-sqlmap-549938) *(Last modified: 2025-10-09)*
 - [linux-explore-disk-usage-with-ncdu-296141](https://labex.io/de/tutorials/linux-explore-disk-usage-with-ncdu-296141) *(Last modified: 2025-12-02)*
 - [linux-exploring-file-systems-with-eza-295948](https://labex.io/de/tutorials/linux-exploring-file-systems-with-eza-295948) *(Last modified: 2025-12-02)*
@@ -7842,7 +7842,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [python-monty-hall-problem-simulation-using-tkinter-298896](https://labex.io/de/tutorials/python-monty-hall-problem-simulation-using-tkinter-298896) *(Last modified: 2025-12-02)*
 - [python-numpy-advanced-topics-11](https://labex.io/de/tutorials/python-numpy-advanced-topics-11) *(Last modified: 2025-10-11)*
 - [python-numpy-arrays-and-data-types-4996](https://labex.io/de/tutorials/python-numpy-arrays-and-data-types-4996) *(Last modified: 2025-10-11)*
-- [python-numpy-math-games-10](https://labex.io/de/tutorials/python-numpy-math-games-10) *(Last modified: 2025-12-02)*
+- [python-numpy-math-games-10](https://labex.io/de/tutorials/python-numpy-math-games-10) *(Last modified: 2025-12-04)*
 - [python-numpy-slicing-and-indexing-352](https://labex.io/de/tutorials/python-numpy-slicing-and-indexing-352) *(Last modified: 2025-10-11)*
 - [python-object-model-internals-132713](https://labex.io/de/tutorials/python-object-model-internals-132713) *(Last modified: 2025-12-02)*
 - [python-object-system-fundamentals-132724](https://labex.io/de/tutorials/python-object-system-fundamentals-132724) *(Last modified: 2025-12-02)*
@@ -7873,7 +7873,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [python-python-conditional-statements-271532](https://labex.io/de/tutorials/python-python-conditional-statements-271532) *(Last modified: 2025-10-11)*
 - [python-python-constructors-for-imperial-artifacts-271534](https://labex.io/de/tutorials/python-python-constructors-for-imperial-artifacts-271534) *(Last modified: 2025-10-11)*
 - [python-python-context-managers-271535](https://labex.io/de/tutorials/python-python-context-managers-271535) *(Last modified: 2025-10-11)*
-- [python-python-control-structures-393123](https://labex.io/de/tutorials/python-python-control-structures-393123) *(Last modified: 2025-12-02)*
+- [python-python-control-structures-393123](https://labex.io/de/tutorials/python-python-control-structures-393123) *(Last modified: 2025-12-04)*
 - [python-python-creating-modules-271537](https://labex.io/de/tutorials/python-python-creating-modules-271537) *(Last modified: 2025-10-11)*
 - [python-python-custom-exceptions-271538](https://labex.io/de/tutorials/python-python-custom-exceptions-271538) *(Last modified: 2025-10-11)*
 - [python-python-data-analysis-271539](https://labex.io/de/tutorials/python-python-data-analysis-271539) *(Last modified: 2025-10-11)*
