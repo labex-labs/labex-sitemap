@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ru Sitemap
 
-> Last updated: 2025-12-11 08:00 UTC
+> Last updated: 2025-12-12 00:04 UTC
 
 This file contains all tutorials-ru related links from LabEx website.
 
