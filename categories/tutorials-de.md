@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-De Sitemap
 
-> Last updated: 2025-12-16 00:04 UTC
+> Last updated: 2025-12-17 00:03 UTC
 
 This file contains all tutorials-de related links from LabEx website.
 
@@ -5155,7 +5155,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [kubernetes-kubernetes-limitrange-resource-management-15819](https://labex.io/de/tutorials/kubernetes-kubernetes-limitrange-resource-management-15819) *(Last modified: 2025-12-15)*
 - [kubernetes-kubernetes-logs-command-8099](https://labex.io/de/tutorials/kubernetes-kubernetes-logs-command-8099) *(Last modified: 2025-12-15)*
 - [kubernetes-kubernetes-port-forward-command-18494](https://labex.io/de/tutorials/kubernetes-kubernetes-port-forward-command-18494) *(Last modified: 2025-12-15)*
-- [kubernetes-kubernetes-resource-quota-management-15823](https://labex.io/de/tutorials/kubernetes-kubernetes-resource-quota-management-15823) *(Last modified: 2025-12-15)*
+- [kubernetes-kubernetes-resource-quota-management-15823](https://labex.io/de/tutorials/kubernetes-kubernetes-resource-quota-management-15823) *(Last modified: 2025-12-16)*
 - [kubernetes-kubernetes-run-command-8456](https://labex.io/de/tutorials/kubernetes-kubernetes-run-command-8456) *(Last modified: 2025-12-15)*
 - [kubernetes-kubernetes-set-command-8424](https://labex.io/de/tutorials/kubernetes-kubernetes-set-command-8424) *(Last modified: 2025-12-15)*
 - [kubernetes-kubernetes-taint-command-9195](https://labex.io/de/tutorials/kubernetes-kubernetes-taint-command-9195) *(Last modified: 2025-12-15)*

@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Ru Sitemap
 
-> Last updated: 2025-12-16 00:04 UTC
+> Last updated: 2025-12-17 00:03 UTC
 
 This file contains all freelabs-ru related links from LabEx website.
 
