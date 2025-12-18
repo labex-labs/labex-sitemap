@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Zh Sitemap
 
-> Last updated: 2025-12-17 00:03 UTC
+> Last updated: 2025-12-18 00:03 UTC
 
 This file contains all courses-zh related links from LabEx website.
 
@@ -38,6 +38,7 @@ This file contains all courses-zh related links from LabEx website.
 - [docker-for-beginners](https://labex.io/zh/courses/docker-for-beginners)
 - [docker-practice-challenges](https://labex.io/zh/courses/docker-practice-challenges)
 - [docker-practice-labs](https://labex.io/zh/courses/docker-practice-labs)
+- [file-system-navigation-and-file-operations](https://labex.io/zh/courses/file-system-navigation-and-file-operations)
 - [foundations-of-deep-learning](https://labex.io/zh/courses/foundations-of-deep-learning)
 - [git-for-beginners](https://labex.io/zh/courses/git-for-beginners)
 - [github-actions-for-beginners](https://labex.io/zh/courses/github-actions-for-beginners)
@@ -60,6 +61,7 @@ This file contains all courses-zh related links from LabEx website.
 - [linux-basic-commands-practice-online](https://labex.io/zh/courses/linux-basic-commands-practice-online)
 - [linux-for-noobs](https://labex.io/zh/courses/linux-for-noobs)
 - [linux-practice-challenges](https://labex.io/zh/courses/linux-practice-challenges)
+- [linux-terminal-basics](https://labex.io/zh/courses/linux-terminal-basics)
 - [matplotlib-for-beginners](https://labex.io/zh/courses/matplotlib-for-beginners)
 - [metasploit-for-beginners](https://labex.io/zh/courses/metasploit-for-beginners)
 - [mongodb-for-beginners](https://labex.io/zh/courses/mongodb-for-beginners)
