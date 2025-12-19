@@ -4,7 +4,7 @@ layout: default
 
 # Courses-De Sitemap
 
-> Last updated: 2025-12-18 00:03 UTC
+> Last updated: 2025-12-19 00:04 UTC
 
 This file contains all courses-de related links from LabEx website.
 
@@ -494,6 +494,7 @@ This file contains all courses-de related links from LabEx website.
 - [supervised-learning-regression](https://labex.io/de/courses/supervised-learning-regression)
 - [terraform-for-beginners](https://labex.io/de/courses/terraform-for-beginners)
 - [unsupervised-learning-clustering](https://labex.io/de/courses/unsupervised-learning-clustering)
+- [viewing-searching-and-editing-files](https://labex.io/de/courses/viewing-searching-and-editing-files)
 - [web-development-interactive-challenges](https://labex.io/de/courses/web-development-interactive-challenges)
 - [web-vulnerability-mastery](https://labex.io/de/courses/web-vulnerability-mastery)
 - [wireshark-for-beginners](https://labex.io/de/courses/wireshark-for-beginners)

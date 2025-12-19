@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ko Sitemap
 
-> Last updated: 2025-12-18 00:03 UTC
+> Last updated: 2025-12-19 00:04 UTC
 
 This file contains all courses-ko related links from LabEx website.
 
@@ -494,6 +494,7 @@ This file contains all courses-ko related links from LabEx website.
 - [supervised-learning-regression](https://labex.io/ko/courses/supervised-learning-regression)
 - [terraform-for-beginners](https://labex.io/ko/courses/terraform-for-beginners)
 - [unsupervised-learning-clustering](https://labex.io/ko/courses/unsupervised-learning-clustering)
+- [viewing-searching-and-editing-files](https://labex.io/ko/courses/viewing-searching-and-editing-files)
 - [web-development-interactive-challenges](https://labex.io/ko/courses/web-development-interactive-challenges)
 - [web-vulnerability-mastery](https://labex.io/ko/courses/web-vulnerability-mastery)
 - [wireshark-for-beginners](https://labex.io/ko/courses/wireshark-for-beginners)

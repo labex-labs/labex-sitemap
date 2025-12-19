@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Pt Sitemap
 
-> Last updated: 2025-12-18 00:03 UTC
+> Last updated: 2025-12-19 00:04 UTC
 
 This file contains all courses-pt related links from LabEx website.
 
@@ -494,6 +494,7 @@ This file contains all courses-pt related links from LabEx website.
 - [supervised-learning-regression](https://labex.io/pt/courses/supervised-learning-regression)
 - [terraform-for-beginners](https://labex.io/pt/courses/terraform-for-beginners)
 - [unsupervised-learning-clustering](https://labex.io/pt/courses/unsupervised-learning-clustering)
+- [viewing-searching-and-editing-files](https://labex.io/pt/courses/viewing-searching-and-editing-files)
 - [web-development-interactive-challenges](https://labex.io/pt/courses/web-development-interactive-challenges)
 - [web-vulnerability-mastery](https://labex.io/pt/courses/web-vulnerability-mastery)
 - [wireshark-for-beginners](https://labex.io/pt/courses/wireshark-for-beginners)
