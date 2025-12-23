@@ -4,7 +4,7 @@ layout: default
 
 # Courses Sitemap
 
-> Last updated: 2025-12-22 00:03 UTC
+> Last updated: 2025-12-23 00:03 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -35,6 +35,7 @@ This file contains all courses related links from LabEx website.
 - [ctf-for-beginners](https://labex.io/courses/ctf-for-beginners)
 - [cybersecurity-analysis-with-wireshark-and-tshark](https://labex.io/courses/cybersecurity-analysis-with-wireshark-and-tshark)
 - [cybersecurity-labs-for-beginners](https://labex.io/courses/cybersecurity-labs-for-beginners)
+- [disk-filesystems-and-storage-management](https://labex.io/courses/disk-filesystems-and-storage-management)
 - [docker-for-beginners](https://labex.io/courses/docker-for-beginners)
 - [docker-practice-challenges](https://labex.io/courses/docker-practice-challenges)
 - [docker-practice-labs](https://labex.io/courses/docker-practice-labs)
@@ -60,6 +61,7 @@ This file contains all courses related links from LabEx website.
 - [kubernetes-for-noobs](https://labex.io/courses/kubernetes-for-noobs)
 - [linux-basic-commands-practice-online](https://labex.io/courses/linux-basic-commands-practice-online)
 - [linux-for-noobs](https://labex.io/courses/linux-for-noobs)
+- [linux-networking-fundamentals](https://labex.io/courses/linux-networking-fundamentals)
 - [linux-practice-challenges](https://labex.io/courses/linux-practice-challenges)
 - [linux-terminal-basics](https://labex.io/courses/linux-terminal-basics)
 - [matplotlib-for-beginners](https://labex.io/courses/matplotlib-for-beginners)
@@ -75,6 +77,7 @@ This file contains all courses related links from LabEx website.
 - [penetration-testing-for-beginners](https://labex.io/courses/penetration-testing-for-beginners)
 - [postgresql-for-beginners](https://labex.io/courses/postgresql-for-beginners)
 - [privilege-escalation-techniques-on-linux](https://labex.io/courses/privilege-escalation-techniques-on-linux)
+- [processes-and-job-control](https://labex.io/courses/processes-and-job-control)
 - [project-2048-web-game-using-jquery](https://labex.io/courses/project-2048-web-game-using-jquery)
 - [project-a-good-review-for-the-takeout](https://labex.io/courses/project-a-good-review-for-the-takeout)
 - [project-a-simple-course-database](https://labex.io/courses/project-a-simple-course-database)
@@ -486,14 +489,18 @@ This file contains all courses related links from LabEx website.
 - [rhcsa-certification-exam-practice-exercises](https://labex.io/courses/rhcsa-certification-exam-practice-exercises)
 - [scikit-learn-for-beginners](https://labex.io/courses/scikit-learn-for-beginners)
 - [seaborn-data-visualization-basics](https://labex.io/courses/seaborn-data-visualization-basics)
+- [shell-environment-and-variables](https://labex.io/courses/shell-environment-and-variables)
 - [shell-for-beginners](https://labex.io/courses/shell-for-beginners)
+- [shell-redirection-and-pipelines](https://labex.io/courses/shell-redirection-and-pipelines)
 - [sklearn-practice-challenges](https://labex.io/courses/sklearn-practice-challenges)
 - [sqlite-for-beginners](https://labex.io/courses/sqlite-for-beginners)
 - [sqlite-intermediate-to-advanced](https://labex.io/courses/sqlite-intermediate-to-advanced)
 - [supervised-learning-classification](https://labex.io/courses/supervised-learning-classification)
 - [supervised-learning-regression](https://labex.io/courses/supervised-learning-regression)
+- [system-information-and-resource-monitoring](https://labex.io/courses/system-information-and-resource-monitoring)
 - [terraform-for-beginners](https://labex.io/courses/terraform-for-beginners)
 - [unsupervised-learning-clustering](https://labex.io/courses/unsupervised-learning-clustering)
+- [users-groups-and-permissions](https://labex.io/courses/users-groups-and-permissions)
 - [viewing-searching-and-editing-files](https://labex.io/courses/viewing-searching-and-editing-files)
 - [web-development-interactive-challenges](https://labex.io/courses/web-development-interactive-challenges)
 - [web-vulnerability-mastery](https://labex.io/courses/web-vulnerability-mastery)

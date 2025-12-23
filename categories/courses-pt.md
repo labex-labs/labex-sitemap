@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Pt Sitemap
 
-> Last updated: 2025-12-22 00:03 UTC
+> Last updated: 2025-12-23 00:03 UTC
 
 This file contains all courses-pt related links from LabEx website.
 
@@ -35,6 +35,7 @@ This file contains all courses-pt related links from LabEx website.
 - [ctf-for-beginners](https://labex.io/pt/courses/ctf-for-beginners)
 - [cybersecurity-analysis-with-wireshark-and-tshark](https://labex.io/pt/courses/cybersecurity-analysis-with-wireshark-and-tshark)
 - [cybersecurity-labs-for-beginners](https://labex.io/pt/courses/cybersecurity-labs-for-beginners)
+- [disk-filesystems-and-storage-management](https://labex.io/pt/courses/disk-filesystems-and-storage-management)
 - [docker-for-beginners](https://labex.io/pt/courses/docker-for-beginners)
 - [docker-practice-challenges](https://labex.io/pt/courses/docker-practice-challenges)
 - [docker-practice-labs](https://labex.io/pt/courses/docker-practice-labs)
@@ -60,6 +61,7 @@ This file contains all courses-pt related links from LabEx website.
 - [kubernetes-for-noobs](https://labex.io/pt/courses/kubernetes-for-noobs)
 - [linux-basic-commands-practice-online](https://labex.io/pt/courses/linux-basic-commands-practice-online)
 - [linux-for-noobs](https://labex.io/pt/courses/linux-for-noobs)
+- [linux-networking-fundamentals](https://labex.io/pt/courses/linux-networking-fundamentals)
 - [linux-practice-challenges](https://labex.io/pt/courses/linux-practice-challenges)
 - [linux-terminal-basics](https://labex.io/pt/courses/linux-terminal-basics)
 - [matplotlib-for-beginners](https://labex.io/pt/courses/matplotlib-for-beginners)
@@ -75,6 +77,7 @@ This file contains all courses-pt related links from LabEx website.
 - [penetration-testing-for-beginners](https://labex.io/pt/courses/penetration-testing-for-beginners)
 - [postgresql-for-beginners](https://labex.io/pt/courses/postgresql-for-beginners)
 - [privilege-escalation-techniques-on-linux](https://labex.io/pt/courses/privilege-escalation-techniques-on-linux)
+- [processes-and-job-control](https://labex.io/pt/courses/processes-and-job-control)
 - [project-2048-web-game-using-jquery](https://labex.io/pt/courses/project-2048-web-game-using-jquery)
 - [project-a-good-review-for-the-takeout](https://labex.io/pt/courses/project-a-good-review-for-the-takeout)
 - [project-a-simple-course-database](https://labex.io/pt/courses/project-a-simple-course-database)
@@ -486,14 +489,18 @@ This file contains all courses-pt related links from LabEx website.
 - [rhcsa-certification-exam-practice-exercises](https://labex.io/pt/courses/rhcsa-certification-exam-practice-exercises)
 - [scikit-learn-for-beginners](https://labex.io/pt/courses/scikit-learn-for-beginners)
 - [seaborn-data-visualization-basics](https://labex.io/pt/courses/seaborn-data-visualization-basics)
+- [shell-environment-and-variables](https://labex.io/pt/courses/shell-environment-and-variables)
 - [shell-for-beginners](https://labex.io/pt/courses/shell-for-beginners)
+- [shell-redirection-and-pipelines](https://labex.io/pt/courses/shell-redirection-and-pipelines)
 - [sklearn-practice-challenges](https://labex.io/pt/courses/sklearn-practice-challenges)
 - [sqlite-for-beginners](https://labex.io/pt/courses/sqlite-for-beginners)
 - [sqlite-intermediate-to-advanced](https://labex.io/pt/courses/sqlite-intermediate-to-advanced)
 - [supervised-learning-classification](https://labex.io/pt/courses/supervised-learning-classification)
 - [supervised-learning-regression](https://labex.io/pt/courses/supervised-learning-regression)
+- [system-information-and-resource-monitoring](https://labex.io/pt/courses/system-information-and-resource-monitoring)
 - [terraform-for-beginners](https://labex.io/pt/courses/terraform-for-beginners)
 - [unsupervised-learning-clustering](https://labex.io/pt/courses/unsupervised-learning-clustering)
+- [users-groups-and-permissions](https://labex.io/pt/courses/users-groups-and-permissions)
 - [viewing-searching-and-editing-files](https://labex.io/pt/courses/viewing-searching-and-editing-files)
 - [web-development-interactive-challenges](https://labex.io/pt/courses/web-development-interactive-challenges)
 - [web-vulnerability-mastery](https://labex.io/pt/courses/web-vulnerability-mastery)
