@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ko Sitemap
 
-> Last updated: 2025-12-23 00:03 UTC
+> Last updated: 2025-12-24 00:03 UTC
 
 This file contains all tutorials-ko related links from LabEx website.
 
@@ -1070,7 +1070,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [comptia-monitoring-and-incident-response-log-analysis-594586](https://labex.io/ko/tutorials/comptia-monitoring-and-incident-response-log-analysis-594586) *(Last modified: 2025-12-21)*
 - [comptia-navigate-the-filesystem-in-linux-590971](https://labex.io/ko/tutorials/comptia-navigate-the-filesystem-in-linux-590971) *(Last modified: 2025-12-21)*
 - [comptia-network-traffic-analysis-and-secure-remote-access-594587](https://labex.io/ko/tutorials/comptia-network-traffic-analysis-and-secure-remote-access-594587) *(Last modified: 2025-12-21)*
-- [comptia-password-policies-and-detecting-attack-in-linux-592888](https://labex.io/ko/tutorials/comptia-password-policies-and-detecting-attack-in-linux-592888) *(Last modified: 2025-12-21)*
+- [comptia-password-policies-and-detecting-attack-in-linux-592888](https://labex.io/ko/tutorials/comptia-password-policies-and-detecting-attack-in-linux-592888) *(Last modified: 2025-12-23)*
 - [comptia-perform-ip-subnetting-and-binary-conversion-in-the-linux-terminal-592782](https://labex.io/ko/tutorials/comptia-perform-ip-subnetting-and-binary-conversion-in-the-linux-terminal-592782) *(Last modified: 2025-12-21)*
 - [comptia-perform-ipv6-dns-lookups-in-linux-592862](https://labex.io/ko/tutorials/comptia-perform-ipv6-dns-lookups-in-linux-592862) *(Last modified: 2025-12-21)*
 - [comptia-query-dns-records-in-linux-with-dig-and-nslookup-592796](https://labex.io/ko/tutorials/comptia-query-dns-records-in-linux-with-dig-and-nslookup-592796) *(Last modified: 2025-12-21)*
@@ -3248,7 +3248,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [git-operation-quantum-leap-387717](https://labex.io/ko/tutorials/git-operation-quantum-leap-387717) *(Last modified: 2025-12-21)*
 - [git-recover-the-lost-files-387781](https://labex.io/ko/tutorials/git-recover-the-lost-files-387781) *(Last modified: 2025-12-21)*
 - [git-resolving-cannot-delete-branch-checked-out-error-in-git-411666](https://labex.io/ko/tutorials/git-resolving-cannot-delete-branch-checked-out-error-in-git-411666) *(Last modified: 2025-12-21)*
-- [git-rewriting-history-387746](https://labex.io/ko/tutorials/git-rewriting-history-387746) *(Last modified: 2025-12-21)*
+- [git-rewriting-history-387746](https://labex.io/ko/tutorials/git-rewriting-history-387746) *(Last modified: 2025-12-23)*
 - [git-saving-work-in-progress-387492](https://labex.io/ko/tutorials/git-saving-work-in-progress-387492) *(Last modified: 2025-12-21)*
 - [git-tagging-your-project-s-history-387763](https://labex.io/ko/tutorials/git-tagging-your-project-s-history-387763) *(Last modified: 2025-12-21)*
 - [git-the-time-traveler-s-dilemma-387733](https://labex.io/ko/tutorials/git-the-time-traveler-s-dilemma-387733) *(Last modified: 2025-12-21)*
