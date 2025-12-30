@@ -6,21 +6,21 @@ layout: default
 
 [LabEx](https://labex.io) is a hands-on learning platform for Linux, DevOps, and Cybersecurity. Learn by doing with guided labs, courses, and tutorials. Get started for free!
 
-> Last updated: 2025-12-29 00:03 UTC
+> Last updated: 2025-12-30 00:04 UTC
 
 This repository maintains an auto-updated list of LabEx website sitemaps.
 
 ## Categories
 
-- [Courses](categories/courses.md) (544 links)
-- [Courses-De](categories/courses-de.md) (511 links)
-- [Courses-Es](categories/courses-es.md) (544 links)
-- [Courses-Fr](categories/courses-fr.md) (544 links)
-- [Courses-Ja](categories/courses-ja.md) (544 links)
-- [Courses-Ko](categories/courses-ko.md) (511 links)
-- [Courses-Pt](categories/courses-pt.md) (544 links)
-- [Courses-Ru](categories/courses-ru.md) (544 links)
-- [Courses-Zh](categories/courses-zh.md) (544 links)
+- [Courses](categories/courses.md) (501 links)
+- [Courses-De](categories/courses-de.md) (501 links)
+- [Courses-Es](categories/courses-es.md) (501 links)
+- [Courses-Fr](categories/courses-fr.md) (501 links)
+- [Courses-Ja](categories/courses-ja.md) (501 links)
+- [Courses-Ko](categories/courses-ko.md) (501 links)
+- [Courses-Pt](categories/courses-pt.md) (501 links)
+- [Courses-Ru](categories/courses-ru.md) (501 links)
+- [Courses-Zh](categories/courses-zh.md) (501 links)
 - [Exercises](categories/exercises.md) (36 links)
 - [Exercises-De](categories/exercises-de.md) (36 links)
 - [Exercises-Es](categories/exercises-es.md) (36 links)
@@ -70,4 +70,4 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Tutorials-Ru](categories/tutorials-ru.md) (9133 links)
 - [Tutorials-Zh](categories/tutorials-zh.md) (15992 links)
 
-> **Total Links: 123249**
+> **Total Links: 122928**

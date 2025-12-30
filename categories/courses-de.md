@@ -4,7 +4,7 @@ layout: default
 
 # Courses-De Sitemap
 
-> Last updated: 2025-12-29 00:03 UTC
+> Last updated: 2025-12-30 00:04 UTC
 
 This file contains all courses-de related links from LabEx website.
 
@@ -35,11 +35,9 @@ This file contains all courses-de related links from LabEx website.
 - [ctf-for-beginners](https://labex.io/de/courses/ctf-for-beginners)
 - [cybersecurity-analysis-with-wireshark-and-tshark](https://labex.io/de/courses/cybersecurity-analysis-with-wireshark-and-tshark)
 - [cybersecurity-labs-for-beginners](https://labex.io/de/courses/cybersecurity-labs-for-beginners)
-- [disk-filesystems-and-storage-management](https://labex.io/de/courses/disk-filesystems-and-storage-management)
 - [docker-for-beginners](https://labex.io/de/courses/docker-for-beginners)
 - [docker-practice-challenges](https://labex.io/de/courses/docker-practice-challenges)
 - [docker-practice-labs](https://labex.io/de/courses/docker-practice-labs)
-- [file-system-navigation-and-file-operations](https://labex.io/de/courses/file-system-navigation-and-file-operations)
 - [foundations-of-deep-learning](https://labex.io/de/courses/foundations-of-deep-learning)
 - [git-for-beginners](https://labex.io/de/courses/git-for-beginners)
 - [github-actions-for-beginners](https://labex.io/de/courses/github-actions-for-beginners)
@@ -61,9 +59,7 @@ This file contains all courses-de related links from LabEx website.
 - [kubernetes-for-noobs](https://labex.io/de/courses/kubernetes-for-noobs)
 - [linux-basic-commands-practice-online](https://labex.io/de/courses/linux-basic-commands-practice-online)
 - [linux-for-noobs](https://labex.io/de/courses/linux-for-noobs)
-- [linux-networking-fundamentals](https://labex.io/de/courses/linux-networking-fundamentals)
 - [linux-practice-challenges](https://labex.io/de/courses/linux-practice-challenges)
-- [linux-terminal-basics](https://labex.io/de/courses/linux-terminal-basics)
 - [matplotlib-for-beginners](https://labex.io/de/courses/matplotlib-for-beginners)
 - [metasploit-for-beginners](https://labex.io/de/courses/metasploit-for-beginners)
 - [mongodb-for-beginners](https://labex.io/de/courses/mongodb-for-beginners)
@@ -77,7 +73,6 @@ This file contains all courses-de related links from LabEx website.
 - [penetration-testing-for-beginners](https://labex.io/de/courses/penetration-testing-for-beginners)
 - [postgresql-for-beginners](https://labex.io/de/courses/postgresql-for-beginners)
 - [privilege-escalation-techniques-on-linux](https://labex.io/de/courses/privilege-escalation-techniques-on-linux)
-- [processes-and-job-control](https://labex.io/de/courses/processes-and-job-control)
 - [project-2048-web-game-using-jquery](https://labex.io/de/courses/project-2048-web-game-using-jquery)
 - [project-a-good-review-for-the-takeout](https://labex.io/de/courses/project-a-good-review-for-the-takeout)
 - [project-a-simple-course-database](https://labex.io/de/courses/project-a-simple-course-database)
@@ -489,19 +484,14 @@ This file contains all courses-de related links from LabEx website.
 - [rhcsa-certification-exam-practice-exercises](https://labex.io/de/courses/rhcsa-certification-exam-practice-exercises)
 - [scikit-learn-for-beginners](https://labex.io/de/courses/scikit-learn-for-beginners)
 - [seaborn-data-visualization-basics](https://labex.io/de/courses/seaborn-data-visualization-basics)
-- [shell-environment-and-variables](https://labex.io/de/courses/shell-environment-and-variables)
 - [shell-for-beginners](https://labex.io/de/courses/shell-for-beginners)
-- [shell-redirection-and-pipelines](https://labex.io/de/courses/shell-redirection-and-pipelines)
 - [sklearn-practice-challenges](https://labex.io/de/courses/sklearn-practice-challenges)
 - [sqlite-for-beginners](https://labex.io/de/courses/sqlite-for-beginners)
 - [sqlite-intermediate-to-advanced](https://labex.io/de/courses/sqlite-intermediate-to-advanced)
 - [supervised-learning-classification](https://labex.io/de/courses/supervised-learning-classification)
 - [supervised-learning-regression](https://labex.io/de/courses/supervised-learning-regression)
-- [system-information-and-resource-monitoring](https://labex.io/de/courses/system-information-and-resource-monitoring)
 - [terraform-for-beginners](https://labex.io/de/courses/terraform-for-beginners)
 - [unsupervised-learning-clustering](https://labex.io/de/courses/unsupervised-learning-clustering)
-- [users-groups-and-permissions](https://labex.io/de/courses/users-groups-and-permissions)
-- [viewing-searching-and-editing-files](https://labex.io/de/courses/viewing-searching-and-editing-files)
 - [web-development-interactive-challenges](https://labex.io/de/courses/web-development-interactive-challenges)
 - [web-vulnerability-mastery](https://labex.io/de/courses/web-vulnerability-mastery)
 - [wireshark-for-beginners](https://labex.io/de/courses/wireshark-for-beginners)
