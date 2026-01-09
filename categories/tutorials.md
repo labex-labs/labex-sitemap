@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2026-01-08 00:02 UTC
+> Last updated: 2026-01-09 00:03 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -8212,7 +8212,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-basic-public-key-infrastructure-pki-in-cryptography-632757](https://labex.io/tutorials/linux-basic-public-key-infrastructure-pki-in-cryptography-632757) *(Last modified: 2026-01-07)*
 - [linux-becoming-a-skilled-linux-system-administrator-392891](https://labex.io/tutorials/linux-becoming-a-skilled-linux-system-administrator-392891) *(Last modified: 2025-10-11)*
 - [linux-beginner-s-tutorial-extracting-zip-files-on-linux-392961](https://labex.io/tutorials/linux-beginner-s-tutorial-extracting-zip-files-on-linux-392961) *(Last modified: 2025-10-11)*
-- [linux-build-a-backdoor-in-netcat-549927](https://labex.io/tutorials/linux-build-a-backdoor-in-netcat-549927) *(Last modified: 2026-01-07)*
+- [linux-build-a-backdoor-in-netcat-549927](https://labex.io/tutorials/linux-build-a-backdoor-in-netcat-549927) *(Last modified: 2026-01-08)*
 - [linux-build-a-linux-system-monitor-using-bash-298845](https://labex.io/tutorials/linux-build-a-linux-system-monitor-using-bash-298845) *(Last modified: 2026-01-07)*
 - [linux-build-a-task-scheduler-using-bash-298846](https://labex.io/tutorials/linux-build-a-task-scheduler-using-bash-298846) *(Last modified: 2026-01-07)*
 - [linux-build-linux-system-skills-from-scratch-395001](https://labex.io/tutorials/linux-build-linux-system-skills-from-scratch-395001) *(Last modified: 2025-10-11)*

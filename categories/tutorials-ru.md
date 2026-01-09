@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ru Sitemap
 
-> Last updated: 2026-01-08 00:02 UTC
+> Last updated: 2026-01-09 00:03 UTC
 
 This file contains all tutorials-ru related links from LabEx website.
 
@@ -5226,7 +5226,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-basic-files-operations-270248](https://labex.io/ru/tutorials/linux-basic-files-operations-270248) *(Last modified: 2026-01-07)*
 - [linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720](https://labex.io/ru/tutorials/linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720) *(Last modified: 2026-01-07)*
 - [linux-basic-public-key-infrastructure-pki-in-cryptography-632757](https://labex.io/ru/tutorials/linux-basic-public-key-infrastructure-pki-in-cryptography-632757) *(Last modified: 2026-01-07)*
-- [linux-build-a-backdoor-in-netcat-549927](https://labex.io/ru/tutorials/linux-build-a-backdoor-in-netcat-549927) *(Last modified: 2026-01-07)*
+- [linux-build-a-backdoor-in-netcat-549927](https://labex.io/ru/tutorials/linux-build-a-backdoor-in-netcat-549927) *(Last modified: 2026-01-08)*
 - [linux-build-a-linux-system-monitor-using-bash-298845](https://labex.io/ru/tutorials/linux-build-a-linux-system-monitor-using-bash-298845) *(Last modified: 2026-01-07)*
 - [linux-build-a-task-scheduler-using-bash-298846](https://labex.io/ru/tutorials/linux-build-a-task-scheduler-using-bash-298846) *(Last modified: 2026-01-07)*
 - [linux-changing-the-error-log-location-301294](https://labex.io/ru/tutorials/linux-changing-the-error-log-location-301294) *(Last modified: 2025-10-11)*
