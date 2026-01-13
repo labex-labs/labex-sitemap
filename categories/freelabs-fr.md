@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Fr Sitemap
 
-> Last updated: 2026-01-12 00:03 UTC
+> Last updated: 2026-01-13 00:03 UTC
 
 This file contains all freelabs-fr related links from LabEx website.
 
