@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ja Sitemap
 
-> Last updated: 2026-01-21 00:03 UTC
+> Last updated: 2026-01-22 00:04 UTC
 
 This file contains all tutorials-ja related links from LabEx website.
 
@@ -1022,7 +1022,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [comptia-applying-security-baselines-and-compliance-controls-594580](https://labex.io/ja/tutorials/comptia-applying-security-baselines-and-compliance-controls-594580) *(Last modified: 2026-01-19)*
 - [comptia-basic-vulnerability-scanning-with-nmap-594554](https://labex.io/ja/tutorials/comptia-basic-vulnerability-scanning-with-nmap-594554) *(Last modified: 2026-01-19)*
 - [comptia-block-icmp-traffic-in-linux-using-iptables-590852](https://labex.io/ja/tutorials/comptia-block-icmp-traffic-in-linux-using-iptables-590852) *(Last modified: 2026-01-19)*
-- [comptia-build-software-from-source-code-in-linux-590853](https://labex.io/ja/tutorials/comptia-build-software-from-source-code-in-linux-590853) *(Last modified: 2026-01-19)*
+- [comptia-build-software-from-source-code-in-linux-590853](https://labex.io/ja/tutorials/comptia-build-software-from-source-code-in-linux-590853) *(Last modified: 2026-01-21)*
 - [comptia-configure-an-ipv4-to-ipv6-6to4-tunnel-in-linux-592867](https://labex.io/ja/tutorials/comptia-configure-an-ipv4-to-ipv6-6to4-tunnel-in-linux-592867) *(Last modified: 2026-01-19)*
 - [comptia-configure-and-verify-ipv6-addresses-in-linux-592858](https://labex.io/ja/tutorials/comptia-configure-and-verify-ipv6-addresses-in-linux-592858) *(Last modified: 2026-01-19)*
 - [comptia-configure-firewalld-to-allow-web-traffic-in-linux-590854](https://labex.io/ja/tutorials/comptia-configure-firewalld-to-allow-web-traffic-in-linux-590854) *(Last modified: 2026-01-19)*
@@ -3124,10 +3124,10 @@ This file contains all tutorials-ja related links from LabEx website.
 - [git-git-reset-and-reflog-387491](https://labex.io/ja/tutorials/git-git-reset-and-reflog-387491) *(Last modified: 2026-01-19)*
 - [git-git-switch-vs-git-checkout-391555](https://labex.io/ja/tutorials/git-git-switch-vs-git-checkout-391555) *(Last modified: 2026-01-19)*
 - [git-git-time-detective-387782](https://labex.io/ja/tutorials/git-git-time-detective-387782) *(Last modified: 2026-01-19)*
-- [git-github-actions-introduction-and-setup-633882](https://labex.io/ja/tutorials/git-github-actions-introduction-and-setup-633882) *(Last modified: 2026-01-19)*
-- [git-github-actions-job-dependencies-634768](https://labex.io/ja/tutorials/git-github-actions-job-dependencies-634768) *(Last modified: 2026-01-19)*
-- [git-github-actions-matrix-builds-634769](https://labex.io/ja/tutorials/git-github-actions-matrix-builds-634769) *(Last modified: 2026-01-19)*
-- [git-github-actions-uploading-build-artifacts-634770](https://labex.io/ja/tutorials/git-github-actions-uploading-build-artifacts-634770) *(Last modified: 2026-01-19)*
+- [git-github-actions-introduction-and-setup-633882](https://labex.io/ja/tutorials/git-github-actions-introduction-and-setup-633882) *(Last modified: 2026-01-21)*
+- [git-github-actions-job-dependencies-634768](https://labex.io/ja/tutorials/git-github-actions-job-dependencies-634768) *(Last modified: 2026-01-21)*
+- [git-github-actions-matrix-builds-634769](https://labex.io/ja/tutorials/git-github-actions-matrix-builds-634769) *(Last modified: 2026-01-21)*
+- [git-github-actions-uploading-build-artifacts-634770](https://labex.io/ja/tutorials/git-github-actions-uploading-build-artifacts-634770) *(Last modified: 2026-01-21)*
 - [git-how-the-git-pull-command-updates-your-local-repository-395007](https://labex.io/ja/tutorials/git-how-the-git-pull-command-updates-your-local-repository-395007) *(Last modified: 2025-10-11)*
 - [git-how-to-address-error-unable-to-create-temporary-file-issue-in-git-417547](https://labex.io/ja/tutorials/git-how-to-address-error-unable-to-create-temporary-file-issue-in-git-417547) *(Last modified: 2025-10-11)*
 - [git-how-to-address-error-your-local-changes-would-be-overwritten-by-merge-in-git-417548](https://labex.io/ja/tutorials/git-how-to-address-error-your-local-changes-would-be-overwritten-by-merge-in-git-417548) *(Last modified: 2026-01-19)*
@@ -3358,12 +3358,12 @@ This file contains all tutorials-ja related links from LabEx website.
 - [git-understanding-the-git-merge-no-fast-forward-approach-411661](https://labex.io/ja/tutorials/git-understanding-the-git-merge-no-fast-forward-approach-411661) *(Last modified: 2025-10-11)*
 - [git-working-with-files-and-staging-area-387457](https://labex.io/ja/tutorials/git-working-with-files-and-staging-area-387457) *(Last modified: 2026-01-19)*
 - [git-your-first-git-lab-92739](https://labex.io/ja/tutorials/git-your-first-git-lab-92739) *(Last modified: 2026-01-19)*
-- [github-actions-adding-environment-variables-633885](https://labex.io/ja/tutorials/github-actions-adding-environment-variables-633885) *(Last modified: 2026-01-19)*
-- [github-actions-basic-build-and-test-633886](https://labex.io/ja/tutorials/github-actions-basic-build-and-test-633886) *(Last modified: 2026-01-19)*
-- [github-actions-first-workflow-creation-633887](https://labex.io/ja/tutorials/github-actions-first-workflow-creation-633887) *(Last modified: 2026-01-19)*
-- [github-actions-running-simple-commands-633888](https://labex.io/ja/tutorials/github-actions-running-simple-commands-633888) *(Last modified: 2026-01-19)*
-- [github-actions-setting-up-secrets-633889](https://labex.io/ja/tutorials/github-actions-setting-up-secrets-633889) *(Last modified: 2026-01-19)*
-- [github-actions-using-checkout-action-633890](https://labex.io/ja/tutorials/github-actions-using-checkout-action-633890) *(Last modified: 2026-01-19)*
+- [github-actions-adding-environment-variables-633885](https://labex.io/ja/tutorials/github-actions-adding-environment-variables-633885) *(Last modified: 2026-01-21)*
+- [github-actions-basic-build-and-test-633886](https://labex.io/ja/tutorials/github-actions-basic-build-and-test-633886) *(Last modified: 2026-01-21)*
+- [github-actions-first-workflow-creation-633887](https://labex.io/ja/tutorials/github-actions-first-workflow-creation-633887) *(Last modified: 2026-01-21)*
+- [github-actions-running-simple-commands-633888](https://labex.io/ja/tutorials/github-actions-running-simple-commands-633888) *(Last modified: 2026-01-21)*
+- [github-actions-setting-up-secrets-633889](https://labex.io/ja/tutorials/github-actions-setting-up-secrets-633889) *(Last modified: 2026-01-21)*
+- [github-actions-using-checkout-action-633890](https://labex.io/ja/tutorials/github-actions-using-checkout-action-633890) *(Last modified: 2026-01-21)*
 - [go-anonymous-functions-in-golang-149099](https://labex.io/ja/tutorials/go-anonymous-functions-in-golang-149099) *(Last modified: 2026-01-19)*
 - [go-array-operations-in-golang-149075](https://labex.io/ja/tutorials/go-array-operations-in-golang-149075) *(Last modified: 2026-01-19)*
 - [go-basics-value-types-exploration-15526](https://labex.io/ja/tutorials/go-basics-value-types-exploration-15526) *(Last modified: 2026-01-19)*
@@ -5238,7 +5238,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [linux-configure-development-environment-385293](https://labex.io/ja/tutorials/linux-configure-development-environment-385293) *(Last modified: 2026-01-19)*
 - [linux-configure-linux-environment-variables-437861](https://labex.io/ja/tutorials/linux-configure-linux-environment-variables-437861) *(Last modified: 2026-01-19)*
 - [linux-configuring-ssh-certificates-for-secure-login-301461](https://labex.io/ja/tutorials/linux-configuring-ssh-certificates-for-secure-login-301461) *(Last modified: 2025-10-11)*
-- [linux-configuring-storage-devices-632793](https://labex.io/ja/tutorials/linux-configuring-storage-devices-632793) *(Last modified: 2026-01-19)*
+- [linux-configuring-storage-devices-632793](https://labex.io/ja/tutorials/linux-configuring-storage-devices-632793) *(Last modified: 2026-01-21)*
 - [linux-configuring-wireless-connections-632794](https://labex.io/ja/tutorials/linux-configuring-wireless-connections-632794) *(Last modified: 2026-01-19)*
 - [linux-connect-to-a-remote-linux-server-using-ssh-590857](https://labex.io/ja/tutorials/linux-connect-to-a-remote-linux-server-using-ssh-590857) *(Last modified: 2026-01-19)*
 - [linux-connect-to-remote-34](https://labex.io/ja/tutorials/linux-connect-to-remote-34) *(Last modified: 2026-01-19)*
@@ -7197,8 +7197,8 @@ This file contains all tutorials-ja related links from LabEx website.
 - [pylab-with-gtk3-sgskip-48885](https://labex.io/ja/tutorials/pylab-with-gtk3-sgskip-48885) *(Last modified: 2026-01-19)*
 - [pylab-with-gtk4-sgskip-48886](https://labex.io/ja/tutorials/pylab-with-gtk4-sgskip-48886) *(Last modified: 2026-01-19)*
 - [python-acrostic-poetry-decryption-in-python-302717](https://labex.io/ja/tutorials/python-acrostic-poetry-decryption-in-python-302717) *(Last modified: 2025-10-11)*
-- [python-add-comments-in-python-585756](https://labex.io/ja/tutorials/python-add-comments-in-python-585756) *(Last modified: 2026-01-19)*
-- [python-apply-pep-8-code-style-in-python-585757](https://labex.io/ja/tutorials/python-apply-pep-8-code-style-in-python-585757) *(Last modified: 2026-01-19)*
+- [python-add-comments-in-python-585756](https://labex.io/ja/tutorials/python-add-comments-in-python-585756) *(Last modified: 2026-01-21)*
+- [python-apply-pep-8-code-style-in-python-585757](https://labex.io/ja/tutorials/python-apply-pep-8-code-style-in-python-585757) *(Last modified: 2026-01-21)*
 - [python-area-of-a-circle-302687](https://labex.io/ja/tutorials/python-area-of-a-circle-302687) *(Last modified: 2025-10-11)*
 - [python-ascii-art-animation-with-opencv-298850](https://labex.io/ja/tutorials/python-ascii-art-animation-with-opencv-298850) *(Last modified: 2026-01-19)*
 - [python-automatic-registration-of-subclasses-302689](https://labex.io/ja/tutorials/python-automatic-registration-of-subclasses-302689) *(Last modified: 2025-10-11)*
@@ -7246,17 +7246,17 @@ This file contains all tutorials-ja related links from LabEx website.
 - [python-date-and-time-manipulation-13613](https://labex.io/ja/tutorials/python-date-and-time-manipulation-13613) *(Last modified: 2026-01-19)*
 - [python-dates-and-times-75](https://labex.io/ja/tutorials/python-dates-and-times-75) *(Last modified: 2026-01-19)*
 - [python-decrypting-the-triangle-cipher-302719](https://labex.io/ja/tutorials/python-decrypting-the-triangle-cipher-302719) *(Last modified: 2025-10-11)*
-- [python-define-and-use-functions-in-python-585759](https://labex.io/ja/tutorials/python-define-and-use-functions-in-python-585759) *(Last modified: 2026-01-19)*
+- [python-define-and-use-functions-in-python-585759](https://labex.io/ja/tutorials/python-define-and-use-functions-in-python-585759) *(Last modified: 2026-01-21)*
 - [python-define-classes-and-objects-in-python-585760](https://labex.io/ja/tutorials/python-define-classes-and-objects-in-python-585760) *(Last modified: 2026-01-19)*
 - [python-detect-flappy-bird-in-video-using-opencv-298881](https://labex.io/ja/tutorials/python-detect-flappy-bird-in-video-using-opencv-298881) *(Last modified: 2026-01-19)*
 - [python-dictionaries-key-value-pairs-13740](https://labex.io/ja/tutorials/python-dictionaries-key-value-pairs-13740) *(Last modified: 2026-01-19)*
 - [python-divide-dataset-into-mini-batches-300212](https://labex.io/ja/tutorials/python-divide-dataset-into-mini-batches-300212) *(Last modified: 2025-10-11)*
-- [python-documenting-python-functions-with-docstrings-585761](https://labex.io/ja/tutorials/python-documenting-python-functions-with-docstrings-585761) *(Last modified: 2026-01-19)*
+- [python-documenting-python-functions-with-docstrings-585761](https://labex.io/ja/tutorials/python-documenting-python-functions-with-docstrings-585761) *(Last modified: 2026-01-21)*
 - [python-early-stopping-for-machine-learning-300214](https://labex.io/ja/tutorials/python-early-stopping-for-machine-learning-300214) *(Last modified: 2025-10-11)*
 - [python-easy-to-use-threading-7839](https://labex.io/ja/tutorials/python-easy-to-use-threading-7839) *(Last modified: 2026-01-19)*
 - [python-encoding-label-to-one-hot-300216](https://labex.io/ja/tutorials/python-encoding-label-to-one-hot-300216) *(Last modified: 2025-10-11)*
-- [python-explore-python-development-tools-585762](https://labex.io/ja/tutorials/python-explore-python-development-tools-585762) *(Last modified: 2026-01-19)*
-- [python-explore-special-methods-in-python-classes-585763](https://labex.io/ja/tutorials/python-explore-special-methods-in-python-classes-585763) *(Last modified: 2026-01-19)*
+- [python-explore-python-development-tools-585762](https://labex.io/ja/tutorials/python-explore-python-development-tools-585762) *(Last modified: 2026-01-21)*
+- [python-explore-special-methods-in-python-classes-585763](https://labex.io/ja/tutorials/python-explore-special-methods-in-python-classes-585763) *(Last modified: 2026-01-21)*
 - [python-exploring-ipython-s-interactive-computing-features-83](https://labex.io/ja/tutorials/python-exploring-ipython-s-interactive-computing-features-83) *(Last modified: 2026-01-19)*
 - [python-exploring-python-comments-in-magical-forest-271530](https://labex.io/ja/tutorials/python-exploring-python-comments-in-magical-forest-271530) *(Last modified: 2025-10-11)*
 - [python-exploring-python-s-built-in-math-functions-87](https://labex.io/ja/tutorials/python-exploring-python-s-built-in-math-functions-87) *(Last modified: 2026-01-19)*
@@ -7277,8 +7277,8 @@ This file contains all tutorials-ja related links from LabEx website.
 - [python-generating-a-battle-report-302731](https://labex.io/ja/tutorials/python-generating-a-battle-report-302731) *(Last modified: 2025-10-11)*
 - [python-gravitational-simulation-of-earth-and-super-jupiter-298885](https://labex.io/ja/tutorials/python-gravitational-simulation-of-earth-and-super-jupiter-298885) *(Last modified: 2026-01-19)*
 - [python-grouping-employees-by-phone-number-302756](https://labex.io/ja/tutorials/python-grouping-employees-by-phone-number-302756) *(Last modified: 2025-10-11)*
-- [python-handle-exceptions-with-try-except-in-python-585764](https://labex.io/ja/tutorials/python-handle-exceptions-with-try-except-in-python-585764) *(Last modified: 2026-01-19)*
-- [python-handle-input-and-output-in-python-585765](https://labex.io/ja/tutorials/python-handle-input-and-output-in-python-585765) *(Last modified: 2026-01-19)*
+- [python-handle-exceptions-with-try-except-in-python-585764](https://labex.io/ja/tutorials/python-handle-exceptions-with-try-except-in-python-585764) *(Last modified: 2026-01-21)*
+- [python-handle-input-and-output-in-python-585765](https://labex.io/ja/tutorials/python-handle-input-and-output-in-python-585765) *(Last modified: 2026-01-21)*
 - [python-handling-dates-in-any-year-302733](https://labex.io/ja/tutorials/python-handling-dates-in-any-year-302733) *(Last modified: 2025-10-11)*
 - [python-handling-python-syntax-errors-and-exceptions-80](https://labex.io/ja/tutorials/python-handling-python-syntax-errors-and-exceptions-80) *(Last modified: 2026-01-19)*
 - [python-how-to-access-and-modify-attributes-of-a-python-object-395033](https://labex.io/ja/tutorials/python-how-to-access-and-modify-attributes-of-a-python-object-395033) *(Last modified: 2026-01-19)*
@@ -7822,15 +7822,15 @@ This file contains all tutorials-ja related links from LabEx website.
 - [python-implementing-column-permutation-encryption-in-python-302705](https://labex.io/ja/tutorials/python-implementing-column-permutation-encryption-in-python-302705) *(Last modified: 2025-10-11)*
 - [python-implementing-minkowski-distance-metric-373572](https://labex.io/ja/tutorials/python-implementing-minkowski-distance-metric-373572) *(Last modified: 2025-10-11)*
 - [python-implementing-rail-fence-cipher-in-python-302758](https://labex.io/ja/tutorials/python-implementing-rail-fence-cipher-in-python-302758) *(Last modified: 2025-10-11)*
-- [python-import-modules-and-packages-in-python-585766](https://labex.io/ja/tutorials/python-import-modules-and-packages-in-python-585766) *(Last modified: 2026-01-19)*
+- [python-import-modules-and-packages-in-python-585766](https://labex.io/ja/tutorials/python-import-modules-and-packages-in-python-585766) *(Last modified: 2026-01-21)*
 - [python-iterator-and-generator-84](https://labex.io/ja/tutorials/python-iterator-and-generator-84) *(Last modified: 2026-01-19)*
 - [python-k-nearest-neighbors-regression-algorithm-implementation-300234](https://labex.io/ja/tutorials/python-k-nearest-neighbors-regression-algorithm-implementation-300234) *(Last modified: 2025-10-11)*
 - [python-leap-year-or-common-year-302741](https://labex.io/ja/tutorials/python-leap-year-or-common-year-302741) *(Last modified: 2025-10-11)*
 - [python-linux-system-monitor-using-tkinter-298891](https://labex.io/ja/tutorials/python-linux-system-monitor-using-tkinter-298891) *(Last modified: 2026-01-19)*
 - [python-list-comprehension-comparison-13714](https://labex.io/ja/tutorials/python-list-comprehension-comparison-13714) *(Last modified: 2026-01-19)*
-- [python-manage-dictionaries-in-python-585767](https://labex.io/ja/tutorials/python-manage-dictionaries-in-python-585767) *(Last modified: 2026-01-19)*
+- [python-manage-dictionaries-in-python-585767](https://labex.io/ja/tutorials/python-manage-dictionaries-in-python-585767) *(Last modified: 2026-01-21)*
 - [python-managing-specific-dates-in-a-year-302743](https://labex.io/ja/tutorials/python-managing-specific-dates-in-a-year-302743) *(Last modified: 2025-10-11)*
-- [python-manipulate-lists-in-python-585768](https://labex.io/ja/tutorials/python-manipulate-lists-in-python-585768) *(Last modified: 2026-01-19)*
+- [python-manipulate-lists-in-python-585768](https://labex.io/ja/tutorials/python-manipulate-lists-in-python-585768) *(Last modified: 2026-01-21)*
 - [python-manipulating-python-lists-fundamentals-64](https://labex.io/ja/tutorials/python-manipulating-python-lists-fundamentals-64) *(Last modified: 2026-01-19)*
 - [python-matplotlib-histogram-tutorial-48770](https://labex.io/ja/tutorials/python-matplotlib-histogram-tutorial-48770) *(Last modified: 2026-01-19)*
 - [python-matplotlib-image-layering-tutorial-48799](https://labex.io/ja/tutorials/python-matplotlib-image-layering-tutorial-48799) *(Last modified: 2026-01-19)*
@@ -7977,21 +7977,21 @@ This file contains all tutorials-ja related links from LabEx website.
 - [python-time-travel-destination-calculator-302782](https://labex.io/ja/tutorials/python-time-travel-destination-calculator-302782) *(Last modified: 2025-10-11)*
 - [python-understand-and-use-tuples-in-python-585769](https://labex.io/ja/tutorials/python-understand-and-use-tuples-in-python-585769) *(Last modified: 2026-01-19)*
 - [python-understand-character-encoding-in-python-585770](https://labex.io/ja/tutorials/python-understand-character-encoding-in-python-585770) *(Last modified: 2026-01-19)*
-- [python-understand-class-features-in-python-585771](https://labex.io/ja/tutorials/python-understand-class-features-in-python-585771) *(Last modified: 2026-01-19)*
-- [python-understand-decorators-in-python-585772](https://labex.io/ja/tutorials/python-understand-decorators-in-python-585772) *(Last modified: 2026-01-19)*
-- [python-understand-errors-and-exceptions-in-python-585773](https://labex.io/ja/tutorials/python-understand-errors-and-exceptions-in-python-585773) *(Last modified: 2026-01-19)*
-- [python-understand-function-parameters-in-python-585774](https://labex.io/ja/tutorials/python-understand-function-parameters-in-python-585774) *(Last modified: 2026-01-19)*
-- [python-understand-function-return-values-and-scope-in-python-585775](https://labex.io/ja/tutorials/python-understand-function-return-values-and-scope-in-python-585775) *(Last modified: 2026-01-19)*
+- [python-understand-class-features-in-python-585771](https://labex.io/ja/tutorials/python-understand-class-features-in-python-585771) *(Last modified: 2026-01-21)*
+- [python-understand-decorators-in-python-585772](https://labex.io/ja/tutorials/python-understand-decorators-in-python-585772) *(Last modified: 2026-01-21)*
+- [python-understand-errors-and-exceptions-in-python-585773](https://labex.io/ja/tutorials/python-understand-errors-and-exceptions-in-python-585773) *(Last modified: 2026-01-21)*
+- [python-understand-function-parameters-in-python-585774](https://labex.io/ja/tutorials/python-understand-function-parameters-in-python-585774) *(Last modified: 2026-01-21)*
+- [python-understand-function-return-values-and-scope-in-python-585775](https://labex.io/ja/tutorials/python-understand-function-return-values-and-scope-in-python-585775) *(Last modified: 2026-01-21)*
 - [python-understand-identifiers-in-python-585776](https://labex.io/ja/tutorials/python-understand-identifiers-in-python-585776) *(Last modified: 2026-01-19)*
-- [python-understand-keywords-and-built-in-identifiers-in-python-585777](https://labex.io/ja/tutorials/python-understand-keywords-and-built-in-identifiers-in-python-585777) *(Last modified: 2026-01-19)*
-- [python-understand-loops-in-python-585778](https://labex.io/ja/tutorials/python-understand-loops-in-python-585778) *(Last modified: 2026-01-19)*
-- [python-understand-number-types-and-operations-in-python-585779](https://labex.io/ja/tutorials/python-understand-number-types-and-operations-in-python-585779) *(Last modified: 2026-01-19)*
+- [python-understand-keywords-and-built-in-identifiers-in-python-585777](https://labex.io/ja/tutorials/python-understand-keywords-and-built-in-identifiers-in-python-585777) *(Last modified: 2026-01-21)*
+- [python-understand-loops-in-python-585778](https://labex.io/ja/tutorials/python-understand-loops-in-python-585778) *(Last modified: 2026-01-21)*
+- [python-understand-number-types-and-operations-in-python-585779](https://labex.io/ja/tutorials/python-understand-number-types-and-operations-in-python-585779) *(Last modified: 2026-01-21)*
 - [python-understand-operator-precedence-in-python-585780](https://labex.io/ja/tutorials/python-understand-operator-precedence-in-python-585780) *(Last modified: 2026-01-19)*
-- [python-understand-operators-in-python-585781](https://labex.io/ja/tutorials/python-understand-operators-in-python-585781) *(Last modified: 2026-01-19)*
+- [python-understand-operators-in-python-585781](https://labex.io/ja/tutorials/python-understand-operators-in-python-585781) *(Last modified: 2026-01-21)*
 - [python-unique-character-sorting-in-python-302760](https://labex.io/ja/tutorials/python-unique-character-sorting-in-python-302760) *(Last modified: 2025-10-11)*
 - [python-unittest-module-132508](https://labex.io/ja/tutorials/python-unittest-module-132508) *(Last modified: 2026-01-19)*
 - [python-unlocking-ancient-computing-with-python-booleans-271521](https://labex.io/ja/tutorials/python-unlocking-ancient-computing-with-python-booleans-271521) *(Last modified: 2025-10-11)*
-- [python-use-lambda-functions-in-python-585782](https://labex.io/ja/tutorials/python-use-lambda-functions-in-python-585782) *(Last modified: 2026-01-19)*
+- [python-use-lambda-functions-in-python-585782](https://labex.io/ja/tutorials/python-use-lambda-functions-in-python-585782) *(Last modified: 2026-01-21)*
 - [python-use-vs-code-for-python-development-585783](https://labex.io/ja/tutorials/python-use-vs-code-for-python-development-585783) *(Last modified: 2026-01-19)*
 - [python-variable-type-conversion-95](https://labex.io/ja/tutorials/python-variable-type-conversion-95) *(Last modified: 2026-01-19)*
 - [python-variables-and-memory-addresses-7849](https://labex.io/ja/tutorials/python-variables-and-memory-addresses-7849) *(Last modified: 2026-01-19)*
@@ -8006,7 +8006,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [python-what-is-the-time-complexity-of-list-append-and-remove-operations-in-python-397728](https://labex.io/ja/tutorials/python-what-is-the-time-complexity-of-list-append-and-remove-operations-in-python-397728) *(Last modified: 2025-10-11)*
 - [python-while-loop-statements-97](https://labex.io/ja/tutorials/python-while-loop-statements-97) *(Last modified: 2026-01-19)*
 - [python-work-with-sets-in-python-585784](https://labex.io/ja/tutorials/python-work-with-sets-in-python-585784) *(Last modified: 2026-01-19)*
-- [python-work-with-strings-in-python-585785](https://labex.io/ja/tutorials/python-work-with-strings-in-python-585785) *(Last modified: 2026-01-19)*
+- [python-work-with-strings-in-python-585785](https://labex.io/ja/tutorials/python-work-with-strings-in-python-585785) *(Last modified: 2026-01-21)*
 - [python-write-and-debug-a-simple-python-program-585786](https://labex.io/ja/tutorials/python-write-and-debug-a-simple-python-program-585786) *(Last modified: 2026-01-19)*
 - [python-yin-book-encryption-implementation-and-testing-302786](https://labex.io/ja/tutorials/python-yin-book-encryption-implementation-and-testing-302786) *(Last modified: 2025-10-11)*
 - [python-your-first-matplotlib-lab-92737](https://labex.io/ja/tutorials/python-your-first-matplotlib-lab-92737) *(Last modified: 2026-01-19)*
