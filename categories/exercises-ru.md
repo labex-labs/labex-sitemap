@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Ru Sitemap
 
-> Last updated: 2026-01-29 00:04 UTC
+> Last updated: 2026-01-30 00:04 UTC
 
 This file contains all exercises-ru related links from LabEx website.
 
@@ -37,6 +37,7 @@ This file contains all exercises-ru related links from LabEx website.
 - [kali](https://labex.io/ru/exercises/kali)
 - [kubernetes](https://labex.io/ru/exercises/kubernetes)
 - [linux](https://labex.io/ru/exercises/linux)
+- [linux-training](https://labex.io/ru/exercises/linux-training)
 - [matplotlib](https://labex.io/ru/exercises/matplotlib)
 - [mongodb](https://labex.io/ru/exercises/mongodb)
 - [mysql](https://labex.io/ru/exercises/mysql)
