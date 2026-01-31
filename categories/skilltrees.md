@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees Sitemap
 
-> Last updated: 2026-01-30 00:04 UTC
+> Last updated: 2026-01-31 00:05 UTC
 
 This file contains all skilltrees related links from LabEx website.
 
@@ -26,6 +26,7 @@ This file contains all skilltrees related links from LabEx website.
 - [data-science](https://labex.io/learn/data-science)
 - [database](https://labex.io/learn/database)
 - [devops](https://labex.io/learn/devops)
+- [devops-engineer](https://labex.io/learn/devops-engineer)
 - [docker](https://labex.io/learn/docker)
 - [git](https://labex.io/learn/git)
 - [go](https://labex.io/learn/go)
@@ -37,7 +38,6 @@ This file contains all skilltrees related links from LabEx website.
 - [kali](https://labex.io/learn/kali)
 - [kubernetes](https://labex.io/learn/kubernetes)
 - [linux](https://labex.io/learn/linux)
-- [linux-training](https://labex.io/learn/linux-training)
 - [matplotlib](https://labex.io/learn/matplotlib)
 - [mongodb](https://labex.io/learn/mongodb)
 - [mysql](https://labex.io/learn/mysql)
@@ -1153,6 +1153,7 @@ This file contains all skilltrees related links from LabEx website.
 - [data-science](https://labex.io/tutorials/category/data-science)
 - [database](https://labex.io/tutorials/category/database)
 - [devops](https://labex.io/tutorials/category/devops)
+- [devops-engineer](https://labex.io/tutorials/category/devops-engineer)
 - [docker](https://labex.io/tutorials/category/docker)
 - [git](https://labex.io/tutorials/category/git)
 - [go](https://labex.io/tutorials/category/go)
@@ -1164,7 +1165,6 @@ This file contains all skilltrees related links from LabEx website.
 - [kali](https://labex.io/tutorials/category/kali)
 - [kubernetes](https://labex.io/tutorials/category/kubernetes)
 - [linux](https://labex.io/tutorials/category/linux)
-- [linux-training](https://labex.io/tutorials/category/linux-training)
 - [matplotlib](https://labex.io/tutorials/category/matplotlib)
 - [mongodb](https://labex.io/tutorials/category/mongodb)
 - [mysql](https://labex.io/tutorials/category/mysql)

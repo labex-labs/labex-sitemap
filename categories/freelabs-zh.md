@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Zh Sitemap
 
-> Last updated: 2026-01-30 00:04 UTC
+> Last updated: 2026-01-31 00:05 UTC
 
 This file contains all freelabs-zh related links from LabEx website.
 
@@ -27,6 +27,7 @@ This file contains all freelabs-zh related links from LabEx website.
 - [data-science](https://labex.io/zh/free-labs/data-science)
 - [database](https://labex.io/zh/free-labs/database)
 - [devops](https://labex.io/zh/free-labs/devops)
+- [devops-engineer](https://labex.io/zh/free-labs/devops-engineer)
 - [docker](https://labex.io/zh/free-labs/docker)
 - [git](https://labex.io/zh/free-labs/git)
 - [go](https://labex.io/zh/free-labs/go)
@@ -38,7 +39,6 @@ This file contains all freelabs-zh related links from LabEx website.
 - [kali](https://labex.io/zh/free-labs/kali)
 - [kubernetes](https://labex.io/zh/free-labs/kubernetes)
 - [linux](https://labex.io/zh/free-labs/linux)
-- [linux-training](https://labex.io/zh/free-labs/linux-training)
 - [matplotlib](https://labex.io/zh/free-labs/matplotlib)
 - [mongodb](https://labex.io/zh/free-labs/mongodb)
 - [mysql](https://labex.io/zh/free-labs/mysql)

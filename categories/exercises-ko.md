@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Ko Sitemap
 
-> Last updated: 2026-01-30 00:04 UTC
+> Last updated: 2026-01-31 00:05 UTC
 
 This file contains all exercises-ko related links from LabEx website.
 
@@ -26,6 +26,7 @@ This file contains all exercises-ko related links from LabEx website.
 - [data-science](https://labex.io/ko/exercises/data-science)
 - [database](https://labex.io/ko/exercises/database)
 - [devops](https://labex.io/ko/exercises/devops)
+- [devops-engineer](https://labex.io/ko/exercises/devops-engineer)
 - [docker](https://labex.io/ko/exercises/docker)
 - [git](https://labex.io/ko/exercises/git)
 - [go](https://labex.io/ko/exercises/go)

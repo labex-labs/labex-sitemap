@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Es Sitemap
 
-> Last updated: 2026-01-30 00:04 UTC
+> Last updated: 2026-01-31 00:05 UTC
 
 This file contains all freelabs-es related links from LabEx website.
 
@@ -27,6 +27,7 @@ This file contains all freelabs-es related links from LabEx website.
 - [data-science](https://labex.io/es/free-labs/data-science)
 - [database](https://labex.io/es/free-labs/database)
 - [devops](https://labex.io/es/free-labs/devops)
+- [devops-engineer](https://labex.io/es/free-labs/devops-engineer)
 - [docker](https://labex.io/es/free-labs/docker)
 - [git](https://labex.io/es/free-labs/git)
 - [go](https://labex.io/es/free-labs/go)

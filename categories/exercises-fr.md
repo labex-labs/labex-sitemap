@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Fr Sitemap
 
-> Last updated: 2026-01-30 00:04 UTC
+> Last updated: 2026-01-31 00:05 UTC
 
 This file contains all exercises-fr related links from LabEx website.
 
@@ -26,6 +26,7 @@ This file contains all exercises-fr related links from LabEx website.
 - [data-science](https://labex.io/fr/exercises/data-science)
 - [database](https://labex.io/fr/exercises/database)
 - [devops](https://labex.io/fr/exercises/devops)
+- [devops-engineer](https://labex.io/fr/exercises/devops-engineer)
 - [docker](https://labex.io/fr/exercises/docker)
 - [git](https://labex.io/fr/exercises/git)
 - [go](https://labex.io/fr/exercises/go)
@@ -37,7 +38,6 @@ This file contains all exercises-fr related links from LabEx website.
 - [kali](https://labex.io/fr/exercises/kali)
 - [kubernetes](https://labex.io/fr/exercises/kubernetes)
 - [linux](https://labex.io/fr/exercises/linux)
-- [linux-training](https://labex.io/fr/exercises/linux-training)
 - [matplotlib](https://labex.io/fr/exercises/matplotlib)
 - [mongodb](https://labex.io/fr/exercises/mongodb)
 - [mysql](https://labex.io/fr/exercises/mysql)

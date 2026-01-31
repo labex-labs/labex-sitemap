@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2026-01-30 00:04 UTC
+> Last updated: 2026-01-31 00:05 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -15982,6 +15982,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [data-science](https://labex.io/zh/tutorials/category/data-science) *(Last modified: 2024-08-22)*
 - [database](https://labex.io/zh/tutorials/category/database) *(Last modified: 2024-08-22)*
 - [devops](https://labex.io/zh/tutorials/category/devops) *(Last modified: 2024-08-22)*
+- [devops-engineer](https://labex.io/zh/tutorials/category/devops-engineer) *(Last modified: 2024-08-22)*
 - [docker](https://labex.io/zh/tutorials/category/docker) *(Last modified: 2024-08-22)*
 - [git](https://labex.io/zh/tutorials/category/git) *(Last modified: 2024-08-22)*
 - [go](https://labex.io/zh/tutorials/category/go) *(Last modified: 2024-08-22)*

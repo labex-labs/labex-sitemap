@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Ja Sitemap
 
-> Last updated: 2026-01-30 00:04 UTC
+> Last updated: 2026-01-31 00:05 UTC
 
 This file contains all freelabs-ja related links from LabEx website.
 
@@ -27,6 +27,7 @@ This file contains all freelabs-ja related links from LabEx website.
 - [data-science](https://labex.io/ja/free-labs/data-science)
 - [database](https://labex.io/ja/free-labs/database)
 - [devops](https://labex.io/ja/free-labs/devops)
+- [devops-engineer](https://labex.io/ja/free-labs/devops-engineer)
 - [docker](https://labex.io/ja/free-labs/docker)
 - [git](https://labex.io/ja/free-labs/git)
 - [go](https://labex.io/ja/free-labs/go)

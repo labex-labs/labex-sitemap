@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Zh Sitemap
 
-> Last updated: 2026-01-30 00:04 UTC
+> Last updated: 2026-01-31 00:05 UTC
 
 This file contains all skilltrees-zh related links from LabEx website.
 
@@ -26,6 +26,7 @@ This file contains all skilltrees-zh related links from LabEx website.
 - [data-science](https://labex.io/zh/learn/data-science)
 - [database](https://labex.io/zh/learn/database)
 - [devops](https://labex.io/zh/learn/devops)
+- [devops-engineer](https://labex.io/zh/learn/devops-engineer)
 - [docker](https://labex.io/zh/learn/docker)
 - [git](https://labex.io/zh/learn/git)
 - [go](https://labex.io/zh/learn/go)
@@ -62,6 +63,7 @@ This file contains all skilltrees-zh related links from LabEx website.
 - [data-science](https://labex.io/zh/tutorials/category/data-science)
 - [database](https://labex.io/zh/tutorials/category/database)
 - [devops](https://labex.io/zh/tutorials/category/devops)
+- [devops-engineer](https://labex.io/zh/tutorials/category/devops-engineer)
 - [docker](https://labex.io/zh/tutorials/category/docker)
 - [git](https://labex.io/zh/tutorials/category/git)
 - [go](https://labex.io/zh/tutorials/category/go)

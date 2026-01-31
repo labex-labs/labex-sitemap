@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Pt Sitemap
 
-> Last updated: 2026-01-30 00:04 UTC
+> Last updated: 2026-01-31 00:05 UTC
 
 This file contains all freelabs-pt related links from LabEx website.
 
@@ -27,6 +27,7 @@ This file contains all freelabs-pt related links from LabEx website.
 - [data-science](https://labex.io/pt/free-labs/data-science)
 - [database](https://labex.io/pt/free-labs/database)
 - [devops](https://labex.io/pt/free-labs/devops)
+- [devops-engineer](https://labex.io/pt/free-labs/devops-engineer)
 - [docker](https://labex.io/pt/free-labs/docker)
 - [git](https://labex.io/pt/free-labs/git)
 - [go](https://labex.io/pt/free-labs/go)
@@ -38,7 +39,6 @@ This file contains all freelabs-pt related links from LabEx website.
 - [kali](https://labex.io/pt/free-labs/kali)
 - [kubernetes](https://labex.io/pt/free-labs/kubernetes)
 - [linux](https://labex.io/pt/free-labs/linux)
-- [linux-training](https://labex.io/pt/free-labs/linux-training)
 - [matplotlib](https://labex.io/pt/free-labs/matplotlib)
 - [mongodb](https://labex.io/pt/free-labs/mongodb)
 - [mysql](https://labex.io/pt/free-labs/mysql)

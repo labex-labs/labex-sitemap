@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Pt Sitemap
 
-> Last updated: 2026-01-30 00:04 UTC
+> Last updated: 2026-01-31 00:05 UTC
 
 This file contains all exercises-pt related links from LabEx website.
 
@@ -26,6 +26,7 @@ This file contains all exercises-pt related links from LabEx website.
 - [data-science](https://labex.io/pt/exercises/data-science)
 - [database](https://labex.io/pt/exercises/database)
 - [devops](https://labex.io/pt/exercises/devops)
+- [devops-engineer](https://labex.io/pt/exercises/devops-engineer)
 - [docker](https://labex.io/pt/exercises/docker)
 - [git](https://labex.io/pt/exercises/git)
 - [go](https://labex.io/pt/exercises/go)

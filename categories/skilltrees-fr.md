@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Fr Sitemap
 
-> Last updated: 2026-01-30 00:04 UTC
+> Last updated: 2026-01-31 00:05 UTC
 
 This file contains all skilltrees-fr related links from LabEx website.
 
@@ -26,6 +26,7 @@ This file contains all skilltrees-fr related links from LabEx website.
 - [data-science](https://labex.io/fr/learn/data-science)
 - [database](https://labex.io/fr/learn/database)
 - [devops](https://labex.io/fr/learn/devops)
+- [devops-engineer](https://labex.io/fr/learn/devops-engineer)
 - [docker](https://labex.io/fr/learn/docker)
 - [git](https://labex.io/fr/learn/git)
 - [go](https://labex.io/fr/learn/go)
@@ -37,7 +38,6 @@ This file contains all skilltrees-fr related links from LabEx website.
 - [kali](https://labex.io/fr/learn/kali)
 - [kubernetes](https://labex.io/fr/learn/kubernetes)
 - [linux](https://labex.io/fr/learn/linux)
-- [linux-training](https://labex.io/fr/learn/linux-training)
 - [matplotlib](https://labex.io/fr/learn/matplotlib)
 - [mongodb](https://labex.io/fr/learn/mongodb)
 - [mysql](https://labex.io/fr/learn/mysql)
@@ -63,6 +63,7 @@ This file contains all skilltrees-fr related links from LabEx website.
 - [data-science](https://labex.io/fr/tutorials/category/data-science)
 - [database](https://labex.io/fr/tutorials/category/database)
 - [devops](https://labex.io/fr/tutorials/category/devops)
+- [devops-engineer](https://labex.io/fr/tutorials/category/devops-engineer)
 - [docker](https://labex.io/fr/tutorials/category/docker)
 - [git](https://labex.io/fr/tutorials/category/git)
 - [go](https://labex.io/fr/tutorials/category/go)
@@ -74,7 +75,6 @@ This file contains all skilltrees-fr related links from LabEx website.
 - [kali](https://labex.io/fr/tutorials/category/kali)
 - [kubernetes](https://labex.io/fr/tutorials/category/kubernetes)
 - [linux](https://labex.io/fr/tutorials/category/linux)
-- [linux-training](https://labex.io/fr/tutorials/category/linux-training)
 - [matplotlib](https://labex.io/fr/tutorials/category/matplotlib)
 - [mongodb](https://labex.io/fr/tutorials/category/mongodb)
 - [mysql](https://labex.io/fr/tutorials/category/mysql)

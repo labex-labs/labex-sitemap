@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Fr Sitemap
 
-> Last updated: 2026-01-30 00:04 UTC
+> Last updated: 2026-01-31 00:05 UTC
 
 This file contains all tutorials-fr related links from LabEx website.
 
@@ -9012,6 +9012,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [data-science](https://labex.io/fr/tutorials/category/data-science) *(Last modified: 2024-08-22)*
 - [database](https://labex.io/fr/tutorials/category/database) *(Last modified: 2024-08-22)*
 - [devops](https://labex.io/fr/tutorials/category/devops) *(Last modified: 2024-08-22)*
+- [devops-engineer](https://labex.io/fr/tutorials/category/devops-engineer) *(Last modified: 2024-08-22)*
 - [docker](https://labex.io/fr/tutorials/category/docker) *(Last modified: 2024-08-22)*
 - [git](https://labex.io/fr/tutorials/category/git) *(Last modified: 2024-08-22)*
 - [go](https://labex.io/fr/tutorials/category/go) *(Last modified: 2024-08-22)*
@@ -9023,7 +9024,6 @@ This file contains all tutorials-fr related links from LabEx website.
 - [kali](https://labex.io/fr/tutorials/category/kali) *(Last modified: 2024-08-22)*
 - [kubernetes](https://labex.io/fr/tutorials/category/kubernetes) *(Last modified: 2024-08-22)*
 - [linux](https://labex.io/fr/tutorials/category/linux) *(Last modified: 2024-08-22)*
-- [linux-training](https://labex.io/fr/tutorials/category/linux-training) *(Last modified: 2024-08-22)*
 - [matplotlib](https://labex.io/fr/tutorials/category/matplotlib) *(Last modified: 2024-08-22)*
 - [mongodb](https://labex.io/fr/tutorials/category/mongodb) *(Last modified: 2024-08-22)*
 - [mysql](https://labex.io/fr/tutorials/category/mysql) *(Last modified: 2024-08-22)*
