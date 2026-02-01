@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-De Sitemap
 
-> Last updated: 2026-01-31 00:05 UTC
+> Last updated: 2026-02-01 00:05 UTC
 
 This file contains all tutorials-de related links from LabEx website.
 
@@ -5846,7 +5846,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-system-information-displaying-script-18281](https://labex.io/de/tutorials/linux-system-information-displaying-script-18281) *(Last modified: 2026-01-29)*
 - [linux-technical-interview-questions-and-answers-593708](https://labex.io/de/tutorials/linux-technical-interview-questions-and-answers-593708) *(Last modified: 2025-10-09)*
 - [linux-telnet-brute-force-and-weak-credentials-596718](https://labex.io/de/tutorials/linux-telnet-brute-force-and-weak-credentials-596718) *(Last modified: 2026-01-29)*
-- [linux-terminate-processes-by-name-and-id-31](https://labex.io/de/tutorials/linux-terminate-processes-by-name-and-id-31) *(Last modified: 2026-01-29)*
+- [linux-terminate-processes-by-name-and-id-31](https://labex.io/de/tutorials/linux-terminate-processes-by-name-and-id-31) *(Last modified: 2026-01-31)*
 - [linux-terminate-processes-in-linux-44](https://labex.io/de/tutorials/linux-terminate-processes-in-linux-44) *(Last modified: 2026-01-29)*
 - [linux-terraform-basic-resource-creation-632658](https://labex.io/de/tutorials/linux-terraform-basic-resource-creation-632658) *(Last modified: 2026-01-29)*
 - [linux-terraform-installation-632659](https://labex.io/de/tutorials/linux-terraform-installation-632659) *(Last modified: 2026-01-29)*
@@ -7845,7 +7845,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [python-monty-hall-problem-simulation-using-tkinter-298896](https://labex.io/de/tutorials/python-monty-hall-problem-simulation-using-tkinter-298896) *(Last modified: 2026-01-29)*
 - [python-numpy-advanced-topics-11](https://labex.io/de/tutorials/python-numpy-advanced-topics-11) *(Last modified: 2025-10-11)*
 - [python-numpy-arrays-and-data-types-4996](https://labex.io/de/tutorials/python-numpy-arrays-and-data-types-4996) *(Last modified: 2025-10-11)*
-- [python-numpy-math-games-10](https://labex.io/de/tutorials/python-numpy-math-games-10) *(Last modified: 2026-01-29)*
+- [python-numpy-math-games-10](https://labex.io/de/tutorials/python-numpy-math-games-10) *(Last modified: 2026-01-31)*
 - [python-numpy-slicing-and-indexing-352](https://labex.io/de/tutorials/python-numpy-slicing-and-indexing-352) *(Last modified: 2025-10-11)*
 - [python-object-model-internals-132713](https://labex.io/de/tutorials/python-object-model-internals-132713) *(Last modified: 2026-01-29)*
 - [python-object-system-fundamentals-132724](https://labex.io/de/tutorials/python-object-system-fundamentals-132724) *(Last modified: 2026-01-29)*
