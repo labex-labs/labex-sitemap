@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Ko Sitemap
 
-> Last updated: 2026-02-02 00:04 UTC
+> Last updated: 2026-02-03 00:06 UTC
 
 This file contains all skilltrees-ko related links from LabEx website.
 

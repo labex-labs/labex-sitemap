@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ja Sitemap
 
-> Last updated: 2026-02-02 00:04 UTC
+> Last updated: 2026-02-03 00:06 UTC
 
 This file contains all courses-ja related links from LabEx website.
 
@@ -304,6 +304,7 @@ This file contains all courses-ja related links from LabEx website.
 - [project-haste-makes-waste](https://labex.io/ja/courses/project-haste-makes-waste)
 - [project-holiday-greeting-card](https://labex.io/ja/courses/project-holiday-greeting-card)
 - [project-http-enumeration-and-directory-traversal](https://labex.io/ja/courses/project-http-enumeration-and-directory-traversal)
+- [project-hybrid-infrastructure-deployment](https://labex.io/ja/courses/project-hybrid-infrastructure-deployment)
 - [project-identify-mvp-recipient-in-game](https://labex.io/ja/courses/project-identify-mvp-recipient-in-game)
 - [project-image-upload-based-on-tcp-protocol](https://labex.io/ja/courses/project-image-upload-based-on-tcp-protocol)
 - [project-image-viewer-using-python-and-tkinter](https://labex.io/ja/courses/project-image-viewer-using-python-and-tkinter)
@@ -361,6 +362,7 @@ This file contains all courses-ja related links from LabEx website.
 - [project-naughty-modal-box](https://labex.io/ja/courses/project-naughty-modal-box)
 - [project-navigation-features](https://labex.io/ja/courses/project-navigation-features)
 - [project-network-data-packet-statistics](https://labex.io/ja/courses/project-network-data-packet-statistics)
+- [project-network-service-administration](https://labex.io/ja/courses/project-network-service-administration)
 - [project-new-colleague-system-account-setup](https://labex.io/ja/courses/project-new-colleague-system-account-setup)
 - [project-news-api](https://labex.io/ja/courses/project-news-api)
 - [project-nmap-port-scanning-and-telnet-access](https://labex.io/ja/courses/project-nmap-port-scanning-and-telnet-access)

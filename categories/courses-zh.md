@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Zh Sitemap
 
-> Last updated: 2026-02-02 00:04 UTC
+> Last updated: 2026-02-03 00:06 UTC
 
 This file contains all courses-zh related links from LabEx website.
 
@@ -304,6 +304,7 @@ This file contains all courses-zh related links from LabEx website.
 - [project-haste-makes-waste](https://labex.io/zh/courses/project-haste-makes-waste)
 - [project-holiday-greeting-card](https://labex.io/zh/courses/project-holiday-greeting-card)
 - [project-http-enumeration-and-directory-traversal](https://labex.io/zh/courses/project-http-enumeration-and-directory-traversal)
+- [project-hybrid-infrastructure-deployment](https://labex.io/zh/courses/project-hybrid-infrastructure-deployment)
 - [project-identify-mvp-recipient-in-game](https://labex.io/zh/courses/project-identify-mvp-recipient-in-game)
 - [project-image-upload-based-on-tcp-protocol](https://labex.io/zh/courses/project-image-upload-based-on-tcp-protocol)
 - [project-image-viewer-using-python-and-tkinter](https://labex.io/zh/courses/project-image-viewer-using-python-and-tkinter)
@@ -361,6 +362,7 @@ This file contains all courses-zh related links from LabEx website.
 - [project-naughty-modal-box](https://labex.io/zh/courses/project-naughty-modal-box)
 - [project-navigation-features](https://labex.io/zh/courses/project-navigation-features)
 - [project-network-data-packet-statistics](https://labex.io/zh/courses/project-network-data-packet-statistics)
+- [project-network-service-administration](https://labex.io/zh/courses/project-network-service-administration)
 - [project-new-colleague-system-account-setup](https://labex.io/zh/courses/project-new-colleague-system-account-setup)
 - [project-news-api](https://labex.io/zh/courses/project-news-api)
 - [project-nmap-port-scanning-and-telnet-access](https://labex.io/zh/courses/project-nmap-port-scanning-and-telnet-access)
