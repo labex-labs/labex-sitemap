@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2026-02-03 00:06 UTC
+> Last updated: 2026-02-04 00:05 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -872,7 +872,7 @@ This file contains all tutorials related links from LabEx website.
 - [c-use-of-gets-function-in-c-programming-123354](https://labex.io/tutorials/c-use-of-gets-function-in-c-programming-123354) *(Last modified: 2025-10-11)*
 - [c-use-the-modulus-operator-in-c-435358](https://labex.io/tutorials/c-use-the-modulus-operator-in-c-435358) *(Last modified: 2026-02-02)*
 - [c-using-if-else-statements-in-c-programming-123265](https://labex.io/tutorials/c-using-if-else-statements-in-c-programming-123265) *(Last modified: 2025-10-11)*
-- [c-using-null-pointer-in-c-programming-123293](https://labex.io/tutorials/c-using-null-pointer-in-c-programming-123293) *(Last modified: 2025-10-11)*
+- [c-using-null-pointer-in-c-programming-123293](https://labex.io/tutorials/c-using-null-pointer-in-c-programming-123293) *(Last modified: 2026-02-03)*
 - [c-using-while-loop-to-find-even-numbers-136083](https://labex.io/tutorials/c-using-while-loop-to-find-even-numbers-136083) *(Last modified: 2025-10-11)*
 - [c-vowel-identification-using-switch-case-123217](https://labex.io/tutorials/c-vowel-identification-using-switch-case-123217) *(Last modified: 2025-10-11)*
 - [c-work-with-floating-point-arithmetic-in-c-435202](https://labex.io/tutorials/c-work-with-floating-point-arithmetic-in-c-435202) *(Last modified: 2026-02-02)*

@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Es Sitemap
 
-> Last updated: 2026-02-03 00:06 UTC
+> Last updated: 2026-02-04 00:05 UTC
 
 This file contains all courses-es related links from LabEx website.
 
@@ -302,6 +302,7 @@ This file contains all courses-es related links from LabEx website.
 - [project-handling-null-values-correctly](https://labex.io/es/courses/project-handling-null-values-correctly)
 - [project-hard-work-pays-off](https://labex.io/es/courses/project-hard-work-pays-off)
 - [project-haste-makes-waste](https://labex.io/es/courses/project-haste-makes-waste)
+- [project-high-availability-and-automation](https://labex.io/es/courses/project-high-availability-and-automation)
 - [project-holiday-greeting-card](https://labex.io/es/courses/project-holiday-greeting-card)
 - [project-http-enumeration-and-directory-traversal](https://labex.io/es/courses/project-http-enumeration-and-directory-traversal)
 - [project-hybrid-infrastructure-deployment](https://labex.io/es/courses/project-hybrid-infrastructure-deployment)
@@ -367,6 +368,7 @@ This file contains all courses-es related links from LabEx website.
 - [project-news-api](https://labex.io/es/courses/project-news-api)
 - [project-nmap-port-scanning-and-telnet-access](https://labex.io/es/courses/project-nmap-port-scanning-and-telnet-access)
 - [project-number-of-users-with-modify-permissions](https://labex.io/es/courses/project-number-of-users-with-modify-permissions)
+- [project-observability-stack](https://labex.io/es/courses/project-observability-stack)
 - [project-obtain-pi-with-two-decimals](https://labex.io/es/courses/project-obtain-pi-with-two-decimals)
 - [project-official-languages-in-various-countries](https://labex.io/es/courses/project-official-languages-in-various-countries)
 - [project-one-cut-into-two](https://labex.io/es/courses/project-one-cut-into-two)
