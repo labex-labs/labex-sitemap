@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Fr Sitemap
 
-> Last updated: 2026-02-04 00:05 UTC
+> Last updated: 2026-02-05 00:06 UTC
 
 This file contains all tutorials-fr related links from LabEx website.
 
@@ -2014,7 +2014,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [docker-docker-stop-container-271501](https://labex.io/fr/tutorials/docker-docker-stop-container-271501) *(Last modified: 2026-02-02)*
 - [docker-docker-tag-an-image-271505](https://labex.io/fr/tutorials/docker-docker-tag-an-image-271505) *(Last modified: 2026-02-02)*
 - [docker-docker-view-container-logs-271473](https://labex.io/fr/tutorials/docker-docker-view-container-logs-271473) *(Last modified: 2026-02-02)*
-- [docker-docker-volume-management-7769](https://labex.io/fr/tutorials/docker-docker-volume-management-7769) *(Last modified: 2026-02-02)*
+- [docker-docker-volume-management-7769](https://labex.io/fr/tutorials/docker-docker-volume-management-7769) *(Last modified: 2026-02-04)*
 - [docker-docker-volume-mounting-389116](https://labex.io/fr/tutorials/docker-docker-volume-mounting-389116) *(Last modified: 2026-02-02)*
 - [docker-effective-strategies-for-versioning-dockerfiles-398387](https://labex.io/fr/tutorials/docker-effective-strategies-for-versioning-dockerfiles-398387) *(Last modified: 2025-10-11)*
 - [docker-efficiently-copying-directories-in-a-dockerfile-398321](https://labex.io/fr/tutorials/docker-efficiently-copying-directories-in-a-dockerfile-398321) *(Last modified: 2025-10-11)*
@@ -5117,11 +5117,11 @@ This file contains all tutorials-fr related links from LabEx website.
 - [linux-add-logging-to-the-system-monitor-299447](https://labex.io/fr/tutorials/linux-add-logging-to-the-system-monitor-299447) *(Last modified: 2026-02-02)*
 - [linux-add-new-user-and-group-17987](https://labex.io/fr/tutorials/linux-add-new-user-and-group-17987) *(Last modified: 2026-02-02)*
 - [linux-analyze-historical-commands-17988](https://labex.io/fr/tutorials/linux-analyze-historical-commands-17988) *(Last modified: 2026-02-02)*
-- [linux-analyzing-disk-usage-7775](https://labex.io/fr/tutorials/linux-analyzing-disk-usage-7775) *(Last modified: 2026-02-02)*
+- [linux-analyzing-disk-usage-7775](https://labex.io/fr/tutorials/linux-analyzing-disk-usage-7775) *(Last modified: 2026-02-04)*
 - [linux-analyzing-path-directories-385344](https://labex.io/fr/tutorials/linux-analyzing-path-directories-385344) *(Last modified: 2026-02-02)*
 - [linux-asymmetric-encryption-with-rsa-in-cryptography-632719](https://labex.io/fr/tutorials/linux-asymmetric-encryption-with-rsa-in-cryptography-632719) *(Last modified: 2026-02-02)*
 - [linux-automated-daily-system-log-backup-301479](https://labex.io/fr/tutorials/linux-automated-daily-system-log-backup-301479) *(Last modified: 2026-01-09)*
-- [linux-background-job-management-43](https://labex.io/fr/tutorials/linux-background-job-management-43) *(Last modified: 2026-02-02)*
+- [linux-background-job-management-43](https://labex.io/fr/tutorials/linux-background-job-management-43) *(Last modified: 2026-02-04)*
 - [linux-backup-system-log-17989](https://labex.io/fr/tutorials/linux-backup-system-log-17989) *(Last modified: 2026-02-02)*
 - [linux-bash-trap-command-388820](https://labex.io/fr/tutorials/linux-bash-trap-command-388820) *(Last modified: 2026-02-02)*
 - [linux-basic-file-operations-in-linux-18001](https://labex.io/fr/tutorials/linux-basic-file-operations-in-linux-18001) *(Last modified: 2026-02-02)*
@@ -5142,7 +5142,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [linux-configuring-storage-devices-632793](https://labex.io/fr/tutorials/linux-configuring-storage-devices-632793) *(Last modified: 2026-02-02)*
 - [linux-configuring-wireless-connections-632794](https://labex.io/fr/tutorials/linux-configuring-wireless-connections-632794) *(Last modified: 2026-02-02)*
 - [linux-connect-to-a-remote-linux-server-using-ssh-590857](https://labex.io/fr/tutorials/linux-connect-to-a-remote-linux-server-using-ssh-590857) *(Last modified: 2026-02-02)*
-- [linux-connect-to-remote-34](https://labex.io/fr/tutorials/linux-connect-to-remote-34) *(Last modified: 2026-02-02)*
+- [linux-connect-to-remote-34](https://labex.io/fr/tutorials/linux-connect-to-remote-34) *(Last modified: 2026-02-04)*
 - [linux-copy-large-files-with-preserved-structure-301465](https://labex.io/fr/tutorials/linux-copy-large-files-with-preserved-structure-301465) *(Last modified: 2025-10-11)*
 - [linux-count-lines-of-code-with-cloc-273383](https://labex.io/fr/tutorials/linux-count-lines-of-code-with-cloc-273383) *(Last modified: 2026-02-02)*
 - [linux-cracking-a-specific-user-account-415951](https://labex.io/fr/tutorials/linux-cracking-a-specific-user-account-415951) *(Last modified: 2026-02-02)*
@@ -5171,7 +5171,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [linux-digital-signatures-with-rsa-in-cryptography-632721](https://labex.io/fr/tutorials/linux-digital-signatures-with-rsa-in-cryptography-632721) *(Last modified: 2026-02-02)*
 - [linux-directory-navigation-387844](https://labex.io/fr/tutorials/linux-directory-navigation-387844) *(Last modified: 2026-02-02)*
 - [linux-discover-critical-system-resources-388032](https://labex.io/fr/tutorials/linux-discover-critical-system-resources-388032) *(Last modified: 2026-02-02)*
-- [linux-discover-linux-system-information-36](https://labex.io/fr/tutorials/linux-discover-linux-system-information-36) *(Last modified: 2026-02-02)*
+- [linux-discover-linux-system-information-36](https://labex.io/fr/tutorials/linux-discover-linux-system-information-36) *(Last modified: 2026-02-04)*
 - [linux-disk-usage-detective-388099](https://labex.io/fr/tutorials/linux-disk-usage-detective-388099) *(Last modified: 2026-02-02)*
 - [linux-display-os-info-stylishly-with-neofetch-299825](https://labex.io/fr/tutorials/linux-display-os-info-stylishly-with-neofetch-299825) *(Last modified: 2026-02-02)*
 - [linux-display-user-and-group-information-8718](https://labex.io/fr/tutorials/linux-display-user-and-group-information-8718) *(Last modified: 2026-02-02)*
@@ -5629,7 +5629,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [linux-linux-permission-modifying-271241](https://labex.io/fr/tutorials/linux-linux-permission-modifying-271241) *(Last modified: 2026-02-02)*
 - [linux-linux-privilege-granting-271393](https://labex.io/fr/tutorials/linux-linux-privilege-granting-271393) *(Last modified: 2026-02-02)*
 - [linux-linux-process-displaying-271363](https://labex.io/fr/tutorials/linux-linux-process-displaying-271363) *(Last modified: 2026-02-02)*
-- [linux-linux-process-management-46](https://labex.io/fr/tutorials/linux-linux-process-management-46) *(Last modified: 2026-02-02)*
+- [linux-linux-process-management-46](https://labex.io/fr/tutorials/linux-linux-process-management-46) *(Last modified: 2026-02-04)*
 - [linux-linux-process-terminating-271315](https://labex.io/fr/tutorials/linux-linux-process-terminating-271315) *(Last modified: 2026-02-02)*
 - [linux-linux-process-waiting-271433](https://labex.io/fr/tutorials/linux-linux-process-waiting-271433) *(Last modified: 2026-02-02)*
 - [linux-linux-pwd-command-directory-displaying-209734](https://labex.io/fr/tutorials/linux-linux-pwd-command-directory-displaying-209734) *(Last modified: 2026-02-02)*
@@ -5730,9 +5730,9 @@ This file contains all tutorials-fr related links from LabEx website.
 - [linux-restore-access-to-website-301487](https://labex.io/fr/tutorials/linux-restore-access-to-website-301487) *(Last modified: 2025-10-11)*
 - [linux-rsync-enumeration-and-anonymous-sync-596715](https://labex.io/fr/tutorials/linux-rsync-enumeration-and-anonymous-sync-596715) *(Last modified: 2026-02-02)*
 - [linux-searching-for-specific-files-301489](https://labex.io/fr/tutorials/linux-searching-for-specific-files-301489) *(Last modified: 2025-10-11)*
-- [linux-secure-file-transfer-basics-40](https://labex.io/fr/tutorials/linux-secure-file-transfer-basics-40) *(Last modified: 2026-02-02)*
+- [linux-secure-file-transfer-basics-40](https://labex.io/fr/tutorials/linux-secure-file-transfer-basics-40) *(Last modified: 2026-02-04)*
 - [linux-sequence-control-and-pipeline-17994](https://labex.io/fr/tutorials/linux-sequence-control-and-pipeline-17994) *(Last modified: 2026-02-02)*
-- [linux-set-up-scheduled-tasks-47](https://labex.io/fr/tutorials/linux-set-up-scheduled-tasks-47) *(Last modified: 2026-02-02)*
+- [linux-set-up-scheduled-tasks-47](https://labex.io/fr/tutorials/linux-set-up-scheduled-tasks-47) *(Last modified: 2026-02-04)*
 - [linux-setting-up-a-lamp-server-372834](https://labex.io/fr/tutorials/linux-setting-up-a-lamp-server-372834) *(Last modified: 2026-02-02)*
 - [linux-setting-up-a-new-project-structure-387859](https://labex.io/fr/tutorials/linux-setting-up-a-new-project-structure-387859) *(Last modified: 2026-02-02)*
 - [linux-setting-up-ip-addressing-632801](https://labex.io/fr/tutorials/linux-setting-up-ip-addressing-632801) *(Last modified: 2026-02-02)*
@@ -5749,8 +5749,8 @@ This file contains all tutorials-fr related links from LabEx website.
 - [linux-system-information-displaying-script-18281](https://labex.io/fr/tutorials/linux-system-information-displaying-script-18281) *(Last modified: 2026-02-02)*
 - [linux-technical-interview-questions-and-answers-593708](https://labex.io/fr/tutorials/linux-technical-interview-questions-and-answers-593708) *(Last modified: 2025-10-09)*
 - [linux-telnet-brute-force-and-weak-credentials-596718](https://labex.io/fr/tutorials/linux-telnet-brute-force-and-weak-credentials-596718) *(Last modified: 2026-02-02)*
-- [linux-terminate-processes-by-name-and-id-31](https://labex.io/fr/tutorials/linux-terminate-processes-by-name-and-id-31) *(Last modified: 2026-02-02)*
-- [linux-terminate-processes-in-linux-44](https://labex.io/fr/tutorials/linux-terminate-processes-in-linux-44) *(Last modified: 2026-02-02)*
+- [linux-terminate-processes-by-name-and-id-31](https://labex.io/fr/tutorials/linux-terminate-processes-by-name-and-id-31) *(Last modified: 2026-02-04)*
+- [linux-terminate-processes-in-linux-44](https://labex.io/fr/tutorials/linux-terminate-processes-in-linux-44) *(Last modified: 2026-02-04)*
 - [linux-terraform-basic-resource-creation-632658](https://labex.io/fr/tutorials/linux-terraform-basic-resource-creation-632658) *(Last modified: 2026-02-02)*
 - [linux-terraform-installation-632659](https://labex.io/fr/tutorials/linux-terraform-installation-632659) *(Last modified: 2026-02-02)*
 - [linux-terraform-modules-implementation-632660](https://labex.io/fr/tutorials/linux-terraform-modules-implementation-632660) *(Last modified: 2026-02-02)*
@@ -5770,7 +5770,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [linux-understanding-the-practical-applications-of-linux-392915](https://labex.io/fr/tutorials/linux-understanding-the-practical-applications-of-linux-392915) *(Last modified: 2025-10-11)*
 - [linux-unleashing-vidyutpada-linux-input-mastery-271366](https://labex.io/fr/tutorials/linux-unleashing-vidyutpada-linux-input-mastery-271366) *(Last modified: 2026-02-02)*
 - [linux-user-account-creation-632804](https://labex.io/fr/tutorials/linux-user-account-creation-632804) *(Last modified: 2026-02-02)*
-- [linux-user-account-management-49](https://labex.io/fr/tutorials/linux-user-account-management-49) *(Last modified: 2026-02-02)*
+- [linux-user-account-management-49](https://labex.io/fr/tutorials/linux-user-account-management-49) *(Last modified: 2026-02-04)*
 - [linux-users-and-groups-creation-and-deletion-batch-301458](https://labex.io/fr/tutorials/linux-users-and-groups-creation-and-deletion-batch-301458) *(Last modified: 2026-02-02)*
 - [linux-users-and-groups-creation-and-deletion-batch-301459](https://labex.io/fr/tutorials/linux-users-and-groups-creation-and-deletion-batch-301459) *(Last modified: 2025-10-11)*
 - [linux-using-hydra-to-crack-passwords-415960](https://labex.io/fr/tutorials/linux-using-hydra-to-crack-passwords-415960) *(Last modified: 2026-02-02)*
@@ -6727,7 +6727,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [numpy-numpy-broadcasting-596342](https://labex.io/fr/tutorials/numpy-numpy-broadcasting-596342) *(Last modified: 2026-02-02)*
 - [numpy-numpy-copies-and-views-596343](https://labex.io/fr/tutorials/numpy-numpy-copies-and-views-596343) *(Last modified: 2026-02-02)*
 - [numpy-numpy-data-types-596341](https://labex.io/fr/tutorials/numpy-numpy-data-types-596341) *(Last modified: 2026-02-02)*
-- [numpy-numpy-einsum-for-scientific-computing-4991](https://labex.io/fr/tutorials/numpy-numpy-einsum-for-scientific-computing-4991) *(Last modified: 2026-02-02)*
+- [numpy-numpy-einsum-for-scientific-computing-4991](https://labex.io/fr/tutorials/numpy-numpy-einsum-for-scientific-computing-4991) *(Last modified: 2026-02-04)*
 - [numpy-numpy-einsum-function-8001](https://labex.io/fr/tutorials/numpy-numpy-einsum-function-8001) *(Last modified: 2026-02-02)*
 - [numpy-numpy-file-io-127](https://labex.io/fr/tutorials/numpy-numpy-file-io-127) *(Last modified: 2025-10-11)*
 - [numpy-numpy-indexing-on-ndarrays-596339](https://labex.io/fr/tutorials/numpy-numpy-indexing-on-ndarrays-596339) *(Last modified: 2026-02-02)*
@@ -7112,7 +7112,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-camel-driver-training-for-desert-navigation-271562](https://labex.io/fr/tutorials/python-camel-driver-training-for-desert-navigation-271562) *(Last modified: 2025-10-11)*
 - [python-check-equality-of-two-integers-108246](https://labex.io/fr/tutorials/python-check-equality-of-two-integers-108246) *(Last modified: 2026-02-02)*
 - [python-circular-seating-arrangement-problem-solving-302749](https://labex.io/fr/tutorials/python-circular-seating-arrangement-problem-solving-302749) *(Last modified: 2025-10-11)*
-- [python-classes-and-objects-71](https://labex.io/fr/tutorials/python-classes-and-objects-71) *(Last modified: 2026-02-02)*
+- [python-classes-and-objects-71](https://labex.io/fr/tutorials/python-classes-and-objects-71) *(Last modified: 2026-02-04)*
 - [python-classic-pong-game-using-python-and-pygame-298856](https://labex.io/fr/tutorials/python-classic-pong-game-using-python-and-pygame-298856) *(Last modified: 2026-02-02)*
 - [python-classifying-iris-using-svm-300195](https://labex.io/fr/tutorials/python-classifying-iris-using-svm-300195) *(Last modified: 2026-02-02)*
 - [python-clear-code-encryption-implementation-302703](https://labex.io/fr/tutorials/python-clear-code-encryption-implementation-302703) *(Last modified: 2025-10-11)*
@@ -7125,7 +7125,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-course-management-and-data-comparison-302713](https://labex.io/fr/tutorials/python-course-management-and-data-comparison-302713) *(Last modified: 2025-10-11)*
 - [python-covid-19-data-analysis-with-python-302715](https://labex.io/fr/tutorials/python-covid-19-data-analysis-with-python-302715) *(Last modified: 2025-10-11)*
 - [python-cracking-website-passwords-using-python-415955](https://labex.io/fr/tutorials/python-cracking-website-passwords-using-python-415955) *(Last modified: 2026-02-02)*
-- [python-crafting-command-line-python-programs-73](https://labex.io/fr/tutorials/python-crafting-command-line-python-programs-73) *(Last modified: 2026-02-02)*
+- [python-crafting-command-line-python-programs-73](https://labex.io/fr/tutorials/python-crafting-command-line-python-programs-73) *(Last modified: 2026-02-04)*
 - [python-create-a-2048-game-with-python-tkinter-298860](https://labex.io/fr/tutorials/python-create-a-2048-game-with-python-tkinter-298860) *(Last modified: 2026-02-02)*
 - [python-create-a-gui-calculator-with-python-298861](https://labex.io/fr/tutorials/python-create-a-gui-calculator-with-python-298861) *(Last modified: 2026-02-02)*
 - [python-create-a-rocket-launch-countdown-393128](https://labex.io/fr/tutorials/python-create-a-rocket-launch-countdown-393128) *(Last modified: 2026-02-02)*
@@ -7137,7 +7137,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-data-cleaning-and-purification-with-python-300209](https://labex.io/fr/tutorials/python-data-cleaning-and-purification-with-python-300209) *(Last modified: 2025-10-11)*
 - [python-data-types-and-conversion-290726](https://labex.io/fr/tutorials/python-data-types-and-conversion-290726) *(Last modified: 2026-02-02)*
 - [python-date-and-time-manipulation-13613](https://labex.io/fr/tutorials/python-date-and-time-manipulation-13613) *(Last modified: 2026-02-02)*
-- [python-dates-and-times-75](https://labex.io/fr/tutorials/python-dates-and-times-75) *(Last modified: 2026-02-02)*
+- [python-dates-and-times-75](https://labex.io/fr/tutorials/python-dates-and-times-75) *(Last modified: 2026-02-04)*
 - [python-decrypting-the-triangle-cipher-302719](https://labex.io/fr/tutorials/python-decrypting-the-triangle-cipher-302719) *(Last modified: 2025-10-11)*
 - [python-define-and-use-functions-in-python-585759](https://labex.io/fr/tutorials/python-define-and-use-functions-in-python-585759) *(Last modified: 2026-02-02)*
 - [python-define-classes-and-objects-in-python-585760](https://labex.io/fr/tutorials/python-define-classes-and-objects-in-python-585760) *(Last modified: 2026-02-02)*
@@ -7150,9 +7150,9 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-encoding-label-to-one-hot-300216](https://labex.io/fr/tutorials/python-encoding-label-to-one-hot-300216) *(Last modified: 2025-10-11)*
 - [python-explore-python-development-tools-585762](https://labex.io/fr/tutorials/python-explore-python-development-tools-585762) *(Last modified: 2026-02-02)*
 - [python-explore-special-methods-in-python-classes-585763](https://labex.io/fr/tutorials/python-explore-special-methods-in-python-classes-585763) *(Last modified: 2026-02-02)*
-- [python-exploring-ipython-s-interactive-computing-features-83](https://labex.io/fr/tutorials/python-exploring-ipython-s-interactive-computing-features-83) *(Last modified: 2026-02-02)*
+- [python-exploring-ipython-s-interactive-computing-features-83](https://labex.io/fr/tutorials/python-exploring-ipython-s-interactive-computing-features-83) *(Last modified: 2026-02-04)*
 - [python-exploring-python-comments-in-magical-forest-271530](https://labex.io/fr/tutorials/python-exploring-python-comments-in-magical-forest-271530) *(Last modified: 2025-10-11)*
-- [python-exploring-python-s-built-in-math-functions-87](https://labex.io/fr/tutorials/python-exploring-python-s-built-in-math-functions-87) *(Last modified: 2026-02-02)*
+- [python-exploring-python-s-built-in-math-functions-87](https://labex.io/fr/tutorials/python-exploring-python-s-built-in-math-functions-87) *(Last modified: 2026-02-04)*
 - [python-exploring-python-s-collections-module-7837](https://labex.io/fr/tutorials/python-exploring-python-s-collections-module-7837) *(Last modified: 2026-02-02)*
 - [python-extract-information-from-parameters-302721](https://labex.io/fr/tutorials/python-extract-information-from-parameters-302721) *(Last modified: 2025-10-11)*
 - [python-extract-numbers-from-text-file-302772](https://labex.io/fr/tutorials/python-extract-numbers-from-text-file-302772) *(Last modified: 2025-10-11)*
@@ -7161,11 +7161,11 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-extracting-and-sorting-movie-data-from-json-302723](https://labex.io/fr/tutorials/python-extracting-and-sorting-movie-data-from-json-302723) *(Last modified: 2025-10-11)*
 - [python-extracting-user-input-information-302725](https://labex.io/fr/tutorials/python-extracting-user-input-information-302725) *(Last modified: 2025-10-11)*
 - [python-factorial-calculation-in-python-302699](https://labex.io/fr/tutorials/python-factorial-calculation-in-python-302699) *(Last modified: 2025-10-11)*
-- [python-file-and-folder-manipulation-77](https://labex.io/fr/tutorials/python-file-and-folder-manipulation-77) *(Last modified: 2026-02-02)*
+- [python-file-and-folder-manipulation-77](https://labex.io/fr/tutorials/python-file-and-folder-manipulation-77) *(Last modified: 2026-02-04)*
 - [python-find-cloned-soldiers-165959](https://labex.io/fr/tutorials/python-find-cloned-soldiers-165959) *(Last modified: 2026-02-02)*
 - [python-fix-the-incorrectly-implemented-lab-class-302729](https://labex.io/fr/tutorials/python-fix-the-incorrectly-implemented-lab-class-302729) *(Last modified: 2025-10-11)*
 - [python-flask-sqlite-database-setup-136336](https://labex.io/fr/tutorials/python-flask-sqlite-database-setup-136336) *(Last modified: 2026-02-02)*
-- [python-formatting-python-print-statements-91](https://labex.io/fr/tutorials/python-formatting-python-print-statements-91) *(Last modified: 2026-02-02)*
+- [python-formatting-python-print-statements-91](https://labex.io/fr/tutorials/python-formatting-python-print-statements-91) *(Last modified: 2026-02-04)*
 - [python-ftp-weak-password-scanner-using-python-298882](https://labex.io/fr/tutorials/python-ftp-weak-password-scanner-using-python-298882) *(Last modified: 2026-02-02)*
 - [python-generating-a-battle-report-302731](https://labex.io/fr/tutorials/python-generating-a-battle-report-302731) *(Last modified: 2025-10-11)*
 - [python-gravitational-simulation-of-earth-and-super-jupiter-298885](https://labex.io/fr/tutorials/python-gravitational-simulation-of-earth-and-super-jupiter-298885) *(Last modified: 2026-02-02)*
@@ -7173,7 +7173,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-handle-exceptions-with-try-except-in-python-585764](https://labex.io/fr/tutorials/python-handle-exceptions-with-try-except-in-python-585764) *(Last modified: 2026-02-02)*
 - [python-handle-input-and-output-in-python-585765](https://labex.io/fr/tutorials/python-handle-input-and-output-in-python-585765) *(Last modified: 2026-02-02)*
 - [python-handling-dates-in-any-year-302733](https://labex.io/fr/tutorials/python-handling-dates-in-any-year-302733) *(Last modified: 2025-10-11)*
-- [python-handling-python-syntax-errors-and-exceptions-80](https://labex.io/fr/tutorials/python-handling-python-syntax-errors-and-exceptions-80) *(Last modified: 2026-02-02)*
+- [python-handling-python-syntax-errors-and-exceptions-80](https://labex.io/fr/tutorials/python-handling-python-syntax-errors-and-exceptions-80) *(Last modified: 2026-02-04)*
 - [python-how-to-access-and-modify-attributes-of-a-python-object-395033](https://labex.io/fr/tutorials/python-how-to-access-and-modify-attributes-of-a-python-object-395033) *(Last modified: 2026-02-02)*
 - [python-how-to-access-nested-keys-in-a-python-json-object-395034](https://labex.io/fr/tutorials/python-how-to-access-nested-keys-in-a-python-json-object-395034) *(Last modified: 2026-02-02)*
 - [python-how-to-access-the-real-and-imaginary-parts-of-a-complex-number-in-python-397670](https://labex.io/fr/tutorials/python-how-to-access-the-real-and-imaginary-parts-of-a-complex-number-in-python-397670) *(Last modified: 2025-10-11)*
@@ -7716,7 +7716,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-implementing-minkowski-distance-metric-373572](https://labex.io/fr/tutorials/python-implementing-minkowski-distance-metric-373572) *(Last modified: 2025-10-11)*
 - [python-implementing-rail-fence-cipher-in-python-302758](https://labex.io/fr/tutorials/python-implementing-rail-fence-cipher-in-python-302758) *(Last modified: 2025-10-11)*
 - [python-import-modules-and-packages-in-python-585766](https://labex.io/fr/tutorials/python-import-modules-and-packages-in-python-585766) *(Last modified: 2026-02-02)*
-- [python-iterator-and-generator-84](https://labex.io/fr/tutorials/python-iterator-and-generator-84) *(Last modified: 2026-02-02)*
+- [python-iterator-and-generator-84](https://labex.io/fr/tutorials/python-iterator-and-generator-84) *(Last modified: 2026-02-04)*
 - [python-k-nearest-neighbors-regression-algorithm-implementation-300234](https://labex.io/fr/tutorials/python-k-nearest-neighbors-regression-algorithm-implementation-300234) *(Last modified: 2025-10-11)*
 - [python-leap-year-or-common-year-302741](https://labex.io/fr/tutorials/python-leap-year-or-common-year-302741) *(Last modified: 2025-10-11)*
 - [python-linux-system-monitor-using-tkinter-298891](https://labex.io/fr/tutorials/python-linux-system-monitor-using-tkinter-298891) *(Last modified: 2026-02-02)*
@@ -7724,7 +7724,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-manage-dictionaries-in-python-585767](https://labex.io/fr/tutorials/python-manage-dictionaries-in-python-585767) *(Last modified: 2026-02-02)*
 - [python-managing-specific-dates-in-a-year-302743](https://labex.io/fr/tutorials/python-managing-specific-dates-in-a-year-302743) *(Last modified: 2025-10-11)*
 - [python-manipulate-lists-in-python-585768](https://labex.io/fr/tutorials/python-manipulate-lists-in-python-585768) *(Last modified: 2026-02-02)*
-- [python-manipulating-python-lists-fundamentals-64](https://labex.io/fr/tutorials/python-manipulating-python-lists-fundamentals-64) *(Last modified: 2026-02-02)*
+- [python-manipulating-python-lists-fundamentals-64](https://labex.io/fr/tutorials/python-manipulating-python-lists-fundamentals-64) *(Last modified: 2026-02-04)*
 - [python-matplotlib-histogram-tutorial-48770](https://labex.io/fr/tutorials/python-matplotlib-histogram-tutorial-48770) *(Last modified: 2026-02-02)*
 - [python-matplotlib-image-layering-tutorial-48799](https://labex.io/fr/tutorials/python-matplotlib-image-layering-tutorial-48799) *(Last modified: 2026-02-02)*
 - [python-matplotlib-mandelbrot-visualization-48818](https://labex.io/fr/tutorials/python-matplotlib-mandelbrot-visualization-48818) *(Last modified: 2026-02-02)*
@@ -7735,11 +7735,11 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-matrix-operations-row-swapping-302745](https://labex.io/fr/tutorials/python-matrix-operations-row-swapping-302745) *(Last modified: 2025-10-11)*
 - [python-meaningful-urls-for-dynamic-web-applications-148877](https://labex.io/fr/tutorials/python-meaningful-urls-for-dynamic-web-applications-148877) *(Last modified: 2026-02-02)*
 - [python-minimal-flask-web-application-148558](https://labex.io/fr/tutorials/python-minimal-flask-web-application-148558) *(Last modified: 2026-02-02)*
-- [python-modules-and-packages-89](https://labex.io/fr/tutorials/python-modules-and-packages-89) *(Last modified: 2026-02-02)*
+- [python-modules-and-packages-89](https://labex.io/fr/tutorials/python-modules-and-packages-89) *(Last modified: 2026-02-04)*
 - [python-monty-hall-problem-simulation-using-tkinter-298896](https://labex.io/fr/tutorials/python-monty-hall-problem-simulation-using-tkinter-298896) *(Last modified: 2026-02-02)*
 - [python-numpy-advanced-topics-11](https://labex.io/fr/tutorials/python-numpy-advanced-topics-11) *(Last modified: 2025-10-11)*
 - [python-numpy-arrays-and-data-types-4996](https://labex.io/fr/tutorials/python-numpy-arrays-and-data-types-4996) *(Last modified: 2025-10-11)*
-- [python-numpy-math-games-10](https://labex.io/fr/tutorials/python-numpy-math-games-10) *(Last modified: 2026-02-02)*
+- [python-numpy-math-games-10](https://labex.io/fr/tutorials/python-numpy-math-games-10) *(Last modified: 2026-02-04)*
 - [python-numpy-slicing-and-indexing-352](https://labex.io/fr/tutorials/python-numpy-slicing-and-indexing-352) *(Last modified: 2025-10-11)*
 - [python-object-model-internals-132713](https://labex.io/fr/tutorials/python-object-model-internals-132713) *(Last modified: 2026-02-02)*
 - [python-object-system-fundamentals-132724](https://labex.io/fr/tutorials/python-object-system-fundamentals-132724) *(Last modified: 2026-02-02)*
@@ -7751,21 +7751,21 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-ordinary-least-squares-in-python-300247](https://labex.io/fr/tutorials/python-ordinary-least-squares-in-python-300247) *(Last modified: 2025-10-11)*
 - [python-organizing-palace-inventory-with-python-lists-271570](https://labex.io/fr/tutorials/python-organizing-palace-inventory-with-python-lists-271570) *(Last modified: 2025-10-11)*
 - [python-perfect-number-finder-project-302754](https://labex.io/fr/tutorials/python-perfect-number-finder-project-302754) *(Last modified: 2025-10-11)*
-- [python-person-data-extraction-67](https://labex.io/fr/tutorials/python-person-data-extraction-67) *(Last modified: 2026-02-02)*
-- [python-play-with-your-text-data-130](https://labex.io/fr/tutorials/python-play-with-your-text-data-130) *(Last modified: 2026-02-02)*
+- [python-person-data-extraction-67](https://labex.io/fr/tutorials/python-person-data-extraction-67) *(Last modified: 2026-02-04)*
+- [python-play-with-your-text-data-130](https://labex.io/fr/tutorials/python-play-with-your-text-data-130) *(Last modified: 2026-02-04)*
 - [python-polybius-square-encryption-in-python-302701](https://labex.io/fr/tutorials/python-polybius-square-encryption-in-python-302701) *(Last modified: 2025-10-11)*
-- [python-print-hello-python-61](https://labex.io/fr/tutorials/python-print-hello-python-61) *(Last modified: 2026-02-02)*
+- [python-print-hello-python-61](https://labex.io/fr/tutorials/python-print-hello-python-61) *(Last modified: 2026-02-04)*
 - [python-programming-introduction-132700](https://labex.io/fr/tutorials/python-programming-introduction-132700) *(Last modified: 2026-02-02)*
 - [python-push-box-game-with-pygame-298899](https://labex.io/fr/tutorials/python-push-box-game-with-pygame-298899) *(Last modified: 2026-02-02)*
 - [python-python-arguments-and-return-values-271519](https://labex.io/fr/tutorials/python-python-arguments-and-return-values-271519) *(Last modified: 2025-10-11)*
 - [python-python-assignment-and-reference-14103](https://labex.io/fr/tutorials/python-python-assignment-and-reference-14103) *(Last modified: 2026-02-02)*
-- [python-python-assignment-expressions-5002](https://labex.io/fr/tutorials/python-python-assignment-expressions-5002) *(Last modified: 2026-02-02)*
+- [python-python-assignment-expressions-5002](https://labex.io/fr/tutorials/python-python-assignment-expressions-5002) *(Last modified: 2026-02-04)*
 - [python-python-break-and-continue-271523](https://labex.io/fr/tutorials/python-python-break-and-continue-271523) *(Last modified: 2025-10-11)*
 - [python-python-build-in-functions-271524](https://labex.io/fr/tutorials/python-python-build-in-functions-271524) *(Last modified: 2025-10-11)*
 - [python-python-catching-exceptions-271525](https://labex.io/fr/tutorials/python-python-catching-exceptions-271525) *(Last modified: 2025-10-11)*
 - [python-python-class-methods-and-static-methods-271527](https://labex.io/fr/tutorials/python-python-class-methods-and-static-methods-271527) *(Last modified: 2025-10-11)*
 - [python-python-classes-and-objects-271528](https://labex.io/fr/tutorials/python-python-classes-and-objects-271528) *(Last modified: 2025-10-11)*
-- [python-python-code-comments-72](https://labex.io/fr/tutorials/python-python-code-comments-72) *(Last modified: 2026-02-02)*
+- [python-python-code-comments-72](https://labex.io/fr/tutorials/python-python-code-comments-72) *(Last modified: 2026-02-04)*
 - [python-python-common-standard-libraries-271593](https://labex.io/fr/tutorials/python-python-common-standard-libraries-271593) *(Last modified: 2025-10-11)*
 - [python-python-conditional-statements-271532](https://labex.io/fr/tutorials/python-python-conditional-statements-271532) *(Last modified: 2025-10-11)*
 - [python-python-constructors-for-imperial-artifacts-271534](https://labex.io/fr/tutorials/python-python-constructors-for-imperial-artifacts-271534) *(Last modified: 2025-10-11)*
@@ -7777,11 +7777,11 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-python-data-collections-271540](https://labex.io/fr/tutorials/python-python-data-collections-271540) *(Last modified: 2025-10-11)*
 - [python-python-data-serialization-271541](https://labex.io/fr/tutorials/python-python-data-serialization-271541) *(Last modified: 2025-10-11)*
 - [python-python-data-structures-393168](https://labex.io/fr/tutorials/python-python-data-structures-393168) *(Last modified: 2026-02-02)*
-- [python-python-data-structures-fundamentals-74](https://labex.io/fr/tutorials/python-python-data-structures-fundamentals-74) *(Last modified: 2026-02-02)*
+- [python-python-data-structures-fundamentals-74](https://labex.io/fr/tutorials/python-python-data-structures-fundamentals-74) *(Last modified: 2026-02-04)*
 - [python-python-data-types-and-operators-393077](https://labex.io/fr/tutorials/python-python-data-types-and-operators-393077) *(Last modified: 2026-02-02)*
 - [python-python-data-visualization-271542](https://labex.io/fr/tutorials/python-python-data-visualization-271542) *(Last modified: 2025-10-11)*
 - [python-python-date-and-time-271543](https://labex.io/fr/tutorials/python-python-date-and-time-271543) *(Last modified: 2025-10-11)*
-- [python-python-decorator-fundamentals-76](https://labex.io/fr/tutorials/python-python-decorator-fundamentals-76) *(Last modified: 2026-02-02)*
+- [python-python-decorator-fundamentals-76](https://labex.io/fr/tutorials/python-python-decorator-fundamentals-76) *(Last modified: 2026-02-04)*
 - [python-python-default-arguments-271545](https://labex.io/fr/tutorials/python-python-default-arguments-271545) *(Last modified: 2025-10-11)*
 - [python-python-dictionaries-for-stellar-exploration-271547](https://labex.io/fr/tutorials/python-python-dictionaries-for-stellar-exploration-271547) *(Last modified: 2025-10-11)*
 - [python-python-encapsulation-secrets-271548](https://labex.io/fr/tutorials/python-python-encapsulation-secrets-271548) *(Last modified: 2025-10-11)*
@@ -7790,7 +7790,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-python-finally-block-271554](https://labex.io/fr/tutorials/python-python-finally-block-271554) *(Last modified: 2025-10-11)*
 - [python-python-for-loops-271556](https://labex.io/fr/tutorials/python-python-for-loops-271556) *(Last modified: 2025-10-11)*
 - [python-python-function-definition-271557](https://labex.io/fr/tutorials/python-python-function-definition-271557) *(Last modified: 2025-10-11)*
-- [python-python-function-fundamentals-79](https://labex.io/fr/tutorials/python-python-function-fundamentals-79) *(Last modified: 2026-02-02)*
+- [python-python-function-fundamentals-79](https://labex.io/fr/tutorials/python-python-function-fundamentals-79) *(Last modified: 2026-02-04)*
 - [python-python-functions-and-modules-393141](https://labex.io/fr/tutorials/python-python-functions-and-modules-393141) *(Last modified: 2026-02-02)*
 - [python-python-generators-to-haunt-sanatorium-271558](https://labex.io/fr/tutorials/python-python-generators-to-haunt-sanatorium-271558) *(Last modified: 2025-10-11)*
 - [python-python-http-requests-271559](https://labex.io/fr/tutorials/python-python-http-requests-271559) *(Last modified: 2025-10-11)*
@@ -7802,9 +7802,9 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-python-keyword-arguments-271565](https://labex.io/fr/tutorials/python-python-keyword-arguments-271565) *(Last modified: 2025-10-11)*
 - [python-python-lambda-functions-271566](https://labex.io/fr/tutorials/python-python-lambda-functions-271566) *(Last modified: 2025-10-11)*
 - [python-python-list-comprehensions-271568](https://labex.io/fr/tutorials/python-python-list-comprehensions-271568) *(Last modified: 2025-10-11)*
-- [python-python-loops-and-ranges-78](https://labex.io/fr/tutorials/python-python-loops-and-ranges-78) *(Last modified: 2026-02-02)*
+- [python-python-loops-and-ranges-78](https://labex.io/fr/tutorials/python-python-loops-and-ranges-78) *(Last modified: 2026-02-04)*
 - [python-python-machine-learning-271572](https://labex.io/fr/tutorials/python-python-machine-learning-271572) *(Last modified: 2025-10-11)*
-- [python-python-math-and-augmented-assignment-88](https://labex.io/fr/tutorials/python-python-math-and-augmented-assignment-88) *(Last modified: 2026-02-02)*
+- [python-python-math-and-augmented-assignment-88](https://labex.io/fr/tutorials/python-python-math-and-augmented-assignment-88) *(Last modified: 2026-02-04)*
 - [python-python-math-and-random-271573](https://labex.io/fr/tutorials/python-python-math-and-random-271573) *(Last modified: 2025-10-11)*
 - [python-python-multiprocessing-for-parallel-execution-7843](https://labex.io/fr/tutorials/python-python-multiprocessing-for-parallel-execution-7843) *(Last modified: 2026-02-02)*
 - [python-python-multithreading-and-multiprocessing-271599](https://labex.io/fr/tutorials/python-python-multithreading-and-multiprocessing-271599) *(Last modified: 2025-10-11)*
@@ -7813,31 +7813,31 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-python-numerical-computing-271577](https://labex.io/fr/tutorials/python-python-numerical-computing-271577) *(Last modified: 2025-10-11)*
 - [python-python-opening-and-closing-files-271549](https://labex.io/fr/tutorials/python-python-opening-and-closing-files-271549) *(Last modified: 2025-10-11)*
 - [python-python-operating-system-and-system-271578](https://labex.io/fr/tutorials/python-python-operating-system-and-system-271578) *(Last modified: 2025-10-11)*
-- [python-python-operators-for-decision-making-90](https://labex.io/fr/tutorials/python-python-operators-for-decision-making-90) *(Last modified: 2026-02-02)*
+- [python-python-operators-for-decision-making-90](https://labex.io/fr/tutorials/python-python-operators-for-decision-making-90) *(Last modified: 2026-02-04)*
 - [python-python-python-shell-271582](https://labex.io/fr/tutorials/python-python-python-shell-271582) *(Last modified: 2025-10-11)*
 - [python-python-raising-exceptions-271583](https://labex.io/fr/tutorials/python-python-raising-exceptions-271583) *(Last modified: 2025-10-11)*
 - [python-python-reading-and-writing-files-271552](https://labex.io/fr/tutorials/python-python-reading-and-writing-files-271552) *(Last modified: 2025-10-11)*
-- [python-python-regular-expressions-93](https://labex.io/fr/tutorials/python-python-regular-expressions-93) *(Last modified: 2026-02-02)*
+- [python-python-regular-expressions-93](https://labex.io/fr/tutorials/python-python-regular-expressions-93) *(Last modified: 2026-02-04)*
 - [python-python-regular-expressions-basics-271586](https://labex.io/fr/tutorials/python-python-regular-expressions-basics-271586) *(Last modified: 2025-10-11)*
-- [python-python-s-conditional-statements-82](https://labex.io/fr/tutorials/python-python-s-conditional-statements-82) *(Last modified: 2026-02-02)*
+- [python-python-s-conditional-statements-82](https://labex.io/fr/tutorials/python-python-s-conditional-statements-82) *(Last modified: 2026-02-04)*
 - [python-python-scope-mastery-architect-the-pythonic-realm-271588](https://labex.io/fr/tutorials/python-python-scope-mastery-architect-the-pythonic-realm-271588) *(Last modified: 2025-10-11)*
 - [python-python-sets-management-lab-271590](https://labex.io/fr/tutorials/python-python-sets-management-lab-271590) *(Last modified: 2025-10-11)*
 - [python-python-socket-programming-271592](https://labex.io/fr/tutorials/python-python-socket-programming-271592) *(Last modified: 2025-10-11)*
-- [python-python-sqlite3-programming-1396](https://labex.io/fr/tutorials/python-python-sqlite3-programming-1396) *(Last modified: 2026-02-02)*
+- [python-python-sqlite3-programming-1396](https://labex.io/fr/tutorials/python-python-sqlite3-programming-1396) *(Last modified: 2026-02-04)*
 - [python-python-string-manipulation-mastery-271597](https://labex.io/fr/tutorials/python-python-string-manipulation-mastery-271597) *(Last modified: 2025-10-11)*
-- [python-python-string-manipulation-techniques-86](https://labex.io/fr/tutorials/python-python-string-manipulation-techniques-86) *(Last modified: 2026-02-02)*
+- [python-python-string-manipulation-techniques-86](https://labex.io/fr/tutorials/python-python-string-manipulation-techniques-86) *(Last modified: 2026-02-04)*
 - [python-python-tuple-mastery-in-virtual-arena-271600](https://labex.io/fr/tutorials/python-python-tuple-mastery-in-virtual-arena-271600) *(Last modified: 2025-10-11)*
 - [python-python-type-conversion-271602](https://labex.io/fr/tutorials/python-python-type-conversion-271602) *(Last modified: 2025-10-11)*
 - [python-python-typing-enhancing-code-readability-7848](https://labex.io/fr/tutorials/python-python-typing-enhancing-code-readability-7848) *(Last modified: 2026-02-02)*
 - [python-python-using-packages-271603](https://labex.io/fr/tutorials/python-python-using-packages-271603) *(Last modified: 2025-10-11)*
 - [python-python-using-with-statement-271608](https://labex.io/fr/tutorials/python-python-using-with-statement-271608) *(Last modified: 2025-10-11)*
 - [python-python-variables-and-data-types-271605](https://labex.io/fr/tutorials/python-python-variables-and-data-types-271605) *(Last modified: 2026-02-02)*
-- [python-python-virtual-environment-management-96](https://labex.io/fr/tutorials/python-python-virtual-environment-management-96) *(Last modified: 2026-02-02)*
+- [python-python-virtual-environment-management-96](https://labex.io/fr/tutorials/python-python-virtual-environment-management-96) *(Last modified: 2026-02-04)*
 - [python-python-while-loops-271607](https://labex.io/fr/tutorials/python-python-while-loops-271607) *(Last modified: 2025-10-11)*
-- [python-pythonic-json-data-handling-85](https://labex.io/fr/tutorials/python-pythonic-json-data-handling-85) *(Last modified: 2026-02-02)*
+- [python-pythonic-json-data-handling-85](https://labex.io/fr/tutorials/python-pythonic-json-data-handling-85) *(Last modified: 2026-02-04)*
 - [python-qr-code-generator-using-python-298900](https://labex.io/fr/tutorials/python-qr-code-generator-using-python-298900) *(Last modified: 2026-02-02)*
 - [python-racing-game-using-pygame-298901](https://labex.io/fr/tutorials/python-racing-game-using-pygame-298901) *(Last modified: 2026-02-02)*
-- [python-reading-and-writing-files-92](https://labex.io/fr/tutorials/python-reading-and-writing-files-92) *(Last modified: 2026-02-02)*
+- [python-reading-and-writing-files-92](https://labex.io/fr/tutorials/python-reading-and-writing-files-92) *(Last modified: 2026-02-04)*
 - [python-real-time-chatroom-with-flask-and-redis-298873](https://labex.io/fr/tutorials/python-real-time-chatroom-with-flask-and-redis-298873) *(Last modified: 2026-02-02)*
 - [python-recursive-functions-in-python-271585](https://labex.io/fr/tutorials/python-recursive-functions-in-python-271585) *(Last modified: 2025-10-11)*
 - [python-reverse-shell-to-control-multiple-targets-415967](https://labex.io/fr/tutorials/python-reverse-shell-to-control-multiple-targets-415967) *(Last modified: 2026-02-02)*
@@ -7862,9 +7862,9 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-sum-of-a-special-number-series-302776](https://labex.io/fr/tutorials/python-sum-of-a-special-number-series-302776) *(Last modified: 2025-10-11)*
 - [python-sum-of-prime-numbers-under-100-302778](https://labex.io/fr/tutorials/python-sum-of-prime-numbers-under-100-302778) *(Last modified: 2025-10-11)*
 - [python-swap-values-of-3-variables-302780](https://labex.io/fr/tutorials/python-swap-values-of-3-variables-302780) *(Last modified: 2025-10-11)*
-- [python-switch-case-statements-94](https://labex.io/fr/tutorials/python-switch-case-statements-94) *(Last modified: 2026-02-02)*
+- [python-switch-case-statements-94](https://labex.io/fr/tutorials/python-switch-case-statements-94) *(Last modified: 2026-02-04)*
 - [python-testing-essentials-132735](https://labex.io/fr/tutorials/python-testing-essentials-132735) *(Last modified: 2026-02-02)*
-- [python-testing-your-code-247](https://labex.io/fr/tutorials/python-testing-your-code-247) *(Last modified: 2026-02-02)*
+- [python-testing-your-code-247](https://labex.io/fr/tutorials/python-testing-your-code-247) *(Last modified: 2026-02-04)*
 - [python-text-tokenization-with-python-302774](https://labex.io/fr/tutorials/python-text-tokenization-with-python-302774) *(Last modified: 2025-10-11)*
 - [python-the-power-and-flexibility-of-f-string-7847](https://labex.io/fr/tutorials/python-the-power-and-flexibility-of-f-string-7847) *(Last modified: 2026-02-02)*
 - [python-time-travel-destination-calculator-302782](https://labex.io/fr/tutorials/python-time-travel-destination-calculator-302782) *(Last modified: 2025-10-11)*
@@ -7886,7 +7886,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-unlocking-ancient-computing-with-python-booleans-271521](https://labex.io/fr/tutorials/python-unlocking-ancient-computing-with-python-booleans-271521) *(Last modified: 2025-10-11)*
 - [python-use-lambda-functions-in-python-585782](https://labex.io/fr/tutorials/python-use-lambda-functions-in-python-585782) *(Last modified: 2026-02-02)*
 - [python-use-vs-code-for-python-development-585783](https://labex.io/fr/tutorials/python-use-vs-code-for-python-development-585783) *(Last modified: 2026-02-02)*
-- [python-variable-type-conversion-95](https://labex.io/fr/tutorials/python-variable-type-conversion-95) *(Last modified: 2026-02-02)*
+- [python-variable-type-conversion-95](https://labex.io/fr/tutorials/python-variable-type-conversion-95) *(Last modified: 2026-02-04)*
 - [python-variables-and-memory-addresses-7849](https://labex.io/fr/tutorials/python-variables-and-memory-addresses-7849) *(Last modified: 2026-02-02)*
 - [python-webbrowser-package-basic-8689](https://labex.io/fr/tutorials/python-webbrowser-package-basic-8689) *(Last modified: 2026-02-02)*
 - [python-weekly-report-template-creation-302784](https://labex.io/fr/tutorials/python-weekly-report-template-creation-302784) *(Last modified: 2025-10-11)*
@@ -7897,7 +7897,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [python-what-is-the-best-way-to-handle-date-and-time-calculations-in-python-395117](https://labex.io/fr/tutorials/python-what-is-the-best-way-to-handle-date-and-time-calculations-in-python-395117) *(Last modified: 2025-10-11)*
 - [python-what-is-the-difference-between-positional-arguments-and-optional-arguments-in-python-s-argparse-module-397717](https://labex.io/fr/tutorials/python-what-is-the-difference-between-positional-arguments-and-optional-arguments-in-python-s-argparse-module-397717) *(Last modified: 2026-02-02)*
 - [python-what-is-the-time-complexity-of-list-append-and-remove-operations-in-python-397728](https://labex.io/fr/tutorials/python-what-is-the-time-complexity-of-list-append-and-remove-operations-in-python-397728) *(Last modified: 2025-10-11)*
-- [python-while-loop-statements-97](https://labex.io/fr/tutorials/python-while-loop-statements-97) *(Last modified: 2026-02-02)*
+- [python-while-loop-statements-97](https://labex.io/fr/tutorials/python-while-loop-statements-97) *(Last modified: 2026-02-04)*
 - [python-work-with-sets-in-python-585784](https://labex.io/fr/tutorials/python-work-with-sets-in-python-585784) *(Last modified: 2026-02-02)*
 - [python-work-with-strings-in-python-585785](https://labex.io/fr/tutorials/python-work-with-strings-in-python-585785) *(Last modified: 2026-02-02)*
 - [python-write-and-debug-a-simple-python-program-585786](https://labex.io/fr/tutorials/python-write-and-debug-a-simple-python-program-585786) *(Last modified: 2026-02-02)*
