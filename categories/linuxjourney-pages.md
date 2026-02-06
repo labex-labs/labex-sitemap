@@ -4,7 +4,7 @@ layout: default
 
 # Linuxjourney-Pages Sitemap
 
-> Last updated: 2026-02-05 00:06 UTC
+> Last updated: 2026-02-06 00:03 UTC
 
 This file contains all linuxjourney-pages related links from LabEx website.
 
