@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2026-02-06 00:03 UTC
+> Last updated: 2026-02-07 00:05 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -10563,7 +10563,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-web-development-interview-questions-and-answers-593705](https://labex.io/tutorials/linux-web-development-interview-questions-and-answers-593705) *(Last modified: 2026-01-17)*
 - [linux-word-count-and-sorting-388125](https://labex.io/tutorials/linux-word-count-and-sorting-388125) *(Last modified: 2026-02-04)*
 - [linux-yarn-architecture-and-development-272324](https://labex.io/tutorials/linux-yarn-architecture-and-development-272324) *(Last modified: 2026-02-04)*
-- [linux-your-first-linux-lab-270253](https://labex.io/tutorials/linux-your-first-linux-lab-270253) *(Last modified: 2026-02-04)*
+- [linux-your-first-linux-lab-270253](https://labex.io/tutorials/linux-your-first-linux-lab-270253) *(Last modified: 2026-02-06)*
 - [list-all-git-aliases-12737](https://labex.io/tutorials/list-all-git-aliases-12737) *(Last modified: 2026-02-04)*
 - [list-all-stashes-12738](https://labex.io/tutorials/list-all-stashes-12738) *(Last modified: 2026-02-04)*
 - [list-comprehension-for-processing-items-132712](https://labex.io/tutorials/list-comprehension-for-processing-items-132712) *(Last modified: 2026-02-04)*
@@ -14624,7 +14624,7 @@ This file contains all tutorials related links from LabEx website.
 - [python-monty-hall-problem-simulation-using-tkinter-298896](https://labex.io/tutorials/python-monty-hall-problem-simulation-using-tkinter-298896) *(Last modified: 2026-02-04)*
 - [python-numpy-advanced-topics-11](https://labex.io/tutorials/python-numpy-advanced-topics-11) *(Last modified: 2025-10-11)*
 - [python-numpy-arrays-and-data-types-4996](https://labex.io/tutorials/python-numpy-arrays-and-data-types-4996) *(Last modified: 2025-10-11)*
-- [python-numpy-math-games-10](https://labex.io/tutorials/python-numpy-math-games-10) *(Last modified: 2026-02-04)*
+- [python-numpy-math-games-10](https://labex.io/tutorials/python-numpy-math-games-10) *(Last modified: 2026-02-06)*
 - [python-numpy-slicing-and-indexing-352](https://labex.io/tutorials/python-numpy-slicing-and-indexing-352) *(Last modified: 2025-10-11)*
 - [python-object-model-internals-132713](https://labex.io/tutorials/python-object-model-internals-132713) *(Last modified: 2026-02-04)*
 - [python-object-system-fundamentals-132724](https://labex.io/tutorials/python-object-system-fundamentals-132724) *(Last modified: 2026-02-04)*
