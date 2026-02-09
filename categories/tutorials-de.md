@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-De Sitemap
 
-> Last updated: 2026-02-08 00:08 UTC
+> Last updated: 2026-02-09 00:06 UTC
 
 This file contains all tutorials-de related links from LabEx website.
 
@@ -5212,17 +5212,17 @@ This file contains all tutorials-de related links from LabEx website.
 - [linear-regression-with-sparsity-example-49229](https://labex.io/de/tutorials/linear-regression-with-sparsity-example-49229) *(Last modified: 2026-02-06)*
 - [linearsvc-support-vectors-49197](https://labex.io/de/tutorials/linearsvc-support-vectors-49197) *(Last modified: 2026-02-06)*
 - [linux-add-logging-to-the-system-monitor-299447](https://labex.io/de/tutorials/linux-add-logging-to-the-system-monitor-299447) *(Last modified: 2026-02-06)*
-- [linux-add-new-user-and-group-17987](https://labex.io/de/tutorials/linux-add-new-user-and-group-17987) *(Last modified: 2026-02-06)*
-- [linux-analyze-historical-commands-17988](https://labex.io/de/tutorials/linux-analyze-historical-commands-17988) *(Last modified: 2026-02-06)*
+- [linux-add-new-user-and-group-17987](https://labex.io/de/tutorials/linux-add-new-user-and-group-17987) *(Last modified: 2026-02-08)*
+- [linux-analyze-historical-commands-17988](https://labex.io/de/tutorials/linux-analyze-historical-commands-17988) *(Last modified: 2026-02-08)*
 - [linux-analyzing-disk-usage-7775](https://labex.io/de/tutorials/linux-analyzing-disk-usage-7775) *(Last modified: 2026-02-06)*
 - [linux-analyzing-path-directories-385344](https://labex.io/de/tutorials/linux-analyzing-path-directories-385344) *(Last modified: 2026-02-06)*
 - [linux-asymmetric-encryption-with-rsa-in-cryptography-632719](https://labex.io/de/tutorials/linux-asymmetric-encryption-with-rsa-in-cryptography-632719) *(Last modified: 2026-02-06)*
 - [linux-automated-daily-system-log-backup-301479](https://labex.io/de/tutorials/linux-automated-daily-system-log-backup-301479) *(Last modified: 2026-01-09)*
 - [linux-background-job-management-43](https://labex.io/de/tutorials/linux-background-job-management-43) *(Last modified: 2026-02-06)*
-- [linux-backup-system-log-17989](https://labex.io/de/tutorials/linux-backup-system-log-17989) *(Last modified: 2026-02-06)*
+- [linux-backup-system-log-17989](https://labex.io/de/tutorials/linux-backup-system-log-17989) *(Last modified: 2026-02-08)*
 - [linux-bash-trap-command-388820](https://labex.io/de/tutorials/linux-bash-trap-command-388820) *(Last modified: 2026-02-06)*
-- [linux-basic-file-operations-in-linux-18001](https://labex.io/de/tutorials/linux-basic-file-operations-in-linux-18001) *(Last modified: 2026-02-06)*
-- [linux-basic-files-operations-270248](https://labex.io/de/tutorials/linux-basic-files-operations-270248) *(Last modified: 2026-02-06)*
+- [linux-basic-file-operations-in-linux-18001](https://labex.io/de/tutorials/linux-basic-file-operations-in-linux-18001) *(Last modified: 2026-02-08)*
+- [linux-basic-files-operations-270248](https://labex.io/de/tutorials/linux-basic-files-operations-270248) *(Last modified: 2026-02-08)*
 - [linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720](https://labex.io/de/tutorials/linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720) *(Last modified: 2026-02-06)*
 - [linux-basic-public-key-infrastructure-pki-in-cryptography-632757](https://labex.io/de/tutorials/linux-basic-public-key-infrastructure-pki-in-cryptography-632757) *(Last modified: 2026-02-06)*
 - [linux-build-a-backdoor-in-netcat-549927](https://labex.io/de/tutorials/linux-build-a-backdoor-in-netcat-549927) *(Last modified: 2026-01-08)*
@@ -5234,7 +5234,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-commands-full-list-practical-examples-423950](https://labex.io/de/tutorials/linux-commands-full-list-practical-examples-423950) *(Last modified: 2026-01-17)*
 - [linux-conditional-statements-in-shell-388815](https://labex.io/de/tutorials/linux-conditional-statements-in-shell-388815) *(Last modified: 2026-02-06)*
 - [linux-configure-development-environment-385293](https://labex.io/de/tutorials/linux-configure-development-environment-385293) *(Last modified: 2026-02-06)*
-- [linux-configure-linux-environment-variables-437861](https://labex.io/de/tutorials/linux-configure-linux-environment-variables-437861) *(Last modified: 2026-02-06)*
+- [linux-configure-linux-environment-variables-437861](https://labex.io/de/tutorials/linux-configure-linux-environment-variables-437861) *(Last modified: 2026-02-08)*
 - [linux-configuring-ssh-certificates-for-secure-login-301461](https://labex.io/de/tutorials/linux-configuring-ssh-certificates-for-secure-login-301461) *(Last modified: 2025-10-11)*
 - [linux-configuring-storage-devices-632793](https://labex.io/de/tutorials/linux-configuring-storage-devices-632793) *(Last modified: 2026-02-06)*
 - [linux-configuring-wireless-connections-632794](https://labex.io/de/tutorials/linux-configuring-wireless-connections-632794) *(Last modified: 2026-02-06)*
@@ -5244,22 +5244,22 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-count-lines-of-code-with-cloc-273383](https://labex.io/de/tutorials/linux-count-lines-of-code-with-cloc-273383) *(Last modified: 2026-02-06)*
 - [linux-cracking-a-specific-user-account-415951](https://labex.io/de/tutorials/linux-cracking-a-specific-user-account-415951) *(Last modified: 2026-02-06)*
 - [linux-crafting-striking-terminal-text-with-figlet-272383](https://labex.io/de/tutorials/linux-crafting-striking-terminal-text-with-figlet-272383) *(Last modified: 2026-02-06)*
-- [linux-create-personalized-terminal-greeting-446322](https://labex.io/de/tutorials/linux-create-personalized-terminal-greeting-446322) *(Last modified: 2026-02-06)*
+- [linux-create-personalized-terminal-greeting-446322](https://labex.io/de/tutorials/linux-create-personalized-terminal-greeting-446322) *(Last modified: 2026-02-08)*
 - [linux-creating-a-typing-game-using-bash-298847](https://labex.io/de/tutorials/linux-creating-a-typing-game-using-bash-298847) *(Last modified: 2026-02-06)*
 - [linux-customizing-linux-file-listing-301467](https://labex.io/de/tutorials/linux-customizing-linux-file-listing-301467) *(Last modified: 2026-01-09)*
 - [linux-data-science-interview-questions-and-answers-593678](https://labex.io/de/tutorials/linux-data-science-interview-questions-and-answers-593678) *(Last modified: 2026-01-17)*
-- [linux-data-stream-redirection-17995](https://labex.io/de/tutorials/linux-data-stream-redirection-17995) *(Last modified: 2026-02-06)*
+- [linux-data-stream-redirection-17995](https://labex.io/de/tutorials/linux-data-stream-redirection-17995) *(Last modified: 2026-02-08)*
 - [linux-database-interview-questions-and-answers-593677](https://labex.io/de/tutorials/linux-database-interview-questions-and-answers-593677) *(Last modified: 2026-01-17)*
-- [linux-day-1-the-lay-of-the-land-596200](https://labex.io/de/tutorials/linux-day-1-the-lay-of-the-land-596200) *(Last modified: 2026-02-06)*
-- [linux-day-10-the-script-artisan-596613](https://labex.io/de/tutorials/linux-day-10-the-script-artisan-596613) *(Last modified: 2026-02-06)*
-- [linux-day-2-the-digital-architect-596201](https://labex.io/de/tutorials/linux-day-2-the-digital-architect-596201) *(Last modified: 2026-02-06)*
-- [linux-day-3-the-log-investigator-596202](https://labex.io/de/tutorials/linux-day-3-the-log-investigator-596202) *(Last modified: 2026-02-06)*
-- [linux-day-4-the-fortress-guardian-596203](https://labex.io/de/tutorials/linux-day-4-the-fortress-guardian-596203) *(Last modified: 2026-02-06)*
-- [linux-day-5-the-keeper-of-the-keys-596204](https://labex.io/de/tutorials/linux-day-5-the-keeper-of-the-keys-596204) *(Last modified: 2026-02-06)*
-- [linux-day-6-the-process-overseer-596618](https://labex.io/de/tutorials/linux-day-6-the-process-overseer-596618) *(Last modified: 2026-02-06)*
-- [linux-day-7-the-network-navigator-596619](https://labex.io/de/tutorials/linux-day-7-the-network-navigator-596619) *(Last modified: 2026-02-06)*
-- [linux-day-8-the-software-steward-596620](https://labex.io/de/tutorials/linux-day-8-the-software-steward-596620) *(Last modified: 2026-02-06)*
-- [linux-day-9-the-backup-sentinel-596621](https://labex.io/de/tutorials/linux-day-9-the-backup-sentinel-596621) *(Last modified: 2026-02-06)*
+- [linux-day-1-the-lay-of-the-land-596200](https://labex.io/de/tutorials/linux-day-1-the-lay-of-the-land-596200) *(Last modified: 2026-02-08)*
+- [linux-day-10-the-script-artisan-596613](https://labex.io/de/tutorials/linux-day-10-the-script-artisan-596613) *(Last modified: 2026-02-08)*
+- [linux-day-2-the-digital-architect-596201](https://labex.io/de/tutorials/linux-day-2-the-digital-architect-596201) *(Last modified: 2026-02-08)*
+- [linux-day-3-the-log-investigator-596202](https://labex.io/de/tutorials/linux-day-3-the-log-investigator-596202) *(Last modified: 2026-02-08)*
+- [linux-day-4-the-fortress-guardian-596203](https://labex.io/de/tutorials/linux-day-4-the-fortress-guardian-596203) *(Last modified: 2026-02-08)*
+- [linux-day-5-the-keeper-of-the-keys-596204](https://labex.io/de/tutorials/linux-day-5-the-keeper-of-the-keys-596204) *(Last modified: 2026-02-08)*
+- [linux-day-6-the-process-overseer-596618](https://labex.io/de/tutorials/linux-day-6-the-process-overseer-596618) *(Last modified: 2026-02-08)*
+- [linux-day-7-the-network-navigator-596619](https://labex.io/de/tutorials/linux-day-7-the-network-navigator-596619) *(Last modified: 2026-02-08)*
+- [linux-day-8-the-software-steward-596620](https://labex.io/de/tutorials/linux-day-8-the-software-steward-596620) *(Last modified: 2026-02-08)*
+- [linux-day-9-the-backup-sentinel-596621](https://labex.io/de/tutorials/linux-day-9-the-backup-sentinel-596621) *(Last modified: 2026-02-08)*
 - [linux-decrypting-top-secret-document-415952](https://labex.io/de/tutorials/linux-decrypting-top-secret-document-415952) *(Last modified: 2026-02-06)*
 - [linux-delete-and-move-files-7777](https://labex.io/de/tutorials/linux-delete-and-move-files-7777) *(Last modified: 2026-02-06)*
 - [linux-desert-copying-with-saladin-271252](https://labex.io/de/tutorials/linux-desert-copying-with-saladin-271252) *(Last modified: 2026-02-06)*
@@ -5278,29 +5278,29 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-enabling-basic-firewall-632796](https://labex.io/de/tutorials/linux-enabling-basic-firewall-632796) *(Last modified: 2026-02-06)*
 - [linux-encrypt-files-in-openssl-549935](https://labex.io/de/tutorials/linux-encrypt-files-in-openssl-549935) *(Last modified: 2026-02-06)*
 - [linux-enhance-copying-and-moving-with-advcpmv-295937](https://labex.io/de/tutorials/linux-enhance-copying-and-moving-with-advcpmv-295937) *(Last modified: 2026-02-06)*
-- [linux-environment-variables-in-linux-385274](https://labex.io/de/tutorials/linux-environment-variables-in-linux-385274) *(Last modified: 2026-02-06)*
+- [linux-environment-variables-in-linux-385274](https://labex.io/de/tutorials/linux-environment-variables-in-linux-385274) *(Last modified: 2026-02-08)*
 - [linux-exploit-sql-injection-in-sqlmap-549938](https://labex.io/de/tutorials/linux-exploit-sql-injection-in-sqlmap-549938) *(Last modified: 2025-10-09)*
 - [linux-explore-disk-usage-with-ncdu-296141](https://labex.io/de/tutorials/linux-explore-disk-usage-with-ncdu-296141) *(Last modified: 2026-02-06)*
 - [linux-exploring-file-systems-with-eza-295948](https://labex.io/de/tutorials/linux-exploring-file-systems-with-eza-295948) *(Last modified: 2026-02-06)*
 - [linux-exploring-the-linux-stat-command-for-retrieving-file-metadata-413773](https://labex.io/de/tutorials/linux-exploring-the-linux-stat-command-for-retrieving-file-metadata-413773) *(Last modified: 2026-02-06)*
 - [linux-extracting-information-from-text-301469](https://labex.io/de/tutorials/linux-extracting-information-from-text-301469) *(Last modified: 2025-10-11)*
 - [linux-extracting-link-information-from-text-301471](https://labex.io/de/tutorials/linux-extracting-link-information-from-text-301471) *(Last modified: 2025-10-11)*
-- [linux-extracting-mails-and-numbers-17991](https://labex.io/de/tutorials/linux-extracting-mails-and-numbers-17991) *(Last modified: 2026-02-06)*
+- [linux-extracting-mails-and-numbers-17991](https://labex.io/de/tutorials/linux-extracting-mails-and-numbers-17991) *(Last modified: 2026-02-08)*
 - [linux-fast-searching-with-ripgrep-384504](https://labex.io/de/tutorials/linux-fast-searching-with-ripgrep-384504) *(Last modified: 2026-02-06)*
-- [linux-file-and-directory-operations-17997](https://labex.io/de/tutorials/linux-file-and-directory-operations-17997) *(Last modified: 2026-02-06)*
-- [linux-file-contents-and-comparing-270251](https://labex.io/de/tutorials/linux-file-contents-and-comparing-270251) *(Last modified: 2026-02-06)*
-- [linux-file-packaging-and-compression-385413](https://labex.io/de/tutorials/linux-file-packaging-and-compression-385413) *(Last modified: 2026-02-06)*
+- [linux-file-and-directory-operations-17997](https://labex.io/de/tutorials/linux-file-and-directory-operations-17997) *(Last modified: 2026-02-08)*
+- [linux-file-contents-and-comparing-270251](https://labex.io/de/tutorials/linux-file-contents-and-comparing-270251) *(Last modified: 2026-02-08)*
+- [linux-file-packaging-and-compression-385413](https://labex.io/de/tutorials/linux-file-packaging-and-compression-385413) *(Last modified: 2026-02-08)*
 - [linux-file-structure-visualization-with-tre-384505](https://labex.io/de/tutorials/linux-file-structure-visualization-with-tre-384505) *(Last modified: 2026-02-06)*
-- [linux-file-system-and-disk-management-17999](https://labex.io/de/tutorials/linux-file-system-and-disk-management-17999) *(Last modified: 2026-02-06)*
+- [linux-file-system-and-disk-management-17999](https://labex.io/de/tutorials/linux-file-system-and-disk-management-17999) *(Last modified: 2026-02-08)*
 - [linux-file-system-navigation-632797](https://labex.io/de/tutorials/linux-file-system-navigation-632797) *(Last modified: 2026-02-06)*
-- [linux-files-and-directories-270246](https://labex.io/de/tutorials/linux-files-and-directories-270246) *(Last modified: 2026-02-06)*
-- [linux-find-a-file-17993](https://labex.io/de/tutorials/linux-find-a-file-17993) *(Last modified: 2026-02-06)*
+- [linux-files-and-directories-270246](https://labex.io/de/tutorials/linux-files-and-directories-270246) *(Last modified: 2026-02-08)*
+- [linux-find-a-file-17993](https://labex.io/de/tutorials/linux-find-a-file-17993) *(Last modified: 2026-02-08)*
 - [linux-find-the-flags-7931](https://labex.io/de/tutorials/linux-find-the-flags-7931) *(Last modified: 2026-02-06)*
 - [linux-galactic-secure-connections-with-linux-271388](https://labex.io/de/tutorials/linux-galactic-secure-connections-with-linux-271388) *(Last modified: 2026-02-06)*
 - [linux-generating-x-509-certificates-in-cryptography-632758](https://labex.io/de/tutorials/linux-generating-x-509-certificates-in-cryptography-632758) *(Last modified: 2026-02-06)*
-- [linux-get-help-on-linux-commands-18000](https://labex.io/de/tutorials/linux-get-help-on-linux-commands-18000) *(Last modified: 2026-02-06)*
+- [linux-get-help-on-linux-commands-18000](https://labex.io/de/tutorials/linux-get-help-on-linux-commands-18000) *(Last modified: 2026-02-08)*
 - [linux-get-program-that-satisfies-the-condition-301473](https://labex.io/de/tutorials/linux-get-program-that-satisfies-the-condition-301473) *(Last modified: 2025-10-11)*
-- [linux-getting-started-with-linux-446315](https://labex.io/de/tutorials/linux-getting-started-with-linux-446315) *(Last modified: 2026-02-06)*
+- [linux-getting-started-with-linux-446315](https://labex.io/de/tutorials/linux-getting-started-with-linux-446315) *(Last modified: 2026-02-08)*
 - [linux-guardians-lightning-command-mastery-271442](https://labex.io/de/tutorials/linux-guardians-lightning-command-mastery-271442) *(Last modified: 2026-02-06)*
 - [linux-hadoop-installation-and-deployment-272321](https://labex.io/de/tutorials/linux-hadoop-installation-and-deployment-272321) *(Last modified: 2026-02-06)*
 - [linux-hashcat-brute-force-with-mask-attacks-632567](https://labex.io/de/tutorials/linux-hashcat-brute-force-with-mask-attacks-632567) *(Last modified: 2026-02-06)*
@@ -5600,7 +5600,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-implement-custom-trash-enabled-command-301457](https://labex.io/de/tutorials/linux-implement-custom-trash-enabled-command-301457) *(Last modified: 2025-10-11)*
 - [linux-implementing-file-permissions-632798](https://labex.io/de/tutorials/linux-implementing-file-permissions-632798) *(Last modified: 2026-02-06)*
 - [linux-installing-and-configuring-a-mail-server-298848](https://labex.io/de/tutorials/linux-installing-and-configuring-a-mail-server-298848) *(Last modified: 2026-02-06)*
-- [linux-installing-and-removing-packages-385380](https://labex.io/de/tutorials/linux-installing-and-removing-packages-385380) *(Last modified: 2026-02-06)*
+- [linux-installing-and-removing-packages-385380](https://labex.io/de/tutorials/linux-installing-and-removing-packages-385380) *(Last modified: 2026-02-08)*
 - [linux-installing-cryptography-tools-and-environment-setup-632723](https://labex.io/de/tutorials/linux-installing-cryptography-tools-and-environment-setup-632723) *(Last modified: 2026-02-06)*
 - [linux-installing-virtual-ram-modules-632799](https://labex.io/de/tutorials/linux-installing-virtual-ram-modules-632799) *(Last modified: 2026-02-06)*
 - [linux-interactive-process-viewer-with-htop-271667](https://labex.io/de/tutorials/linux-interactive-process-viewer-with-htop-271667) *(Last modified: 2026-02-06)*
@@ -5773,7 +5773,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-linux-updatedb-command-with-practical-examples-422983](https://labex.io/de/tutorials/linux-linux-updatedb-command-with-practical-examples-422983) *(Last modified: 2025-10-10)*
 - [linux-linux-url-data-transferring-271257](https://labex.io/de/tutorials/linux-linux-url-data-transferring-271257) *(Last modified: 2026-02-06)*
 - [linux-linux-user-adding-271423](https://labex.io/de/tutorials/linux-linux-user-adding-271423) *(Last modified: 2026-02-06)*
-- [linux-linux-user-group-and-file-permissions-18002](https://labex.io/de/tutorials/linux-linux-user-group-and-file-permissions-18002) *(Last modified: 2026-02-06)*
+- [linux-linux-user-group-and-file-permissions-18002](https://labex.io/de/tutorials/linux-linux-user-group-and-file-permissions-18002) *(Last modified: 2026-02-08)*
 - [linux-linux-user-group-id-displaying-271305](https://labex.io/de/tutorials/linux-linux-user-group-id-displaying-271305) *(Last modified: 2026-02-06)*
 - [linux-linux-user-identifying-271445](https://labex.io/de/tutorials/linux-linux-user-identifying-271445) *(Last modified: 2026-02-06)*
 - [linux-linux-user-modifying-271427](https://labex.io/de/tutorials/linux-linux-user-modifying-271427) *(Last modified: 2026-02-06)*
@@ -5814,7 +5814,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-online-ubuntu-playground-environment-593628](https://labex.io/de/tutorials/linux-online-ubuntu-playground-environment-593628) *(Last modified: 2026-01-17)*
 - [linux-online-virtual-machines-and-playgrounds-593595](https://labex.io/de/tutorials/linux-online-virtual-machines-and-playgrounds-593595) *(Last modified: 2025-10-09)*
 - [linux-organizing-files-and-directories-387877](https://labex.io/de/tutorials/linux-organizing-files-and-directories-387877) *(Last modified: 2026-02-06)*
-- [linux-permissions-of-files-270252](https://labex.io/de/tutorials/linux-permissions-of-files-270252) *(Last modified: 2026-02-06)*
+- [linux-permissions-of-files-270252](https://labex.io/de/tutorials/linux-permissions-of-files-270252) *(Last modified: 2026-02-08)*
 - [linux-preserve-airship-s-mystical-archives-with-tar-271397](https://labex.io/de/tutorials/linux-preserve-airship-s-mystical-archives-with-tar-271397) *(Last modified: 2026-02-06)*
 - [linux-processing-employees-data-388132](https://labex.io/de/tutorials/linux-processing-employees-data-388132) *(Last modified: 2026-02-06)*
 - [linux-quick-start-to-hive-272323](https://labex.io/de/tutorials/linux-quick-start-to-hive-272323) *(Last modified: 2026-02-06)*
@@ -5828,17 +5828,17 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-rsync-enumeration-and-anonymous-sync-596715](https://labex.io/de/tutorials/linux-rsync-enumeration-and-anonymous-sync-596715) *(Last modified: 2026-02-06)*
 - [linux-searching-for-specific-files-301489](https://labex.io/de/tutorials/linux-searching-for-specific-files-301489) *(Last modified: 2025-10-11)*
 - [linux-secure-file-transfer-basics-40](https://labex.io/de/tutorials/linux-secure-file-transfer-basics-40) *(Last modified: 2026-02-06)*
-- [linux-sequence-control-and-pipeline-17994](https://labex.io/de/tutorials/linux-sequence-control-and-pipeline-17994) *(Last modified: 2026-02-06)*
+- [linux-sequence-control-and-pipeline-17994](https://labex.io/de/tutorials/linux-sequence-control-and-pipeline-17994) *(Last modified: 2026-02-08)*
 - [linux-set-up-scheduled-tasks-47](https://labex.io/de/tutorials/linux-set-up-scheduled-tasks-47) *(Last modified: 2026-02-06)*
 - [linux-setting-up-a-lamp-server-372834](https://labex.io/de/tutorials/linux-setting-up-a-lamp-server-372834) *(Last modified: 2026-02-06)*
 - [linux-setting-up-a-new-project-structure-387859](https://labex.io/de/tutorials/linux-setting-up-a-new-project-structure-387859) *(Last modified: 2026-02-06)*
 - [linux-setting-up-ip-addressing-632801](https://labex.io/de/tutorials/linux-setting-up-ip-addressing-632801) *(Last modified: 2026-02-06)*
-- [linux-simple-text-processing-18004](https://labex.io/de/tutorials/linux-simple-text-processing-18004) *(Last modified: 2026-02-06)*
+- [linux-simple-text-processing-18004](https://labex.io/de/tutorials/linux-simple-text-processing-18004) *(Last modified: 2026-02-08)*
 - [linux-sky-editing-adventure-271338](https://labex.io/de/tutorials/linux-sky-editing-adventure-271338) *(Last modified: 2026-02-06)*
 - [linux-smb-enumeration-and-guest-access-596716](https://labex.io/de/tutorials/linux-smb-enumeration-and-guest-access-596716) *(Last modified: 2026-02-06)*
 - [linux-software-installation-and-updates-632802](https://labex.io/de/tutorials/linux-software-installation-and-updates-632802) *(Last modified: 2026-02-06)*
-- [linux-software-installation-on-linux-18005](https://labex.io/de/tutorials/linux-software-installation-on-linux-18005) *(Last modified: 2026-02-06)*
-- [linux-space-battle-data-pipeline-385343](https://labex.io/de/tutorials/linux-space-battle-data-pipeline-385343) *(Last modified: 2026-02-06)*
+- [linux-software-installation-on-linux-18005](https://labex.io/de/tutorials/linux-software-installation-on-linux-18005) *(Last modified: 2026-02-08)*
+- [linux-space-battle-data-pipeline-385343](https://labex.io/de/tutorials/linux-space-battle-data-pipeline-385343) *(Last modified: 2026-02-08)*
 - [linux-space-exploration-disk-analysis-271266](https://labex.io/de/tutorials/linux-space-exploration-disk-analysis-271266) *(Last modified: 2026-02-06)*
 - [linux-ssh-enumeration-and-key-based-access-596717](https://labex.io/de/tutorials/linux-ssh-enumeration-and-key-based-access-596717) *(Last modified: 2026-02-06)*
 - [linux-stream-editor-sed-7973](https://labex.io/de/tutorials/linux-stream-editor-sed-7973) *(Last modified: 2026-02-06)*
@@ -5857,9 +5857,9 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-terraform-state-management-632664](https://labex.io/de/tutorials/linux-terraform-state-management-632664) *(Last modified: 2026-02-06)*
 - [linux-terraform-variables-usage-632665](https://labex.io/de/tutorials/linux-terraform-variables-usage-632665) *(Last modified: 2026-02-06)*
 - [linux-testing-network-connectivity-632803](https://labex.io/de/tutorials/linux-testing-network-connectivity-632803) *(Last modified: 2026-02-06)*
-- [linux-text-processing-and-regular-expressions-18003](https://labex.io/de/tutorials/linux-text-processing-and-regular-expressions-18003) *(Last modified: 2026-02-06)*
-- [linux-the-joker-s-trick-270247](https://labex.io/de/tutorials/linux-the-joker-s-trick-270247) *(Last modified: 2026-02-06)*
-- [linux-the-manuscript-mystery-384742](https://labex.io/de/tutorials/linux-the-manuscript-mystery-384742) *(Last modified: 2026-02-06)*
+- [linux-text-processing-and-regular-expressions-18003](https://labex.io/de/tutorials/linux-text-processing-and-regular-expressions-18003) *(Last modified: 2026-02-08)*
+- [linux-the-joker-s-trick-270247](https://labex.io/de/tutorials/linux-the-joker-s-trick-270247) *(Last modified: 2026-02-08)*
+- [linux-the-manuscript-mystery-384742](https://labex.io/de/tutorials/linux-the-manuscript-mystery-384742) *(Last modified: 2026-02-08)*
 - [linux-transcribe-media-to-text-with-whisper-289658](https://labex.io/de/tutorials/linux-transcribe-media-to-text-with-whisper-289658) *(Last modified: 2026-02-06)*
 - [linux-treasure-island-networking-adventure-271340](https://labex.io/de/tutorials/linux-treasure-island-networking-adventure-271340) *(Last modified: 2026-02-06)*
 - [linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859](https://labex.io/de/tutorials/linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859) *(Last modified: 2026-02-06)*
@@ -5867,7 +5867,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-understanding-the-practical-applications-of-linux-392915](https://labex.io/de/tutorials/linux-understanding-the-practical-applications-of-linux-392915) *(Last modified: 2025-10-11)*
 - [linux-unleashing-vidyutpada-linux-input-mastery-271366](https://labex.io/de/tutorials/linux-unleashing-vidyutpada-linux-input-mastery-271366) *(Last modified: 2026-02-06)*
 - [linux-user-account-creation-632804](https://labex.io/de/tutorials/linux-user-account-creation-632804) *(Last modified: 2026-02-06)*
-- [linux-user-account-management-49](https://labex.io/de/tutorials/linux-user-account-management-49) *(Last modified: 2026-02-06)*
+- [linux-user-account-management-49](https://labex.io/de/tutorials/linux-user-account-management-49) *(Last modified: 2026-02-08)*
 - [linux-users-and-groups-creation-and-deletion-batch-301458](https://labex.io/de/tutorials/linux-users-and-groups-creation-and-deletion-batch-301458) *(Last modified: 2026-02-06)*
 - [linux-users-and-groups-creation-and-deletion-batch-301459](https://labex.io/de/tutorials/linux-users-and-groups-creation-and-deletion-batch-301459) *(Last modified: 2025-10-11)*
 - [linux-using-hydra-to-crack-passwords-415960](https://labex.io/de/tutorials/linux-using-hydra-to-crack-passwords-415960) *(Last modified: 2026-02-06)*
@@ -5877,7 +5877,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-web-development-interview-questions-and-answers-593705](https://labex.io/de/tutorials/linux-web-development-interview-questions-and-answers-593705) *(Last modified: 2026-01-17)*
 - [linux-word-count-and-sorting-388125](https://labex.io/de/tutorials/linux-word-count-and-sorting-388125) *(Last modified: 2026-02-06)*
 - [linux-yarn-architecture-and-development-272324](https://labex.io/de/tutorials/linux-yarn-architecture-and-development-272324) *(Last modified: 2026-02-06)*
-- [linux-your-first-linux-lab-270253](https://labex.io/de/tutorials/linux-your-first-linux-lab-270253) *(Last modified: 2026-02-06)*
+- [linux-your-first-linux-lab-270253](https://labex.io/de/tutorials/linux-your-first-linux-lab-270253) *(Last modified: 2026-02-08)*
 - [list-all-git-aliases-12737](https://labex.io/de/tutorials/list-all-git-aliases-12737) *(Last modified: 2026-02-06)*
 - [list-all-stashes-12738](https://labex.io/de/tutorials/list-all-stashes-12738) *(Last modified: 2026-02-06)*
 - [list-comprehension-for-processing-items-132712](https://labex.io/de/tutorials/list-comprehension-for-processing-items-132712) *(Last modified: 2026-02-06)*
