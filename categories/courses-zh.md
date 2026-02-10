@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Zh Sitemap
 
-> Last updated: 2026-02-09 00:06 UTC
+> Last updated: 2026-02-10 00:09 UTC
 
 This file contains all courses-zh related links from LabEx website.
 
@@ -170,6 +170,7 @@ This file contains all courses-zh related links from LabEx website.
 - [project-classic-pong-game-using-python-and-pygame](https://labex.io/zh/courses/project-classic-pong-game-using-python-and-pygame)
 - [project-classifying-iris-using-svm](https://labex.io/zh/courses/project-classifying-iris-using-svm)
 - [project-clear-code-encryption](https://labex.io/zh/courses/project-clear-code-encryption)
+- [project-cloud-native-deployment](https://labex.io/zh/courses/project-cloud-native-deployment)
 - [project-collect-files-from-specified-time](https://labex.io/zh/courses/project-collect-files-from-specified-time)
 - [project-collection-of-films](https://labex.io/zh/courses/project-collection-of-films)
 - [project-colour-changeable-light](https://labex.io/zh/courses/project-colour-changeable-light)
