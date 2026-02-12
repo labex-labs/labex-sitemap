@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-De Sitemap
 
-> Last updated: 2026-02-11 00:10 UTC
+> Last updated: 2026-02-12 00:05 UTC
 
 This file contains all tutorials-de related links from LabEx website.
 
@@ -4308,6 +4308,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [java-how-to-read-a-file-to-string-117443](https://labex.io/de/tutorials/java-how-to-read-a-file-to-string-117443) *(Last modified: 2026-02-10)*
 - [java-how-to-read-a-long-integer-input-using-scanner-in-java-417653](https://labex.io/de/tutorials/java-how-to-read-a-long-integer-input-using-scanner-in-java-417653) *(Last modified: 2025-10-11)*
 - [java-how-to-read-float-input-from-the-user-using-the-scanner-class-414121](https://labex.io/de/tutorials/java-how-to-read-float-input-from-the-user-using-the-scanner-class-414121) *(Last modified: 2025-10-11)*
+- [java-how-to-read-json-file-from-relative-path-in-java-417587](https://labex.io/de/tutorials/java-how-to-read-json-file-from-relative-path-in-java-417587) *(Last modified: 2026-02-11)*
 - [java-how-to-reduce-java-memory-consumption-421174](https://labex.io/de/tutorials/java-how-to-reduce-java-memory-consumption-421174) *(Last modified: 2025-10-11)*
 - [java-how-to-remove-base64-padding-characters-464451](https://labex.io/de/tutorials/java-how-to-remove-base64-padding-characters-464451) *(Last modified: 2025-10-11)*
 - [java-how-to-remove-duplicates-from-an-arraylist-using-a-hashset-in-java-414124](https://labex.io/de/tutorials/java-how-to-remove-duplicates-from-an-arraylist-using-a-hashset-in-java-414124) *(Last modified: 2025-10-11)*
@@ -5809,7 +5810,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-online-debian-playground-environment-593626](https://labex.io/de/tutorials/linux-online-debian-playground-environment-593626) *(Last modified: 2026-02-10)*
 - [linux-online-fedora-playground-environment-593627](https://labex.io/de/tutorials/linux-online-fedora-playground-environment-593627) *(Last modified: 2026-02-10)*
 - [linux-online-hydra-playground-593605](https://labex.io/de/tutorials/linux-online-hydra-playground-593605) *(Last modified: 2026-02-10)*
-- [linux-online-linux-terminal-and-playground-372915](https://labex.io/de/tutorials/linux-online-linux-terminal-and-playground-372915) *(Last modified: 2026-02-10)*
+- [linux-online-linux-terminal-and-playground-372915](https://labex.io/de/tutorials/linux-online-linux-terminal-and-playground-372915) *(Last modified: 2026-02-11)*
 - [linux-online-shell-terminal-and-playground-593621](https://labex.io/de/tutorials/linux-online-shell-terminal-and-playground-593621) *(Last modified: 2026-02-10)*
 - [linux-online-ubuntu-playground-environment-593628](https://labex.io/de/tutorials/linux-online-ubuntu-playground-environment-593628) *(Last modified: 2026-02-10)*
 - [linux-online-virtual-machines-and-playgrounds-593595](https://labex.io/de/tutorials/linux-online-virtual-machines-and-playgrounds-593595) *(Last modified: 2026-02-10)*
