@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-De Sitemap
 
-> Last updated: 2026-02-12 00:05 UTC
+> Last updated: 2026-02-13 00:07 UTC
 
 This file contains all tutorials-de related links from LabEx website.
 
@@ -5294,7 +5294,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-file-structure-visualization-with-tre-384505](https://labex.io/de/tutorials/linux-file-structure-visualization-with-tre-384505) *(Last modified: 2026-02-10)*
 - [linux-file-system-and-disk-management-17999](https://labex.io/de/tutorials/linux-file-system-and-disk-management-17999) *(Last modified: 2026-02-10)*
 - [linux-file-system-navigation-632797](https://labex.io/de/tutorials/linux-file-system-navigation-632797) *(Last modified: 2026-02-10)*
-- [linux-files-and-directories-270246](https://labex.io/de/tutorials/linux-files-and-directories-270246) *(Last modified: 2026-02-10)*
+- [linux-files-and-directories-270246](https://labex.io/de/tutorials/linux-files-and-directories-270246) *(Last modified: 2026-02-12)*
 - [linux-find-a-file-17993](https://labex.io/de/tutorials/linux-find-a-file-17993) *(Last modified: 2026-02-10)*
 - [linux-find-the-flags-7931](https://labex.io/de/tutorials/linux-find-the-flags-7931) *(Last modified: 2026-02-10)*
 - [linux-galactic-secure-connections-with-linux-271388](https://labex.io/de/tutorials/linux-galactic-secure-connections-with-linux-271388) *(Last modified: 2026-02-10)*
@@ -5810,7 +5810,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-online-debian-playground-environment-593626](https://labex.io/de/tutorials/linux-online-debian-playground-environment-593626) *(Last modified: 2026-02-10)*
 - [linux-online-fedora-playground-environment-593627](https://labex.io/de/tutorials/linux-online-fedora-playground-environment-593627) *(Last modified: 2026-02-10)*
 - [linux-online-hydra-playground-593605](https://labex.io/de/tutorials/linux-online-hydra-playground-593605) *(Last modified: 2026-02-10)*
-- [linux-online-linux-terminal-and-playground-372915](https://labex.io/de/tutorials/linux-online-linux-terminal-and-playground-372915) *(Last modified: 2026-02-11)*
+- [linux-online-linux-terminal-and-playground-372915](https://labex.io/de/tutorials/linux-online-linux-terminal-and-playground-372915) *(Last modified: 2026-02-12)*
 - [linux-online-shell-terminal-and-playground-593621](https://labex.io/de/tutorials/linux-online-shell-terminal-and-playground-593621) *(Last modified: 2026-02-10)*
 - [linux-online-ubuntu-playground-environment-593628](https://labex.io/de/tutorials/linux-online-ubuntu-playground-environment-593628) *(Last modified: 2026-02-10)*
 - [linux-online-virtual-machines-and-playgrounds-593595](https://labex.io/de/tutorials/linux-online-virtual-machines-and-playgrounds-593595) *(Last modified: 2026-02-10)*

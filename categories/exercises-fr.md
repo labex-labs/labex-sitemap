@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Fr Sitemap
 
-> Last updated: 2026-02-12 00:05 UTC
+> Last updated: 2026-02-13 00:07 UTC
 
 This file contains all exercises-fr related links from LabEx website.
 
