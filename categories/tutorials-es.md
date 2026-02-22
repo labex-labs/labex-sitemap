@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Es Sitemap
 
-> Last updated: 2026-02-21 00:05 UTC
+> Last updated: 2026-02-22 00:04 UTC
 
 This file contains all tutorials-es related links from LabEx website.
 
@@ -7811,7 +7811,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [python-monty-hall-problem-simulation-using-tkinter-298896](https://labex.io/es/tutorials/python-monty-hall-problem-simulation-using-tkinter-298896) *(Last modified: 2026-02-19)*
 - [python-numpy-advanced-topics-11](https://labex.io/es/tutorials/python-numpy-advanced-topics-11) *(Last modified: 2026-02-10)*
 - [python-numpy-arrays-and-data-types-4996](https://labex.io/es/tutorials/python-numpy-arrays-and-data-types-4996) *(Last modified: 2026-02-10)*
-- [python-numpy-math-games-10](https://labex.io/es/tutorials/python-numpy-math-games-10) *(Last modified: 2026-02-19)*
+- [python-numpy-math-games-10](https://labex.io/es/tutorials/python-numpy-math-games-10) *(Last modified: 2026-02-21)*
 - [python-numpy-slicing-and-indexing-352](https://labex.io/es/tutorials/python-numpy-slicing-and-indexing-352) *(Last modified: 2026-02-10)*
 - [python-object-model-internals-132713](https://labex.io/es/tutorials/python-object-model-internals-132713) *(Last modified: 2026-02-19)*
 - [python-object-system-fundamentals-132724](https://labex.io/es/tutorials/python-object-system-fundamentals-132724) *(Last modified: 2026-02-19)*
