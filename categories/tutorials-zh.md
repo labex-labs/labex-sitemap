@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2026-03-03 00:06 UTC
+> Last updated: 2026-03-04 00:05 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -11684,8 +11684,12 @@ This file contains all tutorials-zh related links from LabEx website.
 - [online-alpine-playground-environment-655862](https://labex.io/zh/tutorials/online-alpine-playground-environment-655862) *(Last modified: 2026-03-02)*
 - [online-arch-linux-playground-environment-655863](https://labex.io/zh/tutorials/online-arch-linux-playground-environment-655863) *(Last modified: 2026-03-02)*
 - [online-bash-playground-655882](https://labex.io/zh/tutorials/online-bash-playground-655882) *(Last modified: 2026-03-02)*
+- [online-claude-code-playground-656100](https://labex.io/zh/tutorials/online-claude-code-playground-656100) *(Last modified: 2026-03-03)*
+- [online-codex-playground-656101](https://labex.io/zh/tutorials/online-codex-playground-656101) *(Last modified: 2026-03-03)*
 - [online-lua-playground-655873](https://labex.io/zh/tutorials/online-lua-playground-655873) *(Last modified: 2026-03-02)*
 - [online-node-js-playground-655874](https://labex.io/zh/tutorials/online-node-js-playground-655874) *(Last modified: 2026-03-02)*
+- [online-openclaw-playground-656102](https://labex.io/zh/tutorials/online-openclaw-playground-656102) *(Last modified: 2026-03-03)*
+- [online-opencode-playground-656103](https://labex.io/zh/tutorials/online-opencode-playground-656103) *(Last modified: 2026-03-03)*
 - [online-opensuse-playground-environment-655866](https://labex.io/zh/tutorials/online-opensuse-playground-environment-655866) *(Last modified: 2026-03-02)*
 - [online-perl-playground-655876](https://labex.io/zh/tutorials/online-perl-playground-655876) *(Last modified: 2026-03-02)*
 - [online-php-playground-655877](https://labex.io/zh/tutorials/online-php-playground-655877) *(Last modified: 2026-03-02)*
