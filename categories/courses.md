@@ -4,7 +4,7 @@ layout: default
 
 # Courses Sitemap
 
-> Last updated: 2026-03-05 00:06 UTC
+> Last updated: 2026-03-06 00:11 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -62,6 +62,7 @@ This file contains all courses related links from LabEx website.
 - [hands-on-network-scanning-with-nmap-on-linux](https://labex.io/courses/hands-on-network-scanning-with-nmap-on-linux)
 - [haproxy-load-balancing](https://labex.io/courses/haproxy-load-balancing)
 - [hashcat-for-beginners](https://labex.io/courses/hashcat-for-beginners)
+- [host-based-security-auditing](https://labex.io/courses/host-based-security-auditing)
 - [html-for-beginners](https://labex.io/courses/html-for-beginners)
 - [hydra-cybersecurity-attack-labs](https://labex.io/courses/hydra-cybersecurity-attack-labs)
 - [hydra-for-beginners](https://labex.io/courses/hydra-for-beginners)
@@ -88,11 +89,13 @@ This file contains all courses related links from LabEx website.
 - [monitoring-and-logging-for-devops](https://labex.io/courses/monitoring-and-logging-for-devops)
 - [mysql-database-basics](https://labex.io/courses/mysql-database-basics)
 - [mysql-for-beginners](https://labex.io/courses/mysql-for-beginners)
+- [network-intrusion-detection-with-snort](https://labex.io/courses/network-intrusion-detection-with-snort)
 - [nfs-and-samba-file-sharing](https://labex.io/courses/nfs-and-samba-file-sharing)
 - [nginx-web-server](https://labex.io/courses/nginx-web-server)
 - [nmap-for-beginners](https://labex.io/courses/nmap-for-beginners)
 - [numpy-for-beginners](https://labex.io/courses/numpy-for-beginners)
 - [numpy-practice-challenges](https://labex.io/courses/numpy-practice-challenges)
+- [packet-analysis-with-tcpdump](https://labex.io/courses/packet-analysis-with-tcpdump)
 - [pandas-for-beginners](https://labex.io/courses/pandas-for-beginners)
 - [pandas-practice-challenges](https://labex.io/courses/pandas-practice-challenges)
 - [penetration-testing-for-beginners](https://labex.io/courses/penetration-testing-for-beginners)
@@ -502,6 +505,7 @@ This file contains all courses related links from LabEx website.
 - [project-wuxu-reform-duration-calculation](https://labex.io/courses/project-wuxu-reform-duration-calculation)
 - [project-yin-book-encryption](https://labex.io/courses/project-yin-book-encryption)
 - [prometheus-monitoring](https://labex.io/courses/prometheus-monitoring)
+- [protocol-analysis-with-tshark](https://labex.io/courses/protocol-analysis-with-tshark)
 - [python-cheatsheet](https://labex.io/courses/python-cheatsheet)
 - [python-for-operations](https://labex.io/courses/python-for-operations)
 - [python-practice-challenges](https://labex.io/courses/python-practice-challenges)

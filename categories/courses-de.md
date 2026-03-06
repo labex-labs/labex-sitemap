@@ -4,7 +4,7 @@ layout: default
 
 # Courses-De Sitemap
 
-> Last updated: 2026-03-05 00:06 UTC
+> Last updated: 2026-03-06 00:11 UTC
 
 This file contains all courses-de related links from LabEx website.
 
@@ -62,6 +62,7 @@ This file contains all courses-de related links from LabEx website.
 - [hands-on-network-scanning-with-nmap-on-linux](https://labex.io/de/courses/hands-on-network-scanning-with-nmap-on-linux)
 - [haproxy-load-balancing](https://labex.io/de/courses/haproxy-load-balancing)
 - [hashcat-for-beginners](https://labex.io/de/courses/hashcat-for-beginners)
+- [host-based-security-auditing](https://labex.io/de/courses/host-based-security-auditing)
 - [html-for-beginners](https://labex.io/de/courses/html-for-beginners)
 - [hydra-cybersecurity-attack-labs](https://labex.io/de/courses/hydra-cybersecurity-attack-labs)
 - [hydra-for-beginners](https://labex.io/de/courses/hydra-for-beginners)
@@ -88,11 +89,13 @@ This file contains all courses-de related links from LabEx website.
 - [monitoring-and-logging-for-devops](https://labex.io/de/courses/monitoring-and-logging-for-devops)
 - [mysql-database-basics](https://labex.io/de/courses/mysql-database-basics)
 - [mysql-for-beginners](https://labex.io/de/courses/mysql-for-beginners)
+- [network-intrusion-detection-with-snort](https://labex.io/de/courses/network-intrusion-detection-with-snort)
 - [nfs-and-samba-file-sharing](https://labex.io/de/courses/nfs-and-samba-file-sharing)
 - [nginx-web-server](https://labex.io/de/courses/nginx-web-server)
 - [nmap-for-beginners](https://labex.io/de/courses/nmap-for-beginners)
 - [numpy-for-beginners](https://labex.io/de/courses/numpy-for-beginners)
 - [numpy-practice-challenges](https://labex.io/de/courses/numpy-practice-challenges)
+- [packet-analysis-with-tcpdump](https://labex.io/de/courses/packet-analysis-with-tcpdump)
 - [pandas-for-beginners](https://labex.io/de/courses/pandas-for-beginners)
 - [pandas-practice-challenges](https://labex.io/de/courses/pandas-practice-challenges)
 - [penetration-testing-for-beginners](https://labex.io/de/courses/penetration-testing-for-beginners)
@@ -502,6 +505,7 @@ This file contains all courses-de related links from LabEx website.
 - [project-wuxu-reform-duration-calculation](https://labex.io/de/courses/project-wuxu-reform-duration-calculation)
 - [project-yin-book-encryption](https://labex.io/de/courses/project-yin-book-encryption)
 - [prometheus-monitoring](https://labex.io/de/courses/prometheus-monitoring)
+- [protocol-analysis-with-tshark](https://labex.io/de/courses/protocol-analysis-with-tshark)
 - [python-cheatsheet](https://labex.io/de/courses/python-cheatsheet)
 - [python-for-operations](https://labex.io/de/courses/python-for-operations)
 - [python-practice-challenges](https://labex.io/de/courses/python-practice-challenges)
