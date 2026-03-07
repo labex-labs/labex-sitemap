@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ru Sitemap
 
-> Last updated: 2026-03-06 00:11 UTC
+> Last updated: 2026-03-07 00:05 UTC
 
 This file contains all courses-ru related links from LabEx website.
 
@@ -95,6 +95,7 @@ This file contains all courses-ru related links from LabEx website.
 - [nmap-for-beginners](https://labex.io/ru/courses/nmap-for-beginners)
 - [numpy-for-beginners](https://labex.io/ru/courses/numpy-for-beginners)
 - [numpy-practice-challenges](https://labex.io/ru/courses/numpy-practice-challenges)
+- [open-source-intelligence-osint-passive-recon](https://labex.io/ru/courses/open-source-intelligence-osint-passive-recon)
 - [packet-analysis-with-tcpdump](https://labex.io/ru/courses/packet-analysis-with-tcpdump)
 - [pandas-for-beginners](https://labex.io/ru/courses/pandas-for-beginners)
 - [pandas-practice-challenges](https://labex.io/ru/courses/pandas-practice-challenges)

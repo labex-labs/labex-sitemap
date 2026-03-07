@@ -4,7 +4,7 @@ layout: default
 
 # Courses-De Sitemap
 
-> Last updated: 2026-03-06 00:11 UTC
+> Last updated: 2026-03-07 00:05 UTC
 
 This file contains all courses-de related links from LabEx website.
 
@@ -95,6 +95,7 @@ This file contains all courses-de related links from LabEx website.
 - [nmap-for-beginners](https://labex.io/de/courses/nmap-for-beginners)
 - [numpy-for-beginners](https://labex.io/de/courses/numpy-for-beginners)
 - [numpy-practice-challenges](https://labex.io/de/courses/numpy-practice-challenges)
+- [open-source-intelligence-osint-passive-recon](https://labex.io/de/courses/open-source-intelligence-osint-passive-recon)
 - [packet-analysis-with-tcpdump](https://labex.io/de/courses/packet-analysis-with-tcpdump)
 - [pandas-for-beginners](https://labex.io/de/courses/pandas-for-beginners)
 - [pandas-practice-challenges](https://labex.io/de/courses/pandas-practice-challenges)

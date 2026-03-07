@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Zh Sitemap
 
-> Last updated: 2026-03-06 00:11 UTC
+> Last updated: 2026-03-07 00:05 UTC
 
 This file contains all courses-zh related links from LabEx website.
 
@@ -95,6 +95,7 @@ This file contains all courses-zh related links from LabEx website.
 - [nmap-for-beginners](https://labex.io/zh/courses/nmap-for-beginners)
 - [numpy-for-beginners](https://labex.io/zh/courses/numpy-for-beginners)
 - [numpy-practice-challenges](https://labex.io/zh/courses/numpy-practice-challenges)
+- [open-source-intelligence-osint-passive-recon](https://labex.io/zh/courses/open-source-intelligence-osint-passive-recon)
 - [packet-analysis-with-tcpdump](https://labex.io/zh/courses/packet-analysis-with-tcpdump)
 - [pandas-for-beginners](https://labex.io/zh/courses/pandas-for-beginners)
 - [pandas-practice-challenges](https://labex.io/zh/courses/pandas-practice-challenges)
