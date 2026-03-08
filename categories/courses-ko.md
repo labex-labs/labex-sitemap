@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ko Sitemap
 
-> Last updated: 2026-03-07 00:05 UTC
+> Last updated: 2026-03-08 00:04 UTC
 
 This file contains all courses-ko related links from LabEx website.
 
@@ -83,6 +83,7 @@ This file contains all courses-ko related links from LabEx website.
 - [linux-practice-challenges](https://labex.io/ko/courses/linux-practice-challenges)
 - [linux-terminal-basics](https://labex.io/ko/courses/linux-terminal-basics)
 - [log-management-and-text-processing](https://labex.io/ko/courses/log-management-and-text-processing)
+- [mastering-nmap-host-discovery-port-scanning](https://labex.io/ko/courses/mastering-nmap-host-discovery-port-scanning)
 - [matplotlib-for-beginners](https://labex.io/ko/courses/matplotlib-for-beginners)
 - [metasploit-for-beginners](https://labex.io/ko/courses/metasploit-for-beginners)
 - [mongodb-for-beginners](https://labex.io/ko/courses/mongodb-for-beginners)
@@ -92,6 +93,7 @@ This file contains all courses-ko related links from LabEx website.
 - [network-intrusion-detection-with-snort](https://labex.io/ko/courses/network-intrusion-detection-with-snort)
 - [nfs-and-samba-file-sharing](https://labex.io/ko/courses/nfs-and-samba-file-sharing)
 - [nginx-web-server](https://labex.io/ko/courses/nginx-web-server)
+- [nmap-fingerprinting-the-scripting-engine](https://labex.io/ko/courses/nmap-fingerprinting-the-scripting-engine)
 - [nmap-for-beginners](https://labex.io/ko/courses/nmap-for-beginners)
 - [numpy-for-beginners](https://labex.io/ko/courses/numpy-for-beginners)
 - [numpy-practice-challenges](https://labex.io/ko/courses/numpy-practice-challenges)
