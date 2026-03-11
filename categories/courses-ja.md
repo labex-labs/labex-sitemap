@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ja Sitemap
 
-> Last updated: 2026-03-10 00:04 UTC
+> Last updated: 2026-03-11 00:03 UTC
 
 This file contains all courses-ja related links from LabEx website.
 
@@ -550,6 +550,7 @@ This file contains all courses-ja related links from LabEx website.
 - [users-groups-and-permissions](https://labex.io/ja/courses/users-groups-and-permissions)
 - [version-control-with-git](https://labex.io/ja/courses/version-control-with-git)
 - [viewing-searching-and-editing-files](https://labex.io/ja/courses/viewing-searching-and-editing-files)
+- [vulnerability-assessment-management](https://labex.io/ja/courses/vulnerability-assessment-management)
 - [web-development-interactive-challenges](https://labex.io/ja/courses/web-development-interactive-challenges)
 - [web-vulnerability-mastery](https://labex.io/ja/courses/web-vulnerability-mastery)
 - [wireshark-for-beginners](https://labex.io/ja/courses/wireshark-for-beginners)

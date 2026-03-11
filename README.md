@@ -6,21 +6,21 @@ layout: default
 
 [LabEx](https://labex.io) is a hands-on learning platform for Linux, DevOps, and Cybersecurity. Learn by doing with guided labs, courses, and tutorials. Get started for free!
 
-> Last updated: 2026-03-10 00:04 UTC
+> Last updated: 2026-03-11 00:03 UTC
 
 This repository maintains an auto-updated list of LabEx website sitemaps.
 
 ## Categories
 
-- [Courses](categories/courses.md) (559 links)
-- [Courses-De](categories/courses-de.md) (559 links)
-- [Courses-Es](categories/courses-es.md) (559 links)
-- [Courses-Fr](categories/courses-fr.md) (559 links)
-- [Courses-Ja](categories/courses-ja.md) (559 links)
-- [Courses-Ko](categories/courses-ko.md) (559 links)
-- [Courses-Pt](categories/courses-pt.md) (559 links)
-- [Courses-Ru](categories/courses-ru.md) (559 links)
-- [Courses-Zh](categories/courses-zh.md) (559 links)
+- [Courses](categories/courses.md) (560 links)
+- [Courses-De](categories/courses-de.md) (560 links)
+- [Courses-Es](categories/courses-es.md) (560 links)
+- [Courses-Fr](categories/courses-fr.md) (560 links)
+- [Courses-Ja](categories/courses-ja.md) (560 links)
+- [Courses-Ko](categories/courses-ko.md) (560 links)
+- [Courses-Pt](categories/courses-pt.md) (560 links)
+- [Courses-Ru](categories/courses-ru.md) (560 links)
+- [Courses-Zh](categories/courses-zh.md) (560 links)
 - [Exercises](categories/exercises.md) (37 links)
 - [Exercises-De](categories/exercises-de.md) (37 links)
 - [Exercises-Es](categories/exercises-es.md) (37 links)
@@ -53,13 +53,13 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Questions](categories/questions.md) (11798 links)
 - [Skilltrees](categories/skilltrees.md) (1158 links)
 - [Skilltrees-De](categories/skilltrees-de.md) (1158 links)
-- [Skilltrees-Es](categories/skilltrees-es.md) (1158 links)
+- [Skilltrees-Es](categories/skilltrees-es.md) (0 links)
 - [Skilltrees-Fr](categories/skilltrees-fr.md) (1158 links)
 - [Skilltrees-Ja](categories/skilltrees-ja.md) (1158 links)
 - [Skilltrees-Ko](categories/skilltrees-ko.md) (1158 links)
 - [Skilltrees-Pt](categories/skilltrees-pt.md) (1158 links)
 - [Skilltrees-Ru](categories/skilltrees-ru.md) (1158 links)
-- [Skilltrees-Zh](categories/skilltrees-zh.md) (0 links)
+- [Skilltrees-Zh](categories/skilltrees-zh.md) (1158 links)
 - [Tutorials](categories/tutorials.md) (16124 links)
 - [Tutorials-De](categories/tutorials-de.md) (9151 links)
 - [Tutorials-Es](categories/tutorials-es.md) (9114 links)
@@ -70,4 +70,4 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Tutorials-Ru](categories/tutorials-ru.md) (9151 links)
 - [Tutorials-Zh](categories/tutorials-zh.md) (16010 links)
 
-> **Total Links: 122508**
+> **Total Links: 122517**

@@ -4,7 +4,7 @@ layout: default
 
 # Courses Sitemap
 
-> Last updated: 2026-03-10 00:04 UTC
+> Last updated: 2026-03-11 00:03 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -550,6 +550,7 @@ This file contains all courses related links from LabEx website.
 - [users-groups-and-permissions](https://labex.io/courses/users-groups-and-permissions)
 - [version-control-with-git](https://labex.io/courses/version-control-with-git)
 - [viewing-searching-and-editing-files](https://labex.io/courses/viewing-searching-and-editing-files)
+- [vulnerability-assessment-management](https://labex.io/courses/vulnerability-assessment-management)
 - [web-development-interactive-challenges](https://labex.io/courses/web-development-interactive-challenges)
 - [web-vulnerability-mastery](https://labex.io/courses/web-vulnerability-mastery)
 - [wireshark-for-beginners](https://labex.io/courses/wireshark-for-beginners)
