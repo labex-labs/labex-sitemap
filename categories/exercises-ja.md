@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Ja Sitemap
 
-> Last updated: 2026-03-15 00:06 UTC
+> Last updated: 2026-03-16 00:06 UTC
 
 This file contains all exercises-ja related links from LabEx website.
 
