@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Fr Sitemap
 
-> Last updated: 2026-03-16 00:06 UTC
+> Last updated: 2026-03-17 00:06 UTC
 
 This file contains all skilltrees-fr related links from LabEx website.
 
@@ -635,13 +635,11 @@ This file contains all skilltrees-fr related links from LabEx website.
 - [creating-a-pipeline](https://labex.io/fr/skilltrees/jenkins/groups/BlueOceanGroup/skills/creating-a-pipeline)
 - [docker-installation](https://labex.io/fr/skilltrees/jenkins/groups/InstallingJenkinsGroup/skills/docker-installation)
 - [initial-settings](https://labex.io/fr/skilltrees/jenkins/groups/InstallingJenkinsGroup/skills/initial-settings)
-- [manage-users](https://labex.io/fr/skilltrees/jenkins/groups/ManagingJenkinsGroup/skills/manage-users)
 - [managing-plugins](https://labex.io/fr/skilltrees/jenkins/groups/ManagingJenkinsGroup/skills/managing-plugins)
 - [pipeline](https://labex.io/fr/skilltrees/jenkins/groups/PipelineGroup/skills/pipeline)
 - [running-pipelines](https://labex.io/fr/skilltrees/jenkins/groups/PipelineGroup/skills/running-pipelines)
 - [build-history](https://labex.io/fr/skilltrees/jenkins/groups/UsingJenkinsGroup/skills/build-history)
 - [create-project](https://labex.io/fr/skilltrees/jenkins/groups/UsingJenkinsGroup/skills/create-project)
-- [role-based-authorization](https://labex.io/fr/skilltrees/jenkins/groups/UsingJenkinsGroup/skills/role-based-authorization)
 - [bash-code](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/bash-code)
 - [file-ctrl](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/file-ctrl)
 - [fw-ctrl](https://labex.io/fr/skilltrees/kali/groups/KaliGroup/skills/fw-ctrl)

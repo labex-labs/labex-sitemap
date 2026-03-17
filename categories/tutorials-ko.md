@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ko Sitemap
 
-> Last updated: 2026-03-16 00:06 UTC
+> Last updated: 2026-03-17 00:06 UTC
 
 This file contains all tutorials-ko related links from LabEx website.
 
@@ -4346,7 +4346,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [jenkins-installing-jenkins-with-docker-391174](https://labex.io/ko/tutorials/jenkins-installing-jenkins-with-docker-391174) *(Last modified: 2026-03-15)*
 - [jenkins-integrating-jenkins-with-source-control-git-595304](https://labex.io/ko/tutorials/jenkins-integrating-jenkins-with-source-control-git-595304) *(Last modified: 2026-03-15)*
 - [jenkins-introduction-to-jenkins-pipelines-595305](https://labex.io/ko/tutorials/jenkins-introduction-to-jenkins-pipelines-595305) *(Last modified: 2026-03-15)*
-- [jenkins-jenkins-user-management-391302](https://labex.io/ko/tutorials/jenkins-jenkins-user-management-391302) *(Last modified: 2026-02-10)*
+- [jenkins-jenkins-user-management-391302](https://labex.io/ko/tutorials/jenkins-jenkins-user-management-391302) *(Last modified: 2026-03-16)*
 - [jenkins-managing-plugins-in-jenkins-595307](https://labex.io/ko/tutorials/jenkins-managing-plugins-in-jenkins-595307) *(Last modified: 2026-03-15)*
 - [jenkins-online-jenkins-playground-415838](https://labex.io/ko/tutorials/jenkins-online-jenkins-playground-415838) *(Last modified: 2026-03-11)*
 - [jenkins-parameterizing-builds-and-using-scripts-595308](https://labex.io/ko/tutorials/jenkins-parameterizing-builds-and-using-scripts-595308) *(Last modified: 2026-03-15)*

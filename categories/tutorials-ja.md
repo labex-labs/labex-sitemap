@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ja Sitemap
 
-> Last updated: 2026-03-16 00:06 UTC
+> Last updated: 2026-03-17 00:06 UTC
 
 This file contains all tutorials-ja related links from LabEx website.
 
@@ -4752,16 +4752,16 @@ This file contains all tutorials-ja related links from LabEx website.
 - [jenkins-configuring-basic-freestyle-projects-595302](https://labex.io/ja/tutorials/jenkins-configuring-basic-freestyle-projects-595302) *(Last modified: 2026-03-15)*
 - [jenkins-exploring-the-jenkins-interface-595303](https://labex.io/ja/tutorials/jenkins-exploring-the-jenkins-interface-595303) *(Last modified: 2026-03-15)*
 - [jenkins-how-to-access-the-jenkins-web-interface-414782](https://labex.io/ja/tutorials/jenkins-how-to-access-the-jenkins-web-interface-414782) *(Last modified: 2025-10-11)*
-- [jenkins-how-to-add-team-members-to-a-jenkins-environment-414783](https://labex.io/ja/tutorials/jenkins-how-to-add-team-members-to-a-jenkins-environment-414783) *(Last modified: 2025-10-31)*
+- [jenkins-how-to-add-team-members-to-a-jenkins-environment-414783](https://labex.io/ja/tutorials/jenkins-how-to-add-team-members-to-a-jenkins-environment-414783) *(Last modified: 2026-03-16)*
 - [jenkins-how-to-fix-repository-connection-failure-in-jenkins-415717](https://labex.io/ja/tutorials/jenkins-how-to-fix-repository-connection-failure-in-jenkins-415717) *(Last modified: 2025-10-31)*
-- [jenkins-how-to-log-in-to-jenkins-with-the-correct-credentials-415683](https://labex.io/ja/tutorials/jenkins-how-to-log-in-to-jenkins-with-the-correct-credentials-415683) *(Last modified: 2025-10-31)*
-- [jenkins-how-to-manage-users-in-jenkins-414784](https://labex.io/ja/tutorials/jenkins-how-to-manage-users-in-jenkins-414784) *(Last modified: 2025-10-31)*
+- [jenkins-how-to-log-in-to-jenkins-with-the-correct-credentials-415683](https://labex.io/ja/tutorials/jenkins-how-to-log-in-to-jenkins-with-the-correct-credentials-415683) *(Last modified: 2026-03-16)*
+- [jenkins-how-to-manage-users-in-jenkins-414784](https://labex.io/ja/tutorials/jenkins-how-to-manage-users-in-jenkins-414784) *(Last modified: 2026-03-16)*
 - [jenkins-how-to-set-jenkins-to-start-automatically-on-system-boot-415720](https://labex.io/ja/tutorials/jenkins-how-to-set-jenkins-to-start-automatically-on-system-boot-415720) *(Last modified: 2025-10-31)*
 - [jenkins-how-to-verify-jenkins-docker-image-version-415670](https://labex.io/ja/tutorials/jenkins-how-to-verify-jenkins-docker-image-version-415670) *(Last modified: 2025-10-31)*
 - [jenkins-installing-jenkins-with-docker-391174](https://labex.io/ja/tutorials/jenkins-installing-jenkins-with-docker-391174) *(Last modified: 2026-03-15)*
 - [jenkins-integrating-jenkins-with-source-control-git-595304](https://labex.io/ja/tutorials/jenkins-integrating-jenkins-with-source-control-git-595304) *(Last modified: 2026-03-15)*
 - [jenkins-introduction-to-jenkins-pipelines-595305](https://labex.io/ja/tutorials/jenkins-introduction-to-jenkins-pipelines-595305) *(Last modified: 2026-03-15)*
-- [jenkins-jenkins-user-management-391302](https://labex.io/ja/tutorials/jenkins-jenkins-user-management-391302) *(Last modified: 2026-02-10)*
+- [jenkins-jenkins-user-management-391302](https://labex.io/ja/tutorials/jenkins-jenkins-user-management-391302) *(Last modified: 2026-03-16)*
 - [jenkins-managing-plugins-in-jenkins-595307](https://labex.io/ja/tutorials/jenkins-managing-plugins-in-jenkins-595307) *(Last modified: 2026-03-15)*
 - [jenkins-online-jenkins-playground-415838](https://labex.io/ja/tutorials/jenkins-online-jenkins-playground-415838) *(Last modified: 2026-03-11)*
 - [jenkins-parameterizing-builds-and-using-scripts-595308](https://labex.io/ja/tutorials/jenkins-parameterizing-builds-and-using-scripts-595308) *(Last modified: 2026-03-15)*
