@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ja Sitemap
 
-> Last updated: 2026-03-17 06:50 UTC
+> Last updated: 2026-03-18 00:07 UTC
 
 This file contains all courses-ja related links from LabEx website.
 
@@ -283,6 +283,7 @@ This file contains all courses-ja related links from LabEx website.
 - [project-encoding-label-to-one-hot](https://labex.io/ja/courses/project-encoding-label-to-one-hot)
 - [project-escape-from-the-dual-vector-foil](https://labex.io/ja/courses/project-escape-from-the-dual-vector-foil)
 - [project-exploring-the-earth](https://labex.io/ja/courses/project-exploring-the-earth)
+- [project-external-attack-surface-assessment](https://labex.io/ja/courses/project-external-attack-surface-assessment)
 - [project-extract-information-from-parameters](https://labex.io/ja/courses/project-extract-information-from-parameters)
 - [project-extract-movie-information](https://labex.io/ja/courses/project-extract-movie-information)
 - [project-extracting-information-from-text](https://labex.io/ja/courses/project-extracting-information-from-text)
@@ -338,10 +339,12 @@ This file contains all courses-ja related links from LabEx website.
 - [project-implementing-a-queue](https://labex.io/ja/courses/project-implementing-a-queue)
 - [project-implementing-an-immutable-dictionary](https://labex.io/ja/courses/project-implementing-an-immutable-dictionary)
 - [project-implementing-minkowski-distance-metric](https://labex.io/ja/courses/project-implementing-minkowski-distance-metric)
+- [project-incident-response-and-malware-triage](https://labex.io/ja/courses/project-incident-response-and-malware-triage)
 - [project-input-parameter-practice](https://labex.io/ja/courses/project-input-parameter-practice)
 - [project-input-search-suggestions](https://labex.io/ja/courses/project-input-search-suggestions)
 - [project-installing-a-git-server](https://labex.io/ja/courses/project-installing-a-git-server)
 - [project-installing-and-configuring-a-mail-server](https://labex.io/ja/courses/project-installing-and-configuring-a-mail-server)
+- [project-internal-compromise-and-privilege-escalation](https://labex.io/ja/courses/project-internal-compromise-and-privilege-escalation)
 - [project-javabean-mutiple-parameters](https://labex.io/ja/courses/project-javabean-mutiple-parameters)
 - [project-join-query-comprehensive-challenge](https://labex.io/ja/courses/project-join-query-comprehensive-challenge)
 - [project-jquery-flip-puzzle-game](https://labex.io/ja/courses/project-jquery-flip-puzzle-game)
@@ -415,6 +418,7 @@ This file contains all courses-ja related links from LabEx website.
 - [project-print-standard-body-temperature-in-fahrenheit](https://labex.io/ja/courses/project-print-standard-body-temperature-in-fahrenheit)
 - [project-prize-draw](https://labex.io/ja/courses/project-prize-draw)
 - [project-push-box-game-with-pygame](https://labex.io/ja/courses/project-push-box-game-with-pygame)
+- [project-python-security-automation-capstone](https://labex.io/ja/courses/project-python-security-automation-capstone)
 - [project-qr-code-generator-using-python](https://labex.io/ja/courses/project-qr-code-generator-using-python)
 - [project-query-city-information-for-specified-ids](https://labex.io/ja/courses/project-query-city-information-for-specified-ids)
 - [project-query-city-names-with-country](https://labex.io/ja/courses/project-query-city-names-with-country)
@@ -453,6 +457,7 @@ This file contains all courses-ja related links from LabEx website.
 - [project-search-for-favorite-courses](https://labex.io/ja/courses/project-search-for-favorite-courses)
 - [project-search-for-text-files-in-directory](https://labex.io/ja/courses/project-search-for-text-files-in-directory)
 - [project-searching-for-specific-files](https://labex.io/ja/courses/project-searching-for-specific-files)
+- [project-secret-recovery-and-password-audit](https://labex.io/ja/courses/project-secret-recovery-and-password-audit)
 - [project-setting-up-spring-development-environment](https://labex.io/ja/courses/project-setting-up-spring-development-environment)
 - [project-shopping-cart](https://labex.io/ja/courses/project-shopping-cart)
 - [project-show-and-hide](https://labex.io/ja/courses/project-show-and-hide)
@@ -461,6 +466,7 @@ This file contains all courses-ja related links from LabEx website.
 - [project-skip-when-a-multiple-of-x](https://labex.io/ja/courses/project-skip-when-a-multiple-of-x)
 - [project-smb-enumeration-and-guest-access](https://labex.io/ja/courses/project-smb-enumeration-and-guest-access)
 - [project-snake-game-using-python-and-pygame](https://labex.io/ja/courses/project-snake-game-using-python-and-pygame)
+- [project-soc-foundations-review](https://labex.io/ja/courses/project-soc-foundations-review)
 - [project-soldier-serial-number-generator](https://labex.io/ja/courses/project-soldier-serial-number-generator)
 - [project-spell-out-a-future](https://labex.io/ja/courses/project-spell-out-a-future)
 - [project-spring-course-information](https://labex.io/ja/courses/project-spring-course-information)
@@ -511,6 +517,7 @@ This file contains all courses-ja related links from LabEx website.
 - [project-virtual-scroll-list](https://labex.io/ja/courses/project-virtual-scroll-list)
 - [project-weather-forecast-query](https://labex.io/ja/courses/project-weather-forecast-query)
 - [project-weather-trend](https://labex.io/ja/courses/project-weather-trend)
+- [project-web-application-breach-simulation](https://labex.io/ja/courses/project-web-application-breach-simulation)
 - [project-web-ppt](https://labex.io/ja/courses/project-web-ppt)
 - [project-web-server-deployment-and-disaster-recovery](https://labex.io/ja/courses/project-web-server-deployment-and-disaster-recovery)
 - [project-weekly-report-template-creation](https://labex.io/ja/courses/project-weekly-report-template-creation)
