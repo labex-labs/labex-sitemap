@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Ru Sitemap
 
-> Last updated: 2026-03-19 00:06 UTC
+> Last updated: 2026-03-20 00:06 UTC
 
 This file contains all exercises-ru related links from LabEx website.
 
@@ -23,6 +23,7 @@ This file contains all exercises-ru related links from LabEx website.
 - [cpp](https://labex.io/ru/exercises/cpp)
 - [css](https://labex.io/ru/exercises/css)
 - [cybersecurity](https://labex.io/ru/exercises/cybersecurity)
+- [cybersecurity-engineer](https://labex.io/ru/exercises/cybersecurity-engineer)
 - [data-science](https://labex.io/ru/exercises/data-science)
 - [database](https://labex.io/ru/exercises/database)
 - [devops](https://labex.io/ru/exercises/devops)

@@ -4,7 +4,7 @@ layout: default
 
 # Pages-Fr Sitemap
 
-> Last updated: 2026-03-19 00:06 UTC
+> Last updated: 2026-03-20 00:06 UTC
 
 This file contains all pages-fr related links from LabEx website.
 
@@ -24,5 +24,6 @@ This file contains all pages-fr related links from LabEx website.
 - [pricing](https://labex.io/fr/pricing)
 - [projects](https://labex.io/fr/projects)
 - [register](https://labex.io/fr/register)
+- [skilltrees](https://labex.io/fr/skilltrees)
 - [tutorials](https://labex.io/fr/tutorials)
 - [fr](https://labex.io/fr)

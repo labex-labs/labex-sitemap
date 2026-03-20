@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Pt Sitemap
 
-> Last updated: 2026-03-19 00:06 UTC
+> Last updated: 2026-03-20 00:06 UTC
 
 This file contains all exercises-pt related links from LabEx website.
 
@@ -23,6 +23,7 @@ This file contains all exercises-pt related links from LabEx website.
 - [cpp](https://labex.io/pt/exercises/cpp)
 - [css](https://labex.io/pt/exercises/css)
 - [cybersecurity](https://labex.io/pt/exercises/cybersecurity)
+- [cybersecurity-engineer](https://labex.io/pt/exercises/cybersecurity-engineer)
 - [data-science](https://labex.io/pt/exercises/data-science)
 - [database](https://labex.io/pt/exercises/database)
 - [devops](https://labex.io/pt/exercises/devops)

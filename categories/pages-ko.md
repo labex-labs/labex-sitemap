@@ -4,7 +4,7 @@ layout: default
 
 # Pages-Ko Sitemap
 
-> Last updated: 2026-03-19 00:06 UTC
+> Last updated: 2026-03-20 00:06 UTC
 
 This file contains all pages-ko related links from LabEx website.
 
@@ -24,5 +24,6 @@ This file contains all pages-ko related links from LabEx website.
 - [pricing](https://labex.io/ko/pricing)
 - [projects](https://labex.io/ko/projects)
 - [register](https://labex.io/ko/register)
+- [skilltrees](https://labex.io/ko/skilltrees)
 - [tutorials](https://labex.io/ko/tutorials)
 - [ko](https://labex.io/ko)

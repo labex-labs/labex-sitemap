@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Es Sitemap
 
-> Last updated: 2026-03-19 00:06 UTC
+> Last updated: 2026-03-20 00:06 UTC
 
 This file contains all skilltrees-es related links from LabEx website.
 
@@ -23,6 +23,7 @@ This file contains all skilltrees-es related links from LabEx website.
 - [cpp](https://labex.io/es/learn/cpp)
 - [css](https://labex.io/es/learn/css)
 - [cybersecurity](https://labex.io/es/learn/cybersecurity)
+- [cybersecurity-engineer](https://labex.io/es/learn/cybersecurity-engineer)
 - [data-science](https://labex.io/es/learn/data-science)
 - [database](https://labex.io/es/learn/database)
 - [devops](https://labex.io/es/learn/devops)
@@ -60,6 +61,7 @@ This file contains all skilltrees-es related links from LabEx website.
 - [cpp](https://labex.io/es/tutorials/category/cpp)
 - [css](https://labex.io/es/tutorials/category/css)
 - [cybersecurity](https://labex.io/es/tutorials/category/cybersecurity)
+- [cybersecurity-engineer](https://labex.io/es/tutorials/category/cybersecurity-engineer)
 - [data-science](https://labex.io/es/tutorials/category/data-science)
 - [database](https://labex.io/es/tutorials/category/database)
 - [devops](https://labex.io/es/tutorials/category/devops)

@@ -4,7 +4,7 @@ layout: default
 
 # Pages-Pt Sitemap
 
-> Last updated: 2026-03-19 00:06 UTC
+> Last updated: 2026-03-20 00:06 UTC
 
 This file contains all pages-pt related links from LabEx website.
 
@@ -24,5 +24,6 @@ This file contains all pages-pt related links from LabEx website.
 - [pricing](https://labex.io/pt/pricing)
 - [projects](https://labex.io/pt/projects)
 - [register](https://labex.io/pt/register)
+- [skilltrees](https://labex.io/pt/skilltrees)
 - [tutorials](https://labex.io/pt/tutorials)
 - [pt](https://labex.io/pt)

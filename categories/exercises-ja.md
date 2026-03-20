@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Ja Sitemap
 
-> Last updated: 2026-03-19 00:06 UTC
+> Last updated: 2026-03-20 00:06 UTC
 
 This file contains all exercises-ja related links from LabEx website.
 
@@ -23,6 +23,7 @@ This file contains all exercises-ja related links from LabEx website.
 - [cpp](https://labex.io/ja/exercises/cpp)
 - [css](https://labex.io/ja/exercises/css)
 - [cybersecurity](https://labex.io/ja/exercises/cybersecurity)
+- [cybersecurity-engineer](https://labex.io/ja/exercises/cybersecurity-engineer)
 - [data-science](https://labex.io/ja/exercises/data-science)
 - [database](https://labex.io/ja/exercises/database)
 - [devops](https://labex.io/ja/exercises/devops)

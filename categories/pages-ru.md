@@ -4,7 +4,7 @@ layout: default
 
 # Pages-Ru Sitemap
 
-> Last updated: 2026-03-19 00:06 UTC
+> Last updated: 2026-03-20 00:06 UTC
 
 This file contains all pages-ru related links from LabEx website.
 
@@ -25,4 +25,5 @@ This file contains all pages-ru related links from LabEx website.
 - [pricing](https://labex.io/ru/pricing)
 - [projects](https://labex.io/ru/projects)
 - [register](https://labex.io/ru/register)
+- [skilltrees](https://labex.io/ru/skilltrees)
 - [tutorials](https://labex.io/ru/tutorials)

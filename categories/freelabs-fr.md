@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Fr Sitemap
 
-> Last updated: 2026-03-19 00:06 UTC
+> Last updated: 2026-03-20 00:06 UTC
 
 This file contains all freelabs-fr related links from LabEx website.
 
@@ -24,6 +24,7 @@ This file contains all freelabs-fr related links from LabEx website.
 - [cpp](https://labex.io/fr/free-labs/cpp)
 - [css](https://labex.io/fr/free-labs/css)
 - [cybersecurity](https://labex.io/fr/free-labs/cybersecurity)
+- [cybersecurity-engineer](https://labex.io/fr/free-labs/cybersecurity-engineer)
 - [data-science](https://labex.io/fr/free-labs/data-science)
 - [database](https://labex.io/fr/free-labs/database)
 - [devops](https://labex.io/fr/free-labs/devops)
