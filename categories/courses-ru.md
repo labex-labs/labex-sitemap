@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ru Sitemap
 
-> Last updated: 2026-03-20 00:06 UTC
+> Last updated: 2026-03-21 00:04 UTC
 
 This file contains all courses-ru related links from LabEx website.
 
@@ -19,7 +19,6 @@ This file contains all courses-ru related links from LabEx website.
 
 - [100-numpy-exercises](https://labex.io/ru/courses/100-numpy-exercises)
 - [100-pandas-exercises](https://labex.io/ru/courses/100-pandas-exercises)
-- [a-beginner-guide-to-labex](https://labex.io/ru/courses/a-beginner-guide-to-labex)
 - [advanced-mysql-practical-labs](https://labex.io/ru/courses/advanced-mysql-practical-labs)
 - [advanced-postgresql-practical-labs](https://labex.io/ru/courses/advanced-postgresql-practical-labs)
 - [advanced-shell-scripting-techniques](https://labex.io/ru/courses/advanced-shell-scripting-techniques)

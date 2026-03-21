@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Fr Sitemap
 
-> Last updated: 2026-03-20 00:06 UTC
+> Last updated: 2026-03-21 00:04 UTC
 
 This file contains all courses-fr related links from LabEx website.
 
@@ -19,7 +19,6 @@ This file contains all courses-fr related links from LabEx website.
 
 - [100-numpy-exercises](https://labex.io/fr/courses/100-numpy-exercises)
 - [100-pandas-exercises](https://labex.io/fr/courses/100-pandas-exercises)
-- [a-beginner-guide-to-labex](https://labex.io/fr/courses/a-beginner-guide-to-labex)
 - [advanced-mysql-practical-labs](https://labex.io/fr/courses/advanced-mysql-practical-labs)
 - [advanced-postgresql-practical-labs](https://labex.io/fr/courses/advanced-postgresql-practical-labs)
 - [advanced-shell-scripting-techniques](https://labex.io/fr/courses/advanced-shell-scripting-techniques)
