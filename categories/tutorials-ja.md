@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ja Sitemap
 
-> Last updated: 2026-03-27 00:08 UTC
+> Last updated: 2026-03-28 00:07 UTC
 
 This file contains all tutorials-ja related links from LabEx website.
 
@@ -4936,8 +4936,8 @@ This file contains all tutorials-ja related links from LabEx website.
 - [kali-kali-password-cracking-with-john-552297](https://labex.io/ja/tutorials/kali-kali-password-cracking-with-john-552297) *(Last modified: 2026-03-26)*
 - [kali-kali-reconnaissance-with-nmap-and-dns-552298](https://labex.io/ja/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298) *(Last modified: 2026-03-26)*
 - [kali-kali-reporting-with-git-and-dradis-552299](https://labex.io/ja/tutorials/kali-kali-reporting-with-git-and-dradis-552299) *(Last modified: 2026-02-10)*
-- [kali-kali-sql-injection-with-sqlmap-552300](https://labex.io/ja/tutorials/kali-kali-sql-injection-with-sqlmap-552300) *(Last modified: 2026-03-26)*
-- [kali-kali-vulnerability-scanning-with-nikto-552301](https://labex.io/ja/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301) *(Last modified: 2026-03-26)*
+- [kali-kali-sql-injection-with-sqlmap-552300](https://labex.io/ja/tutorials/kali-kali-sql-injection-with-sqlmap-552300) *(Last modified: 2026-03-27)*
+- [kali-kali-vulnerability-scanning-with-nikto-552301](https://labex.io/ja/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301) *(Last modified: 2026-03-27)*
 - [kali-kali-web-testing-with-burp-suite-552302](https://labex.io/ja/tutorials/kali-kali-web-testing-with-burp-suite-552302) *(Last modified: 2026-02-10)*
 - [kali-kali-wireless-attacks-with-aircrack-ng-552303](https://labex.io/ja/tutorials/kali-kali-wireless-attacks-with-aircrack-ng-552303) *(Last modified: 2026-02-10)*
 - [kali-launch-and-navigate-the-msfconsole-interface-in-kali-linux-594035](https://labex.io/ja/tutorials/kali-launch-and-navigate-the-msfconsole-interface-in-kali-linux-594035) *(Last modified: 2025-10-10)*
