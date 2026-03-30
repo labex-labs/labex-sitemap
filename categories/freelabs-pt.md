@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Pt Sitemap
 
-> Last updated: 2026-03-29 00:07 UTC
+> Last updated: 2026-03-30 00:08 UTC
 
 This file contains all freelabs-pt related links from LabEx website.
 
@@ -17,7 +17,6 @@ This file contains all freelabs-pt related links from LabEx website.
 
 ### pt
 
-- [alibabacloud](https://labex.io/pt/free-labs/alibabacloud)
 - [ansible](https://labex.io/pt/free-labs/ansible)
 - [c](https://labex.io/pt/free-labs/c)
 - [comptia](https://labex.io/pt/free-labs/comptia)

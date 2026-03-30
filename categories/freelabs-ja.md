@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Ja Sitemap
 
-> Last updated: 2026-03-29 00:07 UTC
+> Last updated: 2026-03-30 00:08 UTC
 
 This file contains all freelabs-ja related links from LabEx website.
 
@@ -17,7 +17,6 @@ This file contains all freelabs-ja related links from LabEx website.
 
 ### ja
 
-- [alibabacloud](https://labex.io/ja/free-labs/alibabacloud)
 - [ansible](https://labex.io/ja/free-labs/ansible)
 - [c](https://labex.io/ja/free-labs/c)
 - [comptia](https://labex.io/ja/free-labs/comptia)
