@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2026-03-30 00:08 UTC
+> Last updated: 2026-03-31 00:09 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -8120,7 +8120,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-becoming-a-skilled-linux-system-administrator-392891](https://labex.io/zh/tutorials/linux-becoming-a-skilled-linux-system-administrator-392891) *(Last modified: 2025-10-11)*
 - [linux-beginner-s-tutorial-extracting-zip-files-on-linux-392961](https://labex.io/zh/tutorials/linux-beginner-s-tutorial-extracting-zip-files-on-linux-392961) *(Last modified: 2025-10-11)*
 - [linux-build-a-backdoor-in-netcat-549927](https://labex.io/zh/tutorials/linux-build-a-backdoor-in-netcat-549927) *(Last modified: 2026-02-10)*
-- [linux-build-a-linux-system-monitor-using-bash-298845](https://labex.io/zh/tutorials/linux-build-a-linux-system-monitor-using-bash-298845) *(Last modified: 2026-03-28)*
+- [linux-build-a-linux-system-monitor-using-bash-298845](https://labex.io/zh/tutorials/linux-build-a-linux-system-monitor-using-bash-298845) *(Last modified: 2026-03-30)*
 - [linux-build-a-task-scheduler-using-bash-298846](https://labex.io/zh/tutorials/linux-build-a-task-scheduler-using-bash-298846) *(Last modified: 2026-03-28)*
 - [linux-build-linux-system-skills-from-scratch-395001](https://labex.io/zh/tutorials/linux-build-linux-system-skills-from-scratch-395001) *(Last modified: 2025-10-11)*
 - [linux-changing-the-error-log-location-301294](https://labex.io/zh/tutorials/linux-changing-the-error-log-location-301294) *(Last modified: 2026-02-10)*
@@ -10461,7 +10461,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-use-relative-paths-in-linux-430977](https://labex.io/zh/tutorials/linux-use-relative-paths-in-linux-430977) *(Last modified: 2025-10-11)*
 - [linux-user-account-creation-632804](https://labex.io/zh/tutorials/linux-user-account-creation-632804) *(Last modified: 2026-03-28)*
 - [linux-user-account-management-49](https://labex.io/zh/tutorials/linux-user-account-management-49) *(Last modified: 2026-03-28)*
-- [linux-users-and-groups-creation-and-deletion-batch-301458](https://labex.io/zh/tutorials/linux-users-and-groups-creation-and-deletion-batch-301458) *(Last modified: 2026-03-28)*
+- [linux-users-and-groups-creation-and-deletion-batch-301458](https://labex.io/zh/tutorials/linux-users-and-groups-creation-and-deletion-batch-301458) *(Last modified: 2026-03-30)*
 - [linux-users-and-groups-creation-and-deletion-batch-301459](https://labex.io/zh/tutorials/linux-users-and-groups-creation-and-deletion-batch-301459) *(Last modified: 2026-02-10)*
 - [linux-using-hydra-to-crack-passwords-415960](https://labex.io/zh/tutorials/linux-using-hydra-to-crack-passwords-415960) *(Last modified: 2026-03-28)*
 - [linux-using-netcat-for-simple-network-communication-415961](https://labex.io/zh/tutorials/linux-using-netcat-for-simple-network-communication-415961) *(Last modified: 2026-03-28)*

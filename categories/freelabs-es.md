@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Es Sitemap
 
-> Last updated: 2026-03-30 00:08 UTC
+> Last updated: 2026-03-31 00:09 UTC
 
 This file contains all freelabs-es related links from LabEx website.
 
@@ -17,7 +17,6 @@ This file contains all freelabs-es related links from LabEx website.
 
 ### es
 
-- [alibabacloud](https://labex.io/es/free-labs/alibabacloud)
 - [ansible](https://labex.io/es/free-labs/ansible)
 - [c](https://labex.io/es/free-labs/c)
 - [comptia](https://labex.io/es/free-labs/comptia)

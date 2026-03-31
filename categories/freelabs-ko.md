@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Ko Sitemap
 
-> Last updated: 2026-03-30 00:08 UTC
+> Last updated: 2026-03-31 00:09 UTC
 
 This file contains all freelabs-ko related links from LabEx website.
 
@@ -17,7 +17,6 @@ This file contains all freelabs-ko related links from LabEx website.
 
 ### ko
 
-- [alibabacloud](https://labex.io/ko/free-labs/alibabacloud)
 - [ansible](https://labex.io/ko/free-labs/ansible)
 - [c](https://labex.io/ko/free-labs/c)
 - [comptia](https://labex.io/ko/free-labs/comptia)

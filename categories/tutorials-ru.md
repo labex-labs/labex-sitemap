@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ru Sitemap
 
-> Last updated: 2026-03-30 00:08 UTC
+> Last updated: 2026-03-31 00:09 UTC
 
 This file contains all tutorials-ru related links from LabEx website.
 
@@ -5226,7 +5226,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720](https://labex.io/ru/tutorials/linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720) *(Last modified: 2026-03-28)*
 - [linux-basic-public-key-infrastructure-pki-in-cryptography-632757](https://labex.io/ru/tutorials/linux-basic-public-key-infrastructure-pki-in-cryptography-632757) *(Last modified: 2026-03-28)*
 - [linux-build-a-backdoor-in-netcat-549927](https://labex.io/ru/tutorials/linux-build-a-backdoor-in-netcat-549927) *(Last modified: 2026-02-10)*
-- [linux-build-a-linux-system-monitor-using-bash-298845](https://labex.io/ru/tutorials/linux-build-a-linux-system-monitor-using-bash-298845) *(Last modified: 2026-03-28)*
+- [linux-build-a-linux-system-monitor-using-bash-298845](https://labex.io/ru/tutorials/linux-build-a-linux-system-monitor-using-bash-298845) *(Last modified: 2026-03-30)*
 - [linux-build-a-task-scheduler-using-bash-298846](https://labex.io/ru/tutorials/linux-build-a-task-scheduler-using-bash-298846) *(Last modified: 2026-03-28)*
 - [linux-changing-the-error-log-location-301294](https://labex.io/ru/tutorials/linux-changing-the-error-log-location-301294) *(Last modified: 2026-02-10)*
 - [linux-chess-board-in-terminal-299820](https://labex.io/ru/tutorials/linux-chess-board-in-terminal-299820) *(Last modified: 2026-03-28)*
@@ -5868,7 +5868,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-unleashing-vidyutpada-linux-input-mastery-271366](https://labex.io/ru/tutorials/linux-unleashing-vidyutpada-linux-input-mastery-271366) *(Last modified: 2026-03-28)*
 - [linux-user-account-creation-632804](https://labex.io/ru/tutorials/linux-user-account-creation-632804) *(Last modified: 2026-03-28)*
 - [linux-user-account-management-49](https://labex.io/ru/tutorials/linux-user-account-management-49) *(Last modified: 2026-03-28)*
-- [linux-users-and-groups-creation-and-deletion-batch-301458](https://labex.io/ru/tutorials/linux-users-and-groups-creation-and-deletion-batch-301458) *(Last modified: 2026-03-28)*
+- [linux-users-and-groups-creation-and-deletion-batch-301458](https://labex.io/ru/tutorials/linux-users-and-groups-creation-and-deletion-batch-301458) *(Last modified: 2026-03-30)*
 - [linux-users-and-groups-creation-and-deletion-batch-301459](https://labex.io/ru/tutorials/linux-users-and-groups-creation-and-deletion-batch-301459) *(Last modified: 2026-02-10)*
 - [linux-using-hydra-to-crack-passwords-415960](https://labex.io/ru/tutorials/linux-using-hydra-to-crack-passwords-415960) *(Last modified: 2026-03-28)*
 - [linux-using-netcat-for-simple-network-communication-415961](https://labex.io/ru/tutorials/linux-using-netcat-for-simple-network-communication-415961) *(Last modified: 2026-03-28)*
