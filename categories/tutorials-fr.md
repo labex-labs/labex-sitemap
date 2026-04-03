@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Fr Sitemap
 
-> Last updated: 2026-04-02 00:07 UTC
+> Last updated: 2026-04-03 00:08 UTC
 
 This file contains all tutorials-fr related links from LabEx website.
 
