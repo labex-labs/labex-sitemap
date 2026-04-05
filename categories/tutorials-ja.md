@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ja Sitemap
 
-> Last updated: 2026-04-04 00:07 UTC
+> Last updated: 2026-04-05 00:07 UTC
 
 This file contains all tutorials-ja related links from LabEx website.
 
