@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ko Sitemap
 
-> Last updated: 2026-04-08 00:10 UTC
+> Last updated: 2026-04-09 00:07 UTC
 
 This file contains all tutorials-ko related links from LabEx website.
 
@@ -4513,7 +4513,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [kali-john-the-ripper-for-digital-forensics-594207](https://labex.io/ko/tutorials/kali-john-the-ripper-for-digital-forensics-594207) *(Last modified: 2026-01-09)*
 - [kali-john-the-ripper-for-penetration-testing-scenarios-594208](https://labex.io/ko/tutorials/kali-john-the-ripper-for-penetration-testing-scenarios-594208) *(Last modified: 2025-10-10)*
 - [kali-kali-automation-with-bash-and-python-552292](https://labex.io/ko/tutorials/kali-kali-automation-with-bash-and-python-552292) *(Last modified: 2026-02-10)*
-- [kali-kali-exploitation-with-metasploit-552293](https://labex.io/ko/tutorials/kali-kali-exploitation-with-metasploit-552293) *(Last modified: 2026-04-07)*
+- [kali-kali-exploitation-with-metasploit-552293](https://labex.io/ko/tutorials/kali-kali-exploitation-with-metasploit-552293) *(Last modified: 2026-04-08)*
 - [kali-kali-firewall-configuration-with-iptables-552294](https://labex.io/ko/tutorials/kali-kali-firewall-configuration-with-iptables-552294) *(Last modified: 2026-04-07)*
 - [kali-kali-interview-questions-and-answers-593687](https://labex.io/ko/tutorials/kali-kali-interview-questions-and-answers-593687) *(Last modified: 2026-01-17)*
 - [kali-kali-log-analysis-with-journalctl-552295](https://labex.io/ko/tutorials/kali-kali-log-analysis-with-journalctl-552295) *(Last modified: 2026-02-10)*
