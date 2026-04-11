@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ru Sitemap
 
-> Last updated: 2026-04-10 00:10 UTC
+> Last updated: 2026-04-11 00:09 UTC
 
 This file contains all tutorials-ru related links from LabEx website.
 
@@ -5271,7 +5271,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-discover-linux-system-information-36](https://labex.io/ru/tutorials/linux-discover-linux-system-information-36) *(Last modified: 2026-04-09)*
 - [linux-disk-usage-detective-388099](https://labex.io/ru/tutorials/linux-disk-usage-detective-388099) *(Last modified: 2026-04-09)*
 - [linux-display-os-info-stylishly-with-neofetch-299825](https://labex.io/ru/tutorials/linux-display-os-info-stylishly-with-neofetch-299825) *(Last modified: 2026-04-09)*
-- [linux-display-user-and-group-information-8718](https://labex.io/ru/tutorials/linux-display-user-and-group-information-8718) *(Last modified: 2026-04-09)*
+- [linux-display-user-and-group-information-8718](https://labex.io/ru/tutorials/linux-display-user-and-group-information-8718) *(Last modified: 2026-04-10)*
 - [linux-download-files-from-the-internet-387333](https://labex.io/ru/tutorials/linux-download-files-from-the-internet-387333) *(Last modified: 2026-04-09)*
 - [linux-download-media-with-you-get-289657](https://labex.io/ru/tutorials/linux-download-media-with-you-get-289657) *(Last modified: 2026-02-10)*
 - [linux-empires-gedit-quest-271288](https://labex.io/ru/tutorials/linux-empires-gedit-quest-271288) *(Last modified: 2026-04-09)*
@@ -5610,7 +5610,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-json-data-processing-with-jq-279945](https://labex.io/ru/tutorials/linux-json-data-processing-with-jq-279945) *(Last modified: 2026-04-09)*
 - [linux-linux-aplay-command-with-practical-examples-422545](https://labex.io/ru/tutorials/linux-linux-aplay-command-with-practical-examples-422545) *(Last modified: 2025-10-10)*
 - [linux-linux-arithmetic-calculations-271229](https://labex.io/ru/tutorials/linux-linux-arithmetic-calculations-271229) *(Last modified: 2026-04-09)*
-- [linux-linux-awk-command-text-processing-388493](https://labex.io/ru/tutorials/linux-linux-awk-command-text-processing-388493) *(Last modified: 2026-04-09)*
+- [linux-linux-awk-command-text-processing-388493](https://labex.io/ru/tutorials/linux-linux-awk-command-text-processing-388493) *(Last modified: 2026-04-10)*
 - [linux-linux-background-management-271231](https://labex.io/ru/tutorials/linux-linux-background-management-271231) *(Last modified: 2026-04-09)*
 - [linux-linux-background-running-271233](https://labex.io/ru/tutorials/linux-linux-background-running-271233) *(Last modified: 2026-04-09)*
 - [linux-linux-banner-command-with-practical-examples-422569](https://labex.io/ru/tutorials/linux-linux-banner-command-with-practical-examples-422569) *(Last modified: 2025-10-10)*

@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2026-04-10 00:10 UTC
+> Last updated: 2026-04-11 00:09 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -8281,7 +8281,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-discover-the-top-linux-apps-for-productivity-and-efficiency-411639](https://labex.io/tutorials/linux-discover-the-top-linux-apps-for-productivity-and-efficiency-411639) *(Last modified: 2025-10-11)*
 - [linux-disk-usage-detective-388099](https://labex.io/tutorials/linux-disk-usage-detective-388099) *(Last modified: 2026-04-09)*
 - [linux-display-os-info-stylishly-with-neofetch-299825](https://labex.io/tutorials/linux-display-os-info-stylishly-with-neofetch-299825) *(Last modified: 2026-04-09)*
-- [linux-display-user-and-group-information-8718](https://labex.io/tutorials/linux-display-user-and-group-information-8718) *(Last modified: 2026-04-09)*
+- [linux-display-user-and-group-information-8718](https://labex.io/tutorials/linux-display-user-and-group-information-8718) *(Last modified: 2026-04-10)*
 - [linux-download-files-from-the-internet-387333](https://labex.io/tutorials/linux-download-files-from-the-internet-387333) *(Last modified: 2026-04-09)*
 - [linux-download-media-with-you-get-289657](https://labex.io/tutorials/linux-download-media-with-you-get-289657) *(Last modified: 2026-02-10)*
 - [linux-download-media-with-you-get-on-linux-409951](https://labex.io/tutorials/linux-download-media-with-you-get-on-linux-409951) *(Last modified: 2025-10-11)*
@@ -9833,7 +9833,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-linux-automake-command-with-practical-examples-422564](https://labex.io/tutorials/linux-linux-automake-command-with-practical-examples-422564) *(Last modified: 2025-10-10)*
 - [linux-linux-autoreconf-command-with-practical-examples-422565](https://labex.io/tutorials/linux-linux-autoreconf-command-with-practical-examples-422565) *(Last modified: 2025-10-10)*
 - [linux-linux-autoupdate-command-with-practical-examples-422566](https://labex.io/tutorials/linux-linux-autoupdate-command-with-practical-examples-422566) *(Last modified: 2025-10-10)*
-- [linux-linux-awk-command-text-processing-388493](https://labex.io/tutorials/linux-linux-awk-command-text-processing-388493) *(Last modified: 2026-04-09)*
+- [linux-linux-awk-command-text-processing-388493](https://labex.io/tutorials/linux-linux-awk-command-text-processing-388493) *(Last modified: 2026-04-10)*
 - [linux-linux-awk-command-with-practical-examples-422567](https://labex.io/tutorials/linux-linux-awk-command-with-practical-examples-422567) *(Last modified: 2025-10-10)*
 - [linux-linux-background-management-271231](https://labex.io/tutorials/linux-linux-background-management-271231) *(Last modified: 2026-04-09)*
 - [linux-linux-background-running-271233](https://labex.io/tutorials/linux-linux-background-running-271233) *(Last modified: 2026-04-09)*
