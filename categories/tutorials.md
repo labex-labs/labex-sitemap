@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2026-04-12 00:09 UTC
+> Last updated: 2026-04-13 00:10 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -10165,7 +10165,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-linux-mmove-command-with-practical-examples-422818](https://labex.io/tutorials/linux-linux-mmove-command-with-practical-examples-422818) *(Last modified: 2025-10-10)*
 - [linux-linux-modinfo-command-with-practical-examples-422819](https://labex.io/tutorials/linux-linux-modinfo-command-with-practical-examples-422819) *(Last modified: 2025-10-10)*
 - [linux-linux-modprobe-command-with-practical-examples-422820](https://labex.io/tutorials/linux-linux-modprobe-command-with-practical-examples-422820) *(Last modified: 2025-10-10)*
-- [linux-linux-more-command-file-scrolling-214299](https://labex.io/tutorials/linux-linux-more-command-file-scrolling-214299) *(Last modified: 2026-04-11)*
+- [linux-linux-more-command-file-scrolling-214299](https://labex.io/tutorials/linux-linux-more-command-file-scrolling-214299) *(Last modified: 2026-04-12)*
 - [linux-linux-more-command-with-practical-examples-422821](https://labex.io/tutorials/linux-linux-more-command-with-practical-examples-422821) *(Last modified: 2025-10-10)*
 - [linux-linux-mount-command-with-practical-examples-422822](https://labex.io/tutorials/linux-linux-mount-command-with-practical-examples-422822) *(Last modified: 2025-10-10)*
 - [linux-linux-mpartition-command-with-practical-examples-422823](https://labex.io/tutorials/linux-linux-mpartition-command-with-practical-examples-422823) *(Last modified: 2025-10-10)*
@@ -10387,7 +10387,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-linux-uptime-command-with-practical-examples-422984](https://labex.io/tutorials/linux-linux-uptime-command-with-practical-examples-422984) *(Last modified: 2025-10-10)*
 - [linux-linux-url-data-transferring-271257](https://labex.io/tutorials/linux-linux-url-data-transferring-271257) *(Last modified: 2026-04-11)*
 - [linux-linux-user-adding-271423](https://labex.io/tutorials/linux-linux-user-adding-271423) *(Last modified: 2026-04-11)*
-- [linux-linux-user-group-and-file-permissions-18002](https://labex.io/tutorials/linux-linux-user-group-and-file-permissions-18002) *(Last modified: 2026-04-11)*
+- [linux-linux-user-group-and-file-permissions-18002](https://labex.io/tutorials/linux-linux-user-group-and-file-permissions-18002) *(Last modified: 2026-04-12)*
 - [linux-linux-user-group-id-displaying-271305](https://labex.io/tutorials/linux-linux-user-group-id-displaying-271305) *(Last modified: 2026-04-11)*
 - [linux-linux-user-groups-391864](https://labex.io/tutorials/linux-linux-user-groups-391864) *(Last modified: 2025-10-11)*
 - [linux-linux-user-identifying-271445](https://labex.io/tutorials/linux-linux-user-identifying-271445) *(Last modified: 2026-04-11)*

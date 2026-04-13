@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-De Sitemap
 
-> Last updated: 2026-04-12 00:09 UTC
+> Last updated: 2026-04-13 00:10 UTC
 
 This file contains all tutorials-de related links from LabEx website.
 
@@ -5704,7 +5704,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-linux-minicom-command-with-practical-examples-422802](https://labex.io/de/tutorials/linux-linux-minicom-command-with-practical-examples-422802) *(Last modified: 2025-10-10)*
 - [linux-linux-mkdir-command-directory-creating-209739](https://labex.io/de/tutorials/linux-linux-mkdir-command-directory-creating-209739) *(Last modified: 2026-04-11)*
 - [linux-linux-mmd-command-with-practical-examples-422816](https://labex.io/de/tutorials/linux-linux-mmd-command-with-practical-examples-422816) *(Last modified: 2025-10-10)*
-- [linux-linux-more-command-file-scrolling-214299](https://labex.io/de/tutorials/linux-linux-more-command-file-scrolling-214299) *(Last modified: 2026-04-11)*
+- [linux-linux-more-command-file-scrolling-214299](https://labex.io/de/tutorials/linux-linux-more-command-file-scrolling-214299) *(Last modified: 2026-04-12)*
 - [linux-linux-mtools-command-with-practical-examples-422829](https://labex.io/de/tutorials/linux-linux-mtools-command-with-practical-examples-422829) *(Last modified: 2025-10-10)*
 - [linux-linux-mv-command-file-moving-and-renaming-209743](https://labex.io/de/tutorials/linux-linux-mv-command-file-moving-and-renaming-209743) *(Last modified: 2026-04-11)*
 - [linux-linux-nc-netcat-command-with-practical-examples-422835](https://labex.io/de/tutorials/linux-linux-nc-netcat-command-with-practical-examples-422835) *(Last modified: 2026-04-11)*
@@ -5773,7 +5773,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-linux-updatedb-command-with-practical-examples-422983](https://labex.io/de/tutorials/linux-linux-updatedb-command-with-practical-examples-422983) *(Last modified: 2025-10-10)*
 - [linux-linux-url-data-transferring-271257](https://labex.io/de/tutorials/linux-linux-url-data-transferring-271257) *(Last modified: 2026-04-11)*
 - [linux-linux-user-adding-271423](https://labex.io/de/tutorials/linux-linux-user-adding-271423) *(Last modified: 2026-04-11)*
-- [linux-linux-user-group-and-file-permissions-18002](https://labex.io/de/tutorials/linux-linux-user-group-and-file-permissions-18002) *(Last modified: 2026-04-11)*
+- [linux-linux-user-group-and-file-permissions-18002](https://labex.io/de/tutorials/linux-linux-user-group-and-file-permissions-18002) *(Last modified: 2026-04-12)*
 - [linux-linux-user-group-id-displaying-271305](https://labex.io/de/tutorials/linux-linux-user-group-id-displaying-271305) *(Last modified: 2026-04-11)*
 - [linux-linux-user-identifying-271445](https://labex.io/de/tutorials/linux-linux-user-identifying-271445) *(Last modified: 2026-04-11)*
 - [linux-linux-user-modifying-271427](https://labex.io/de/tutorials/linux-linux-user-modifying-271427) *(Last modified: 2026-04-11)*
