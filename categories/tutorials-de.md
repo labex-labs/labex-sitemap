@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-De Sitemap
 
-> Last updated: 2026-04-14 00:13 UTC
+> Last updated: 2026-04-15 00:14 UTC
 
 This file contains all tutorials-de related links from LabEx website.
 
@@ -255,7 +255,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [ansible-leveraging-ansible-local-actions-for-efficient-infrastructure-management-413776](https://labex.io/de/tutorials/ansible-leveraging-ansible-local-actions-for-efficient-infrastructure-management-413776) *(Last modified: 2025-10-11)*
 - [ansible-manage-multiple-ansible-inventories-290193](https://labex.io/de/tutorials/ansible-manage-multiple-ansible-inventories-290193) *(Last modified: 2026-04-13)*
 - [ansible-manage-python-packages-efficiently-with-ansible-and-pip-411638](https://labex.io/de/tutorials/ansible-manage-python-packages-efficiently-with-ansible-and-pip-411638) *(Last modified: 2025-10-11)*
-- [ansible-manage-variables-and-facts-in-rhel-with-ansible-590560](https://labex.io/de/tutorials/ansible-manage-variables-and-facts-in-rhel-with-ansible-590560) *(Last modified: 2026-04-13)*
+- [ansible-manage-variables-and-facts-in-rhel-with-ansible-590560](https://labex.io/de/tutorials/ansible-manage-variables-and-facts-in-rhel-with-ansible-590560) *(Last modified: 2026-04-14)*
 - [ansible-online-ansible-compiler-playground-415831](https://labex.io/de/tutorials/ansible-online-ansible-compiler-playground-415831) *(Last modified: 2026-03-26)*
 - [ansible-resolving-ansible-python-interpreter-warning-390490](https://labex.io/de/tutorials/ansible-resolving-ansible-python-interpreter-warning-390490) *(Last modified: 2026-04-13)*
 - [ansible-resolving-ansible-sudo-password-missing-issues-413757](https://labex.io/de/tutorials/ansible-resolving-ansible-sudo-password-missing-issues-413757) *(Last modified: 2025-10-09)*
@@ -5271,7 +5271,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-discover-linux-system-information-36](https://labex.io/de/tutorials/linux-discover-linux-system-information-36) *(Last modified: 2026-04-13)*
 - [linux-disk-usage-detective-388099](https://labex.io/de/tutorials/linux-disk-usage-detective-388099) *(Last modified: 2026-04-13)*
 - [linux-display-os-info-stylishly-with-neofetch-299825](https://labex.io/de/tutorials/linux-display-os-info-stylishly-with-neofetch-299825) *(Last modified: 2026-04-13)*
-- [linux-display-user-and-group-information-8718](https://labex.io/de/tutorials/linux-display-user-and-group-information-8718) *(Last modified: 2026-04-13)*
+- [linux-display-user-and-group-information-8718](https://labex.io/de/tutorials/linux-display-user-and-group-information-8718) *(Last modified: 2026-04-14)*
 - [linux-download-files-from-the-internet-387333](https://labex.io/de/tutorials/linux-download-files-from-the-internet-387333) *(Last modified: 2026-04-13)*
 - [linux-download-media-with-you-get-289657](https://labex.io/de/tutorials/linux-download-media-with-you-get-289657) *(Last modified: 2026-02-10)*
 - [linux-empires-gedit-quest-271288](https://labex.io/de/tutorials/linux-empires-gedit-quest-271288) *(Last modified: 2026-04-13)*
@@ -5814,7 +5814,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [linux-online-ubuntu-playground-environment-593628](https://labex.io/de/tutorials/linux-online-ubuntu-playground-environment-593628) *(Last modified: 2026-03-26)*
 - [linux-online-virtual-machines-and-playgrounds-593595](https://labex.io/de/tutorials/linux-online-virtual-machines-and-playgrounds-593595) *(Last modified: 2026-03-26)*
 - [linux-organizing-files-and-directories-387877](https://labex.io/de/tutorials/linux-organizing-files-and-directories-387877) *(Last modified: 2026-04-13)*
-- [linux-permissions-of-files-270252](https://labex.io/de/tutorials/linux-permissions-of-files-270252) *(Last modified: 2026-04-13)*
+- [linux-permissions-of-files-270252](https://labex.io/de/tutorials/linux-permissions-of-files-270252) *(Last modified: 2026-04-14)*
 - [linux-preserve-airship-s-mystical-archives-with-tar-271397](https://labex.io/de/tutorials/linux-preserve-airship-s-mystical-archives-with-tar-271397) *(Last modified: 2026-04-13)*
 - [linux-processing-employees-data-388132](https://labex.io/de/tutorials/linux-processing-employees-data-388132) *(Last modified: 2026-04-13)*
 - [linux-quick-start-to-hive-272323](https://labex.io/de/tutorials/linux-quick-start-to-hive-272323) *(Last modified: 2026-04-13)*
