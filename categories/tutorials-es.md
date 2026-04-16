@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Es Sitemap
 
-> Last updated: 2026-04-15 00:14 UTC
+> Last updated: 2026-04-16 00:14 UTC
 
 This file contains all tutorials-es related links from LabEx website.
 
@@ -4980,7 +4980,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [kali-set-up-a-browser-autopwn-attack-in-metasploit-594361](https://labex.io/es/tutorials/kali-set-up-a-browser-autopwn-attack-in-metasploit-594361) *(Last modified: 2025-10-10)*
 - [kali-set-up-a-controlled-lab-environment-594480](https://labex.io/es/tutorials/kali-set-up-a-controlled-lab-environment-594480) *(Last modified: 2025-10-31)*
 - [kali-set-up-browser-proxy-connection-in-firefox-594013](https://labex.io/es/tutorials/kali-set-up-browser-proxy-connection-in-firefox-594013) *(Last modified: 2025-10-31)*
-- [kali-setting-up-your-kali-linux-environment-552195](https://labex.io/es/tutorials/kali-setting-up-your-kali-linux-environment-552195) *(Last modified: 2026-04-13)*
+- [kali-setting-up-your-kali-linux-environment-552195](https://labex.io/es/tutorials/kali-setting-up-your-kali-linux-environment-552195) *(Last modified: 2026-04-15)*
 - [kali-show-ip-addresses-in-dns-scan-results-in-gobuster-594111](https://labex.io/es/tutorials/kali-show-ip-addresses-in-dns-scan-results-in-gobuster-594111) *(Last modified: 2026-01-09)*
 - [kali-specify-injection-techniques-in-sqlmap-594136](https://labex.io/es/tutorials/kali-specify-injection-techniques-in-sqlmap-594136) *(Last modified: 2026-01-09)*
 - [kali-spoof-the-user-agent-string-in-nikto-594541](https://labex.io/es/tutorials/kali-spoof-the-user-agent-string-in-nikto-594541) *(Last modified: 2025-10-10)*
@@ -5204,7 +5204,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [linux-configure-development-environment-385293](https://labex.io/es/tutorials/linux-configure-development-environment-385293) *(Last modified: 2026-04-13)*
 - [linux-configure-linux-environment-variables-437861](https://labex.io/es/tutorials/linux-configure-linux-environment-variables-437861) *(Last modified: 2026-04-13)*
 - [linux-configuring-ssh-certificates-for-secure-login-301461](https://labex.io/es/tutorials/linux-configuring-ssh-certificates-for-secure-login-301461) *(Last modified: 2026-02-10)*
-- [linux-configuring-storage-devices-632793](https://labex.io/es/tutorials/linux-configuring-storage-devices-632793) *(Last modified: 2026-04-13)*
+- [linux-configuring-storage-devices-632793](https://labex.io/es/tutorials/linux-configuring-storage-devices-632793) *(Last modified: 2026-04-15)*
 - [linux-configuring-wireless-connections-632794](https://labex.io/es/tutorials/linux-configuring-wireless-connections-632794) *(Last modified: 2026-04-13)*
 - [linux-connect-to-a-remote-linux-server-using-ssh-590857](https://labex.io/es/tutorials/linux-connect-to-a-remote-linux-server-using-ssh-590857) *(Last modified: 2026-04-13)*
 - [linux-connect-to-remote-34](https://labex.io/es/tutorials/linux-connect-to-remote-34) *(Last modified: 2026-04-13)*
@@ -5221,9 +5221,9 @@ This file contains all tutorials-es related links from LabEx website.
 - [linux-day-1-the-lay-of-the-land-596200](https://labex.io/es/tutorials/linux-day-1-the-lay-of-the-land-596200) *(Last modified: 2026-04-13)*
 - [linux-day-10-the-script-artisan-596613](https://labex.io/es/tutorials/linux-day-10-the-script-artisan-596613) *(Last modified: 2026-04-13)*
 - [linux-day-2-the-digital-architect-596201](https://labex.io/es/tutorials/linux-day-2-the-digital-architect-596201) *(Last modified: 2026-04-13)*
-- [linux-day-3-the-log-investigator-596202](https://labex.io/es/tutorials/linux-day-3-the-log-investigator-596202) *(Last modified: 2026-04-13)*
-- [linux-day-4-the-fortress-guardian-596203](https://labex.io/es/tutorials/linux-day-4-the-fortress-guardian-596203) *(Last modified: 2026-04-13)*
-- [linux-day-5-the-keeper-of-the-keys-596204](https://labex.io/es/tutorials/linux-day-5-the-keeper-of-the-keys-596204) *(Last modified: 2026-04-13)*
+- [linux-day-3-the-log-investigator-596202](https://labex.io/es/tutorials/linux-day-3-the-log-investigator-596202) *(Last modified: 2026-04-15)*
+- [linux-day-4-the-fortress-guardian-596203](https://labex.io/es/tutorials/linux-day-4-the-fortress-guardian-596203) *(Last modified: 2026-04-15)*
+- [linux-day-5-the-keeper-of-the-keys-596204](https://labex.io/es/tutorials/linux-day-5-the-keeper-of-the-keys-596204) *(Last modified: 2026-04-15)*
 - [linux-day-6-the-process-overseer-596618](https://labex.io/es/tutorials/linux-day-6-the-process-overseer-596618) *(Last modified: 2026-04-13)*
 - [linux-day-7-the-network-navigator-596619](https://labex.io/es/tutorials/linux-day-7-the-network-navigator-596619) *(Last modified: 2026-04-13)*
 - [linux-day-8-the-software-steward-596620](https://labex.io/es/tutorials/linux-day-8-the-software-steward-596620) *(Last modified: 2026-04-13)*
@@ -5752,7 +5752,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [linux-linux-variable-unsetting-271419](https://labex.io/es/tutorials/linux-linux-variable-unsetting-271419) *(Last modified: 2026-04-13)*
 - [linux-linux-wc-command-text-counting-219200](https://labex.io/es/tutorials/linux-linux-wc-command-text-counting-219200) *(Last modified: 2026-04-13)*
 - [linux-linux-whereis-command-file-and-command-finding-215211](https://labex.io/es/tutorials/linux-linux-whereis-command-file-and-command-finding-215211) *(Last modified: 2026-04-13)*
-- [linux-linux-which-command-command-locating-215210](https://labex.io/es/tutorials/linux-linux-which-command-command-locating-215210) *(Last modified: 2026-04-13)*
+- [linux-linux-which-command-command-locating-215210](https://labex.io/es/tutorials/linux-linux-which-command-command-locating-215210) *(Last modified: 2026-04-15)*
 - [linux-linux-wildcard-character-271447](https://labex.io/es/tutorials/linux-linux-wildcard-character-271447) *(Last modified: 2026-04-13)*
 - [linux-linux-xargs-command-command-building-219201](https://labex.io/es/tutorials/linux-linux-xargs-command-command-building-219201) *(Last modified: 2026-04-13)*
 - [linux-logical-commands-and-redirection-387332](https://labex.io/es/tutorials/linux-logical-commands-and-redirection-387332) *(Last modified: 2026-04-13)*
