@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ja Sitemap
 
-> Last updated: 2026-04-20 00:11 UTC
+> Last updated: 2026-04-21 00:14 UTC
 
 This file contains all courses-ja related links from LabEx website.
 
