@@ -4,7 +4,7 @@ layout: default
 
 # Pages-Ko Sitemap
 
-> Last updated: 2026-04-25 00:12 UTC
+> Last updated: 2026-04-26 00:12 UTC
 
 This file contains all pages-ko related links from LabEx website.
 

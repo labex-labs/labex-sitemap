@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Fr Sitemap
 
-> Last updated: 2026-04-25 00:12 UTC
+> Last updated: 2026-04-26 00:12 UTC
 
 This file contains all tutorials-fr related links from LabEx website.
 
@@ -4835,7 +4835,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [kali-kali-interview-questions-and-answers-593687](https://labex.io/fr/tutorials/kali-kali-interview-questions-and-answers-593687) *(Last modified: 2026-01-17)*
 - [kali-kali-log-analysis-with-journalctl-552295](https://labex.io/fr/tutorials/kali-kali-log-analysis-with-journalctl-552295) *(Last modified: 2026-02-10)*
 - [kali-kali-password-attacks-with-hydra-552296](https://labex.io/fr/tutorials/kali-kali-password-attacks-with-hydra-552296) *(Last modified: 2026-04-24)*
-- [kali-kali-password-cracking-with-john-552297](https://labex.io/fr/tutorials/kali-kali-password-cracking-with-john-552297) *(Last modified: 2026-04-24)*
+- [kali-kali-password-cracking-with-john-552297](https://labex.io/fr/tutorials/kali-kali-password-cracking-with-john-552297) *(Last modified: 2026-04-25)*
 - [kali-kali-reconnaissance-with-nmap-and-dns-552298](https://labex.io/fr/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298) *(Last modified: 2026-04-24)*
 - [kali-kali-reporting-with-git-and-dradis-552299](https://labex.io/fr/tutorials/kali-kali-reporting-with-git-and-dradis-552299) *(Last modified: 2026-02-10)*
 - [kali-kali-sql-injection-with-sqlmap-552300](https://labex.io/fr/tutorials/kali-kali-sql-injection-with-sqlmap-552300) *(Last modified: 2026-03-27)*
@@ -5160,7 +5160,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [linux-day-4-the-fortress-guardian-596203](https://labex.io/fr/tutorials/linux-day-4-the-fortress-guardian-596203) *(Last modified: 2026-04-24)*
 - [linux-day-5-the-keeper-of-the-keys-596204](https://labex.io/fr/tutorials/linux-day-5-the-keeper-of-the-keys-596204) *(Last modified: 2026-04-24)*
 - [linux-day-6-the-process-overseer-596618](https://labex.io/fr/tutorials/linux-day-6-the-process-overseer-596618) *(Last modified: 2026-04-24)*
-- [linux-day-7-the-network-navigator-596619](https://labex.io/fr/tutorials/linux-day-7-the-network-navigator-596619) *(Last modified: 2026-04-24)*
+- [linux-day-7-the-network-navigator-596619](https://labex.io/fr/tutorials/linux-day-7-the-network-navigator-596619) *(Last modified: 2026-04-25)*
 - [linux-day-8-the-software-steward-596620](https://labex.io/fr/tutorials/linux-day-8-the-software-steward-596620) *(Last modified: 2026-04-24)*
 - [linux-day-9-the-backup-sentinel-596621](https://labex.io/fr/tutorials/linux-day-9-the-backup-sentinel-596621) *(Last modified: 2026-04-24)*
 - [linux-decrypting-top-secret-document-415952](https://labex.io/fr/tutorials/linux-decrypting-top-secret-document-415952) *(Last modified: 2026-04-24)*
@@ -8184,7 +8184,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [rhel-install-software-in-red-hat-enterprise-linux-588462](https://labex.io/fr/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588462) *(Last modified: 2026-04-24)*
 - [rhel-list-create-and-delete-partitions-on-mbr-and-gpt-disks-588257](https://labex.io/fr/tutorials/rhel-list-create-and-delete-partitions-on-mbr-and-gpt-disks-588257) *(Last modified: 2026-04-24)*
 - [rhel-locate-and-interpret-system-log-files-588258](https://labex.io/fr/tutorials/rhel-locate-and-interpret-system-log-files-588258) *(Last modified: 2026-04-24)*
-- [rhel-locate-setuid-files-588259](https://labex.io/fr/tutorials/rhel-locate-setuid-files-588259) *(Last modified: 2026-04-24)*
+- [rhel-locate-setuid-files-588259](https://labex.io/fr/tutorials/rhel-locate-setuid-files-588259) *(Last modified: 2026-04-25)*
 - [rhel-log-in-and-switch-users-588260](https://labex.io/fr/tutorials/rhel-log-in-and-switch-users-588260) *(Last modified: 2026-04-24)*
 - [rhel-manage-containers-basic-operations-588261](https://labex.io/fr/tutorials/rhel-manage-containers-basic-operations-588261) *(Last modified: 2026-04-24)*
 - [rhel-manage-containers-with-podman-and-skopeo-588262](https://labex.io/fr/tutorials/rhel-manage-containers-with-podman-and-skopeo-588262) *(Last modified: 2026-04-24)*
