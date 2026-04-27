@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Es Sitemap
 
-> Last updated: 2026-04-26 00:12 UTC
+> Last updated: 2026-04-27 00:13 UTC
 
 This file contains all tutorials-es related links from LabEx website.
 
@@ -5225,7 +5225,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [linux-day-4-the-fortress-guardian-596203](https://labex.io/es/tutorials/linux-day-4-the-fortress-guardian-596203) *(Last modified: 2026-04-24)*
 - [linux-day-5-the-keeper-of-the-keys-596204](https://labex.io/es/tutorials/linux-day-5-the-keeper-of-the-keys-596204) *(Last modified: 2026-04-24)*
 - [linux-day-6-the-process-overseer-596618](https://labex.io/es/tutorials/linux-day-6-the-process-overseer-596618) *(Last modified: 2026-04-24)*
-- [linux-day-7-the-network-navigator-596619](https://labex.io/es/tutorials/linux-day-7-the-network-navigator-596619) *(Last modified: 2026-04-24)*
+- [linux-day-7-the-network-navigator-596619](https://labex.io/es/tutorials/linux-day-7-the-network-navigator-596619) *(Last modified: 2026-04-25)*
 - [linux-day-8-the-software-steward-596620](https://labex.io/es/tutorials/linux-day-8-the-software-steward-596620) *(Last modified: 2026-04-24)*
 - [linux-day-9-the-backup-sentinel-596621](https://labex.io/es/tutorials/linux-day-9-the-backup-sentinel-596621) *(Last modified: 2026-04-24)*
 - [linux-decrypting-top-secret-document-415952](https://labex.io/es/tutorials/linux-decrypting-top-secret-document-415952) *(Last modified: 2026-04-24)*
