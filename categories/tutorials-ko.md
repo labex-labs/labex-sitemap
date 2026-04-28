@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ko Sitemap
 
-> Last updated: 2026-04-27 00:13 UTC
+> Last updated: 2026-04-28 00:16 UTC
 
 This file contains all tutorials-ko related links from LabEx website.
 
@@ -4518,7 +4518,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [kali-kali-interview-questions-and-answers-593687](https://labex.io/ko/tutorials/kali-kali-interview-questions-and-answers-593687) *(Last modified: 2026-01-17)*
 - [kali-kali-log-analysis-with-journalctl-552295](https://labex.io/ko/tutorials/kali-kali-log-analysis-with-journalctl-552295) *(Last modified: 2026-02-10)*
 - [kali-kali-password-attacks-with-hydra-552296](https://labex.io/ko/tutorials/kali-kali-password-attacks-with-hydra-552296) *(Last modified: 2026-04-24)*
-- [kali-kali-password-cracking-with-john-552297](https://labex.io/ko/tutorials/kali-kali-password-cracking-with-john-552297) *(Last modified: 2026-04-25)*
+- [kali-kali-password-cracking-with-john-552297](https://labex.io/ko/tutorials/kali-kali-password-cracking-with-john-552297) *(Last modified: 2026-04-27)*
 - [kali-kali-reconnaissance-with-nmap-and-dns-552298](https://labex.io/ko/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298) *(Last modified: 2026-04-24)*
 - [kali-kali-reporting-with-git-and-dradis-552299](https://labex.io/ko/tutorials/kali-kali-reporting-with-git-and-dradis-552299) *(Last modified: 2026-02-10)*
 - [kali-kali-sql-injection-with-sqlmap-552300](https://labex.io/ko/tutorials/kali-kali-sql-injection-with-sqlmap-552300) *(Last modified: 2026-03-27)*
@@ -4998,7 +4998,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [linux-how-to-find-the-current-user-id-in-linux-400152](https://labex.io/ko/tutorials/linux-how-to-find-the-current-user-id-in-linux-400152) *(Last modified: 2026-04-24)*
 - [linux-how-to-find-the-target-of-a-symbolic-link-392854](https://labex.io/ko/tutorials/linux-how-to-find-the-target-of-a-symbolic-link-392854) *(Last modified: 2026-04-24)*
 - [linux-how-to-fix-could-not-chdir-to-home-directory-error-413813](https://labex.io/ko/tutorials/linux-how-to-fix-could-not-chdir-to-home-directory-error-413813) *(Last modified: 2026-04-24)*
-- [linux-how-to-handle-no-such-file-or-directory-error-415661](https://labex.io/ko/tutorials/linux-how-to-handle-no-such-file-or-directory-error-415661) *(Last modified: 2026-04-24)*
+- [linux-how-to-handle-no-such-file-or-directory-error-415661](https://labex.io/ko/tutorials/linux-how-to-handle-no-such-file-or-directory-error-415661) *(Last modified: 2026-04-27)*
 - [linux-how-to-install-the-bc-command-in-linux-414536](https://labex.io/ko/tutorials/linux-how-to-install-the-bc-command-in-linux-414536) *(Last modified: 2026-04-24)*
 - [linux-how-to-list-contents-of-a-zip-archive-in-linux-409870](https://labex.io/ko/tutorials/linux-how-to-list-contents-of-a-zip-archive-in-linux-409870) *(Last modified: 2026-04-24)*
 - [linux-how-to-list-current-shell-options-with-the-set-command-in-linux-415142](https://labex.io/ko/tutorials/linux-how-to-list-current-shell-options-with-the-set-command-in-linux-415142) *(Last modified: 2026-04-24)*
@@ -5019,7 +5019,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [linux-installing-and-configuring-a-mail-server-298848](https://labex.io/ko/tutorials/linux-installing-and-configuring-a-mail-server-298848) *(Last modified: 2026-04-24)*
 - [linux-installing-and-removing-packages-385380](https://labex.io/ko/tutorials/linux-installing-and-removing-packages-385380) *(Last modified: 2026-04-24)*
 - [linux-installing-cryptography-tools-and-environment-setup-632723](https://labex.io/ko/tutorials/linux-installing-cryptography-tools-and-environment-setup-632723) *(Last modified: 2026-04-24)*
-- [linux-installing-virtual-ram-modules-632799](https://labex.io/ko/tutorials/linux-installing-virtual-ram-modules-632799) *(Last modified: 2026-04-24)*
+- [linux-installing-virtual-ram-modules-632799](https://labex.io/ko/tutorials/linux-installing-virtual-ram-modules-632799) *(Last modified: 2026-04-27)*
 - [linux-interactive-process-viewer-with-htop-271667](https://labex.io/ko/tutorials/linux-interactive-process-viewer-with-htop-271667) *(Last modified: 2026-04-24)*
 - [linux-introduction-to-encryption-with-openssl-415957](https://labex.io/ko/tutorials/linux-introduction-to-encryption-with-openssl-415957) *(Last modified: 2026-04-24)*
 - [linux-introduction-to-labex-178589](https://labex.io/ko/tutorials/linux-introduction-to-labex-178589) *(Last modified: 2026-04-24)*
@@ -6522,7 +6522,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [postgresql-find-marketing-employees-in-postgresql-551146](https://labex.io/ko/tutorials/postgresql-find-marketing-employees-in-postgresql-551146) *(Last modified: 2026-04-24)*
 - [postgresql-installation-and-initial-setup-of-postgresql-550900](https://labex.io/ko/tutorials/postgresql-installation-and-initial-setup-of-postgresql-550900) *(Last modified: 2026-04-24)*
 - [postgresql-manage-employee-data-in-postgresql-551130](https://labex.io/ko/tutorials/postgresql-manage-employee-data-in-postgresql-551130) *(Last modified: 2026-04-24)*
-- [postgresql-postgresql-advanced-data-types-550947](https://labex.io/ko/tutorials/postgresql-postgresql-advanced-data-types-550947) *(Last modified: 2026-04-24)*
+- [postgresql-postgresql-advanced-data-types-550947](https://labex.io/ko/tutorials/postgresql-postgresql-advanced-data-types-550947) *(Last modified: 2026-04-27)*
 - [postgresql-postgresql-advanced-query-writing-550948](https://labex.io/ko/tutorials/postgresql-postgresql-advanced-query-writing-550948) *(Last modified: 2026-04-24)*
 - [postgresql-postgresql-backup-and-restore-550949](https://labex.io/ko/tutorials/postgresql-postgresql-backup-and-restore-550949) *(Last modified: 2026-04-24)*
 - [postgresql-postgresql-database-maintenance-550950](https://labex.io/ko/tutorials/postgresql-postgresql-database-maintenance-550950) *(Last modified: 2026-04-24)*
