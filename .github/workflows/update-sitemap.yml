@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 0 * * *" # 每天 UTC 00:00 运行
   push:
+    branches:
+      - master
     paths:
       - "update_sitemap.py"
       - "_config.yml"
@@ -23,14 +25,21 @@ jobs:
           private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
           owner: labex-labs
 
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           token: ${{ steps.app-token.outputs.token }}
+          ref: ${{ github.ref_name }}
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.x"
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          registry-url: "https://registry.npmjs.org"
 
       - name: Install dependencies
         run: |
@@ -50,25 +59,25 @@ jobs:
           echo "version=$VERSION" >> $GITHUB_OUTPUT
 
       - name: Commit and push if changed
+        id: commit-changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update sitemap links" && git push)
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "Update sitemap links"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Create and push tag
-        if: success()
+        if: steps.commit-changes.outputs.changed == 'true'
         run: |
           VERSION=${{ steps.package-version.outputs.version }}
           git tag "v${VERSION}"
           git push origin "v${VERSION}"
-
-      # NPM 发布步骤
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: "18.x"
-          registry-url: "https://registry.npmjs.org"
 
       - name: Verify version
         run: echo "Publishing version $(node -p "require('./package.json').version")"
