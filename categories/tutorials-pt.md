@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Pt Sitemap
 
-> Last updated: 2026-05-02 00:17 UTC
+> Last updated: 2026-05-03 00:15 UTC
 
 This file contains all tutorials-pt related links from LabEx website.
 
@@ -4991,7 +4991,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-introductory-labex-programming-tutorial-189472](https://labex.io/pt/tutorials/linux-introductory-labex-programming-tutorial-189472) *(Last modified: 2026-04-30)*
 - [linux-json-data-processing-with-jq-279945](https://labex.io/pt/tutorials/linux-json-data-processing-with-jq-279945) *(Last modified: 2026-04-30)*
 - [linux-linux-arithmetic-calculations-271229](https://labex.io/pt/tutorials/linux-linux-arithmetic-calculations-271229) *(Last modified: 2026-04-30)*
-- [linux-linux-awk-command-text-processing-388493](https://labex.io/pt/tutorials/linux-linux-awk-command-text-processing-388493) *(Last modified: 2026-04-30)*
+- [linux-linux-awk-command-text-processing-388493](https://labex.io/pt/tutorials/linux-linux-awk-command-text-processing-388493) *(Last modified: 2026-05-02)*
 - [linux-linux-background-management-271231](https://labex.io/pt/tutorials/linux-linux-background-management-271231) *(Last modified: 2026-04-30)*
 - [linux-linux-background-running-271233](https://labex.io/pt/tutorials/linux-linux-background-running-271233) *(Last modified: 2026-04-30)*
 - [linux-linux-cat-command-file-concatenating-210986](https://labex.io/pt/tutorials/linux-linux-cat-command-file-concatenating-210986) *(Last modified: 2026-04-30)*

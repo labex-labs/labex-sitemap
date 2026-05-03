@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2026-05-02 00:17 UTC
+> Last updated: 2026-05-03 00:15 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -9741,7 +9741,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-automake-command-with-practical-examples-422564](https://labex.io/zh/tutorials/linux-linux-automake-command-with-practical-examples-422564) *(Last modified: 2025-10-10)*
 - [linux-linux-autoreconf-command-with-practical-examples-422565](https://labex.io/zh/tutorials/linux-linux-autoreconf-command-with-practical-examples-422565) *(Last modified: 2025-10-10)*
 - [linux-linux-autoupdate-command-with-practical-examples-422566](https://labex.io/zh/tutorials/linux-linux-autoupdate-command-with-practical-examples-422566) *(Last modified: 2025-10-10)*
-- [linux-linux-awk-command-text-processing-388493](https://labex.io/zh/tutorials/linux-linux-awk-command-text-processing-388493) *(Last modified: 2026-04-30)*
+- [linux-linux-awk-command-text-processing-388493](https://labex.io/zh/tutorials/linux-linux-awk-command-text-processing-388493) *(Last modified: 2026-05-02)*
 - [linux-linux-awk-command-with-practical-examples-422567](https://labex.io/zh/tutorials/linux-linux-awk-command-with-practical-examples-422567) *(Last modified: 2025-10-10)*
 - [linux-linux-background-management-271231](https://labex.io/zh/tutorials/linux-linux-background-management-271231) *(Last modified: 2026-04-30)*
 - [linux-linux-background-running-271233](https://labex.io/zh/tutorials/linux-linux-background-running-271233) *(Last modified: 2026-04-30)*

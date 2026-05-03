@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ru Sitemap
 
-> Last updated: 2026-05-02 00:17 UTC
+> Last updated: 2026-05-03 00:15 UTC
 
 This file contains all tutorials-ru related links from LabEx website.
 
@@ -5610,7 +5610,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-json-data-processing-with-jq-279945](https://labex.io/ru/tutorials/linux-json-data-processing-with-jq-279945) *(Last modified: 2026-04-30)*
 - [linux-linux-aplay-command-with-practical-examples-422545](https://labex.io/ru/tutorials/linux-linux-aplay-command-with-practical-examples-422545) *(Last modified: 2025-10-10)*
 - [linux-linux-arithmetic-calculations-271229](https://labex.io/ru/tutorials/linux-linux-arithmetic-calculations-271229) *(Last modified: 2026-04-30)*
-- [linux-linux-awk-command-text-processing-388493](https://labex.io/ru/tutorials/linux-linux-awk-command-text-processing-388493) *(Last modified: 2026-04-30)*
+- [linux-linux-awk-command-text-processing-388493](https://labex.io/ru/tutorials/linux-linux-awk-command-text-processing-388493) *(Last modified: 2026-05-02)*
 - [linux-linux-background-management-271231](https://labex.io/ru/tutorials/linux-linux-background-management-271231) *(Last modified: 2026-04-30)*
 - [linux-linux-background-running-271233](https://labex.io/ru/tutorials/linux-linux-background-running-271233) *(Last modified: 2026-04-30)*
 - [linux-linux-banner-command-with-practical-examples-422569](https://labex.io/ru/tutorials/linux-linux-banner-command-with-practical-examples-422569) *(Last modified: 2025-10-10)*
