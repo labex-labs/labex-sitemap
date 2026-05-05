@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Pt Sitemap
 
-> Last updated: 2026-05-04 00:16 UTC
+> Last updated: 2026-05-05 00:17 UTC
 
 This file contains all tutorials-pt related links from LabEx website.
 
@@ -4478,7 +4478,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [kali-john-the-ripper-for-digital-forensics-594207](https://labex.io/pt/tutorials/kali-john-the-ripper-for-digital-forensics-594207) *(Last modified: 2026-01-09)*
 - [kali-john-the-ripper-for-penetration-testing-scenarios-594208](https://labex.io/pt/tutorials/kali-john-the-ripper-for-penetration-testing-scenarios-594208) *(Last modified: 2025-10-10)*
 - [kali-kali-automation-with-bash-and-python-552292](https://labex.io/pt/tutorials/kali-kali-automation-with-bash-and-python-552292) *(Last modified: 2026-02-10)*
-- [kali-kali-exploitation-with-metasploit-552293](https://labex.io/pt/tutorials/kali-kali-exploitation-with-metasploit-552293) *(Last modified: 2026-05-03)*
+- [kali-kali-exploitation-with-metasploit-552293](https://labex.io/pt/tutorials/kali-kali-exploitation-with-metasploit-552293) *(Last modified: 2026-05-04)*
 - [kali-kali-firewall-configuration-with-iptables-552294](https://labex.io/pt/tutorials/kali-kali-firewall-configuration-with-iptables-552294) *(Last modified: 2026-05-03)*
 - [kali-kali-interview-questions-and-answers-593687](https://labex.io/pt/tutorials/kali-kali-interview-questions-and-answers-593687) *(Last modified: 2026-01-17)*
 - [kali-kali-log-analysis-with-journalctl-552295](https://labex.io/pt/tutorials/kali-kali-log-analysis-with-journalctl-552295) *(Last modified: 2026-02-10)*
@@ -4690,7 +4690,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [kubernetes-scheduing-with-node-affinity-18468](https://labex.io/pt/tutorials/kubernetes-scheduing-with-node-affinity-18468) *(Last modified: 2026-05-03)*
 - [kubernetes-scheduing-with-node-selectors-15001](https://labex.io/pt/tutorials/kubernetes-scheduing-with-node-selectors-15001) *(Last modified: 2026-05-03)*
 - [kubernetes-secure-kubernetes-dashboard-access-434106](https://labex.io/pt/tutorials/kubernetes-secure-kubernetes-dashboard-access-434106) *(Last modified: 2026-05-03)*
-- [kubernetes-storing-application-data-with-persistentvolumes-9685](https://labex.io/pt/tutorials/kubernetes-storing-application-data-with-persistentvolumes-9685) *(Last modified: 2026-05-03)*
+- [kubernetes-storing-application-data-with-persistentvolumes-9685](https://labex.io/pt/tutorials/kubernetes-storing-application-data-with-persistentvolumes-9685) *(Last modified: 2026-05-04)*
 - [kubernetes-taints-and-tolerations-34029](https://labex.io/pt/tutorials/kubernetes-taints-and-tolerations-34029) *(Last modified: 2026-05-03)*
 - [kubernetes-update-and-rollback-applications-434649](https://labex.io/pt/tutorials/kubernetes-update-and-rollback-applications-434649) *(Last modified: 2026-05-03)*
 - [kubernetes-use-statefulsets-controller-9205](https://labex.io/pt/tutorials/kubernetes-use-statefulsets-controller-9205) *(Last modified: 2026-05-03)*
@@ -5205,7 +5205,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-ssh-enumeration-and-key-based-access-596717](https://labex.io/pt/tutorials/linux-ssh-enumeration-and-key-based-access-596717) *(Last modified: 2026-05-03)*
 - [linux-stream-editor-sed-7973](https://labex.io/pt/tutorials/linux-stream-editor-sed-7973) *(Last modified: 2026-05-03)*
 - [linux-symmetric-encryption-basics-in-cryptography-632724](https://labex.io/pt/tutorials/linux-symmetric-encryption-basics-in-cryptography-632724) *(Last modified: 2026-05-03)*
-- [linux-system-information-displaying-script-18281](https://labex.io/pt/tutorials/linux-system-information-displaying-script-18281) *(Last modified: 2026-05-03)*
+- [linux-system-information-displaying-script-18281](https://labex.io/pt/tutorials/linux-system-information-displaying-script-18281) *(Last modified: 2026-05-04)*
 - [linux-technical-interview-questions-and-answers-593708](https://labex.io/pt/tutorials/linux-technical-interview-questions-and-answers-593708) *(Last modified: 2025-10-09)*
 - [linux-telnet-brute-force-and-weak-credentials-596718](https://labex.io/pt/tutorials/linux-telnet-brute-force-and-weak-credentials-596718) *(Last modified: 2026-05-03)*
 - [linux-terminate-processes-by-name-and-id-31](https://labex.io/pt/tutorials/linux-terminate-processes-by-name-and-id-31) *(Last modified: 2026-05-03)*
