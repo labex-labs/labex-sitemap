@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Pt Sitemap
 
-> Last updated: 2026-05-08 00:17 UTC
+> Last updated: 2026-05-09 00:18 UTC
 
 This file contains all tutorials-pt related links from LabEx website.
 
@@ -4771,7 +4771,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-day-10-the-script-artisan-596613](https://labex.io/pt/tutorials/linux-day-10-the-script-artisan-596613) *(Last modified: 2026-05-07)*
 - [linux-day-2-the-digital-architect-596201](https://labex.io/pt/tutorials/linux-day-2-the-digital-architect-596201) *(Last modified: 2026-05-07)*
 - [linux-day-3-the-log-investigator-596202](https://labex.io/pt/tutorials/linux-day-3-the-log-investigator-596202) *(Last modified: 2026-05-07)*
-- [linux-day-4-the-fortress-guardian-596203](https://labex.io/pt/tutorials/linux-day-4-the-fortress-guardian-596203) *(Last modified: 2026-05-07)*
+- [linux-day-4-the-fortress-guardian-596203](https://labex.io/pt/tutorials/linux-day-4-the-fortress-guardian-596203) *(Last modified: 2026-05-08)*
 - [linux-day-5-the-keeper-of-the-keys-596204](https://labex.io/pt/tutorials/linux-day-5-the-keeper-of-the-keys-596204) *(Last modified: 2026-05-07)*
 - [linux-day-6-the-process-overseer-596618](https://labex.io/pt/tutorials/linux-day-6-the-process-overseer-596618) *(Last modified: 2026-05-07)*
 - [linux-day-7-the-network-navigator-596619](https://labex.io/pt/tutorials/linux-day-7-the-network-navigator-596619) *(Last modified: 2026-05-07)*
@@ -4961,7 +4961,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-how-to-customize-neofetch-for-your-linux-system-420118](https://labex.io/pt/tutorials/linux-how-to-customize-neofetch-for-your-linux-system-420118) *(Last modified: 2026-05-07)*
 - [linux-how-to-enforce-password-complexity-policies-in-linux-414805](https://labex.io/pt/tutorials/linux-how-to-enforce-password-complexity-policies-in-linux-414805) *(Last modified: 2026-05-07)*
 - [linux-how-to-find-the-current-user-id-in-linux-400152](https://labex.io/pt/tutorials/linux-how-to-find-the-current-user-id-in-linux-400152) *(Last modified: 2026-05-07)*
-- [linux-how-to-find-the-target-of-a-symbolic-link-392854](https://labex.io/pt/tutorials/linux-how-to-find-the-target-of-a-symbolic-link-392854) *(Last modified: 2026-05-07)*
+- [linux-how-to-find-the-target-of-a-symbolic-link-392854](https://labex.io/pt/tutorials/linux-how-to-find-the-target-of-a-symbolic-link-392854) *(Last modified: 2026-05-08)*
 - [linux-how-to-fix-could-not-chdir-to-home-directory-error-413813](https://labex.io/pt/tutorials/linux-how-to-fix-could-not-chdir-to-home-directory-error-413813) *(Last modified: 2026-05-07)*
 - [linux-how-to-handle-no-such-file-or-directory-error-415661](https://labex.io/pt/tutorials/linux-how-to-handle-no-such-file-or-directory-error-415661) *(Last modified: 2026-05-07)*
 - [linux-how-to-install-the-bc-command-in-linux-414536](https://labex.io/pt/tutorials/linux-how-to-install-the-bc-command-in-linux-414536) *(Last modified: 2026-05-07)*

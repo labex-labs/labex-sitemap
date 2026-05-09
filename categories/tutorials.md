@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2026-05-08 00:17 UTC
+> Last updated: 2026-05-09 00:18 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -8258,7 +8258,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-day-10-the-script-artisan-596613](https://labex.io/tutorials/linux-day-10-the-script-artisan-596613) *(Last modified: 2026-05-07)*
 - [linux-day-2-the-digital-architect-596201](https://labex.io/tutorials/linux-day-2-the-digital-architect-596201) *(Last modified: 2026-05-07)*
 - [linux-day-3-the-log-investigator-596202](https://labex.io/tutorials/linux-day-3-the-log-investigator-596202) *(Last modified: 2026-05-07)*
-- [linux-day-4-the-fortress-guardian-596203](https://labex.io/tutorials/linux-day-4-the-fortress-guardian-596203) *(Last modified: 2026-05-07)*
+- [linux-day-4-the-fortress-guardian-596203](https://labex.io/tutorials/linux-day-4-the-fortress-guardian-596203) *(Last modified: 2026-05-08)*
 - [linux-day-5-the-keeper-of-the-keys-596204](https://labex.io/tutorials/linux-day-5-the-keeper-of-the-keys-596204) *(Last modified: 2026-05-07)*
 - [linux-day-6-the-process-overseer-596618](https://labex.io/tutorials/linux-day-6-the-process-overseer-596618) *(Last modified: 2026-05-07)*
 - [linux-day-7-the-network-navigator-596619](https://labex.io/tutorials/linux-day-7-the-network-navigator-596619) *(Last modified: 2026-05-07)*
@@ -8896,7 +8896,7 @@ This file contains all tutorials related links from LabEx website.
 - [linux-how-to-find-the-manual-page-location-for-the-ls-command-in-linux-417340](https://labex.io/tutorials/linux-how-to-find-the-manual-page-location-for-the-ls-command-in-linux-417340) *(Last modified: 2025-10-11)*
 - [linux-how-to-find-the-process-id-of-a-running-process-in-linux-409851](https://labex.io/tutorials/linux-how-to-find-the-process-id-of-a-running-process-in-linux-409851) *(Last modified: 2025-10-11)*
 - [linux-how-to-find-the-source-and-manual-pages-for-linux-commands-with-whereis-409852](https://labex.io/tutorials/linux-how-to-find-the-source-and-manual-pages-for-linux-commands-with-whereis-409852) *(Last modified: 2025-10-11)*
-- [linux-how-to-find-the-target-of-a-symbolic-link-392854](https://labex.io/tutorials/linux-how-to-find-the-target-of-a-symbolic-link-392854) *(Last modified: 2026-05-07)*
+- [linux-how-to-find-the-target-of-a-symbolic-link-392854](https://labex.io/tutorials/linux-how-to-find-the-target-of-a-symbolic-link-392854) *(Last modified: 2026-05-08)*
 - [linux-how-to-fix-chmod-permission-problems-in-linux-437723](https://labex.io/tutorials/linux-how-to-fix-chmod-permission-problems-in-linux-437723) *(Last modified: 2025-10-11)*
 - [linux-how-to-fix-command-argument-parsing-446972](https://labex.io/tutorials/linux-how-to-fix-command-argument-parsing-446972) *(Last modified: 2025-10-11)*
 - [linux-how-to-fix-could-not-chdir-to-home-directory-error-413813](https://labex.io/tutorials/linux-how-to-fix-could-not-chdir-to-home-directory-error-413813) *(Last modified: 2026-05-07)*
