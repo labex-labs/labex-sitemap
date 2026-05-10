@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ja Sitemap
 
-> Last updated: 2026-05-09 00:18 UTC
+> Last updated: 2026-05-10 00:17 UTC
 
 This file contains all tutorials-ja related links from LabEx website.
 
@@ -1059,7 +1059,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [comptia-manage-ip-addressing-in-linux-592736](https://labex.io/ja/tutorials/comptia-manage-ip-addressing-in-linux-592736) *(Last modified: 2026-05-07)*
 - [comptia-manage-kernel-modules-in-linux-590865](https://labex.io/ja/tutorials/comptia-manage-kernel-modules-in-linux-590865) *(Last modified: 2026-05-07)*
 - [comptia-manage-linux-groups-with-groupadd-usermod-and-groupdel-590836](https://labex.io/ja/tutorials/comptia-manage-linux-groups-with-groupadd-usermod-and-groupdel-590836) *(Last modified: 2026-05-07)*
-- [comptia-manage-linux-partitions-and-filesystems-590845](https://labex.io/ja/tutorials/comptia-manage-linux-partitions-and-filesystems-590845) *(Last modified: 2026-05-07)*
+- [comptia-manage-linux-partitions-and-filesystems-590845](https://labex.io/ja/tutorials/comptia-manage-linux-partitions-and-filesystems-590845) *(Last modified: 2026-05-09)*
 - [comptia-manage-linux-user-accounts-with-useradd-usermod-and-userdel-590837](https://labex.io/ja/tutorials/comptia-manage-linux-user-accounts-with-useradd-usermod-and-userdel-590837) *(Last modified: 2026-05-07)*
 - [comptia-manage-local-hostname-resolution-in-linux-592792](https://labex.io/ja/tutorials/comptia-manage-local-hostname-resolution-in-linux-592792) *(Last modified: 2026-05-07)*
 - [comptia-manage-selinux-file-contexts-for-apache-in-linux-590866](https://labex.io/ja/tutorials/comptia-manage-selinux-file-contexts-for-apache-in-linux-590866) *(Last modified: 2026-05-07)*
@@ -5781,7 +5781,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [linux-linux-user-removing-271425](https://labex.io/ja/tutorials/linux-linux-user-removing-271425) *(Last modified: 2026-05-07)*
 - [linux-linux-user-switching-271391](https://labex.io/ja/tutorials/linux-linux-user-switching-271391) *(Last modified: 2026-05-07)*
 - [linux-linux-variable-declaring-271265](https://labex.io/ja/tutorials/linux-linux-variable-declaring-271265) *(Last modified: 2026-05-07)*
-- [linux-linux-variable-exporting-271279](https://labex.io/ja/tutorials/linux-linux-variable-exporting-271279) *(Last modified: 2026-05-07)*
+- [linux-linux-variable-exporting-271279](https://labex.io/ja/tutorials/linux-linux-variable-exporting-271279) *(Last modified: 2026-05-08)*
 - [linux-linux-variable-unsetting-271419](https://labex.io/ja/tutorials/linux-linux-variable-unsetting-271419) *(Last modified: 2026-05-07)*
 - [linux-linux-wc-command-text-counting-219200](https://labex.io/ja/tutorials/linux-linux-wc-command-text-counting-219200) *(Last modified: 2026-05-07)*
 - [linux-linux-whereis-command-file-and-command-finding-215211](https://labex.io/ja/tutorials/linux-linux-whereis-command-file-and-command-finding-215211) *(Last modified: 2026-05-07)*

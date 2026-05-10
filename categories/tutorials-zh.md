@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2026-05-09 00:18 UTC
+> Last updated: 2026-05-10 00:17 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -1059,7 +1059,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [comptia-manage-ip-addressing-in-linux-592736](https://labex.io/zh/tutorials/comptia-manage-ip-addressing-in-linux-592736) *(Last modified: 2026-05-07)*
 - [comptia-manage-kernel-modules-in-linux-590865](https://labex.io/zh/tutorials/comptia-manage-kernel-modules-in-linux-590865) *(Last modified: 2026-05-07)*
 - [comptia-manage-linux-groups-with-groupadd-usermod-and-groupdel-590836](https://labex.io/zh/tutorials/comptia-manage-linux-groups-with-groupadd-usermod-and-groupdel-590836) *(Last modified: 2026-05-07)*
-- [comptia-manage-linux-partitions-and-filesystems-590845](https://labex.io/zh/tutorials/comptia-manage-linux-partitions-and-filesystems-590845) *(Last modified: 2026-05-07)*
+- [comptia-manage-linux-partitions-and-filesystems-590845](https://labex.io/zh/tutorials/comptia-manage-linux-partitions-and-filesystems-590845) *(Last modified: 2026-05-09)*
 - [comptia-manage-linux-user-accounts-with-useradd-usermod-and-userdel-590837](https://labex.io/zh/tutorials/comptia-manage-linux-user-accounts-with-useradd-usermod-and-userdel-590837) *(Last modified: 2026-05-07)*
 - [comptia-manage-local-hostname-resolution-in-linux-592792](https://labex.io/zh/tutorials/comptia-manage-local-hostname-resolution-in-linux-592792) *(Last modified: 2026-05-07)*
 - [comptia-manage-selinux-file-contexts-for-apache-in-linux-590866](https://labex.io/zh/tutorials/comptia-manage-selinux-file-contexts-for-apache-in-linux-590866) *(Last modified: 2026-05-07)*
@@ -10313,7 +10313,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-uuname-command-with-practical-examples-422993](https://labex.io/zh/tutorials/linux-linux-uuname-command-with-practical-examples-422993) *(Last modified: 2025-10-10)*
 - [linux-linux-uuto-command-with-practical-examples-422995](https://labex.io/zh/tutorials/linux-linux-uuto-command-with-practical-examples-422995) *(Last modified: 2025-10-10)*
 - [linux-linux-variable-declaring-271265](https://labex.io/zh/tutorials/linux-linux-variable-declaring-271265) *(Last modified: 2026-05-07)*
-- [linux-linux-variable-exporting-271279](https://labex.io/zh/tutorials/linux-linux-variable-exporting-271279) *(Last modified: 2026-05-07)*
+- [linux-linux-variable-exporting-271279](https://labex.io/zh/tutorials/linux-linux-variable-exporting-271279) *(Last modified: 2026-05-08)*
 - [linux-linux-variable-unsetting-271419](https://labex.io/zh/tutorials/linux-linux-variable-unsetting-271419) *(Last modified: 2026-05-07)*
 - [linux-linux-vi-command-with-practical-examples-422996](https://labex.io/zh/tutorials/linux-linux-vi-command-with-practical-examples-422996) *(Last modified: 2025-10-10)*
 - [linux-linux-vlock-command-with-practical-examples-422997](https://labex.io/zh/tutorials/linux-linux-vlock-command-with-practical-examples-422997) *(Last modified: 2025-10-10)*
