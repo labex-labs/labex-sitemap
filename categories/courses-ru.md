@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ru Sitemap
 
-> Last updated: 2026-05-10 00:17 UTC
+> Last updated: 2026-05-11 00:18 UTC
 
 This file contains all courses-ru related links from LabEx website.
 
