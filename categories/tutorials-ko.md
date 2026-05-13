@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ko Sitemap
 
-> Last updated: 2026-05-12 00:20 UTC
+> Last updated: 2026-05-13 00:20 UTC
 
 This file contains all tutorials-ko related links from LabEx website.
 
@@ -4843,7 +4843,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [linux-file-contents-and-comparing-270251](https://labex.io/ko/tutorials/linux-file-contents-and-comparing-270251) *(Last modified: 2026-05-11)*
 - [linux-file-packaging-and-compression-385413](https://labex.io/ko/tutorials/linux-file-packaging-and-compression-385413) *(Last modified: 2026-05-11)*
 - [linux-file-structure-visualization-with-tre-384505](https://labex.io/ko/tutorials/linux-file-structure-visualization-with-tre-384505) *(Last modified: 2026-05-11)*
-- [linux-file-system-and-disk-management-17999](https://labex.io/ko/tutorials/linux-file-system-and-disk-management-17999) *(Last modified: 2026-05-11)*
+- [linux-file-system-and-disk-management-17999](https://labex.io/ko/tutorials/linux-file-system-and-disk-management-17999) *(Last modified: 2026-05-12)*
 - [linux-file-system-navigation-632797](https://labex.io/ko/tutorials/linux-file-system-navigation-632797) *(Last modified: 2026-05-11)*
 - [linux-files-and-directories-270246](https://labex.io/ko/tutorials/linux-files-and-directories-270246) *(Last modified: 2026-05-11)*
 - [linux-find-a-file-17993](https://labex.io/ko/tutorials/linux-find-a-file-17993) *(Last modified: 2026-05-11)*
