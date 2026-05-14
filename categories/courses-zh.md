@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Zh Sitemap
 
-> Last updated: 2026-05-13 00:20 UTC
+> Last updated: 2026-05-14 00:22 UTC
 
 This file contains all courses-zh related links from LabEx website.
 
@@ -87,6 +87,7 @@ This file contains all courses-zh related links from LabEx website.
 - [linux-networking-fundamentals](https://labex.io/zh/courses/linux-networking-fundamentals)
 - [linux-practice-challenges](https://labex.io/zh/courses/linux-practice-challenges)
 - [linux-privilege-escalation](https://labex.io/zh/courses/linux-privilege-escalation)
+- [linux-security-for-devsecops](https://labex.io/zh/courses/linux-security-for-devsecops)
 - [linux-terminal-basics](https://labex.io/zh/courses/linux-terminal-basics)
 - [log-management-and-text-processing](https://labex.io/zh/courses/log-management-and-text-processing)
 - [malware-analysis-basics](https://labex.io/zh/courses/malware-analysis-basics)

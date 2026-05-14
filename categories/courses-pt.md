@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Pt Sitemap
 
-> Last updated: 2026-05-13 00:20 UTC
+> Last updated: 2026-05-14 00:22 UTC
 
 This file contains all courses-pt related links from LabEx website.
 
@@ -87,6 +87,7 @@ This file contains all courses-pt related links from LabEx website.
 - [linux-networking-fundamentals](https://labex.io/pt/courses/linux-networking-fundamentals)
 - [linux-practice-challenges](https://labex.io/pt/courses/linux-practice-challenges)
 - [linux-privilege-escalation](https://labex.io/pt/courses/linux-privilege-escalation)
+- [linux-security-for-devsecops](https://labex.io/pt/courses/linux-security-for-devsecops)
 - [linux-terminal-basics](https://labex.io/pt/courses/linux-terminal-basics)
 - [log-management-and-text-processing](https://labex.io/pt/courses/log-management-and-text-processing)
 - [malware-analysis-basics](https://labex.io/pt/courses/malware-analysis-basics)

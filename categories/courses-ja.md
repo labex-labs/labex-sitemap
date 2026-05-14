@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ja Sitemap
 
-> Last updated: 2026-05-13 00:20 UTC
+> Last updated: 2026-05-14 00:22 UTC
 
 This file contains all courses-ja related links from LabEx website.
 
@@ -87,6 +87,7 @@ This file contains all courses-ja related links from LabEx website.
 - [linux-networking-fundamentals](https://labex.io/ja/courses/linux-networking-fundamentals)
 - [linux-practice-challenges](https://labex.io/ja/courses/linux-practice-challenges)
 - [linux-privilege-escalation](https://labex.io/ja/courses/linux-privilege-escalation)
+- [linux-security-for-devsecops](https://labex.io/ja/courses/linux-security-for-devsecops)
 - [linux-terminal-basics](https://labex.io/ja/courses/linux-terminal-basics)
 - [log-management-and-text-processing](https://labex.io/ja/courses/log-management-and-text-processing)
 - [malware-analysis-basics](https://labex.io/ja/courses/malware-analysis-basics)

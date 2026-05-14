@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Fr Sitemap
 
-> Last updated: 2026-05-13 00:20 UTC
+> Last updated: 2026-05-14 00:22 UTC
 
 This file contains all courses-fr related links from LabEx website.
 
@@ -87,6 +87,7 @@ This file contains all courses-fr related links from LabEx website.
 - [linux-networking-fundamentals](https://labex.io/fr/courses/linux-networking-fundamentals)
 - [linux-practice-challenges](https://labex.io/fr/courses/linux-practice-challenges)
 - [linux-privilege-escalation](https://labex.io/fr/courses/linux-privilege-escalation)
+- [linux-security-for-devsecops](https://labex.io/fr/courses/linux-security-for-devsecops)
 - [linux-terminal-basics](https://labex.io/fr/courses/linux-terminal-basics)
 - [log-management-and-text-processing](https://labex.io/fr/courses/log-management-and-text-processing)
 - [malware-analysis-basics](https://labex.io/fr/courses/malware-analysis-basics)
