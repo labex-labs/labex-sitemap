@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Pt Sitemap
 
-> Last updated: 2026-05-14 00:22 UTC
+> Last updated: 2026-05-15 00:20 UTC
 
 This file contains all courses-pt related links from LabEx website.
 
@@ -52,6 +52,7 @@ This file contains all courses-pt related links from LabEx website.
 - [docker-for-beginners](https://labex.io/pt/courses/docker-for-beginners)
 - [docker-practice-challenges](https://labex.io/pt/courses/docker-practice-challenges)
 - [docker-practice-labs](https://labex.io/pt/courses/docker-practice-labs)
+- [docker-security-for-devsecops](https://labex.io/pt/courses/docker-security-for-devsecops)
 - [file-system-navigation-and-file-operations](https://labex.io/pt/courses/file-system-navigation-and-file-operations)
 - [firewalld-configuration](https://labex.io/pt/courses/firewalld-configuration)
 - [foundations-of-deep-learning](https://labex.io/pt/courses/foundations-of-deep-learning)

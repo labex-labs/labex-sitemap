@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Es Sitemap
 
-> Last updated: 2026-05-14 00:22 UTC
+> Last updated: 2026-05-15 00:20 UTC
 
 This file contains all courses-es related links from LabEx website.
 
@@ -52,6 +52,7 @@ This file contains all courses-es related links from LabEx website.
 - [docker-for-beginners](https://labex.io/es/courses/docker-for-beginners)
 - [docker-practice-challenges](https://labex.io/es/courses/docker-practice-challenges)
 - [docker-practice-labs](https://labex.io/es/courses/docker-practice-labs)
+- [docker-security-for-devsecops](https://labex.io/es/courses/docker-security-for-devsecops)
 - [file-system-navigation-and-file-operations](https://labex.io/es/courses/file-system-navigation-and-file-operations)
 - [firewalld-configuration](https://labex.io/es/courses/firewalld-configuration)
 - [foundations-of-deep-learning](https://labex.io/es/courses/foundations-of-deep-learning)

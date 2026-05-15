@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ja Sitemap
 
-> Last updated: 2026-05-14 00:22 UTC
+> Last updated: 2026-05-15 00:20 UTC
 
 This file contains all courses-ja related links from LabEx website.
 
@@ -52,6 +52,7 @@ This file contains all courses-ja related links from LabEx website.
 - [docker-for-beginners](https://labex.io/ja/courses/docker-for-beginners)
 - [docker-practice-challenges](https://labex.io/ja/courses/docker-practice-challenges)
 - [docker-practice-labs](https://labex.io/ja/courses/docker-practice-labs)
+- [docker-security-for-devsecops](https://labex.io/ja/courses/docker-security-for-devsecops)
 - [file-system-navigation-and-file-operations](https://labex.io/ja/courses/file-system-navigation-and-file-operations)
 - [firewalld-configuration](https://labex.io/ja/courses/firewalld-configuration)
 - [foundations-of-deep-learning](https://labex.io/ja/courses/foundations-of-deep-learning)
