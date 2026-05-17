@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ko Sitemap
 
-> Last updated: 2026-05-16 00:18 UTC
+> Last updated: 2026-05-17 00:19 UTC
 
 This file contains all tutorials-ko related links from LabEx website.
 
@@ -812,7 +812,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [c-iterating-string-array-with-c-while-loop-136081](https://labex.io/ko/tutorials/c-iterating-string-array-with-c-while-loop-136081) *(Last modified: 2026-02-10)*
 - [c-largest-element-in-an-array-using-recursion-123275](https://labex.io/ko/tutorials/c-largest-element-in-an-array-using-recursion-123275) *(Last modified: 2026-02-10)*
 - [c-making-a-simple-calculator-using-c-298833](https://labex.io/ko/tutorials/c-making-a-simple-calculator-using-c-298833) *(Last modified: 2026-05-13)*
-- [c-manage-projects-with-make-in-c-438333](https://labex.io/ko/tutorials/c-manage-projects-with-make-in-c-438333) *(Last modified: 2026-05-13)*
+- [c-manage-projects-with-make-in-c-438333](https://labex.io/ko/tutorials/c-manage-projects-with-make-in-c-438333) *(Last modified: 2026-05-16)*
 - [c-manipulate-array-elements-in-c-438261](https://labex.io/ko/tutorials/c-manipulate-array-elements-in-c-438261) *(Last modified: 2026-05-13)*
 - [c-manipulate-student-scores-array-446194](https://labex.io/ko/tutorials/c-manipulate-student-scores-array-446194) *(Last modified: 2026-05-13)*
 - [c-matrix-addition-and-subtraction-in-c-123195](https://labex.io/ko/tutorials/c-matrix-addition-and-subtraction-in-c-123195) *(Last modified: 2026-02-10)*
@@ -4774,7 +4774,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [linux-backup-system-log-17989](https://labex.io/ko/tutorials/linux-backup-system-log-17989) *(Last modified: 2026-05-13)*
 - [linux-bash-trap-command-388820](https://labex.io/ko/tutorials/linux-bash-trap-command-388820) *(Last modified: 2026-05-13)*
 - [linux-basic-file-operations-in-linux-18001](https://labex.io/ko/tutorials/linux-basic-file-operations-in-linux-18001) *(Last modified: 2026-05-13)*
-- [linux-basic-files-operations-270248](https://labex.io/ko/tutorials/linux-basic-files-operations-270248) *(Last modified: 2026-05-13)*
+- [linux-basic-files-operations-270248](https://labex.io/ko/tutorials/linux-basic-files-operations-270248) *(Last modified: 2026-05-16)*
 - [linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720](https://labex.io/ko/tutorials/linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720) *(Last modified: 2026-05-13)*
 - [linux-basic-public-key-infrastructure-pki-in-cryptography-632757](https://labex.io/ko/tutorials/linux-basic-public-key-infrastructure-pki-in-cryptography-632757) *(Last modified: 2026-05-13)*
 - [linux-build-a-backdoor-in-netcat-549927](https://labex.io/ko/tutorials/linux-build-a-backdoor-in-netcat-549927) *(Last modified: 2026-02-10)*
@@ -5258,7 +5258,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [linux-the-joker-s-trick-270247](https://labex.io/ko/tutorials/linux-the-joker-s-trick-270247) *(Last modified: 2026-05-13)*
 - [linux-the-manuscript-mystery-384742](https://labex.io/ko/tutorials/linux-the-manuscript-mystery-384742) *(Last modified: 2026-05-13)*
 - [linux-transcribe-media-to-text-with-whisper-289658](https://labex.io/ko/tutorials/linux-transcribe-media-to-text-with-whisper-289658) *(Last modified: 2026-05-13)*
-- [linux-treasure-island-networking-adventure-271340](https://labex.io/ko/tutorials/linux-treasure-island-networking-adventure-271340) *(Last modified: 2026-05-13)*
+- [linux-treasure-island-networking-adventure-271340](https://labex.io/ko/tutorials/linux-treasure-island-networking-adventure-271340) *(Last modified: 2026-05-16)*
 - [linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859](https://labex.io/ko/tutorials/linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859) *(Last modified: 2026-05-13)*
 - [linux-troubleshooting-su-authentication-failures-on-linux-392816](https://labex.io/ko/tutorials/linux-troubleshooting-su-authentication-failures-on-linux-392816) *(Last modified: 2026-05-13)*
 - [linux-unleashing-vidyutpada-linux-input-mastery-271366](https://labex.io/ko/tutorials/linux-unleashing-vidyutpada-linux-input-mastery-271366) *(Last modified: 2026-05-13)*
@@ -7084,7 +7084,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [react-react-interview-questions-and-answers-593699](https://labex.io/ko/tutorials/react-react-interview-questions-and-answers-593699) *(Last modified: 2026-01-17)*
 - [react-react-jsx-basics-601739](https://labex.io/ko/tutorials/react-react-jsx-basics-601739) *(Last modified: 2026-05-13)*
 - [react-react-lists-and-keys-601740](https://labex.io/ko/tutorials/react-react-lists-and-keys-601740) *(Last modified: 2026-05-13)*
-- [react-react-props-601741](https://labex.io/ko/tutorials/react-react-props-601741) *(Last modified: 2026-05-13)*
+- [react-react-props-601741](https://labex.io/ko/tutorials/react-react-props-601741) *(Last modified: 2026-05-16)*
 - [react-react-setup-and-first-app-598881](https://labex.io/ko/tutorials/react-react-setup-and-first-app-598881) *(Last modified: 2026-05-13)*
 - [react-react-state-with-hooks-601742](https://labex.io/ko/tutorials/react-react-state-with-hooks-601742) *(Last modified: 2026-05-13)*
 - [react-switch-between-light-and-dark-300148](https://labex.io/ko/tutorials/react-switch-between-light-and-dark-300148) *(Last modified: 2026-02-10)*
