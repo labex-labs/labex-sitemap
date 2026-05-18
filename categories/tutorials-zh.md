@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2026-05-17 00:19 UTC
+> Last updated: 2026-05-18 00:20 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -2088,7 +2088,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [docker-forwarding-ports-in-docker-containers-for-application-access-393010](https://labex.io/zh/tutorials/docker-forwarding-ports-in-docker-containers-for-application-access-393010) *(Last modified: 2025-10-11)*
 - [docker-from-basics-to-multi-stage-builds-389193](https://labex.io/zh/tutorials/docker-from-basics-to-multi-stage-builds-389193) *(Last modified: 2026-05-13)*
 - [docker-getting-started-with-claude-s-computer-use-demo-414860](https://labex.io/zh/tutorials/docker-getting-started-with-claude-s-computer-use-demo-414860) *(Last modified: 2026-05-13)*
-- [docker-grafana-dashboards-601821](https://labex.io/zh/tutorials/docker-grafana-dashboards-601821) *(Last modified: 2026-05-13)*
+- [docker-grafana-dashboards-601821](https://labex.io/zh/tutorials/docker-grafana-dashboards-601821) *(Last modified: 2026-05-17)*
 - [docker-grafana-installation-601822](https://labex.io/zh/tutorials/docker-grafana-installation-601822) *(Last modified: 2026-05-13)*
 - [docker-how-to-access-a-docker-container-s-read-write-layer-from-the-host-411500](https://labex.io/zh/tutorials/docker-how-to-access-a-docker-container-s-read-write-layer-from-the-host-411500) *(Last modified: 2025-10-11)*
 - [docker-how-to-access-a-web-application-running-in-a-docker-container-415069](https://labex.io/zh/tutorials/docker-how-to-access-a-web-application-running-in-a-docker-container-415069) *(Last modified: 2026-05-13)*
@@ -10328,7 +10328,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-whatis-command-with-practical-examples-423005](https://labex.io/zh/tutorials/linux-linux-whatis-command-with-practical-examples-423005) *(Last modified: 2025-10-10)*
 - [linux-linux-whereis-command-file-and-command-finding-215211](https://labex.io/zh/tutorials/linux-linux-whereis-command-file-and-command-finding-215211) *(Last modified: 2026-05-13)*
 - [linux-linux-whereis-command-with-practical-examples-423006](https://labex.io/zh/tutorials/linux-linux-whereis-command-with-practical-examples-423006) *(Last modified: 2025-10-10)*
-- [linux-linux-which-command-command-locating-215210](https://labex.io/zh/tutorials/linux-linux-which-command-command-locating-215210) *(Last modified: 2026-05-13)*
+- [linux-linux-which-command-command-locating-215210](https://labex.io/zh/tutorials/linux-linux-which-command-command-locating-215210) *(Last modified: 2026-05-17)*
 - [linux-linux-which-command-with-practical-examples-423007](https://labex.io/zh/tutorials/linux-linux-which-command-with-practical-examples-423007) *(Last modified: 2025-10-10)*
 - [linux-linux-who-command-with-practical-examples-423008](https://labex.io/zh/tutorials/linux-linux-who-command-with-practical-examples-423008) *(Last modified: 2025-10-10)*
 - [linux-linux-whoami-command-with-practical-examples-423009](https://labex.io/zh/tutorials/linux-linux-whoami-command-with-practical-examples-423009) *(Last modified: 2025-10-10)*

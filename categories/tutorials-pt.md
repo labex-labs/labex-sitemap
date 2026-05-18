@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Pt Sitemap
 
-> Last updated: 2026-05-17 00:19 UTC
+> Last updated: 2026-05-18 00:20 UTC
 
 This file contains all tutorials-pt related links from LabEx website.
 
@@ -2067,7 +2067,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [docker-forwarding-ports-in-docker-containers-for-application-access-393010](https://labex.io/pt/tutorials/docker-forwarding-ports-in-docker-containers-for-application-access-393010) *(Last modified: 2025-10-11)*
 - [docker-from-basics-to-multi-stage-builds-389193](https://labex.io/pt/tutorials/docker-from-basics-to-multi-stage-builds-389193) *(Last modified: 2026-05-13)*
 - [docker-getting-started-with-claude-s-computer-use-demo-414860](https://labex.io/pt/tutorials/docker-getting-started-with-claude-s-computer-use-demo-414860) *(Last modified: 2026-05-13)*
-- [docker-grafana-dashboards-601821](https://labex.io/pt/tutorials/docker-grafana-dashboards-601821) *(Last modified: 2026-05-13)*
+- [docker-grafana-dashboards-601821](https://labex.io/pt/tutorials/docker-grafana-dashboards-601821) *(Last modified: 2026-05-17)*
 - [docker-grafana-installation-601822](https://labex.io/pt/tutorials/docker-grafana-installation-601822) *(Last modified: 2026-05-13)*
 - [docker-how-to-access-a-docker-container-s-read-write-layer-from-the-host-411500](https://labex.io/pt/tutorials/docker-how-to-access-a-docker-container-s-read-write-layer-from-the-host-411500) *(Last modified: 2025-10-11)*
 - [docker-how-to-access-a-web-application-running-in-a-docker-container-415069](https://labex.io/pt/tutorials/docker-how-to-access-a-web-application-running-in-a-docker-container-415069) *(Last modified: 2026-05-13)*
@@ -5146,7 +5146,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-linux-variable-unsetting-271419](https://labex.io/pt/tutorials/linux-linux-variable-unsetting-271419) *(Last modified: 2026-05-13)*
 - [linux-linux-wc-command-text-counting-219200](https://labex.io/pt/tutorials/linux-linux-wc-command-text-counting-219200) *(Last modified: 2026-05-13)*
 - [linux-linux-whereis-command-file-and-command-finding-215211](https://labex.io/pt/tutorials/linux-linux-whereis-command-file-and-command-finding-215211) *(Last modified: 2026-05-13)*
-- [linux-linux-which-command-command-locating-215210](https://labex.io/pt/tutorials/linux-linux-which-command-command-locating-215210) *(Last modified: 2026-05-13)*
+- [linux-linux-which-command-command-locating-215210](https://labex.io/pt/tutorials/linux-linux-which-command-command-locating-215210) *(Last modified: 2026-05-17)*
 - [linux-linux-wildcard-character-271447](https://labex.io/pt/tutorials/linux-linux-wildcard-character-271447) *(Last modified: 2026-05-13)*
 - [linux-linux-xargs-command-command-building-219201](https://labex.io/pt/tutorials/linux-linux-xargs-command-command-building-219201) *(Last modified: 2026-05-13)*
 - [linux-logical-commands-and-redirection-387332](https://labex.io/pt/tutorials/linux-logical-commands-and-redirection-387332) *(Last modified: 2026-05-13)*
