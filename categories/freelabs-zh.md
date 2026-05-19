@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Zh Sitemap
 
-> Last updated: 2026-05-18 00:20 UTC
+> Last updated: 2026-05-19 00:24 UTC
 
 This file contains all freelabs-zh related links from LabEx website.
 
