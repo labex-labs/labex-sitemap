@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ru Sitemap
 
-> Last updated: 2026-05-20 00:24 UTC
+> Last updated: 2026-05-21 00:24 UTC
 
 This file contains all tutorials-ru related links from LabEx website.
 
@@ -1036,7 +1036,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [comptia-demonstrating-input-validation-and-code-integrity-594556](https://labex.io/ru/tutorials/comptia-demonstrating-input-validation-and-code-integrity-594556) *(Last modified: 2026-05-13)*
 - [comptia-digital-forensics-evidence-acquisition-and-integrity-594581](https://labex.io/ru/tutorials/comptia-digital-forensics-evidence-acquisition-and-integrity-594581) *(Last modified: 2026-05-13)*
 - [comptia-edit-text-files-in-linux-with-vim-and-nano-591076](https://labex.io/ru/tutorials/comptia-edit-text-files-in-linux-with-vim-and-nano-591076) *(Last modified: 2026-05-13)*
-- [comptia-encrypt-and-decrypt-files-with-gpg-in-linux-590860](https://labex.io/ru/tutorials/comptia-encrypt-and-decrypt-files-with-gpg-in-linux-590860) *(Last modified: 2026-05-13)*
+- [comptia-encrypt-and-decrypt-files-with-gpg-in-linux-590860](https://labex.io/ru/tutorials/comptia-encrypt-and-decrypt-files-with-gpg-in-linux-590860) *(Last modified: 2026-05-20)*
 - [comptia-ensuring-data-integrity-and-authenticity-with-cryptography-594576](https://labex.io/ru/tutorials/comptia-ensuring-data-integrity-and-authenticity-with-cryptography-594576) *(Last modified: 2026-05-13)*
 - [comptia-examine-network-interface-settings-with-ethtool-in-linux-592759](https://labex.io/ru/tutorials/comptia-examine-network-interface-settings-with-ethtool-in-linux-592759) *(Last modified: 2026-05-13)*
 - [comptia-explore-hardware-devices-in-linux-590861](https://labex.io/ru/tutorials/comptia-explore-hardware-devices-in-linux-590861) *(Last modified: 2026-05-13)*
@@ -4778,7 +4778,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [k-means-clustering-with-scikit-learn-49181](https://labex.io/ru/tutorials/k-means-clustering-with-scikit-learn-49181) *(Last modified: 2026-05-13)*
 - [kali-accelerate-wep-iv-capture-with-an-arp-replay-attack-594424](https://labex.io/ru/tutorials/kali-accelerate-wep-iv-capture-with-an-arp-replay-attack-594424) *(Last modified: 2025-10-31)*
 - [kali-add-custom-headers-to-nikto-scans-594519](https://labex.io/ru/tutorials/kali-add-custom-headers-to-nikto-scans-594519) *(Last modified: 2025-10-10)*
-- [kali-adjust-scan-aggressiveness-with-level-and-risk-in-sqlmap-594138](https://labex.io/ru/tutorials/kali-adjust-scan-aggressiveness-with-level-and-risk-in-sqlmap-594138) *(Last modified: 2025-10-10)*
+- [kali-adjust-scan-aggressiveness-with-level-and-risk-in-sqlmap-594138](https://labex.io/ru/tutorials/kali-adjust-scan-aggressiveness-with-level-and-risk-in-sqlmap-594138) *(Last modified: 2026-05-20)*
 - [kali-advanced-john-the-ripper-command-line-options-594184](https://labex.io/ru/tutorials/kali-advanced-john-the-ripper-command-line-options-594184) *(Last modified: 2026-01-09)*
 - [kali-advanced-rule-creation-for-john-the-ripper-594185](https://labex.io/ru/tutorials/kali-advanced-rule-creation-for-john-the-ripper-594185) *(Last modified: 2025-10-10)*
 - [kali-analyze-attack-results-in-burp-intruder-593991](https://labex.io/ru/tutorials/kali-analyze-attack-results-in-burp-intruder-593991) *(Last modified: 2025-10-31)*
@@ -4790,11 +4790,11 @@ This file contains all tutorials-ru related links from LabEx website.
 - [kali-automate-attacks-with-metasploit-resource-scripts-594338](https://labex.io/ru/tutorials/kali-automate-attacks-with-metasploit-resource-scripts-594338) *(Last modified: 2025-10-10)*
 - [kali-automate-cracking-with-a-bash-script-594490](https://labex.io/ru/tutorials/kali-automate-cracking-with-a-bash-script-594490) *(Last modified: 2025-10-10)*
 - [kali-automate-fluxion-startup-with-a-bash-script-594453](https://labex.io/ru/tutorials/kali-automate-fluxion-startup-with-a-bash-script-594453) *(Last modified: 2025-10-31)*
-- [kali-automate-scans-with-batch-mode-in-sqlmap-594117](https://labex.io/ru/tutorials/kali-automate-scans-with-batch-mode-in-sqlmap-594117) *(Last modified: 2026-01-09)*
+- [kali-automate-scans-with-batch-mode-in-sqlmap-594117](https://labex.io/ru/tutorials/kali-automate-scans-with-batch-mode-in-sqlmap-594117) *(Last modified: 2026-05-20)*
 - [kali-basic-networking-tools-in-kali-552191](https://labex.io/ru/tutorials/kali-basic-networking-tools-in-kali-552191) *(Last modified: 2026-05-13)*
-- [kali-brute-force-table-and-column-names-in-sqlmap-594118](https://labex.io/ru/tutorials/kali-brute-force-table-and-column-names-in-sqlmap-594118) *(Last modified: 2026-01-09)*
+- [kali-brute-force-table-and-column-names-in-sqlmap-594118](https://labex.io/ru/tutorials/kali-brute-force-table-and-column-names-in-sqlmap-594118) *(Last modified: 2026-05-20)*
 - [kali-build-tool-directory-structure-552274](https://labex.io/ru/tutorials/kali-build-tool-directory-structure-552274) *(Last modified: 2026-05-13)*
-- [kali-bypass-basic-filters-with-tamper-scripts-in-sqlmap-594119](https://labex.io/ru/tutorials/kali-bypass-basic-filters-with-tamper-scripts-in-sqlmap-594119) *(Last modified: 2026-01-09)*
+- [kali-bypass-basic-filters-with-tamper-scripts-in-sqlmap-594119](https://labex.io/ru/tutorials/kali-bypass-basic-filters-with-tamper-scripts-in-sqlmap-594119) *(Last modified: 2026-05-20)*
 - [kali-bypass-mac-address-filtering-during-an-attack-594454](https://labex.io/ru/tutorials/kali-bypass-mac-address-filtering-during-an-attack-594454) *(Last modified: 2025-10-31)*
 - [kali-bypass-mac-address-filtering-on-a-network-594425](https://labex.io/ru/tutorials/kali-bypass-mac-address-filtering-on-a-network-594425) *(Last modified: 2025-10-31)*
 - [kali-capture-a-pmkid-for-clientless-wpa-attacks-594426](https://labex.io/ru/tutorials/kali-capture-a-pmkid-for-clientless-wpa-attacks-594426) *(Last modified: 2025-10-31)*
@@ -4803,7 +4803,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [kali-capture-the-target-desktop-with-screenshot-in-meterpreter-594339](https://labex.io/ru/tutorials/kali-capture-the-target-desktop-with-screenshot-in-meterpreter-594339) *(Last modified: 2025-10-10)*
 - [kali-capture-wep-initialization-vectors-for-a-wep-attack-594428](https://labex.io/ru/tutorials/kali-capture-wep-initialization-vectors-for-a-wep-attack-594428) *(Last modified: 2025-10-31)*
 - [kali-change-your-mac-address-using-macchanger-594429](https://labex.io/ru/tutorials/kali-change-your-mac-address-using-macchanger-594429) *(Last modified: 2025-10-31)*
-- [kali-check-for-database-administrator-privileges-with-sqlmap-594120](https://labex.io/ru/tutorials/kali-check-for-database-administrator-privileges-with-sqlmap-594120) *(Last modified: 2025-10-10)*
+- [kali-check-for-database-administrator-privileges-with-sqlmap-594120](https://labex.io/ru/tutorials/kali-check-for-database-administrator-privileges-with-sqlmap-594120) *(Last modified: 2026-05-20)*
 - [kali-clean-a-capture-file-for-hashcat-using-wpaclean-594430](https://labex.io/ru/tutorials/kali-clean-a-capture-file-for-hashcat-using-wpaclean-594430) *(Last modified: 2025-10-31)*
 - [kali-clean-up-a-system-after-engagement-using-meterpreter-594340](https://labex.io/ru/tutorials/kali-clean-up-a-system-after-engagement-using-meterpreter-594340) *(Last modified: 2025-10-10)*
 - [kali-clean-up-system-state-after-a-fluxion-attack-594456](https://labex.io/ru/tutorials/kali-clean-up-system-state-after-a-fluxion-attack-594456) *(Last modified: 2025-10-31)*
@@ -4855,14 +4855,14 @@ This file contains all tutorials-ru related links from LabEx website.
 - [kali-disable-tls-certificate-verification-in-gobuster-594095](https://labex.io/ru/tutorials/kali-disable-tls-certificate-verification-in-gobuster-594095) *(Last modified: 2026-01-09)*
 - [kali-discover-a-hidden-ssid-using-airodump-ng-594438](https://labex.io/ru/tutorials/kali-discover-a-hidden-ssid-using-airodump-ng-594438) *(Last modified: 2025-10-31)*
 - [kali-discover-hidden-files-with-a-dot-prefix-in-gobuster-594096](https://labex.io/ru/tutorials/kali-discover-hidden-files-with-a-dot-prefix-in-gobuster-594096) *(Last modified: 2026-01-09)*
-- [kali-discover-injection-points-by-crawling-a-website-with-sqlmap-594121](https://labex.io/ru/tutorials/kali-discover-injection-points-by-crawling-a-website-with-sqlmap-594121) *(Last modified: 2025-10-10)*
-- [kali-dump-data-from-specific-table-columns-with-sqlmap-594122](https://labex.io/ru/tutorials/kali-dump-data-from-specific-table-columns-with-sqlmap-594122) *(Last modified: 2026-01-09)*
+- [kali-discover-injection-points-by-crawling-a-website-with-sqlmap-594121](https://labex.io/ru/tutorials/kali-discover-injection-points-by-crawling-a-website-with-sqlmap-594121) *(Last modified: 2026-05-20)*
+- [kali-dump-data-from-specific-table-columns-with-sqlmap-594122](https://labex.io/ru/tutorials/kali-dump-data-from-specific-table-columns-with-sqlmap-594122) *(Last modified: 2026-05-20)*
 - [kali-dump-password-hashes-using-hashdump-in-meterpreter-594343](https://labex.io/ru/tutorials/kali-dump-password-hashes-using-hashdump-in-meterpreter-594343) *(Last modified: 2025-10-10)*
 - [kali-encode-and-decode-data-in-burp-decoder-593999](https://labex.io/ru/tutorials/kali-encode-and-decode-data-in-burp-decoder-593999) *(Last modified: 2025-10-31)*
-- [kali-enumerate-columns-from-a-specific-table-with-sqlmap-594123](https://labex.io/ru/tutorials/kali-enumerate-columns-from-a-specific-table-with-sqlmap-594123) *(Last modified: 2025-10-10)*
-- [kali-enumerate-database-users-and-password-hashes-with-sqlmap-594124](https://labex.io/ru/tutorials/kali-enumerate-database-users-and-password-hashes-with-sqlmap-594124) *(Last modified: 2026-01-09)*
-- [kali-enumerate-databases-on-a-target-server-with-sqlmap-594125](https://labex.io/ru/tutorials/kali-enumerate-databases-on-a-target-server-with-sqlmap-594125) *(Last modified: 2025-10-10)*
-- [kali-enumerate-tables-from-a-specific-database-with-sqlmap-594126](https://labex.io/ru/tutorials/kali-enumerate-tables-from-a-specific-database-with-sqlmap-594126) *(Last modified: 2025-10-10)*
+- [kali-enumerate-columns-from-a-specific-table-with-sqlmap-594123](https://labex.io/ru/tutorials/kali-enumerate-columns-from-a-specific-table-with-sqlmap-594123) *(Last modified: 2026-05-20)*
+- [kali-enumerate-database-users-and-password-hashes-with-sqlmap-594124](https://labex.io/ru/tutorials/kali-enumerate-database-users-and-password-hashes-with-sqlmap-594124) *(Last modified: 2026-05-20)*
+- [kali-enumerate-databases-on-a-target-server-with-sqlmap-594125](https://labex.io/ru/tutorials/kali-enumerate-databases-on-a-target-server-with-sqlmap-594125) *(Last modified: 2026-05-20)*
+- [kali-enumerate-tables-from-a-specific-database-with-sqlmap-594126](https://labex.io/ru/tutorials/kali-enumerate-tables-from-a-specific-database-with-sqlmap-594126) *(Last modified: 2026-05-20)*
 - [kali-escalate-privileges-with-getsystem-in-meterpreter-594344](https://labex.io/ru/tutorials/kali-escalate-privileges-with-getsystem-in-meterpreter-594344) *(Last modified: 2025-10-10)*
 - [kali-establish-persistence-with-a-metasploit-module-594345](https://labex.io/ru/tutorials/kali-establish-persistence-with-a-metasploit-module-594345) *(Last modified: 2025-10-10)*
 - [kali-examine-the-attacks-captive-portal-directory-structure-594463](https://labex.io/ru/tutorials/kali-examine-the-attacks-captive-portal-directory-structure-594463) *(Last modified: 2025-10-31)*
@@ -4871,7 +4871,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [kali-exclude-specific-status-codes-from-results-in-gobuster-594098](https://labex.io/ru/tutorials/kali-exclude-specific-status-codes-from-results-in-gobuster-594098) *(Last modified: 2026-01-09)*
 - [kali-execute-a-brute-force-mask-attack-in-hashcat-594500](https://labex.io/ru/tutorials/kali-execute-a-brute-force-mask-attack-in-hashcat-594500) *(Last modified: 2025-10-10)*
 - [kali-execute-a-wps-pixie-dust-attack-using-reaver-594439](https://labex.io/ru/tutorials/kali-execute-a-wps-pixie-dust-attack-using-reaver-594439) *(Last modified: 2025-10-31)*
-- [kali-execute-operating-system-commands-with-sqlmap-594127](https://labex.io/ru/tutorials/kali-execute-operating-system-commands-with-sqlmap-594127) *(Last modified: 2025-10-10)*
+- [kali-execute-operating-system-commands-with-sqlmap-594127](https://labex.io/ru/tutorials/kali-execute-operating-system-commands-with-sqlmap-594127) *(Last modified: 2026-05-20)*
 - [kali-exploit-a-vulnerable-vsftpd-service-in-metasploit-594031](https://labex.io/ru/tutorials/kali-exploit-a-vulnerable-vsftpd-service-in-metasploit-594031) *(Last modified: 2025-10-10)*
 - [kali-exploit-ms08-067-on-a-windows-xp-target-in-metasploit-594032](https://labex.io/ru/tutorials/kali-exploit-ms08-067-on-a-windows-xp-target-in-metasploit-594032) *(Last modified: 2025-10-10)*
 - [kali-exploit-ms17-010-eternalblue-on-a-windows-7-target-in-metasploit-594033](https://labex.io/ru/tutorials/kali-exploit-ms17-010-eternalblue-on-a-windows-7-target-in-metasploit-594033) *(Last modified: 2025-10-10)*
@@ -4889,7 +4889,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [kali-force-a-specific-wi-fi-channel-for-scanning-594465](https://labex.io/ru/tutorials/kali-force-a-specific-wi-fi-channel-for-scanning-594465) *(Last modified: 2025-10-31)*
 - [kali-force-a-wpa-handshake-with-an-aireplay-ng-deauth-attack-594440](https://labex.io/ru/tutorials/kali-force-a-wpa-handshake-with-an-aireplay-ng-deauth-attack-594440) *(Last modified: 2025-10-31)*
 - [kali-fuzz-for-get-parameters-in-gobuster-594101](https://labex.io/ru/tutorials/kali-fuzz-for-get-parameters-in-gobuster-594101) *(Last modified: 2025-10-31)*
-- [kali-gain-an-interactive-os-shell-with-sqlmap-594139](https://labex.io/ru/tutorials/kali-gain-an-interactive-os-shell-with-sqlmap-594139) *(Last modified: 2025-10-10)*
+- [kali-gain-an-interactive-os-shell-with-sqlmap-594139](https://labex.io/ru/tutorials/kali-gain-an-interactive-os-shell-with-sqlmap-594139) *(Last modified: 2026-05-20)*
 - [kali-generate-a-csrf-poc-in-burp-suite-594002](https://labex.io/ru/tutorials/kali-generate-a-csrf-poc-in-burp-suite-594002) *(Last modified: 2025-10-31)*
 - [kali-generate-a-standalone-payload-with-msfvenom-594349](https://labex.io/ru/tutorials/kali-generate-a-standalone-payload-with-msfvenom-594349) *(Last modified: 2025-10-10)*
 - [kali-generate-an-html-report-with-nikto-594527](https://labex.io/ru/tutorials/kali-generate-an-html-report-with-nikto-594527) *(Last modified: 2025-10-10)*
@@ -4901,7 +4901,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [kali-implement-best-practices-for-password-security-594194](https://labex.io/ru/tutorials/kali-implement-best-practices-for-password-security-594194) *(Last modified: 2025-10-10)*
 - [kali-import-an-existing-handshake-file-into-fluxion-594467](https://labex.io/ru/tutorials/kali-import-an-existing-handshake-file-into-fluxion-594467) *(Last modified: 2025-10-31)*
 - [kali-import-external-nmap-scan-results-into-metasploit-594034](https://labex.io/ru/tutorials/kali-import-external-nmap-scan-results-into-metasploit-594034) *(Last modified: 2025-10-10)*
-- [kali-initialize-the-sqlmap-environment-in-kali-linux-594128](https://labex.io/ru/tutorials/kali-initialize-the-sqlmap-environment-in-kali-linux-594128) *(Last modified: 2025-10-10)*
+- [kali-initialize-the-sqlmap-environment-in-kali-linux-594128](https://labex.io/ru/tutorials/kali-initialize-the-sqlmap-environment-in-kali-linux-594128) *(Last modified: 2026-05-20)*
 - [kali-initiate-a-deauthentication-attack-via-fluxion-594468](https://labex.io/ru/tutorials/kali-initiate-a-deauthentication-attack-via-fluxion-594468) *(Last modified: 2025-10-31)*
 - [kali-install-an-extension-from-the-bapp-store-594003](https://labex.io/ru/tutorials/kali-install-an-extension-from-the-bapp-store-594003) *(Last modified: 2025-10-31)*
 - [kali-install-and-verify-gobuster-on-kali-linux-594103](https://labex.io/ru/tutorials/kali-install-and-verify-gobuster-on-kali-linux-594103) *(Last modified: 2025-10-31)*
@@ -4910,7 +4910,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [kali-install-the-burp-ca-certificate-in-firefox-594004](https://labex.io/ru/tutorials/kali-install-the-burp-ca-certificate-in-firefox-594004) *(Last modified: 2025-10-31)*
 - [kali-integrate-a-custom-css-stylesheet-into-the-captive-portal-594470](https://labex.io/ru/tutorials/kali-integrate-a-custom-css-stylesheet-into-the-captive-portal-594470) *(Last modified: 2025-10-31)*
 - [kali-integrate-john-the-ripper-with-other-tools-594196](https://labex.io/ru/tutorials/kali-integrate-john-the-ripper-with-other-tools-594196) *(Last modified: 2025-10-10)*
-- [kali-integrate-sqlmap-with-a-proxy-like-burp-suite-594129](https://labex.io/ru/tutorials/kali-integrate-sqlmap-with-a-proxy-like-burp-suite-594129) *(Last modified: 2025-10-10)*
+- [kali-integrate-sqlmap-with-a-proxy-like-burp-suite-594129](https://labex.io/ru/tutorials/kali-integrate-sqlmap-with-a-proxy-like-burp-suite-594129) *(Last modified: 2026-05-20)*
 - [kali-interact-with-the-target-file-system-using-meterpreter-594351](https://labex.io/ru/tutorials/kali-interact-with-the-target-file-system-using-meterpreter-594351) *(Last modified: 2025-10-10)*
 - [kali-intercept-and-forward-http-traffic-in-burp-proxy-594005](https://labex.io/ru/tutorials/kali-intercept-and-forward-http-traffic-in-burp-proxy-594005) *(Last modified: 2025-10-31)*
 - [kali-interpret-standard-nikto-scan-results-594528](https://labex.io/ru/tutorials/kali-interpret-standard-nikto-scan-results-594528) *(Last modified: 2025-10-10)*
@@ -4935,15 +4935,15 @@ This file contains all tutorials-ru related links from LabEx website.
 - [kali-kali-password-cracking-with-john-552297](https://labex.io/ru/tutorials/kali-kali-password-cracking-with-john-552297) *(Last modified: 2026-05-13)*
 - [kali-kali-reconnaissance-with-nmap-and-dns-552298](https://labex.io/ru/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298) *(Last modified: 2026-05-17)*
 - [kali-kali-reporting-with-git-and-dradis-552299](https://labex.io/ru/tutorials/kali-kali-reporting-with-git-and-dradis-552299) *(Last modified: 2026-02-10)*
-- [kali-kali-sql-injection-with-sqlmap-552300](https://labex.io/ru/tutorials/kali-kali-sql-injection-with-sqlmap-552300) *(Last modified: 2026-03-27)*
-- [kali-kali-vulnerability-scanning-with-nikto-552301](https://labex.io/ru/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301) *(Last modified: 2026-03-27)*
-- [kali-kali-web-testing-with-burp-suite-552302](https://labex.io/ru/tutorials/kali-kali-web-testing-with-burp-suite-552302) *(Last modified: 2026-02-10)*
+- [kali-kali-sql-injection-with-sqlmap-552300](https://labex.io/ru/tutorials/kali-kali-sql-injection-with-sqlmap-552300) *(Last modified: 2026-05-20)*
+- [kali-kali-vulnerability-scanning-with-nikto-552301](https://labex.io/ru/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301) *(Last modified: 2026-05-20)*
+- [kali-kali-web-testing-with-burp-suite-552302](https://labex.io/ru/tutorials/kali-kali-web-testing-with-burp-suite-552302) *(Last modified: 2026-05-20)*
 - [kali-kali-wireless-attacks-with-aircrack-ng-552303](https://labex.io/ru/tutorials/kali-kali-wireless-attacks-with-aircrack-ng-552303) *(Last modified: 2026-02-10)*
 - [kali-launch-and-navigate-the-msfconsole-interface-in-kali-linux-594035](https://labex.io/ru/tutorials/kali-launch-and-navigate-the-msfconsole-interface-in-kali-linux-594035) *(Last modified: 2025-10-10)*
 - [kali-launch-the-captive-portal-attack-in-fluxion-594471](https://labex.io/ru/tutorials/kali-launch-the-captive-portal-attack-in-fluxion-594471) *(Last modified: 2025-10-31)*
 - [kali-launch-the-handshake-snooper-attack-in-fluxion-594472](https://labex.io/ru/tutorials/kali-launch-the-handshake-snooper-attack-in-fluxion-594472) *(Last modified: 2025-10-31)*
 - [kali-log-keystrokes-on-a-target-using-meterpreter-594353](https://labex.io/ru/tutorials/kali-log-keystrokes-on-a-target-using-meterpreter-594353) *(Last modified: 2025-10-10)*
-- [kali-manage-authenticated-scans-using-cookies-in-sqlmap-594130](https://labex.io/ru/tutorials/kali-manage-authenticated-scans-using-cookies-in-sqlmap-594130) *(Last modified: 2026-01-09)*
+- [kali-manage-authenticated-scans-using-cookies-in-sqlmap-594130](https://labex.io/ru/tutorials/kali-manage-authenticated-scans-using-cookies-in-sqlmap-594130) *(Last modified: 2026-05-20)*
 - [kali-manage-cracking-sessions-in-hashcat-594505](https://labex.io/ru/tutorials/kali-manage-cracking-sessions-in-hashcat-594505) *(Last modified: 2025-10-10)*
 - [kali-manage-handshake-files-within-the-fluxion-directory-594473](https://labex.io/ru/tutorials/kali-manage-handshake-files-within-the-fluxion-directory-594473) *(Last modified: 2025-10-31)*
 - [kali-manage-john-the-ripper-sessions-and-resumes-594209](https://labex.io/ru/tutorials/kali-manage-john-the-ripper-sessions-and-resumes-594209) *(Last modified: 2026-01-09)*
@@ -4962,19 +4962,19 @@ This file contains all tutorials-ru related links from LabEx website.
 - [kali-online-postgresql-database-playground-593616](https://labex.io/ru/tutorials/kali-online-postgresql-database-playground-593616) *(Last modified: 2026-03-26)*
 - [kali-optimize-cracking-with-workload-profiles-594506](https://labex.io/ru/tutorials/kali-optimize-cracking-with-workload-profiles-594506) *(Last modified: 2025-10-10)*
 - [kali-optimize-john-the-ripper-performance-594210](https://labex.io/ru/tutorials/kali-optimize-john-the-ripper-performance-594210) *(Last modified: 2026-01-09)*
-- [kali-optimize-scan-performance-with-threads-in-sqlmap-594131](https://labex.io/ru/tutorials/kali-optimize-scan-performance-with-threads-in-sqlmap-594131) *(Last modified: 2025-10-10)*
+- [kali-optimize-scan-performance-with-threads-in-sqlmap-594131](https://labex.io/ru/tutorials/kali-optimize-scan-performance-with-threads-in-sqlmap-594131) *(Last modified: 2026-05-20)*
 - [kali-perform-a-basic-dictionary-attack-in-hashcat-594507](https://labex.io/ru/tutorials/kali-perform-a-basic-dictionary-attack-in-hashcat-594507) *(Last modified: 2025-10-10)*
 - [kali-perform-a-basic-directory-scan-in-gobuster-594104](https://labex.io/ru/tutorials/kali-perform-a-basic-directory-scan-in-gobuster-594104) *(Last modified: 2025-10-31)*
 - [kali-perform-a-basic-dns-subdomain-scan-in-gobuster-594105](https://labex.io/ru/tutorials/kali-perform-a-basic-dns-subdomain-scan-in-gobuster-594105) *(Last modified: 2025-10-31)*
 - [kali-perform-a-basic-port-scan-using-db-nmap-in-metasploit-594036](https://labex.io/ru/tutorials/kali-perform-a-basic-port-scan-using-db-nmap-in-metasploit-594036) *(Last modified: 2025-10-10)*
-- [kali-perform-a-basic-scan-on-a-get-parameter-with-sqlmap-594132](https://labex.io/ru/tutorials/kali-perform-a-basic-scan-on-a-get-parameter-with-sqlmap-594132) *(Last modified: 2026-01-09)*
+- [kali-perform-a-basic-scan-on-a-get-parameter-with-sqlmap-594132](https://labex.io/ru/tutorials/kali-perform-a-basic-scan-on-a-get-parameter-with-sqlmap-594132) *(Last modified: 2026-05-20)*
 - [kali-perform-a-basic-vhost-scan-in-gobuster-594106](https://labex.io/ru/tutorials/kali-perform-a-basic-vhost-scan-in-gobuster-594106) *(Last modified: 2025-10-31)*
 - [kali-perform-a-combinator-attack-in-hashcat-594508](https://labex.io/ru/tutorials/kali-perform-a-combinator-attack-in-hashcat-594508) *(Last modified: 2025-10-10)*
 - [kali-perform-a-dictionary-attack-on-a-wpa-handshake-with-aircrack-ng-594442](https://labex.io/ru/tutorials/kali-perform-a-dictionary-attack-on-a-wpa-handshake-with-aircrack-ng-594442) *(Last modified: 2025-10-31)*
 - [kali-perform-a-fragmentation-attack-against-a-wep-network-594443](https://labex.io/ru/tutorials/kali-perform-a-fragmentation-attack-against-a-wep-network-594443) *(Last modified: 2025-10-31)*
 - [kali-perform-a-hybrid-attack-in-hashcat-594509](https://labex.io/ru/tutorials/kali-perform-a-hybrid-attack-in-hashcat-594509) *(Last modified: 2025-10-10)*
 - [kali-perform-a-korek-chop-chop-attack-against-a-wep-network-594444](https://labex.io/ru/tutorials/kali-perform-a-korek-chop-chop-attack-against-a-wep-network-594444) *(Last modified: 2025-10-31)*
-- [kali-perform-a-scan-on-a-post-request-with-sqlmap-594133](https://labex.io/ru/tutorials/kali-perform-a-scan-on-a-post-request-with-sqlmap-594133) *(Last modified: 2025-10-10)*
+- [kali-perform-a-scan-on-a-post-request-with-sqlmap-594133](https://labex.io/ru/tutorials/kali-perform-a-scan-on-a-post-request-with-sqlmap-594133) *(Last modified: 2026-05-20)*
 - [kali-perform-a-scan-with-basic-authentication-in-nikto-594530](https://labex.io/ru/tutorials/kali-perform-a-scan-with-basic-authentication-in-nikto-594530) *(Last modified: 2025-10-10)*
 - [kali-perform-a-sniper-attack-in-burp-intruder-594009](https://labex.io/ru/tutorials/kali-perform-a-sniper-attack-in-burp-intruder-594009) *(Last modified: 2025-10-31)*
 - [kali-perform-a-wps-brute-force-attack-using-reaver-594445](https://labex.io/ru/tutorials/kali-perform-a-wps-brute-force-attack-using-reaver-594445) *(Last modified: 2025-10-31)*
@@ -4982,7 +4982,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [kali-perform-network-pivoting-with-portfwd-in-meterpreter-594358](https://labex.io/ru/tutorials/kali-perform-network-pivoting-with-portfwd-in-meterpreter-594358) *(Last modified: 2025-10-10)*
 - [kali-prepare-a-wireless-adapter-for-monitor-mode-in-kali-linux-594446](https://labex.io/ru/tutorials/kali-prepare-a-wireless-adapter-for-monitor-mode-in-kali-linux-594446) *(Last modified: 2025-10-31)*
 - [kali-prepare-a-wireless-adapter-for-monitor-mode-in-kali-linux-594476](https://labex.io/ru/tutorials/kali-prepare-a-wireless-adapter-for-monitor-mode-in-kali-linux-594476) *(Last modified: 2025-10-31)*
-- [kali-read-arbitrary-files-from-the-server-with-sqlmap-594134](https://labex.io/ru/tutorials/kali-read-arbitrary-files-from-the-server-with-sqlmap-594134) *(Last modified: 2025-10-10)*
+- [kali-read-arbitrary-files-from-the-server-with-sqlmap-594134](https://labex.io/ru/tutorials/kali-read-arbitrary-files-from-the-server-with-sqlmap-594134) *(Last modified: 2026-05-20)*
 - [kali-replay-and-re-format-a-previous-scan-in-nikto-594531](https://labex.io/ru/tutorials/kali-replay-and-re-format-a-previous-scan-in-nikto-594531) *(Last modified: 2025-10-10)*
 - [kali-route-gobuster-traffic-through-a-proxy-594107](https://labex.io/ru/tutorials/kali-route-gobuster-traffic-through-a-proxy-594107) *(Last modified: 2025-10-31)*
 - [kali-run-a-basic-web-server-scan-with-nikto-594532](https://labex.io/ru/tutorials/kali-run-a-basic-web-server-scan-with-nikto-594532) *(Last modified: 2025-10-10)*
@@ -4997,7 +4997,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [kali-scan-for-specific-file-extensions-in-gobuster-594109](https://labex.io/ru/tutorials/kali-scan-for-specific-file-extensions-in-gobuster-594109) *(Last modified: 2025-10-31)*
 - [kali-scan-for-wi-fi-networks-using-airodump-ng-594447](https://labex.io/ru/tutorials/kali-scan-for-wi-fi-networks-using-airodump-ng-594447) *(Last modified: 2025-10-31)*
 - [kali-scan-for-wps-enabled-networks-using-wash-594448](https://labex.io/ru/tutorials/kali-scan-for-wps-enabled-networks-using-wash-594448) *(Last modified: 2025-10-31)*
-- [kali-scan-from-a-captured-http-request-file-in-sqlmap-594135](https://labex.io/ru/tutorials/kali-scan-from-a-captured-http-request-file-in-sqlmap-594135) *(Last modified: 2026-01-09)*
+- [kali-scan-from-a-captured-http-request-file-in-sqlmap-594135](https://labex.io/ru/tutorials/kali-scan-from-a-captured-http-request-file-in-sqlmap-594135) *(Last modified: 2026-05-20)*
 - [kali-scan-multiple-hosts-from-a-file-with-nikto-594537](https://labex.io/ru/tutorials/kali-scan-multiple-hosts-from-a-file-with-nikto-594537) *(Last modified: 2025-10-10)*
 - [kali-scan-network-ports-with-nmap-552280](https://labex.io/ru/tutorials/kali-scan-network-ports-with-nmap-552280) *(Last modified: 2026-05-13)*
 - [kali-search-for-modules-in-metasploit-594037](https://labex.io/ru/tutorials/kali-search-for-modules-in-metasploit-594037) *(Last modified: 2025-10-10)*
@@ -5014,11 +5014,11 @@ This file contains all tutorials-ru related links from LabEx website.
 - [kali-set-up-browser-proxy-connection-in-firefox-594013](https://labex.io/ru/tutorials/kali-set-up-browser-proxy-connection-in-firefox-594013) *(Last modified: 2025-10-31)*
 - [kali-setting-up-your-kali-linux-environment-552195](https://labex.io/ru/tutorials/kali-setting-up-your-kali-linux-environment-552195) *(Last modified: 2026-05-13)*
 - [kali-show-ip-addresses-in-dns-scan-results-in-gobuster-594111](https://labex.io/ru/tutorials/kali-show-ip-addresses-in-dns-scan-results-in-gobuster-594111) *(Last modified: 2026-01-09)*
-- [kali-specify-injection-techniques-in-sqlmap-594136](https://labex.io/ru/tutorials/kali-specify-injection-techniques-in-sqlmap-594136) *(Last modified: 2026-01-09)*
+- [kali-specify-injection-techniques-in-sqlmap-594136](https://labex.io/ru/tutorials/kali-specify-injection-techniques-in-sqlmap-594136) *(Last modified: 2026-05-20)*
 - [kali-spoof-the-user-agent-string-in-nikto-594541](https://labex.io/ru/tutorials/kali-spoof-the-user-agent-string-in-nikto-594541) *(Last modified: 2025-10-10)*
 - [kali-start-metasploit-console-552287](https://labex.io/ru/tutorials/kali-start-metasploit-console-552287) *(Last modified: 2026-05-13)*
 - [kali-target-a-hidden-ssid-network-with-fluxion-594481](https://labex.io/ru/tutorials/kali-target-a-hidden-ssid-network-with-fluxion-594481) *(Last modified: 2025-10-31)*
-- [kali-target-a-specific-database-management-system-with-sqlmap-594140](https://labex.io/ru/tutorials/kali-target-a-specific-database-management-system-with-sqlmap-594140) *(Last modified: 2025-10-10)*
+- [kali-target-a-specific-database-management-system-with-sqlmap-594140](https://labex.io/ru/tutorials/kali-target-a-specific-database-management-system-with-sqlmap-594140) *(Last modified: 2026-05-20)*
 - [kali-troubleshoot-a-failing-exploit-in-metasploit-594362](https://labex.io/ru/tutorials/kali-troubleshoot-a-failing-exploit-in-metasploit-594362) *(Last modified: 2025-10-10)*
 - [kali-troubleshoot-common-gobuster-connection-errors-594112](https://labex.io/ru/tutorials/kali-troubleshoot-common-gobuster-connection-errors-594112) *(Last modified: 2025-10-31)*
 - [kali-troubleshoot-common-hashcat-errors-594510](https://labex.io/ru/tutorials/kali-troubleshoot-common-hashcat-errors-594510) *(Last modified: 2025-10-10)*
@@ -5073,7 +5073,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [kali-use-the-cluster-bomb-attack-in-burp-intruder-594017](https://labex.io/ru/tutorials/kali-use-the-cluster-bomb-attack-in-burp-intruder-594017) *(Last modified: 2025-10-31)*
 - [kali-use-the-embedded-browser-in-burp-suite-594018](https://labex.io/ru/tutorials/kali-use-the-embedded-browser-in-burp-suite-594018) *(Last modified: 2025-10-31)*
 - [kali-use-the-flexible-fuzzing-mode-in-gobuster-594116](https://labex.io/ru/tutorials/kali-use-the-flexible-fuzzing-mode-in-gobuster-594116) *(Last modified: 2026-01-09)*
-- [kali-use-the-interactive-sql-shell-in-sqlmap-594141](https://labex.io/ru/tutorials/kali-use-the-interactive-sql-shell-in-sqlmap-594141) *(Last modified: 2025-10-10)*
+- [kali-use-the-interactive-sql-shell-in-sqlmap-594141](https://labex.io/ru/tutorials/kali-use-the-interactive-sql-shell-in-sqlmap-594141) *(Last modified: 2026-05-20)*
 - [kali-use-the-pitchfork-attack-in-burp-intruder-594019](https://labex.io/ru/tutorials/kali-use-the-pitchfork-attack-in-burp-intruder-594019) *(Last modified: 2025-10-31)*
 - [kali-use-the-potfile-to-manage-cracked-hashes-594517](https://labex.io/ru/tutorials/kali-use-the-potfile-to-manage-cracked-hashes-594517) *(Last modified: 2025-10-10)*
 - [kali-use-the-search-functionality-in-burp-suite-594020](https://labex.io/ru/tutorials/kali-use-the-search-functionality-in-burp-suite-594020) *(Last modified: 2025-10-31)*
@@ -5081,7 +5081,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [kali-verify-a-captured-handshake-file-with-aircrack-ng-594488](https://labex.io/ru/tutorials/kali-verify-a-captured-handshake-file-with-aircrack-ng-594488) *(Last modified: 2025-10-31)*
 - [kali-verify-hashcat-installation-in-kali-linux-594518](https://labex.io/ru/tutorials/kali-verify-hashcat-installation-in-kali-linux-594518) *(Last modified: 2025-10-10)*
 - [kali-verify-kali-linux-version-552268](https://labex.io/ru/tutorials/kali-verify-kali-linux-version-552268) *(Last modified: 2026-05-13)*
-- [kali-write-a-local-file-to-the-server-with-sqlmap-594137](https://labex.io/ru/tutorials/kali-write-a-local-file-to-the-server-with-sqlmap-594137) *(Last modified: 2026-01-09)*
+- [kali-write-a-local-file-to-the-server-with-sqlmap-594137](https://labex.io/ru/tutorials/kali-write-a-local-file-to-the-server-with-sqlmap-594137) *(Last modified: 2026-05-20)*
 - [kernel-approximation-techniques-in-scikit-learn-71134](https://labex.io/ru/tutorials/kernel-approximation-techniques-in-scikit-learn-71134) *(Last modified: 2026-05-13)*
 - [kernel-density-estimate-of-species-distributions-49299](https://labex.io/ru/tutorials/kernel-density-estimate-of-species-distributions-49299) *(Last modified: 2026-05-13)*
 - [kernel-density-estimation-49109](https://labex.io/ru/tutorials/kernel-density-estimation-49109) *(Last modified: 2026-05-13)*
@@ -5170,7 +5170,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [kubernetes-running-pod-with-daemonsets-8454](https://labex.io/ru/tutorials/kubernetes-running-pod-with-daemonsets-8454) *(Last modified: 2026-05-13)*
 - [kubernetes-scale-and-load-balance-applications-434648](https://labex.io/ru/tutorials/kubernetes-scale-and-load-balance-applications-434648) *(Last modified: 2026-05-13)*
 - [kubernetes-scaling-and-managing-pods-with-deployments-9675](https://labex.io/ru/tutorials/kubernetes-scaling-and-managing-pods-with-deployments-9675) *(Last modified: 2026-05-13)*
-- [kubernetes-scheduing-with-node-affinity-18468](https://labex.io/ru/tutorials/kubernetes-scheduing-with-node-affinity-18468) *(Last modified: 2026-05-13)*
+- [kubernetes-scheduing-with-node-affinity-18468](https://labex.io/ru/tutorials/kubernetes-scheduing-with-node-affinity-18468) *(Last modified: 2026-05-19)*
 - [kubernetes-scheduing-with-node-selectors-15001](https://labex.io/ru/tutorials/kubernetes-scheduing-with-node-selectors-15001) *(Last modified: 2026-05-13)*
 - [kubernetes-secure-kubernetes-dashboard-access-434106](https://labex.io/ru/tutorials/kubernetes-secure-kubernetes-dashboard-access-434106) *(Last modified: 2026-05-13)*
 - [kubernetes-storing-application-data-with-persistentvolumes-9685](https://labex.io/ru/tutorials/kubernetes-storing-application-data-with-persistentvolumes-9685) *(Last modified: 2026-05-13)*
@@ -5238,7 +5238,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-configuring-ssh-certificates-for-secure-login-301461](https://labex.io/ru/tutorials/linux-configuring-ssh-certificates-for-secure-login-301461) *(Last modified: 2026-02-10)*
 - [linux-configuring-storage-devices-632793](https://labex.io/ru/tutorials/linux-configuring-storage-devices-632793) *(Last modified: 2026-05-13)*
 - [linux-configuring-wireless-connections-632794](https://labex.io/ru/tutorials/linux-configuring-wireless-connections-632794) *(Last modified: 2026-05-13)*
-- [linux-connect-to-a-remote-linux-server-using-ssh-590857](https://labex.io/ru/tutorials/linux-connect-to-a-remote-linux-server-using-ssh-590857) *(Last modified: 2026-05-13)*
+- [linux-connect-to-a-remote-linux-server-using-ssh-590857](https://labex.io/ru/tutorials/linux-connect-to-a-remote-linux-server-using-ssh-590857) *(Last modified: 2026-05-19)*
 - [linux-connect-to-remote-34](https://labex.io/ru/tutorials/linux-connect-to-remote-34) *(Last modified: 2026-05-13)*
 - [linux-copy-large-files-with-preserved-structure-301465](https://labex.io/ru/tutorials/linux-copy-large-files-with-preserved-structure-301465) *(Last modified: 2026-02-10)*
 - [linux-count-lines-of-code-with-cloc-273383](https://labex.io/ru/tutorials/linux-count-lines-of-code-with-cloc-273383) *(Last modified: 2026-05-13)*
@@ -5871,7 +5871,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-users-and-groups-creation-and-deletion-batch-301458](https://labex.io/ru/tutorials/linux-users-and-groups-creation-and-deletion-batch-301458) *(Last modified: 2026-05-13)*
 - [linux-users-and-groups-creation-and-deletion-batch-301459](https://labex.io/ru/tutorials/linux-users-and-groups-creation-and-deletion-batch-301459) *(Last modified: 2026-02-10)*
 - [linux-using-hydra-to-crack-passwords-415960](https://labex.io/ru/tutorials/linux-using-hydra-to-crack-passwords-415960) *(Last modified: 2026-05-13)*
-- [linux-using-netcat-for-simple-network-communication-415961](https://labex.io/ru/tutorials/linux-using-netcat-for-simple-network-communication-415961) *(Last modified: 2026-05-13)*
+- [linux-using-netcat-for-simple-network-communication-415961](https://labex.io/ru/tutorials/linux-using-netcat-for-simple-network-communication-415961) *(Last modified: 2026-05-19)*
 - [linux-viewing-log-and-configuration-files-in-linux-387914](https://labex.io/ru/tutorials/linux-viewing-log-and-configuration-files-in-linux-387914) *(Last modified: 2026-05-13)*
 - [linux-visualize-file-differences-with-icdiff-272381](https://labex.io/ru/tutorials/linux-visualize-file-differences-with-icdiff-272381) *(Last modified: 2026-05-13)*
 - [linux-web-development-interview-questions-and-answers-593705](https://labex.io/ru/tutorials/linux-web-development-interview-questions-and-answers-593705) *(Last modified: 2026-01-17)*
@@ -8149,7 +8149,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [redis-expire-keys-in-redis-cache-552156](https://labex.io/ru/tutorials/redis-expire-keys-in-redis-cache-552156) *(Last modified: 2026-05-13)*
 - [redis-increment-redis-counter-for-website-visits-552163](https://labex.io/ru/tutorials/redis-increment-redis-counter-for-website-visits-552163) *(Last modified: 2026-05-13)*
 - [redis-installation-and-initial-setup-of-redis-552075](https://labex.io/ru/tutorials/redis-installation-and-initial-setup-of-redis-552075) *(Last modified: 2026-05-13)*
-- [redis-introduction-to-redis-data-structures-552078](https://labex.io/ru/tutorials/redis-introduction-to-redis-data-structures-552078) *(Last modified: 2026-05-13)*
+- [redis-introduction-to-redis-data-structures-552078](https://labex.io/ru/tutorials/redis-introduction-to-redis-data-structures-552078) *(Last modified: 2026-05-19)*
 - [redis-online-redis-database-playground-593619](https://labex.io/ru/tutorials/redis-online-redis-database-playground-593619) *(Last modified: 2026-03-26)*
 - [redis-persistence-and-simple-configuration-in-redis-552079](https://labex.io/ru/tutorials/redis-persistence-and-simple-configuration-in-redis-552079) *(Last modified: 2026-05-13)*
 - [redis-redis-advanced-key-management-552094](https://labex.io/ru/tutorials/redis-redis-advanced-key-management-552094) *(Last modified: 2026-05-13)*
@@ -8282,7 +8282,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [rhel-find-and-retrieve-container-images-from-a-remote-registry-588251](https://labex.io/ru/tutorials/rhel-find-and-retrieve-container-images-from-a-remote-registry-588251) *(Last modified: 2026-05-13)*
 - [rhel-get-help-in-red-hat-enterprise-linux-588461](https://labex.io/ru/tutorials/rhel-get-help-in-red-hat-enterprise-linux-588461) *(Last modified: 2026-05-13)*
 - [rhel-identify-selinux-file-context-588252](https://labex.io/ru/tutorials/rhel-identify-selinux-file-context-588252) *(Last modified: 2026-05-13)*
-- [rhel-implement-hard-links-in-linux-588253](https://labex.io/ru/tutorials/rhel-implement-hard-links-in-linux-588253) *(Last modified: 2026-05-13)*
+- [rhel-implement-hard-links-in-linux-588253](https://labex.io/ru/tutorials/rhel-implement-hard-links-in-linux-588253) *(Last modified: 2026-05-19)*
 - [rhel-inspect-container-images-588254](https://labex.io/ru/tutorials/rhel-inspect-container-images-588254) *(Last modified: 2026-05-13)*
 - [rhel-install-and-automate-rhel-deployments-589257](https://labex.io/ru/tutorials/rhel-install-and-automate-rhel-deployments-589257) *(Last modified: 2026-05-13)*
 - [rhel-install-and-update-software-packages-588255](https://labex.io/ru/tutorials/rhel-install-and-update-software-packages-588255) *(Last modified: 2026-05-13)*
@@ -8319,7 +8319,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [rhel-run-containers-with-podman-on-rhel-589256](https://labex.io/ru/tutorials/rhel-run-containers-with-podman-on-rhel-589256) *(Last modified: 2026-05-13)*
 - [rhel-schedule-tasks-in-red-hat-enterprise-linux-588897](https://labex.io/ru/tutorials/rhel-schedule-tasks-in-red-hat-enterprise-linux-588897) *(Last modified: 2026-05-13)*
 - [rhel-schedule-tasks-using-at-and-cron-588276](https://labex.io/ru/tutorials/rhel-schedule-tasks-using-at-and-cron-588276) *(Last modified: 2026-05-13)*
-- [rhel-secure-ssh-in-red-hat-enterprise-linux-588466](https://labex.io/ru/tutorials/rhel-secure-ssh-in-red-hat-enterprise-linux-588466) *(Last modified: 2026-05-13)*
+- [rhel-secure-ssh-in-red-hat-enterprise-linux-588466](https://labex.io/ru/tutorials/rhel-secure-ssh-in-red-hat-enterprise-linux-588466) *(Last modified: 2026-05-20)*
 - [rhel-secure-with-firewalld-and-selinux-in-rhel-589259](https://labex.io/ru/tutorials/rhel-secure-with-firewalld-and-selinux-in-rhel-589259) *(Last modified: 2026-05-13)*
 - [rhel-set-selinux-mode-588277](https://labex.io/ru/tutorials/rhel-set-selinux-mode-588277) *(Last modified: 2026-05-13)*
 - [rhel-start-and-configure-services-588278](https://labex.io/ru/tutorials/rhel-start-and-configure-services-588278) *(Last modified: 2026-05-13)*
@@ -9084,7 +9084,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [wireshark-how-to-verify-and-create-the-wireshark-user-group-415813](https://labex.io/ru/tutorials/wireshark-how-to-verify-and-create-the-wireshark-user-group-415813) *(Last modified: 2025-10-11)*
 - [wireshark-how-to-verify-network-connectivity-between-kali-linux-and-metasploitable2-in-a-cybersecurity-lab-417359](https://labex.io/ru/tutorials/wireshark-how-to-verify-network-connectivity-between-kali-linux-and-metasploitable2-in-a-cybersecurity-lab-417359) *(Last modified: 2025-10-11)*
 - [wireshark-how-to-verify-openssl-installation-420110](https://labex.io/ru/tutorials/wireshark-how-to-verify-openssl-installation-420110) *(Last modified: 2025-10-11)*
-- [wireshark-install-configure-and-analyze-network-traffic-with-wireshark-415947](https://labex.io/ru/tutorials/wireshark-install-configure-and-analyze-network-traffic-with-wireshark-415947) *(Last modified: 2026-05-13)*
+- [wireshark-install-configure-and-analyze-network-traffic-with-wireshark-415947](https://labex.io/ru/tutorials/wireshark-install-configure-and-analyze-network-traffic-with-wireshark-415947) *(Last modified: 2026-05-20)*
 - [wireshark-limit-capture-size-in-tshark-548932](https://labex.io/ru/tutorials/wireshark-limit-capture-size-in-tshark-548932) *(Last modified: 2026-05-13)*
 - [wireshark-measure-service-response-times-in-tshark-548933](https://labex.io/ru/tutorials/wireshark-measure-service-response-times-in-tshark-548933) *(Last modified: 2026-02-10)*
 - [wireshark-monitor-traffic-in-real-time-in-tshark-548934](https://labex.io/ru/tutorials/wireshark-monitor-traffic-in-real-time-in-tshark-548934) *(Last modified: 2026-02-10)*
