@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Ru Sitemap
 
-> Last updated: 2026-05-21 00:24 UTC
+> Last updated: 2026-05-22 00:22 UTC
 
 This file contains all skilltrees-ru related links from LabEx website.
 
@@ -655,14 +655,12 @@ This file contains all skilltrees-ru related links from LabEx website.
 - [nmap-ops](https://labex.io/ru/skilltrees/kali/groups/KaliGroup/skills/nmap-ops)
 - [pkg-ops](https://labex.io/ru/skilltrees/kali/groups/KaliGroup/skills/pkg-ops)
 - [proc-ctrl](https://labex.io/ru/skilltrees/kali/groups/KaliGroup/skills/proc-ctrl)
-- [sqlmap-ops](https://labex.io/ru/skilltrees/kali/groups/KaliGroup/skills/sqlmap-ops)
 - [ssh-conf](https://labex.io/ru/skilltrees/kali/groups/KaliGroup/skills/ssh-conf)
 - [svc-setup](https://labex.io/ru/skilltrees/kali/groups/KaliGroup/skills/svc-setup)
 - [sys-obs](https://labex.io/ru/skilltrees/kali/groups/KaliGroup/skills/sys-obs)
 - [term-ops](https://labex.io/ru/skilltrees/kali/groups/KaliGroup/skills/term-ops)
 - [user-ctrl](https://labex.io/ru/skilltrees/kali/groups/KaliGroup/skills/user-ctrl)
 - [vuln-scan](https://labex.io/ru/skilltrees/kali/groups/KaliGroup/skills/vuln-scan)
-- [web-ctrl](https://labex.io/ru/skilltrees/kali/groups/KaliGroup/skills/web-ctrl)
 - [wireshark-ops](https://labex.io/ru/skilltrees/kali/groups/KaliGroup/skills/wireshark-ops)
 - [apply](https://labex.io/ru/skilltrees/kubernetes/groups/AdvancedCommandsGroup/skills/apply)
 - [rollout](https://labex.io/ru/skilltrees/kubernetes/groups/AdvancedDeploymentGroup/skills/rollout)
