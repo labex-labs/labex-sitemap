@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Pt Sitemap
 
-> Last updated: 2026-05-22 00:22 UTC
+> Last updated: 2026-05-23 00:22 UTC
 
 This file contains all tutorials-pt related links from LabEx website.
 
@@ -100,7 +100,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [ansible-ansible-fetch-module-290159](https://labex.io/pt/tutorials/ansible-ansible-fetch-module-290159) *(Last modified: 2026-05-13)*
 - [ansible-ansible-file-module-289654](https://labex.io/pt/tutorials/ansible-ansible-file-module-289654) *(Last modified: 2026-05-13)*
 - [ansible-ansible-get-url-module-290188](https://labex.io/pt/tutorials/ansible-ansible-get-url-module-290188) *(Last modified: 2026-05-13)*
-- [ansible-ansible-group-variables-96690](https://labex.io/pt/tutorials/ansible-ansible-group-variables-96690) *(Last modified: 2026-05-13)*
+- [ansible-ansible-group-variables-96690](https://labex.io/pt/tutorials/ansible-ansible-group-variables-96690) *(Last modified: 2026-05-22)*
 - [ansible-ansible-groups-inventory-290160](https://labex.io/pt/tutorials/ansible-ansible-groups-inventory-290160) *(Last modified: 2026-05-13)*
 - [ansible-ansible-hostvars-391846](https://labex.io/pt/tutorials/ansible-ansible-hostvars-391846) *(Last modified: 2025-10-09)*
 - [ansible-ansible-installation-on-ubuntu-67172](https://labex.io/pt/tutorials/ansible-ansible-installation-on-ubuntu-67172) *(Last modified: 2026-05-13)*
@@ -2046,7 +2046,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [docker-docker-remove-image-271493](https://labex.io/pt/tutorials/docker-docker-remove-image-271493) *(Last modified: 2026-05-13)*
 - [docker-docker-remove-unused-docker-objects-271481](https://labex.io/pt/tutorials/docker-docker-remove-unused-docker-objects-271481) *(Last modified: 2026-05-13)*
 - [docker-docker-restart-container-271489](https://labex.io/pt/tutorials/docker-docker-restart-container-271489) *(Last modified: 2026-05-13)*
-- [docker-docker-run-a-container-271495](https://labex.io/pt/tutorials/docker-docker-run-a-container-271495) *(Last modified: 2026-05-13)*
+- [docker-docker-run-a-container-271495](https://labex.io/pt/tutorials/docker-docker-run-a-container-271495) *(Last modified: 2026-05-22)*
 - [docker-docker-run-command-parameters-389228](https://labex.io/pt/tutorials/docker-docker-run-command-parameters-389228) *(Last modified: 2026-05-13)*
 - [docker-docker-search-images-in-repository-271497](https://labex.io/pt/tutorials/docker-docker-search-images-in-repository-271497) *(Last modified: 2026-05-13)*
 - [docker-docker-shell-unleash-the-power-of-container-management-391848](https://labex.io/pt/tutorials/docker-docker-shell-unleash-the-power-of-container-management-391848) *(Last modified: 2025-10-11)*
@@ -4804,7 +4804,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-extracting-link-information-from-text-301471](https://labex.io/pt/tutorials/linux-extracting-link-information-from-text-301471) *(Last modified: 2026-02-10)*
 - [linux-extracting-mails-and-numbers-17991](https://labex.io/pt/tutorials/linux-extracting-mails-and-numbers-17991) *(Last modified: 2026-05-13)*
 - [linux-fast-searching-with-ripgrep-384504](https://labex.io/pt/tutorials/linux-fast-searching-with-ripgrep-384504) *(Last modified: 2026-05-13)*
-- [linux-file-and-directory-operations-17997](https://labex.io/pt/tutorials/linux-file-and-directory-operations-17997) *(Last modified: 2026-05-13)*
+- [linux-file-and-directory-operations-17997](https://labex.io/pt/tutorials/linux-file-and-directory-operations-17997) *(Last modified: 2026-05-22)*
 - [linux-file-contents-and-comparing-270251](https://labex.io/pt/tutorials/linux-file-contents-and-comparing-270251) *(Last modified: 2026-05-13)*
 - [linux-file-packaging-and-compression-385413](https://labex.io/pt/tutorials/linux-file-packaging-and-compression-385413) *(Last modified: 2026-05-13)*
 - [linux-file-structure-visualization-with-tre-384505](https://labex.io/pt/tutorials/linux-file-structure-visualization-with-tre-384505) *(Last modified: 2026-05-13)*
@@ -5210,7 +5210,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [linux-telnet-brute-force-and-weak-credentials-596718](https://labex.io/pt/tutorials/linux-telnet-brute-force-and-weak-credentials-596718) *(Last modified: 2026-05-13)*
 - [linux-terminate-processes-by-name-and-id-31](https://labex.io/pt/tutorials/linux-terminate-processes-by-name-and-id-31) *(Last modified: 2026-05-13)*
 - [linux-terminate-processes-in-linux-44](https://labex.io/pt/tutorials/linux-terminate-processes-in-linux-44) *(Last modified: 2026-05-13)*
-- [linux-terraform-basic-resource-creation-632658](https://labex.io/pt/tutorials/linux-terraform-basic-resource-creation-632658) *(Last modified: 2026-05-13)*
+- [linux-terraform-basic-resource-creation-632658](https://labex.io/pt/tutorials/linux-terraform-basic-resource-creation-632658) *(Last modified: 2026-05-22)*
 - [linux-terraform-installation-632659](https://labex.io/pt/tutorials/linux-terraform-installation-632659) *(Last modified: 2026-05-13)*
 - [linux-terraform-modules-implementation-632660](https://labex.io/pt/tutorials/linux-terraform-modules-implementation-632660) *(Last modified: 2026-05-13)*
 - [linux-terraform-outputs-management-632661](https://labex.io/pt/tutorials/linux-terraform-outputs-management-632661) *(Last modified: 2026-05-13)*
