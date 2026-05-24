@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Fr Sitemap
 
-> Last updated: 2026-05-23 00:22 UTC
+> Last updated: 2026-05-24 00:21 UTC
 
 This file contains all tutorials-fr related links from LabEx website.
 
@@ -2717,7 +2717,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [docker-node-exporter-setup-601825](https://labex.io/fr/tutorials/docker-node-exporter-setup-601825) *(Last modified: 2026-05-13)*
 - [docker-online-docker-playground-372912](https://labex.io/fr/tutorials/docker-online-docker-playground-372912) *(Last modified: 2026-03-26)*
 - [docker-optimizing-docker-environment-variable-management-394997](https://labex.io/fr/tutorials/docker-optimizing-docker-environment-variable-management-394997) *(Last modified: 2025-10-11)*
-- [docker-prometheus-alerts-601826](https://labex.io/fr/tutorials/docker-prometheus-alerts-601826) *(Last modified: 2026-05-13)*
+- [docker-prometheus-alerts-601826](https://labex.io/fr/tutorials/docker-prometheus-alerts-601826) *(Last modified: 2026-05-23)*
 - [docker-prometheus-configuration-601818](https://labex.io/fr/tutorials/docker-prometheus-configuration-601818) *(Last modified: 2026-05-13)*
 - [docker-prometheus-installation-601811](https://labex.io/fr/tutorials/docker-prometheus-installation-601811) *(Last modified: 2026-05-13)*
 - [docker-promql-basics-601827](https://labex.io/fr/tutorials/docker-promql-basics-601827) *(Last modified: 2026-05-13)*
