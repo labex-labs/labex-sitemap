@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Ko Sitemap
 
-> Last updated: 2026-05-24 00:21 UTC
+> Last updated: 2026-05-25 00:22 UTC
 
 This file contains all skilltrees-ko related links from LabEx website.
 
@@ -28,6 +28,7 @@ This file contains all skilltrees-ko related links from LabEx website.
 - [database](https://labex.io/ko/learn/database)
 - [devops](https://labex.io/ko/learn/devops)
 - [devops-engineer](https://labex.io/ko/learn/devops-engineer)
+- [devsecops](https://labex.io/ko/learn/devsecops)
 - [docker](https://labex.io/ko/learn/docker)
 - [git](https://labex.io/ko/learn/git)
 - [go](https://labex.io/ko/learn/go)
@@ -66,6 +67,7 @@ This file contains all skilltrees-ko related links from LabEx website.
 - [database](https://labex.io/ko/tutorials/category/database)
 - [devops](https://labex.io/ko/tutorials/category/devops)
 - [devops-engineer](https://labex.io/ko/tutorials/category/devops-engineer)
+- [devsecops](https://labex.io/ko/tutorials/category/devsecops)
 - [docker](https://labex.io/ko/tutorials/category/docker)
 - [git](https://labex.io/ko/tutorials/category/git)
 - [go](https://labex.io/ko/tutorials/category/go)

@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Es Sitemap
 
-> Last updated: 2026-05-24 00:21 UTC
+> Last updated: 2026-05-25 00:22 UTC
 
 This file contains all exercises-es related links from LabEx website.
 
@@ -28,6 +28,7 @@ This file contains all exercises-es related links from LabEx website.
 - [database](https://labex.io/es/exercises/database)
 - [devops](https://labex.io/es/exercises/devops)
 - [devops-engineer](https://labex.io/es/exercises/devops-engineer)
+- [devsecops](https://labex.io/es/exercises/devsecops)
 - [docker](https://labex.io/es/exercises/docker)
 - [git](https://labex.io/es/exercises/git)
 - [go](https://labex.io/es/exercises/go)

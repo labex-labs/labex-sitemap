@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Ru Sitemap
 
-> Last updated: 2026-05-24 00:21 UTC
+> Last updated: 2026-05-25 00:22 UTC
 
 This file contains all skilltrees-ru related links from LabEx website.
 
@@ -28,6 +28,7 @@ This file contains all skilltrees-ru related links from LabEx website.
 - [database](https://labex.io/ru/learn/database)
 - [devops](https://labex.io/ru/learn/devops)
 - [devops-engineer](https://labex.io/ru/learn/devops-engineer)
+- [devsecops](https://labex.io/ru/learn/devsecops)
 - [docker](https://labex.io/ru/learn/docker)
 - [git](https://labex.io/ru/learn/git)
 - [go](https://labex.io/ru/learn/go)
@@ -66,6 +67,7 @@ This file contains all skilltrees-ru related links from LabEx website.
 - [database](https://labex.io/ru/tutorials/category/database)
 - [devops](https://labex.io/ru/tutorials/category/devops)
 - [devops-engineer](https://labex.io/ru/tutorials/category/devops-engineer)
+- [devsecops](https://labex.io/ru/tutorials/category/devsecops)
 - [docker](https://labex.io/ru/tutorials/category/docker)
 - [git](https://labex.io/ru/tutorials/category/git)
 - [go](https://labex.io/ru/tutorials/category/go)

@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Zh Sitemap
 
-> Last updated: 2026-05-24 00:21 UTC
+> Last updated: 2026-05-25 00:22 UTC
 
 This file contains all exercises-zh related links from LabEx website.
 
@@ -28,6 +28,7 @@ This file contains all exercises-zh related links from LabEx website.
 - [database](https://labex.io/zh/exercises/database)
 - [devops](https://labex.io/zh/exercises/devops)
 - [devops-engineer](https://labex.io/zh/exercises/devops-engineer)
+- [devsecops](https://labex.io/zh/exercises/devsecops)
 - [docker](https://labex.io/zh/exercises/docker)
 - [git](https://labex.io/zh/exercises/git)
 - [go](https://labex.io/zh/exercises/go)

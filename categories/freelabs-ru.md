@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Ru Sitemap
 
-> Last updated: 2026-05-24 00:21 UTC
+> Last updated: 2026-05-25 00:22 UTC
 
 This file contains all freelabs-ru related links from LabEx website.
 
@@ -28,6 +28,7 @@ This file contains all freelabs-ru related links from LabEx website.
 - [database](https://labex.io/ru/free-labs/database)
 - [devops](https://labex.io/ru/free-labs/devops)
 - [devops-engineer](https://labex.io/ru/free-labs/devops-engineer)
+- [devsecops](https://labex.io/ru/free-labs/devsecops)
 - [docker](https://labex.io/ru/free-labs/docker)
 - [git](https://labex.io/ru/free-labs/git)
 - [go](https://labex.io/ru/free-labs/go)
