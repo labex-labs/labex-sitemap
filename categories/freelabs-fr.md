@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Fr Sitemap
 
-> Last updated: 2026-05-25 00:22 UTC
+> Last updated: 2026-05-26 00:22 UTC
 
 This file contains all freelabs-fr related links from LabEx website.
 
@@ -28,6 +28,7 @@ This file contains all freelabs-fr related links from LabEx website.
 - [database](https://labex.io/fr/free-labs/database)
 - [devops](https://labex.io/fr/free-labs/devops)
 - [devops-engineer](https://labex.io/fr/free-labs/devops-engineer)
+- [devsecops](https://labex.io/fr/free-labs/devsecops)
 - [docker](https://labex.io/fr/free-labs/docker)
 - [git](https://labex.io/fr/free-labs/git)
 - [go](https://labex.io/fr/free-labs/go)
