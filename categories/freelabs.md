@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs Sitemap
 
-> Last updated: 2026-05-27 00:23 UTC
+> Last updated: 2026-05-28 00:21 UTC
 
 This file contains all freelabs related links from LabEx website.
 
@@ -39,6 +39,7 @@ This file contains all freelabs related links from LabEx website.
 - [jenkins](https://labex.io/free-labs/jenkins)
 - [kali](https://labex.io/free-labs/kali)
 - [kubernetes](https://labex.io/free-labs/kubernetes)
+- [lfcs](https://labex.io/free-labs/lfcs)
 - [linux](https://labex.io/free-labs/linux)
 - [matplotlib](https://labex.io/free-labs/matplotlib)
 - [mongodb](https://labex.io/free-labs/mongodb)

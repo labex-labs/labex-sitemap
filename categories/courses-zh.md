@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Zh Sitemap
 
-> Last updated: 2026-05-27 00:23 UTC
+> Last updated: 2026-05-28 00:21 UTC
 
 This file contains all courses-zh related links from LabEx website.
 
@@ -83,6 +83,8 @@ This file contains all courses-zh related links from LabEx website.
 - [kubernetes-for-noobs](https://labex.io/zh/courses/kubernetes-for-noobs)
 - [kubernetes-fundamentals](https://labex.io/zh/courses/kubernetes-fundamentals)
 - [lateral-movement-pivoting](https://labex.io/zh/courses/lateral-movement-pivoting)
+- [lfcs-practice-exam-01](https://labex.io/zh/courses/lfcs-practice-exam-01)
+- [lfcs-practice-exam-02](https://labex.io/zh/courses/lfcs-practice-exam-02)
 - [linux-basic-commands-practice-online](https://labex.io/zh/courses/linux-basic-commands-practice-online)
 - [linux-for-noobs](https://labex.io/zh/courses/linux-for-noobs)
 - [linux-networking-fundamentals](https://labex.io/zh/courses/linux-networking-fundamentals)

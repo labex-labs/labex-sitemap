@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ja Sitemap
 
-> Last updated: 2026-05-27 00:23 UTC
+> Last updated: 2026-05-28 00:21 UTC
 
 This file contains all courses-ja related links from LabEx website.
 
@@ -83,6 +83,8 @@ This file contains all courses-ja related links from LabEx website.
 - [kubernetes-for-noobs](https://labex.io/ja/courses/kubernetes-for-noobs)
 - [kubernetes-fundamentals](https://labex.io/ja/courses/kubernetes-fundamentals)
 - [lateral-movement-pivoting](https://labex.io/ja/courses/lateral-movement-pivoting)
+- [lfcs-practice-exam-01](https://labex.io/ja/courses/lfcs-practice-exam-01)
+- [lfcs-practice-exam-02](https://labex.io/ja/courses/lfcs-practice-exam-02)
 - [linux-basic-commands-practice-online](https://labex.io/ja/courses/linux-basic-commands-practice-online)
 - [linux-for-noobs](https://labex.io/ja/courses/linux-for-noobs)
 - [linux-networking-fundamentals](https://labex.io/ja/courses/linux-networking-fundamentals)

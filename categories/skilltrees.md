@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees Sitemap
 
-> Last updated: 2026-05-27 00:23 UTC
+> Last updated: 2026-05-28 00:21 UTC
 
 This file contains all skilltrees related links from LabEx website.
 
@@ -39,6 +39,7 @@ This file contains all skilltrees related links from LabEx website.
 - [jenkins](https://labex.io/learn/jenkins)
 - [kali](https://labex.io/learn/kali)
 - [kubernetes](https://labex.io/learn/kubernetes)
+- [lfcs](https://labex.io/learn/lfcs)
 - [linux](https://labex.io/learn/linux)
 - [matplotlib](https://labex.io/learn/matplotlib)
 - [mongodb](https://labex.io/learn/mongodb)
@@ -1164,6 +1165,7 @@ This file contains all skilltrees related links from LabEx website.
 - [jenkins](https://labex.io/tutorials/category/jenkins)
 - [kali](https://labex.io/tutorials/category/kali)
 - [kubernetes](https://labex.io/tutorials/category/kubernetes)
+- [lfcs](https://labex.io/tutorials/category/lfcs)
 - [linux](https://labex.io/tutorials/category/linux)
 - [matplotlib](https://labex.io/tutorials/category/matplotlib)
 - [mongodb](https://labex.io/tutorials/category/mongodb)

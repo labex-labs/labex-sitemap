@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Ja Sitemap
 
-> Last updated: 2026-05-27 00:23 UTC
+> Last updated: 2026-05-28 00:21 UTC
 
 This file contains all freelabs-ja related links from LabEx website.
 
@@ -39,6 +39,7 @@ This file contains all freelabs-ja related links from LabEx website.
 - [jenkins](https://labex.io/ja/free-labs/jenkins)
 - [kali](https://labex.io/ja/free-labs/kali)
 - [kubernetes](https://labex.io/ja/free-labs/kubernetes)
+- [lfcs](https://labex.io/ja/free-labs/lfcs)
 - [linux](https://labex.io/ja/free-labs/linux)
 - [matplotlib](https://labex.io/ja/free-labs/matplotlib)
 - [mongodb](https://labex.io/ja/free-labs/mongodb)

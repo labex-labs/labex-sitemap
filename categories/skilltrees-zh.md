@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Zh Sitemap
 
-> Last updated: 2026-05-27 00:23 UTC
+> Last updated: 2026-05-28 00:21 UTC
 
 This file contains all skilltrees-zh related links from LabEx website.
 
@@ -39,6 +39,7 @@ This file contains all skilltrees-zh related links from LabEx website.
 - [jenkins](https://labex.io/zh/learn/jenkins)
 - [kali](https://labex.io/zh/learn/kali)
 - [kubernetes](https://labex.io/zh/learn/kubernetes)
+- [lfcs](https://labex.io/zh/learn/lfcs)
 - [linux](https://labex.io/zh/learn/linux)
 - [matplotlib](https://labex.io/zh/learn/matplotlib)
 - [mongodb](https://labex.io/zh/learn/mongodb)
@@ -78,6 +79,7 @@ This file contains all skilltrees-zh related links from LabEx website.
 - [jenkins](https://labex.io/zh/tutorials/category/jenkins)
 - [kali](https://labex.io/zh/tutorials/category/kali)
 - [kubernetes](https://labex.io/zh/tutorials/category/kubernetes)
+- [lfcs](https://labex.io/zh/tutorials/category/lfcs)
 - [linux](https://labex.io/zh/tutorials/category/linux)
 - [matplotlib](https://labex.io/zh/tutorials/category/matplotlib)
 - [mongodb](https://labex.io/zh/tutorials/category/mongodb)

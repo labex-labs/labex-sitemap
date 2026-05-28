@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Ru Sitemap
 
-> Last updated: 2026-05-27 00:23 UTC
+> Last updated: 2026-05-28 00:21 UTC
 
 This file contains all freelabs-ru related links from LabEx website.
 
@@ -39,6 +39,7 @@ This file contains all freelabs-ru related links from LabEx website.
 - [jenkins](https://labex.io/ru/free-labs/jenkins)
 - [kali](https://labex.io/ru/free-labs/kali)
 - [kubernetes](https://labex.io/ru/free-labs/kubernetes)
+- [lfcs](https://labex.io/ru/free-labs/lfcs)
 - [linux](https://labex.io/ru/free-labs/linux)
 - [matplotlib](https://labex.io/ru/free-labs/matplotlib)
 - [mongodb](https://labex.io/ru/free-labs/mongodb)

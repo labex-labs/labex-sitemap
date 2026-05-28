@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2026-05-27 00:23 UTC
+> Last updated: 2026-05-28 00:21 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -8189,7 +8189,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-discover-the-top-linux-apps-for-productivity-and-efficiency-411639](https://labex.io/zh/tutorials/linux-discover-the-top-linux-apps-for-productivity-and-efficiency-411639) *(Last modified: 2025-10-11)*
 - [linux-disk-usage-detective-388099](https://labex.io/zh/tutorials/linux-disk-usage-detective-388099) *(Last modified: 2026-05-26)*
 - [linux-display-os-info-stylishly-with-neofetch-299825](https://labex.io/zh/tutorials/linux-display-os-info-stylishly-with-neofetch-299825) *(Last modified: 2026-05-26)*
-- [linux-display-user-and-group-information-8718](https://labex.io/zh/tutorials/linux-display-user-and-group-information-8718) *(Last modified: 2026-05-26)*
+- [linux-display-user-and-group-information-8718](https://labex.io/zh/tutorials/linux-display-user-and-group-information-8718) *(Last modified: 2026-05-27)*
 - [linux-download-files-from-the-internet-387333](https://labex.io/zh/tutorials/linux-download-files-from-the-internet-387333) *(Last modified: 2026-05-26)*
 - [linux-download-media-with-you-get-289657](https://labex.io/zh/tutorials/linux-download-media-with-you-get-289657) *(Last modified: 2026-02-10)*
 - [linux-download-media-with-you-get-on-linux-409951](https://labex.io/zh/tutorials/linux-download-media-with-you-get-on-linux-409951) *(Last modified: 2025-10-11)*
@@ -16011,6 +16011,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [jenkins](https://labex.io/zh/tutorials/category/jenkins) *(Last modified: 2024-08-22)*
 - [kali](https://labex.io/zh/tutorials/category/kali) *(Last modified: 2024-08-22)*
 - [kubernetes](https://labex.io/zh/tutorials/category/kubernetes) *(Last modified: 2024-08-22)*
+- [lfcs](https://labex.io/zh/tutorials/category/lfcs) *(Last modified: 2024-08-22)*
 - [linux](https://labex.io/zh/tutorials/category/linux) *(Last modified: 2024-08-22)*
 - [matplotlib](https://labex.io/zh/tutorials/category/matplotlib) *(Last modified: 2024-08-22)*
 - [mongodb](https://labex.io/zh/tutorials/category/mongodb) *(Last modified: 2024-08-22)*
