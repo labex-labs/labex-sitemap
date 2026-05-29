@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Es Sitemap
 
-> Last updated: 2026-05-28 00:21 UTC
+> Last updated: 2026-05-29 00:25 UTC
 
 This file contains all courses-es related links from LabEx website.
 
@@ -32,6 +32,8 @@ This file contains all courses-es related links from LabEx website.
 - [building-custom-security-tools](https://labex.io/es/courses/building-custom-security-tools)
 - [c-programming-for-beginners](https://labex.io/es/courses/c-programming-for-beginners)
 - [centralized-log-management](https://labex.io/es/courses/centralized-log-management)
+- [cka-practice-exam-01](https://labex.io/es/courses/cka-practice-exam-01)
+- [cka-practice-exam-02](https://labex.io/es/courses/cka-practice-exam-02)
 - [client-side-attacks-authentication](https://labex.io/es/courses/client-side-attacks-authentication)
 - [comptia-a-plus-training-labs](https://labex.io/es/courses/comptia-a-plus-training-labs)
 - [comptia-linux-plus-training-labs](https://labex.io/es/courses/comptia-linux-plus-training-labs)

@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ru Sitemap
 
-> Last updated: 2026-05-28 00:21 UTC
+> Last updated: 2026-05-29 00:25 UTC
 
 This file contains all courses-ru related links from LabEx website.
 
@@ -32,6 +32,8 @@ This file contains all courses-ru related links from LabEx website.
 - [building-custom-security-tools](https://labex.io/ru/courses/building-custom-security-tools)
 - [c-programming-for-beginners](https://labex.io/ru/courses/c-programming-for-beginners)
 - [centralized-log-management](https://labex.io/ru/courses/centralized-log-management)
+- [cka-practice-exam-01](https://labex.io/ru/courses/cka-practice-exam-01)
+- [cka-practice-exam-02](https://labex.io/ru/courses/cka-practice-exam-02)
 - [client-side-attacks-authentication](https://labex.io/ru/courses/client-side-attacks-authentication)
 - [comptia-a-plus-training-labs](https://labex.io/ru/courses/comptia-a-plus-training-labs)
 - [comptia-linux-plus-training-labs](https://labex.io/ru/courses/comptia-linux-plus-training-labs)
