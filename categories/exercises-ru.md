@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Ru Sitemap
 
-> Last updated: 2026-05-29 00:25 UTC
+> Last updated: 2026-05-30 00:23 UTC
 
 This file contains all exercises-ru related links from LabEx website.
 
@@ -19,6 +19,7 @@ This file contains all exercises-ru related links from LabEx website.
 
 - [ansible](https://labex.io/ru/exercises/ansible)
 - [c](https://labex.io/ru/exercises/c)
+- [cka](https://labex.io/ru/exercises/cka)
 - [comptia](https://labex.io/ru/exercises/comptia)
 - [cpp](https://labex.io/ru/exercises/cpp)
 - [css](https://labex.io/ru/exercises/css)

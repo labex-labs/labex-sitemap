@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Zh Sitemap
 
-> Last updated: 2026-05-29 00:25 UTC
+> Last updated: 2026-05-30 00:23 UTC
 
 This file contains all skilltrees-zh related links from LabEx website.
 
@@ -19,6 +19,7 @@ This file contains all skilltrees-zh related links from LabEx website.
 
 - [ansible](https://labex.io/zh/learn/ansible)
 - [c](https://labex.io/zh/learn/c)
+- [cka](https://labex.io/zh/learn/cka)
 - [comptia](https://labex.io/zh/learn/comptia)
 - [cpp](https://labex.io/zh/learn/cpp)
 - [css](https://labex.io/zh/learn/css)
@@ -59,6 +60,7 @@ This file contains all skilltrees-zh related links from LabEx website.
 - [wireshark](https://labex.io/zh/learn/wireshark)
 - [ansible](https://labex.io/zh/tutorials/category/ansible)
 - [c](https://labex.io/zh/tutorials/category/c)
+- [cka](https://labex.io/zh/tutorials/category/cka)
 - [comptia](https://labex.io/zh/tutorials/category/comptia)
 - [cpp](https://labex.io/zh/tutorials/category/cpp)
 - [css](https://labex.io/zh/tutorials/category/css)

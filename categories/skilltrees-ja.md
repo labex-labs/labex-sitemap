@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Ja Sitemap
 
-> Last updated: 2026-05-29 00:25 UTC
+> Last updated: 2026-05-30 00:23 UTC
 
 This file contains all skilltrees-ja related links from LabEx website.
 
@@ -19,6 +19,7 @@ This file contains all skilltrees-ja related links from LabEx website.
 
 - [ansible](https://labex.io/ja/learn/ansible)
 - [c](https://labex.io/ja/learn/c)
+- [cka](https://labex.io/ja/learn/cka)
 - [comptia](https://labex.io/ja/learn/comptia)
 - [cpp](https://labex.io/ja/learn/cpp)
 - [css](https://labex.io/ja/learn/css)
@@ -59,6 +60,7 @@ This file contains all skilltrees-ja related links from LabEx website.
 - [wireshark](https://labex.io/ja/learn/wireshark)
 - [ansible](https://labex.io/ja/tutorials/category/ansible)
 - [c](https://labex.io/ja/tutorials/category/c)
+- [cka](https://labex.io/ja/tutorials/category/cka)
 - [comptia](https://labex.io/ja/tutorials/category/comptia)
 - [cpp](https://labex.io/ja/tutorials/category/cpp)
 - [css](https://labex.io/ja/tutorials/category/css)

@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Fr Sitemap
 
-> Last updated: 2026-05-29 00:25 UTC
+> Last updated: 2026-05-30 00:23 UTC
 
 This file contains all freelabs-fr related links from LabEx website.
 
@@ -19,6 +19,7 @@ This file contains all freelabs-fr related links from LabEx website.
 
 - [ansible](https://labex.io/fr/free-labs/ansible)
 - [c](https://labex.io/fr/free-labs/c)
+- [cka](https://labex.io/fr/free-labs/cka)
 - [comptia](https://labex.io/fr/free-labs/comptia)
 - [cpp](https://labex.io/fr/free-labs/cpp)
 - [css](https://labex.io/fr/free-labs/css)
