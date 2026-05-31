@@ -4,7 +4,7 @@ layout: default
 
 # Courses-De Sitemap
 
-> Last updated: 2026-05-30 00:23 UTC
+> Last updated: 2026-05-31 00:23 UTC
 
 This file contains all courses-de related links from LabEx website.
 
@@ -34,6 +34,8 @@ This file contains all courses-de related links from LabEx website.
 - [centralized-log-management](https://labex.io/de/courses/centralized-log-management)
 - [cka-practice-exam-01](https://labex.io/de/courses/cka-practice-exam-01)
 - [cka-practice-exam-02](https://labex.io/de/courses/cka-practice-exam-02)
+- [ckad-practice-exam-01](https://labex.io/de/courses/ckad-practice-exam-01)
+- [ckad-practice-exam-02](https://labex.io/de/courses/ckad-practice-exam-02)
 - [client-side-attacks-authentication](https://labex.io/de/courses/client-side-attacks-authentication)
 - [comptia-a-plus-training-labs](https://labex.io/de/courses/comptia-a-plus-training-labs)
 - [comptia-linux-plus-training-labs](https://labex.io/de/courses/comptia-linux-plus-training-labs)

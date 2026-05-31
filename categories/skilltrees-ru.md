@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Ru Sitemap
 
-> Last updated: 2026-05-30 00:23 UTC
+> Last updated: 2026-05-31 00:23 UTC
 
 This file contains all skilltrees-ru related links from LabEx website.
 
@@ -20,6 +20,7 @@ This file contains all skilltrees-ru related links from LabEx website.
 - [ansible](https://labex.io/ru/learn/ansible)
 - [c](https://labex.io/ru/learn/c)
 - [cka](https://labex.io/ru/learn/cka)
+- [ckad](https://labex.io/ru/learn/ckad)
 - [comptia](https://labex.io/ru/learn/comptia)
 - [cpp](https://labex.io/ru/learn/cpp)
 - [css](https://labex.io/ru/learn/css)
@@ -61,6 +62,7 @@ This file contains all skilltrees-ru related links from LabEx website.
 - [ansible](https://labex.io/ru/tutorials/category/ansible)
 - [c](https://labex.io/ru/tutorials/category/c)
 - [cka](https://labex.io/ru/tutorials/category/cka)
+- [ckad](https://labex.io/ru/tutorials/category/ckad)
 - [comptia](https://labex.io/ru/tutorials/category/comptia)
 - [cpp](https://labex.io/ru/tutorials/category/cpp)
 - [css](https://labex.io/ru/tutorials/category/css)

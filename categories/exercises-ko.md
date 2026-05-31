@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Ko Sitemap
 
-> Last updated: 2026-05-30 00:23 UTC
+> Last updated: 2026-05-31 00:23 UTC
 
 This file contains all exercises-ko related links from LabEx website.
 
@@ -20,6 +20,7 @@ This file contains all exercises-ko related links from LabEx website.
 - [ansible](https://labex.io/ko/exercises/ansible)
 - [c](https://labex.io/ko/exercises/c)
 - [cka](https://labex.io/ko/exercises/cka)
+- [ckad](https://labex.io/ko/exercises/ckad)
 - [comptia](https://labex.io/ko/exercises/comptia)
 - [cpp](https://labex.io/ko/exercises/cpp)
 - [css](https://labex.io/ko/exercises/css)

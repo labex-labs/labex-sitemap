@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Ko Sitemap
 
-> Last updated: 2026-05-30 00:23 UTC
+> Last updated: 2026-05-31 00:23 UTC
 
 This file contains all freelabs-ko related links from LabEx website.
 
@@ -20,6 +20,7 @@ This file contains all freelabs-ko related links from LabEx website.
 - [ansible](https://labex.io/ko/free-labs/ansible)
 - [c](https://labex.io/ko/free-labs/c)
 - [cka](https://labex.io/ko/free-labs/cka)
+- [ckad](https://labex.io/ko/free-labs/ckad)
 - [comptia](https://labex.io/ko/free-labs/comptia)
 - [cpp](https://labex.io/ko/free-labs/cpp)
 - [css](https://labex.io/ko/free-labs/css)

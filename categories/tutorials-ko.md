@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ko Sitemap
 
-> Last updated: 2026-05-30 00:23 UTC
+> Last updated: 2026-05-31 00:23 UTC
 
 This file contains all tutorials-ko related links from LabEx website.
 
@@ -8118,6 +8118,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [ansible](https://labex.io/ko/tutorials/category/ansible) *(Last modified: 2024-08-22)*
 - [c](https://labex.io/ko/tutorials/category/c) *(Last modified: 2024-08-22)*
 - [cka](https://labex.io/ko/tutorials/category/cka) *(Last modified: 2024-08-22)*
+- [ckad](https://labex.io/ko/tutorials/category/ckad) *(Last modified: 2024-08-22)*
 - [comptia](https://labex.io/ko/tutorials/category/comptia) *(Last modified: 2024-08-22)*
 - [cpp](https://labex.io/ko/tutorials/category/cpp) *(Last modified: 2024-08-22)*
 - [css](https://labex.io/ko/tutorials/category/css) *(Last modified: 2024-08-22)*
