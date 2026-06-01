@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-De Sitemap
 
-> Last updated: 2026-05-31 00:23 UTC
+> Last updated: 2026-06-01 00:23 UTC
 
 This file contains all skilltrees-de related links from LabEx website.
 
@@ -21,6 +21,7 @@ This file contains all skilltrees-de related links from LabEx website.
 - [c](https://labex.io/de/learn/c)
 - [cka](https://labex.io/de/learn/cka)
 - [ckad](https://labex.io/de/learn/ckad)
+- [cks](https://labex.io/de/learn/cks)
 - [comptia](https://labex.io/de/learn/comptia)
 - [cpp](https://labex.io/de/learn/cpp)
 - [css](https://labex.io/de/learn/css)
@@ -63,6 +64,7 @@ This file contains all skilltrees-de related links from LabEx website.
 - [c](https://labex.io/de/tutorials/category/c)
 - [cka](https://labex.io/de/tutorials/category/cka)
 - [ckad](https://labex.io/de/tutorials/category/ckad)
+- [cks](https://labex.io/de/tutorials/category/cks)
 - [comptia](https://labex.io/de/tutorials/category/comptia)
 - [cpp](https://labex.io/de/tutorials/category/cpp)
 - [css](https://labex.io/de/tutorials/category/css)

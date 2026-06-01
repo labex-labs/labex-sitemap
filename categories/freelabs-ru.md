@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Ru Sitemap
 
-> Last updated: 2026-05-31 00:23 UTC
+> Last updated: 2026-06-01 00:23 UTC
 
 This file contains all freelabs-ru related links from LabEx website.
 
@@ -21,6 +21,7 @@ This file contains all freelabs-ru related links from LabEx website.
 - [c](https://labex.io/ru/free-labs/c)
 - [cka](https://labex.io/ru/free-labs/cka)
 - [ckad](https://labex.io/ru/free-labs/ckad)
+- [cks](https://labex.io/ru/free-labs/cks)
 - [comptia](https://labex.io/ru/free-labs/comptia)
 - [cpp](https://labex.io/ru/free-labs/cpp)
 - [css](https://labex.io/ru/free-labs/css)

@@ -4,7 +4,7 @@ layout: default
 
 # Skilltrees-Ko Sitemap
 
-> Last updated: 2026-05-31 00:23 UTC
+> Last updated: 2026-06-01 00:23 UTC
 
 This file contains all skilltrees-ko related links from LabEx website.
 
@@ -21,6 +21,7 @@ This file contains all skilltrees-ko related links from LabEx website.
 - [c](https://labex.io/ko/learn/c)
 - [cka](https://labex.io/ko/learn/cka)
 - [ckad](https://labex.io/ko/learn/ckad)
+- [cks](https://labex.io/ko/learn/cks)
 - [comptia](https://labex.io/ko/learn/comptia)
 - [cpp](https://labex.io/ko/learn/cpp)
 - [css](https://labex.io/ko/learn/css)
@@ -63,6 +64,7 @@ This file contains all skilltrees-ko related links from LabEx website.
 - [c](https://labex.io/ko/tutorials/category/c)
 - [cka](https://labex.io/ko/tutorials/category/cka)
 - [ckad](https://labex.io/ko/tutorials/category/ckad)
+- [cks](https://labex.io/ko/tutorials/category/cks)
 - [comptia](https://labex.io/ko/tutorials/category/comptia)
 - [cpp](https://labex.io/ko/tutorials/category/cpp)
 - [css](https://labex.io/ko/tutorials/category/css)

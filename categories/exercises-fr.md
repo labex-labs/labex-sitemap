@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Fr Sitemap
 
-> Last updated: 2026-05-31 00:23 UTC
+> Last updated: 2026-06-01 00:23 UTC
 
 This file contains all exercises-fr related links from LabEx website.
 
@@ -21,6 +21,7 @@ This file contains all exercises-fr related links from LabEx website.
 - [c](https://labex.io/fr/exercises/c)
 - [cka](https://labex.io/fr/exercises/cka)
 - [ckad](https://labex.io/fr/exercises/ckad)
+- [cks](https://labex.io/fr/exercises/cks)
 - [comptia](https://labex.io/fr/exercises/comptia)
 - [cpp](https://labex.io/fr/exercises/cpp)
 - [css](https://labex.io/fr/exercises/css)

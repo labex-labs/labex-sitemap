@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Zh Sitemap
 
-> Last updated: 2026-05-31 00:23 UTC
+> Last updated: 2026-06-01 00:23 UTC
 
 This file contains all exercises-zh related links from LabEx website.
 
@@ -21,6 +21,7 @@ This file contains all exercises-zh related links from LabEx website.
 - [c](https://labex.io/zh/exercises/c)
 - [cka](https://labex.io/zh/exercises/cka)
 - [ckad](https://labex.io/zh/exercises/ckad)
+- [cks](https://labex.io/zh/exercises/cks)
 - [comptia](https://labex.io/zh/exercises/comptia)
 - [cpp](https://labex.io/zh/exercises/cpp)
 - [css](https://labex.io/zh/exercises/css)
