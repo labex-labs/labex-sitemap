@@ -4,7 +4,7 @@ layout: default
 
 # Courses Sitemap
 
-> Last updated: 2026-06-01 00:23 UTC
+> Last updated: 2026-06-02 00:29 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -36,6 +36,7 @@ This file contains all courses related links from LabEx website.
 - [cka-practice-exam-02](https://labex.io/courses/cka-practice-exam-02)
 - [ckad-practice-exam-01](https://labex.io/courses/ckad-practice-exam-01)
 - [ckad-practice-exam-02](https://labex.io/courses/ckad-practice-exam-02)
+- [ckad-prep](https://labex.io/courses/ckad-prep)
 - [cks-practice-exam-01](https://labex.io/courses/cks-practice-exam-01)
 - [cks-practice-exam-02](https://labex.io/courses/cks-practice-exam-02)
 - [client-side-attacks-authentication](https://labex.io/courses/client-side-attacks-authentication)
@@ -91,6 +92,7 @@ This file contains all courses related links from LabEx website.
 - [lateral-movement-pivoting](https://labex.io/courses/lateral-movement-pivoting)
 - [lfcs-practice-exam-01](https://labex.io/courses/lfcs-practice-exam-01)
 - [lfcs-practice-exam-02](https://labex.io/courses/lfcs-practice-exam-02)
+- [lfcs-prep](https://labex.io/courses/lfcs-prep)
 - [linux-basic-commands-practice-online](https://labex.io/courses/linux-basic-commands-practice-online)
 - [linux-for-noobs](https://labex.io/courses/linux-for-noobs)
 - [linux-networking-fundamentals](https://labex.io/courses/linux-networking-fundamentals)

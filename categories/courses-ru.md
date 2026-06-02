@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ru Sitemap
 
-> Last updated: 2026-06-01 00:23 UTC
+> Last updated: 2026-06-02 00:29 UTC
 
 This file contains all courses-ru related links from LabEx website.
 
@@ -91,6 +91,7 @@ This file contains all courses-ru related links from LabEx website.
 - [lateral-movement-pivoting](https://labex.io/ru/courses/lateral-movement-pivoting)
 - [lfcs-practice-exam-01](https://labex.io/ru/courses/lfcs-practice-exam-01)
 - [lfcs-practice-exam-02](https://labex.io/ru/courses/lfcs-practice-exam-02)
+- [lfcs-prep](https://labex.io/ru/courses/lfcs-prep)
 - [linux-basic-commands-practice-online](https://labex.io/ru/courses/linux-basic-commands-practice-online)
 - [linux-for-noobs](https://labex.io/ru/courses/linux-for-noobs)
 - [linux-networking-fundamentals](https://labex.io/ru/courses/linux-networking-fundamentals)

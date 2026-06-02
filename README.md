@@ -6,21 +6,21 @@ layout: default
 
 [LabEx](https://labex.io) is a hands-on learning platform for Linux, DevOps, and Cybersecurity. Learn by doing with guided labs, courses, and tutorials. Get started for free!
 
-> Last updated: 2026-06-01 00:23 UTC
+> Last updated: 2026-06-02 00:29 UTC
 
 This repository maintains an auto-updated list of LabEx website sitemaps.
 
 ## Categories
 
-- [Courses](categories/courses.md) (591 links)
-- [Courses-De](categories/courses-de.md) (591 links)
-- [Courses-Es](categories/courses-es.md) (591 links)
-- [Courses-Fr](categories/courses-fr.md) (591 links)
-- [Courses-Ja](categories/courses-ja.md) (591 links)
-- [Courses-Ko](categories/courses-ko.md) (591 links)
-- [Courses-Pt](categories/courses-pt.md) (591 links)
-- [Courses-Ru](categories/courses-ru.md) (591 links)
-- [Courses-Zh](categories/courses-zh.md) (591 links)
+- [Courses](categories/courses.md) (593 links)
+- [Courses-De](categories/courses-de.md) (592 links)
+- [Courses-Es](categories/courses-es.md) (592 links)
+- [Courses-Fr](categories/courses-fr.md) (592 links)
+- [Courses-Ja](categories/courses-ja.md) (592 links)
+- [Courses-Ko](categories/courses-ko.md) (592 links)
+- [Courses-Pt](categories/courses-pt.md) (592 links)
+- [Courses-Ru](categories/courses-ru.md) (592 links)
+- [Courses-Zh](categories/courses-zh.md) (592 links)
 - [Exercises](categories/exercises.md) (43 links)
 - [Exercises-De](categories/exercises-de.md) (43 links)
 - [Exercises-Es](categories/exercises-es.md) (43 links)
@@ -51,7 +51,7 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Pages-Ru](categories/pages-ru.md) (10 links)
 - [Pages-Zh](categories/pages-zh.md) (10 links)
 - [Questions](categories/questions.md) (11798 links)
-- [Skilltrees](categories/skilltrees.md) (0 links)
+- [Skilltrees](categories/skilltrees.md) (1166 links)
 - [Skilltrees-De](categories/skilltrees-de.md) (1166 links)
 - [Skilltrees-Es](categories/skilltrees-es.md) (1166 links)
 - [Skilltrees-Fr](categories/skilltrees-fr.md) (1166 links)
@@ -70,4 +70,4 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Tutorials-Ru](categories/tutorials-ru.md) (9156 links)
 - [Tutorials-Zh](categories/tutorials-zh.md) (16015 links)
 
-> **Total Links: 123021**
+> **Total Links: 124197**
