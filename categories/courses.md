@@ -4,7 +4,7 @@ layout: default
 
 # Courses Sitemap
 
-> Last updated: 2026-06-02 00:29 UTC
+> Last updated: 2026-06-03 00:33 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -34,6 +34,7 @@ This file contains all courses related links from LabEx website.
 - [centralized-log-management](https://labex.io/courses/centralized-log-management)
 - [cka-practice-exam-01](https://labex.io/courses/cka-practice-exam-01)
 - [cka-practice-exam-02](https://labex.io/courses/cka-practice-exam-02)
+- [cka-prep](https://labex.io/courses/cka-prep)
 - [ckad-practice-exam-01](https://labex.io/courses/ckad-practice-exam-01)
 - [ckad-practice-exam-02](https://labex.io/courses/ckad-practice-exam-02)
 - [ckad-prep](https://labex.io/courses/ckad-prep)
