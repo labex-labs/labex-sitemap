@@ -4,7 +4,7 @@ layout: default
 
 # Courses Sitemap
 
-> Last updated: 2026-06-03 00:33 UTC
+> Last updated: 2026-06-04 00:33 UTC
 
 This file contains all courses related links from LabEx website.
 
@@ -40,6 +40,7 @@ This file contains all courses related links from LabEx website.
 - [ckad-prep](https://labex.io/courses/ckad-prep)
 - [cks-practice-exam-01](https://labex.io/courses/cks-practice-exam-01)
 - [cks-practice-exam-02](https://labex.io/courses/cks-practice-exam-02)
+- [cks-prep](https://labex.io/courses/cks-prep)
 - [client-side-attacks-authentication](https://labex.io/courses/client-side-attacks-authentication)
 - [comptia-a-plus-training-labs](https://labex.io/courses/comptia-a-plus-training-labs)
 - [comptia-linux-plus-training-labs](https://labex.io/courses/comptia-linux-plus-training-labs)

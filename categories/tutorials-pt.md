@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Pt Sitemap
 
-> Last updated: 2026-06-03 00:33 UTC
+> Last updated: 2026-06-04 00:33 UTC
 
 This file contains all tutorials-pt related links from LabEx website.
 
@@ -7227,7 +7227,7 @@ This file contains all tutorials-pt related links from LabEx website.
 - [rhel-configure-hostname-resolution-588229](https://labex.io/pt/tutorials/rhel-configure-hostname-resolution-588229) *(Last modified: 2026-06-02)*
 - [rhel-configure-ipv4-and-ipv6-addresses-588230](https://labex.io/pt/tutorials/rhel-configure-ipv4-and-ipv6-addresses-588230) *(Last modified: 2026-06-02)*
 - [rhel-configure-key-based-authentication-for-ssh-588231](https://labex.io/pt/tutorials/rhel-configure-key-based-authentication-for-ssh-588231) *(Last modified: 2026-06-02)*
-- [rhel-configure-network-services-to-start-automatically-at-boot-588232](https://labex.io/pt/tutorials/rhel-configure-network-services-to-start-automatically-at-boot-588232) *(Last modified: 2026-06-02)*
+- [rhel-configure-network-services-to-start-automatically-at-boot-588232](https://labex.io/pt/tutorials/rhel-configure-network-services-to-start-automatically-at-boot-588232) *(Last modified: 2026-06-03)*
 - [rhel-configure-networking-in-red-hat-enterprise-linux-588457](https://labex.io/pt/tutorials/rhel-configure-networking-in-red-hat-enterprise-linux-588457) *(Last modified: 2026-06-02)*
 - [rhel-configure-nfs-client-access-in-rhel-589252](https://labex.io/pt/tutorials/rhel-configure-nfs-client-access-in-rhel-589252) *(Last modified: 2026-06-02)*
 - [rhel-configure-superuser-access-588233](https://labex.io/pt/tutorials/rhel-configure-superuser-access-588233) *(Last modified: 2026-06-02)*
