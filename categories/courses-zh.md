@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Zh Sitemap
 
-> Last updated: 2026-06-05 00:25 UTC
+> Last updated: 2026-06-06 00:25 UTC
 
 This file contains all courses-zh related links from LabEx website.
 
@@ -559,6 +559,7 @@ This file contains all courses-zh related links from LabEx website.
 - [redis-intermediate-to-advanced](https://labex.io/zh/courses/redis-intermediate-to-advanced)
 - [remote-access-and-secure-file-transfer](https://labex.io/zh/courses/remote-access-and-secure-file-transfer)
 - [rhcsa-certification-exam-practice-exercises](https://labex.io/zh/courses/rhcsa-certification-exam-practice-exercises)
+- [rhcsa-prep](https://labex.io/zh/courses/rhcsa-prep)
 - [rpm-and-dnf-package-management](https://labex.io/zh/courses/rpm-and-dnf-package-management)
 - [scheduled-tasks-and-routine-maintenance](https://labex.io/zh/courses/scheduled-tasks-and-routine-maintenance)
 - [scikit-learn-for-beginners](https://labex.io/zh/courses/scikit-learn-for-beginners)

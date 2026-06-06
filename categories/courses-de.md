@@ -4,7 +4,7 @@ layout: default
 
 # Courses-De Sitemap
 
-> Last updated: 2026-06-05 00:25 UTC
+> Last updated: 2026-06-06 00:25 UTC
 
 This file contains all courses-de related links from LabEx website.
 
@@ -559,6 +559,7 @@ This file contains all courses-de related links from LabEx website.
 - [redis-intermediate-to-advanced](https://labex.io/de/courses/redis-intermediate-to-advanced)
 - [remote-access-and-secure-file-transfer](https://labex.io/de/courses/remote-access-and-secure-file-transfer)
 - [rhcsa-certification-exam-practice-exercises](https://labex.io/de/courses/rhcsa-certification-exam-practice-exercises)
+- [rhcsa-prep](https://labex.io/de/courses/rhcsa-prep)
 - [rpm-and-dnf-package-management](https://labex.io/de/courses/rpm-and-dnf-package-management)
 - [scheduled-tasks-and-routine-maintenance](https://labex.io/de/courses/scheduled-tasks-and-routine-maintenance)
 - [scikit-learn-for-beginners](https://labex.io/de/courses/scikit-learn-for-beginners)
