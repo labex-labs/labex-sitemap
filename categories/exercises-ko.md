@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Ko Sitemap
 
-> Last updated: 2026-06-06 00:25 UTC
+> Last updated: 2026-06-07 00:24 UTC
 
 This file contains all exercises-ko related links from LabEx website.
 
@@ -24,7 +24,6 @@ This file contains all exercises-ko related links from LabEx website.
 - [cks](https://labex.io/ko/exercises/cks)
 - [comptia](https://labex.io/ko/exercises/comptia)
 - [cpp](https://labex.io/ko/exercises/cpp)
-- [css](https://labex.io/ko/exercises/css)
 - [cybersecurity](https://labex.io/ko/exercises/cybersecurity)
 - [cybersecurity-engineer](https://labex.io/ko/exercises/cybersecurity-engineer)
 - [data-science](https://labex.io/ko/exercises/data-science)
@@ -35,28 +34,24 @@ This file contains all exercises-ko related links from LabEx website.
 - [docker](https://labex.io/ko/exercises/docker)
 - [git](https://labex.io/ko/exercises/git)
 - [go](https://labex.io/ko/exercises/go)
-- [html](https://labex.io/ko/exercises/html)
 - [hydra](https://labex.io/ko/exercises/hydra)
 - [java](https://labex.io/ko/exercises/java)
-- [javascript](https://labex.io/ko/exercises/javascript)
 - [jenkins](https://labex.io/ko/exercises/jenkins)
 - [kali](https://labex.io/ko/exercises/kali)
 - [kubernetes](https://labex.io/ko/exercises/kubernetes)
 - [lfcs](https://labex.io/ko/exercises/lfcs)
 - [linux](https://labex.io/ko/exercises/linux)
-- [matplotlib](https://labex.io/ko/exercises/matplotlib)
 - [mongodb](https://labex.io/ko/exercises/mongodb)
 - [mysql](https://labex.io/ko/exercises/mysql)
 - [nmap](https://labex.io/ko/exercises/nmap)
-- [numpy](https://labex.io/ko/exercises/numpy)
-- [pandas](https://labex.io/ko/exercises/pandas)
 - [postgresql](https://labex.io/ko/exercises/postgresql)
 - [python](https://labex.io/ko/exercises/python)
-- [react](https://labex.io/ko/exercises/react)
 - [redis](https://labex.io/ko/exercises/redis)
+- [rhce-ansible](https://labex.io/ko/exercises/rhce-ansible)
+- [rhce-enterprise-linux](https://labex.io/ko/exercises/rhce-enterprise-linux)
+- [rhcsa](https://labex.io/ko/exercises/rhcsa)
 - [rhel](https://labex.io/ko/exercises/rhel)
 - [shell](https://labex.io/ko/exercises/shell)
-- [sklearn](https://labex.io/ko/exercises/sklearn)
 - [sqlite](https://labex.io/ko/exercises/sqlite)
 - [web-development](https://labex.io/ko/exercises/web-development)
 - [wireshark](https://labex.io/ko/exercises/wireshark)

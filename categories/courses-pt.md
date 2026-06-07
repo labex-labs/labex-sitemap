@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Pt Sitemap
 
-> Last updated: 2026-06-06 00:25 UTC
+> Last updated: 2026-06-07 00:24 UTC
 
 This file contains all courses-pt related links from LabEx website.
 
@@ -558,6 +558,8 @@ This file contains all courses-pt related links from LabEx website.
 - [redis-for-beginners](https://labex.io/pt/courses/redis-for-beginners)
 - [redis-intermediate-to-advanced](https://labex.io/pt/courses/redis-intermediate-to-advanced)
 - [remote-access-and-secure-file-transfer](https://labex.io/pt/courses/remote-access-and-secure-file-transfer)
+- [rhce-ansible-prep](https://labex.io/pt/courses/rhce-ansible-prep)
+- [rhce-enterprise-linux-prep](https://labex.io/pt/courses/rhce-enterprise-linux-prep)
 - [rhcsa-certification-exam-practice-exercises](https://labex.io/pt/courses/rhcsa-certification-exam-practice-exercises)
 - [rhcsa-prep](https://labex.io/pt/courses/rhcsa-prep)
 - [rpm-and-dnf-package-management](https://labex.io/pt/courses/rpm-and-dnf-package-management)
@@ -592,24 +594,16 @@ This file contains all courses-pt related links from LabEx website.
 - [wireshark-for-beginners](https://labex.io/pt/courses/wireshark-for-beginners)
 - [c](https://labex.io/pt/projects/category/c)
 - [cpp](https://labex.io/pt/projects/category/cpp)
-- [css](https://labex.io/pt/projects/category/css)
 - [cybersecurity](https://labex.io/pt/projects/category/cybersecurity)
 - [data-science](https://labex.io/pt/projects/category/data-science)
 - [devops](https://labex.io/pt/projects/category/devops)
 - [docker](https://labex.io/pt/projects/category/docker)
 - [git](https://labex.io/pt/projects/category/git)
 - [go](https://labex.io/pt/projects/category/go)
-- [html](https://labex.io/pt/projects/category/html)
 - [java](https://labex.io/pt/projects/category/java)
-- [javascript](https://labex.io/pt/projects/category/javascript)
 - [linux](https://labex.io/pt/projects/category/linux)
-- [matplotlib](https://labex.io/pt/projects/category/matplotlib)
 - [mysql](https://labex.io/pt/projects/category/mysql)
 - [nmap](https://labex.io/pt/projects/category/nmap)
-- [numpy](https://labex.io/pt/projects/category/numpy)
-- [pandas](https://labex.io/pt/projects/category/pandas)
 - [python](https://labex.io/pt/projects/category/python)
-- [react](https://labex.io/pt/projects/category/react)
 - [shell](https://labex.io/pt/projects/category/shell)
-- [sklearn](https://labex.io/pt/projects/category/sklearn)
 - [web-development](https://labex.io/pt/projects/category/web-development)

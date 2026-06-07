@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Ko Sitemap
 
-> Last updated: 2026-06-06 00:25 UTC
+> Last updated: 2026-06-07 00:24 UTC
 
 This file contains all freelabs-ko related links from LabEx website.
 
@@ -24,7 +24,6 @@ This file contains all freelabs-ko related links from LabEx website.
 - [cks](https://labex.io/ko/free-labs/cks)
 - [comptia](https://labex.io/ko/free-labs/comptia)
 - [cpp](https://labex.io/ko/free-labs/cpp)
-- [css](https://labex.io/ko/free-labs/css)
 - [cybersecurity](https://labex.io/ko/free-labs/cybersecurity)
 - [cybersecurity-engineer](https://labex.io/ko/free-labs/cybersecurity-engineer)
 - [data-science](https://labex.io/ko/free-labs/data-science)
@@ -35,28 +34,24 @@ This file contains all freelabs-ko related links from LabEx website.
 - [docker](https://labex.io/ko/free-labs/docker)
 - [git](https://labex.io/ko/free-labs/git)
 - [go](https://labex.io/ko/free-labs/go)
-- [html](https://labex.io/ko/free-labs/html)
 - [hydra](https://labex.io/ko/free-labs/hydra)
 - [java](https://labex.io/ko/free-labs/java)
-- [javascript](https://labex.io/ko/free-labs/javascript)
 - [jenkins](https://labex.io/ko/free-labs/jenkins)
 - [kali](https://labex.io/ko/free-labs/kali)
 - [kubernetes](https://labex.io/ko/free-labs/kubernetes)
 - [lfcs](https://labex.io/ko/free-labs/lfcs)
 - [linux](https://labex.io/ko/free-labs/linux)
-- [matplotlib](https://labex.io/ko/free-labs/matplotlib)
 - [mongodb](https://labex.io/ko/free-labs/mongodb)
 - [mysql](https://labex.io/ko/free-labs/mysql)
 - [nmap](https://labex.io/ko/free-labs/nmap)
-- [numpy](https://labex.io/ko/free-labs/numpy)
-- [pandas](https://labex.io/ko/free-labs/pandas)
 - [postgresql](https://labex.io/ko/free-labs/postgresql)
 - [python](https://labex.io/ko/free-labs/python)
-- [react](https://labex.io/ko/free-labs/react)
 - [redis](https://labex.io/ko/free-labs/redis)
+- [rhce-ansible](https://labex.io/ko/free-labs/rhce-ansible)
+- [rhce-enterprise-linux](https://labex.io/ko/free-labs/rhce-enterprise-linux)
+- [rhcsa](https://labex.io/ko/free-labs/rhcsa)
 - [rhel](https://labex.io/ko/free-labs/rhel)
 - [shell](https://labex.io/ko/free-labs/shell)
-- [sklearn](https://labex.io/ko/free-labs/sklearn)
 - [sqlite](https://labex.io/ko/free-labs/sqlite)
 - [web-development](https://labex.io/ko/free-labs/web-development)
 - [wireshark](https://labex.io/ko/free-labs/wireshark)
