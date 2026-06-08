@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Pt Sitemap
 
-> Last updated: 2026-06-07 00:24 UTC
+> Last updated: 2026-06-08 00:26 UTC
 
 This file contains all courses-pt related links from LabEx website.
 
@@ -558,9 +558,15 @@ This file contains all courses-pt related links from LabEx website.
 - [redis-for-beginners](https://labex.io/pt/courses/redis-for-beginners)
 - [redis-intermediate-to-advanced](https://labex.io/pt/courses/redis-intermediate-to-advanced)
 - [remote-access-and-secure-file-transfer](https://labex.io/pt/courses/remote-access-and-secure-file-transfer)
+- [rhce-ansible-practice-exam-01](https://labex.io/pt/courses/rhce-ansible-practice-exam-01)
+- [rhce-ansible-practice-exam-02](https://labex.io/pt/courses/rhce-ansible-practice-exam-02)
 - [rhce-ansible-prep](https://labex.io/pt/courses/rhce-ansible-prep)
+- [rhce-enterprise-linux-practice-exam-01](https://labex.io/pt/courses/rhce-enterprise-linux-practice-exam-01)
+- [rhce-enterprise-linux-practice-exam-02](https://labex.io/pt/courses/rhce-enterprise-linux-practice-exam-02)
 - [rhce-enterprise-linux-prep](https://labex.io/pt/courses/rhce-enterprise-linux-prep)
 - [rhcsa-certification-exam-practice-exercises](https://labex.io/pt/courses/rhcsa-certification-exam-practice-exercises)
+- [rhcsa-practice-exam-01](https://labex.io/pt/courses/rhcsa-practice-exam-01)
+- [rhcsa-practice-exam-02](https://labex.io/pt/courses/rhcsa-practice-exam-02)
 - [rhcsa-prep](https://labex.io/pt/courses/rhcsa-prep)
 - [rpm-and-dnf-package-management](https://labex.io/pt/courses/rpm-and-dnf-package-management)
 - [scheduled-tasks-and-routine-maintenance](https://labex.io/pt/courses/scheduled-tasks-and-routine-maintenance)
