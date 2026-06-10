@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ru Sitemap
 
-> Last updated: 2026-06-09 00:22 UTC
+> Last updated: 2026-06-10 00:28 UTC
 
 This file contains all tutorials-ru related links from LabEx website.
 
@@ -3351,7 +3351,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [git-step-by-step-instructions-for-linking-a-git-repository-to-a-remote-398369](https://labex.io/ru/tutorials/git-step-by-step-instructions-for-linking-a-git-repository-to-a-remote-398369) *(Last modified: 2025-10-11)*
 - [git-tagging-your-project-s-history-387763](https://labex.io/ru/tutorials/git-tagging-your-project-s-history-387763) *(Last modified: 2026-06-08)*
 - [git-the-time-traveler-s-dilemma-387733](https://labex.io/ru/tutorials/git-the-time-traveler-s-dilemma-387733) *(Last modified: 2026-06-08)*
-- [git-the-time-traveler-s-suitcase-387725](https://labex.io/ru/tutorials/git-the-time-traveler-s-suitcase-387725) *(Last modified: 2026-06-08)*
+- [git-the-time-traveler-s-suitcase-387725](https://labex.io/ru/tutorials/git-the-time-traveler-s-suitcase-387725) *(Last modified: 2026-06-09)*
 - [git-the-time-traveling-developer-387759](https://labex.io/ru/tutorials/git-the-time-traveling-developer-387759) *(Last modified: 2026-06-08)*
 - [git-time-machine-identity-configuration-387720](https://labex.io/ru/tutorials/git-time-machine-identity-configuration-387720) *(Last modified: 2026-06-08)*
 - [git-understanding-the-git-merge-no-fast-forward-approach-411661](https://labex.io/ru/tutorials/git-understanding-the-git-merge-no-fast-forward-approach-411661) *(Last modified: 2025-10-11)*
@@ -5736,7 +5736,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-linux-screen-clearing-271245](https://labex.io/ru/tutorials/linux-linux-screen-clearing-271245) *(Last modified: 2026-06-08)*
 - [linux-linux-script-executing-271387](https://labex.io/ru/tutorials/linux-linux-script-executing-271387) *(Last modified: 2026-06-08)*
 - [linux-linux-secure-connecting-271389](https://labex.io/ru/tutorials/linux-linux-secure-connecting-271389) *(Last modified: 2026-06-08)*
-- [linux-linux-secure-copying-271373](https://labex.io/ru/tutorials/linux-linux-secure-copying-271373) *(Last modified: 2026-02-10)*
+- [linux-linux-secure-copying-271373](https://labex.io/ru/tutorials/linux-linux-secure-copying-271373) *(Last modified: 2026-06-09)*
 - [linux-linux-secure-file-transferring-271381](https://labex.io/ru/tutorials/linux-linux-secure-file-transferring-271381) *(Last modified: 2026-02-10)*
 - [linux-linux-sed-command-with-practical-examples-422906](https://labex.io/ru/tutorials/linux-linux-sed-command-with-practical-examples-422906) *(Last modified: 2025-10-10)*
 - [linux-linux-server-information-retrieval-301475](https://labex.io/ru/tutorials/linux-linux-server-information-retrieval-301475) *(Last modified: 2026-02-10)*
@@ -5813,7 +5813,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-online-shell-terminal-and-playground-593621](https://labex.io/ru/tutorials/linux-online-shell-terminal-and-playground-593621) *(Last modified: 2026-03-26)*
 - [linux-online-ubuntu-playground-environment-593628](https://labex.io/ru/tutorials/linux-online-ubuntu-playground-environment-593628) *(Last modified: 2026-03-26)*
 - [linux-online-virtual-machines-and-playgrounds-593595](https://labex.io/ru/tutorials/linux-online-virtual-machines-and-playgrounds-593595) *(Last modified: 2026-03-26)*
-- [linux-organizing-files-and-directories-387877](https://labex.io/ru/tutorials/linux-organizing-files-and-directories-387877) *(Last modified: 2026-06-08)*
+- [linux-organizing-files-and-directories-387877](https://labex.io/ru/tutorials/linux-organizing-files-and-directories-387877) *(Last modified: 2026-06-09)*
 - [linux-permissions-of-files-270252](https://labex.io/ru/tutorials/linux-permissions-of-files-270252) *(Last modified: 2026-06-08)*
 - [linux-preserve-airship-s-mystical-archives-with-tar-271397](https://labex.io/ru/tutorials/linux-preserve-airship-s-mystical-archives-with-tar-271397) *(Last modified: 2026-06-08)*
 - [linux-processing-employees-data-388132](https://labex.io/ru/tutorials/linux-processing-employees-data-388132) *(Last modified: 2026-06-08)*
@@ -8242,7 +8242,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [rhel-access-file-systems-in-red-hat-enterprise-linux-588455](https://labex.io/ru/tutorials/rhel-access-file-systems-in-red-hat-enterprise-linux-588455) *(Last modified: 2026-06-08)*
 - [rhel-add-new-partitions-and-logical-volumes-588218](https://labex.io/ru/tutorials/rhel-add-new-partitions-and-logical-volumes-588218) *(Last modified: 2026-06-08)*
 - [rhel-adjust-process-scheduling-588219](https://labex.io/ru/tutorials/rhel-adjust-process-scheduling-588219) *(Last modified: 2026-06-08)*
-- [rhel-analyze-logs-in-red-hat-enterprise-linux-588456](https://labex.io/ru/tutorials/rhel-analyze-logs-in-red-hat-enterprise-linux-588456) *(Last modified: 2026-06-08)*
+- [rhel-analyze-logs-in-red-hat-enterprise-linux-588456](https://labex.io/ru/tutorials/rhel-analyze-logs-in-red-hat-enterprise-linux-588456) *(Last modified: 2026-06-09)*
 - [rhel-assign-physical-volumes-to-volume-groups-588220](https://labex.io/ru/tutorials/rhel-assign-physical-volumes-to-volume-groups-588220) *(Last modified: 2026-06-08)*
 - [rhel-attach-persistent-storage-to-a-container-588221](https://labex.io/ru/tutorials/rhel-attach-persistent-storage-to-a-container-588221) *(Last modified: 2026-06-08)*
 - [rhel-change-passwords-and-adjust-password-aging-for-local-user-accounts-588224](https://labex.io/ru/tutorials/rhel-change-passwords-and-adjust-password-aging-for-local-user-accounts-588224) *(Last modified: 2026-06-08)*
@@ -8278,7 +8278,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [rhel-diagnose-and-address-selinux-policy-violations-588248](https://labex.io/ru/tutorials/rhel-diagnose-and-address-selinux-policy-violations-588248) *(Last modified: 2026-06-08)*
 - [rhel-diagnose-and-correct-file-permission-problems-588249](https://labex.io/ru/tutorials/rhel-diagnose-and-correct-file-permission-problems-588249) *(Last modified: 2026-06-08)*
 - [rhel-edit-text-files-in-red-hat-enterprise-linux-588460](https://labex.io/ru/tutorials/rhel-edit-text-files-in-red-hat-enterprise-linux-588460) *(Last modified: 2026-06-08)*
-- [rhel-extend-existing-logical-volumes-588250](https://labex.io/ru/tutorials/rhel-extend-existing-logical-volumes-588250) *(Last modified: 2026-06-08)*
+- [rhel-extend-existing-logical-volumes-588250](https://labex.io/ru/tutorials/rhel-extend-existing-logical-volumes-588250) *(Last modified: 2026-06-09)*
 - [rhel-find-and-retrieve-container-images-from-a-remote-registry-588251](https://labex.io/ru/tutorials/rhel-find-and-retrieve-container-images-from-a-remote-registry-588251) *(Last modified: 2026-06-08)*
 - [rhel-get-help-in-red-hat-enterprise-linux-588461](https://labex.io/ru/tutorials/rhel-get-help-in-red-hat-enterprise-linux-588461) *(Last modified: 2026-06-08)*
 - [rhel-identify-selinux-file-context-588252](https://labex.io/ru/tutorials/rhel-identify-selinux-file-context-588252) *(Last modified: 2026-06-08)*
@@ -8303,7 +8303,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [rhel-manage-selinux-security-in-rhel-589233](https://labex.io/ru/tutorials/rhel-manage-selinux-security-in-rhel-589233) *(Last modified: 2026-06-08)*
 - [rhel-manage-tuning-profiles-588267](https://labex.io/ru/tutorials/rhel-manage-tuning-profiles-588267) *(Last modified: 2026-06-08)*
 - [rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464](https://labex.io/ru/tutorials/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464) *(Last modified: 2026-06-08)*
-- [rhel-managing-packages-with-rpm-in-linux-590868](https://labex.io/ru/tutorials/rhel-managing-packages-with-rpm-in-linux-590868) *(Last modified: 2026-06-08)*
+- [rhel-managing-packages-with-rpm-in-linux-590868](https://labex.io/ru/tutorials/rhel-managing-packages-with-rpm-in-linux-590868) *(Last modified: 2026-06-09)*
 - [rhel-modify-selinux-boolean-settings-588268](https://labex.io/ru/tutorials/rhel-modify-selinux-boolean-settings-588268) *(Last modified: 2026-06-08)*
 - [rhel-modify-the-system-bootloader-588269](https://labex.io/ru/tutorials/rhel-modify-the-system-bootloader-588269) *(Last modified: 2026-06-08)*
 - [rhel-monitor-processes-in-red-hat-enterprise-linux-588465](https://labex.io/ru/tutorials/rhel-monitor-processes-in-red-hat-enterprise-linux-588465) *(Last modified: 2026-06-08)*
