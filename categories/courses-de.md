@@ -4,7 +4,7 @@ layout: default
 
 # Courses-De Sitemap
 
-> Last updated: 2026-06-10 00:28 UTC
+> Last updated: 2026-06-11 00:31 UTC
 
 This file contains all courses-de related links from LabEx website.
 
@@ -17,6 +17,7 @@ This file contains all courses-de related links from LabEx website.
 
 ### de
 
+- [100-days-of-linux-challenges](https://labex.io/de/courses/100-days-of-linux-challenges)
 - [100-numpy-exercises](https://labex.io/de/courses/100-numpy-exercises)
 - [100-pandas-exercises](https://labex.io/de/courses/100-pandas-exercises)
 - [advanced-mysql-practical-labs](https://labex.io/de/courses/advanced-mysql-practical-labs)

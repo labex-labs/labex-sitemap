@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ko Sitemap
 
-> Last updated: 2026-06-10 00:28 UTC
+> Last updated: 2026-06-11 00:31 UTC
 
 This file contains all courses-ko related links from LabEx website.
 
@@ -17,6 +17,7 @@ This file contains all courses-ko related links from LabEx website.
 
 ### ko
 
+- [100-days-of-linux-challenges](https://labex.io/ko/courses/100-days-of-linux-challenges)
 - [100-numpy-exercises](https://labex.io/ko/courses/100-numpy-exercises)
 - [100-pandas-exercises](https://labex.io/ko/courses/100-pandas-exercises)
 - [advanced-mysql-practical-labs](https://labex.io/ko/courses/advanced-mysql-practical-labs)
