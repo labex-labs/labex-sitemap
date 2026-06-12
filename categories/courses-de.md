@@ -4,7 +4,7 @@ layout: default
 
 # Courses-De Sitemap
 
-> Last updated: 2026-06-11 00:31 UTC
+> Last updated: 2026-06-12 00:29 UTC
 
 This file contains all courses-de related links from LabEx website.
 
@@ -20,6 +20,12 @@ This file contains all courses-de related links from LabEx website.
 - [100-days-of-linux-challenges](https://labex.io/de/courses/100-days-of-linux-challenges)
 - [100-numpy-exercises](https://labex.io/de/courses/100-numpy-exercises)
 - [100-pandas-exercises](https://labex.io/de/courses/100-pandas-exercises)
+- [30-days-of-cybersecurity-challenges](https://labex.io/de/courses/30-days-of-cybersecurity-challenges)
+- [30-days-of-devops-challenges](https://labex.io/de/courses/30-days-of-devops-challenges)
+- [30-days-of-devsecops-challenges](https://labex.io/de/courses/30-days-of-devsecops-challenges)
+- [30-days-of-docker-challenges](https://labex.io/de/courses/30-days-of-docker-challenges)
+- [30-days-of-kubernetes-challenges](https://labex.io/de/courses/30-days-of-kubernetes-challenges)
+- [30-days-of-rhcsa-challenges](https://labex.io/de/courses/30-days-of-rhcsa-challenges)
 - [advanced-mysql-practical-labs](https://labex.io/de/courses/advanced-mysql-practical-labs)
 - [advanced-postgresql-practical-labs](https://labex.io/de/courses/advanced-postgresql-practical-labs)
 - [advanced-shell-scripting-techniques](https://labex.io/de/courses/advanced-shell-scripting-techniques)
