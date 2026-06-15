@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ja Sitemap
 
-> Last updated: 2026-06-14 00:25 UTC
+> Last updated: 2026-06-15 00:27 UTC
 
 This file contains all tutorials-ja related links from LabEx website.
 
@@ -4590,7 +4590,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [java-sorting-arraylist-in-java-117454](https://labex.io/ja/tutorials/java-sorting-arraylist-in-java-117454) *(Last modified: 2026-06-12)*
 - [java-sorting-java-map-by-values-117453](https://labex.io/ja/tutorials/java-sorting-java-map-by-values-117453) *(Last modified: 2026-06-12)*
 - [java-sorting-strings-in-java-using-arrays-sort-117456](https://labex.io/ja/tutorials/java-sorting-strings-in-java-using-arrays-sort-117456) *(Last modified: 2026-06-12)*
-- [java-sorting-techniques-in-java-117987](https://labex.io/ja/tutorials/java-sorting-techniques-in-java-117987) *(Last modified: 2026-06-12)*
+- [java-sorting-techniques-in-java-117987](https://labex.io/ja/tutorials/java-sorting-techniques-in-java-117987) *(Last modified: 2026-06-14)*
 - [java-spring-ioc-employee-management-system-300400](https://labex.io/ja/tutorials/java-spring-ioc-employee-management-system-300400) *(Last modified: 2026-02-10)*
 - [java-spy-in-mockito-117989](https://labex.io/ja/tutorials/java-spy-in-mockito-117989) *(Last modified: 2026-06-12)*
 - [java-statement-for-querying-classroom-table-301412](https://labex.io/ja/tutorials/java-statement-for-querying-classroom-table-301412) *(Last modified: 2026-02-10)*
@@ -7137,7 +7137,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [polynomial-and-spline-interpolation-49248](https://labex.io/ja/tutorials/polynomial-and-spline-interpolation-49248) *(Last modified: 2026-06-12)*
 - [polynomial-kernel-approximation-with-scikit-learn-49276](https://labex.io/ja/tutorials/polynomial-kernel-approximation-with-scikit-learn-49276) *(Last modified: 2026-06-12)*
 - [post-pruning-decision-trees-49095](https://labex.io/ja/tutorials/post-pruning-decision-trees-49095) *(Last modified: 2026-06-12)*
-- [postgresql-basic-data-operations-in-postgresql-550897](https://labex.io/ja/tutorials/postgresql-basic-data-operations-in-postgresql-550897) *(Last modified: 2026-06-12)*
+- [postgresql-basic-data-operations-in-postgresql-550897](https://labex.io/ja/tutorials/postgresql-basic-data-operations-in-postgresql-550897) *(Last modified: 2026-06-14)*
 - [postgresql-create-employee-table-in-postgresql-551115](https://labex.io/ja/tutorials/postgresql-create-employee-table-in-postgresql-551115) *(Last modified: 2026-06-12)*
 - [postgresql-create-your-own-recipe-database-551100](https://labex.io/ja/tutorials/postgresql-create-your-own-recipe-database-551100) *(Last modified: 2026-06-12)*
 - [postgresql-data-filtering-and-simple-queries-in-postgresql-550898](https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550898) *(Last modified: 2026-06-12)*
@@ -8286,7 +8286,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [rhel-inspect-container-images-588254](https://labex.io/ja/tutorials/rhel-inspect-container-images-588254) *(Last modified: 2026-06-12)*
 - [rhel-install-and-automate-rhel-deployments-589257](https://labex.io/ja/tutorials/rhel-install-and-automate-rhel-deployments-589257) *(Last modified: 2026-06-12)*
 - [rhel-install-and-update-software-packages-588255](https://labex.io/ja/tutorials/rhel-install-and-update-software-packages-588255) *(Last modified: 2026-06-12)*
-- [rhel-install-ansible-on-red-hat-enterprise-linux-590544](https://labex.io/ja/tutorials/rhel-install-ansible-on-red-hat-enterprise-linux-590544) *(Last modified: 2026-06-12)*
+- [rhel-install-ansible-on-red-hat-enterprise-linux-590544](https://labex.io/ja/tutorials/rhel-install-ansible-on-red-hat-enterprise-linux-590544) *(Last modified: 2026-06-14)*
 - [rhel-install-software-in-red-hat-enterprise-linux-588462](https://labex.io/ja/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588462) *(Last modified: 2026-06-12)*
 - [rhel-list-create-and-delete-partitions-on-mbr-and-gpt-disks-588257](https://labex.io/ja/tutorials/rhel-list-create-and-delete-partitions-on-mbr-and-gpt-disks-588257) *(Last modified: 2026-06-12)*
 - [rhel-locate-and-interpret-system-log-files-588258](https://labex.io/ja/tutorials/rhel-locate-and-interpret-system-log-files-588258) *(Last modified: 2026-06-12)*
