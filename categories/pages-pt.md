@@ -4,7 +4,7 @@ layout: default
 
 # Pages-Pt Sitemap
 
-> Last updated: 2026-06-16 00:34 UTC
+> Last updated: 2026-06-17 00:29 UTC
 
 This file contains all pages-pt related links from LabEx website.
 
