@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ja Sitemap
 
-> Last updated: 2026-06-19 00:33 UTC
+> Last updated: 2026-06-20 00:25 UTC
 
 This file contains all tutorials-ja related links from LabEx website.
 
@@ -2087,7 +2087,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [docker-forwarding-ports-in-docker-containers-for-application-access-393010](https://labex.io/ja/tutorials/docker-forwarding-ports-in-docker-containers-for-application-access-393010) *(Last modified: 2025-10-11)*
 - [docker-from-basics-to-multi-stage-builds-389193](https://labex.io/ja/tutorials/docker-from-basics-to-multi-stage-builds-389193) *(Last modified: 2026-06-18)*
 - [docker-getting-started-with-claude-s-computer-use-demo-414860](https://labex.io/ja/tutorials/docker-getting-started-with-claude-s-computer-use-demo-414860) *(Last modified: 2026-06-18)*
-- [docker-grafana-dashboards-601821](https://labex.io/ja/tutorials/docker-grafana-dashboards-601821) *(Last modified: 2026-06-18)*
+- [docker-grafana-dashboards-601821](https://labex.io/ja/tutorials/docker-grafana-dashboards-601821) *(Last modified: 2026-06-19)*
 - [docker-grafana-installation-601822](https://labex.io/ja/tutorials/docker-grafana-installation-601822) *(Last modified: 2026-06-18)*
 - [docker-how-to-access-a-docker-container-s-read-write-layer-from-the-host-411500](https://labex.io/ja/tutorials/docker-how-to-access-a-docker-container-s-read-write-layer-from-the-host-411500) *(Last modified: 2025-10-11)*
 - [docker-how-to-access-a-web-application-running-in-a-docker-container-415069](https://labex.io/ja/tutorials/docker-how-to-access-a-web-application-running-in-a-docker-container-415069) *(Last modified: 2026-06-18)*
@@ -5852,7 +5852,7 @@ This file contains all tutorials-ja related links from LabEx website.
 - [linux-terraform-installation-632659](https://labex.io/ja/tutorials/linux-terraform-installation-632659) *(Last modified: 2026-06-18)*
 - [linux-terraform-modules-implementation-632660](https://labex.io/ja/tutorials/linux-terraform-modules-implementation-632660) *(Last modified: 2026-06-18)*
 - [linux-terraform-outputs-management-632661](https://labex.io/ja/tutorials/linux-terraform-outputs-management-632661) *(Last modified: 2026-06-18)*
-- [linux-terraform-project-initialization-632662](https://labex.io/ja/tutorials/linux-terraform-project-initialization-632662) *(Last modified: 2026-06-18)*
+- [linux-terraform-project-initialization-632662](https://labex.io/ja/tutorials/linux-terraform-project-initialization-632662) *(Last modified: 2026-06-19)*
 - [linux-terraform-resource-destruction-632663](https://labex.io/ja/tutorials/linux-terraform-resource-destruction-632663) *(Last modified: 2026-06-18)*
 - [linux-terraform-state-management-632664](https://labex.io/ja/tutorials/linux-terraform-state-management-632664) *(Last modified: 2026-06-18)*
 - [linux-terraform-variables-usage-632665](https://labex.io/ja/tutorials/linux-terraform-variables-usage-632665) *(Last modified: 2026-06-18)*
