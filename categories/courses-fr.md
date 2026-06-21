@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Fr Sitemap
 
-> Last updated: 2026-06-20 00:25 UTC
+> Last updated: 2026-06-21 00:26 UTC
 
 This file contains all courses-fr related links from LabEx website.
 
