@@ -4,7 +4,7 @@ layout: default
 
 # Pages Sitemap
 
-> Last updated: 2026-06-23 00:26 UTC
+> Last updated: 2026-06-24 00:21 UTC
 
 This file contains all pages related links from LabEx website.
 
@@ -21,6 +21,7 @@ This file contains all pages related links from LabEx website.
 - [labex.io](https://labex.io/)
 - [alibaba](https://labex.io/alibaba)
 - [career](https://labex.io/career)
+- [challenges](https://labex.io/challenges)
 - [courses](https://labex.io/courses)
 - [exercises](https://labex.io/exercises)
 - [forgot-password](https://labex.io/forgot-password)

@@ -4,7 +4,7 @@ layout: default
 
 # Pages-De Sitemap
 
-> Last updated: 2026-06-23 00:26 UTC
+> Last updated: 2026-06-24 00:21 UTC
 
 This file contains all pages-de related links from LabEx website.
 
@@ -17,6 +17,7 @@ This file contains all pages-de related links from LabEx website.
 
 ### de
 
+- [challenges](https://labex.io/de/challenges)
 - [courses](https://labex.io/de/courses)
 - [forgot-password](https://labex.io/de/forgot-password)
 - [learn](https://labex.io/de/learn)

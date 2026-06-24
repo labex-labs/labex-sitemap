@@ -6,7 +6,7 @@ layout: default
 
 [LabEx](https://labex.io) is a hands-on learning platform for Linux, DevOps, and Cybersecurity. Learn by doing with guided labs, courses, and tutorials. Get started for free!
 
-> Last updated: 2026-06-23 00:26 UTC
+> Last updated: 2026-06-24 00:21 UTC
 
 This repository maintains an auto-updated list of LabEx website sitemaps.
 
@@ -41,16 +41,16 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Freelabs-Zh](categories/freelabs-zh.md) (38 links)
 - [Linuxjourney-Lessons](categories/linuxjourney-lessons.md) (1674 links)
 - [Linuxjourney-Pages](categories/linuxjourney-pages.md) (9 links)
-- [Pages](categories/pages.md) (20 links)
-- [Pages-De](categories/pages-de.md) (10 links)
-- [Pages-Es](categories/pages-es.md) (10 links)
-- [Pages-Fr](categories/pages-fr.md) (10 links)
-- [Pages-Ja](categories/pages-ja.md) (10 links)
-- [Pages-Ko](categories/pages-ko.md) (10 links)
-- [Pages-Pt](categories/pages-pt.md) (10 links)
-- [Pages-Ru](categories/pages-ru.md) (10 links)
-- [Pages-Zh](categories/pages-zh.md) (10 links)
-- [Questions](categories/questions.md) (11798 links)
+- [Pages](categories/pages.md) (21 links)
+- [Pages-De](categories/pages-de.md) (11 links)
+- [Pages-Es](categories/pages-es.md) (11 links)
+- [Pages-Fr](categories/pages-fr.md) (11 links)
+- [Pages-Ja](categories/pages-ja.md) (11 links)
+- [Pages-Ko](categories/pages-ko.md) (11 links)
+- [Pages-Pt](categories/pages-pt.md) (11 links)
+- [Pages-Ru](categories/pages-ru.md) (11 links)
+- [Pages-Zh](categories/pages-zh.md) (11 links)
+- [Questions](categories/questions.md) (0 links)
 - [Skilltrees](categories/skilltrees.md) (929 links)
 - [Skilltrees-De](categories/skilltrees-de.md) (929 links)
 - [Skilltrees-Es](categories/skilltrees-es.md) (929 links)
@@ -70,4 +70,4 @@ This repository maintains an auto-updated list of LabEx website sitemaps.
 - [Tutorials-Ru](categories/tutorials-ru.md) (9150 links)
 - [Tutorials-Zh](categories/tutorials-zh.md) (16009 links)
 
-> **Total Links: 122024**
+> **Total Links: 110235**

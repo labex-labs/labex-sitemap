@@ -4,7 +4,7 @@ layout: default
 
 # Pages-Zh Sitemap
 
-> Last updated: 2026-06-23 00:26 UTC
+> Last updated: 2026-06-24 00:21 UTC
 
 This file contains all pages-zh related links from LabEx website.
 
@@ -18,6 +18,7 @@ This file contains all pages-zh related links from LabEx website.
 
 ### zh
 
+- [challenges](https://labex.io/zh/challenges)
 - [courses](https://labex.io/zh/courses)
 - [forgot-password](https://labex.io/zh/forgot-password)
 - [learn](https://labex.io/zh/learn)

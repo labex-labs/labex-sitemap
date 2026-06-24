@@ -4,7 +4,7 @@ layout: default
 
 # Pages-Fr Sitemap
 
-> Last updated: 2026-06-23 00:26 UTC
+> Last updated: 2026-06-24 00:21 UTC
 
 This file contains all pages-fr related links from LabEx website.
 
@@ -17,6 +17,7 @@ This file contains all pages-fr related links from LabEx website.
 
 ### fr
 
+- [challenges](https://labex.io/fr/challenges)
 - [courses](https://labex.io/fr/courses)
 - [forgot-password](https://labex.io/fr/forgot-password)
 - [learn](https://labex.io/fr/learn)
