@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ko Sitemap
 
-> Last updated: 2026-06-27 00:24 UTC
+> Last updated: 2026-06-28 00:23 UTC
 
 This file contains all tutorials-ko related links from LabEx website.
 
@@ -312,6 +312,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [average-of-numbers-28169](https://labex.io/ko/tutorials/average-of-numbers-28169) *(Last modified: 2026-06-26)*
 - [axes-zoom-effect-48565](https://labex.io/ko/tutorials/axes-zoom-effect-48565) *(Last modified: 2026-06-26)*
 - [axis-line-styles-48666](https://labex.io/ko/tutorials/axis-line-styles-48666) *(Last modified: 2026-06-26)*
+- [backing-up-and-restoring-jenkins-configuration-705387](https://labex.io/ko/tutorials/backing-up-and-restoring-jenkins-configuration-705387) *(Last modified: 2026-06-27)*
 - [balance-model-complexity-and-cross-validated-score-49156](https://labex.io/ko/tutorials/balance-model-complexity-and-cross-validated-score-49156) *(Last modified: 2026-06-26)*
 - [base64-encoding-in-golang-15455](https://labex.io/ko/tutorials/base64-encoding-in-golang-15455) *(Last modified: 2026-06-26)*
 - [basic-errorbar-function-48716](https://labex.io/ko/tutorials/basic-errorbar-function-48716) *(Last modified: 2026-06-26)*
@@ -1101,6 +1102,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [configure-line-endings-12736](https://labex.io/ko/tutorials/configure-line-endings-12736) *(Last modified: 2026-06-26)*
 - [configure-the-git-text-editor-12759](https://labex.io/ko/tutorials/configure-the-git-text-editor-12759) *(Last modified: 2026-06-26)*
 - [configuring-the-font-family-in-matplotlib-48742](https://labex.io/ko/tutorials/configuring-the-font-family-in-matplotlib-48742) *(Last modified: 2026-06-26)*
+- [configuring-tools-and-labeled-agents-705389](https://labex.io/ko/tutorials/configuring-tools-and-labeled-agents-705389) *(Last modified: 2026-06-27)*
 - [connecting-matplotlib-figure-events-48602](https://labex.io/ko/tutorials/connecting-matplotlib-figure-events-48602) *(Last modified: 2026-06-26)*
 - [connecting-to-keypress-events-48794](https://labex.io/ko/tutorials/connecting-to-keypress-events-48794) *(Last modified: 2026-06-26)*
 - [consecutive-element-subarrays-28210](https://labex.io/ko/tutorials/consecutive-element-subarrays-28210) *(Last modified: 2026-06-26)*
@@ -1748,6 +1750,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [creating-matplotlib-subfigures-48965](https://labex.io/ko/tutorials/creating-matplotlib-subfigures-48965) *(Last modified: 2026-06-26)*
 - [creating-matplotlib-subplots-in-python-48890](https://labex.io/ko/tutorials/creating-matplotlib-subplots-in-python-48890) *(Last modified: 2026-06-26)*
 - [creating-matplotlib-timeline-visualizations-48996](https://labex.io/ko/tutorials/creating-matplotlib-timeline-visualizations-48996) *(Last modified: 2026-06-26)*
+- [creating-multibranch-pipelines-705390](https://labex.io/ko/tutorials/creating-multibranch-pipelines-705390) *(Last modified: 2026-06-27)*
 - [creating-new-objects-with-class-132720](https://labex.io/ko/tutorials/creating-new-objects-with-class-132720) *(Last modified: 2026-06-26)*
 - [creating-numpy-arrays-from-numerical-ranges-86396](https://labex.io/ko/tutorials/creating-numpy-arrays-from-numerical-ranges-86396) *(Last modified: 2026-06-26)*
 - [creating-plots-with-different-scales-49014](https://labex.io/ko/tutorials/creating-plots-with-different-scales-49014) *(Last modified: 2026-06-26)*
@@ -3714,6 +3717,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [initialize-list-with-values-13662](https://labex.io/ko/tutorials/initialize-list-with-values-13662) *(Last modified: 2026-06-26)*
 - [initialize-mapped-array-28396](https://labex.io/ko/tutorials/initialize-mapped-array-28396) *(Last modified: 2026-06-26)*
 - [initialize-n-dimensional-array-28397](https://labex.io/ko/tutorials/initialize-n-dimensional-array-28397) *(Last modified: 2026-06-26)*
+- [initializing-a-jenkins-controller-705392](https://labex.io/ko/tutorials/initializing-a-jenkins-controller-705392) *(Last modified: 2026-06-27)*
 - [input-with-prefix-35221](https://labex.io/ko/tutorials/input-with-prefix-35221) *(Last modified: 2026-06-26)*
 - [insert-user-data-into-sqlite-552580](https://labex.io/ko/tutorials/insert-user-data-into-sqlite-552580) *(Last modified: 2026-06-26)*
 - [insert-value-at-array-index-28401](https://labex.io/ko/tutorials/insert-value-at-array-index-28401) *(Last modified: 2026-06-26)*
@@ -4341,15 +4345,15 @@ This file contains all tutorials-ko related links from LabEx website.
 - [javascript-weather-trend-chart-with-vue-and-echarts-445650](https://labex.io/ko/tutorials/javascript-weather-trend-chart-with-vue-and-echarts-445650) *(Last modified: 2026-06-24)*
 - [javascript-weekly-weather-forecast-application-development-445676](https://labex.io/ko/tutorials/javascript-weekly-weather-forecast-application-development-445676) *(Last modified: 2026-06-24)*
 - [javascript-your-first-javascript-lab-92948](https://labex.io/ko/tutorials/javascript-your-first-javascript-lab-92948) *(Last modified: 2026-06-26)*
-- [jenkins-configuring-basic-freestyle-projects-595302](https://labex.io/ko/tutorials/jenkins-configuring-basic-freestyle-projects-595302) *(Last modified: 2026-06-26)*
-- [jenkins-exploring-the-jenkins-interface-595303](https://labex.io/ko/tutorials/jenkins-exploring-the-jenkins-interface-595303) *(Last modified: 2026-06-26)*
-- [jenkins-installing-jenkins-with-docker-391174](https://labex.io/ko/tutorials/jenkins-installing-jenkins-with-docker-391174) *(Last modified: 2026-06-26)*
-- [jenkins-integrating-jenkins-with-source-control-git-595304](https://labex.io/ko/tutorials/jenkins-integrating-jenkins-with-source-control-git-595304) *(Last modified: 2026-06-26)*
-- [jenkins-introduction-to-jenkins-pipelines-595305](https://labex.io/ko/tutorials/jenkins-introduction-to-jenkins-pipelines-595305) *(Last modified: 2026-06-26)*
-- [jenkins-jenkins-user-management-391302](https://labex.io/ko/tutorials/jenkins-jenkins-user-management-391302) *(Last modified: 2026-06-24)*
-- [jenkins-managing-plugins-in-jenkins-595307](https://labex.io/ko/tutorials/jenkins-managing-plugins-in-jenkins-595307) *(Last modified: 2026-06-26)*
+- [jenkins-configuring-basic-freestyle-projects-595302](https://labex.io/ko/tutorials/jenkins-configuring-basic-freestyle-projects-595302) *(Last modified: 2026-06-27)*
+- [jenkins-exploring-the-jenkins-interface-595303](https://labex.io/ko/tutorials/jenkins-exploring-the-jenkins-interface-595303) *(Last modified: 2026-06-27)*
+- [jenkins-installing-jenkins-with-docker-391174](https://labex.io/ko/tutorials/jenkins-installing-jenkins-with-docker-391174) *(Last modified: 2026-06-27)*
+- [jenkins-integrating-jenkins-with-source-control-git-595304](https://labex.io/ko/tutorials/jenkins-integrating-jenkins-with-source-control-git-595304) *(Last modified: 2026-06-27)*
+- [jenkins-introduction-to-jenkins-pipelines-595305](https://labex.io/ko/tutorials/jenkins-introduction-to-jenkins-pipelines-595305) *(Last modified: 2026-06-27)*
+- [jenkins-jenkins-user-management-391302](https://labex.io/ko/tutorials/jenkins-jenkins-user-management-391302) *(Last modified: 2026-06-27)*
+- [jenkins-managing-plugins-in-jenkins-595307](https://labex.io/ko/tutorials/jenkins-managing-plugins-in-jenkins-595307) *(Last modified: 2026-06-27)*
 - [jenkins-online-jenkins-playground-415838](https://labex.io/ko/tutorials/jenkins-online-jenkins-playground-415838) *(Last modified: 2026-06-24)*
-- [jenkins-parameterizing-builds-and-using-scripts-595308](https://labex.io/ko/tutorials/jenkins-parameterizing-builds-and-using-scripts-595308) *(Last modified: 2026-06-26)*
+- [jenkins-parameterizing-builds-and-using-scripts-595308](https://labex.io/ko/tutorials/jenkins-parameterizing-builds-and-using-scripts-595308) *(Last modified: 2026-06-27)*
 - [join-array-into-string-28455](https://labex.io/ko/tutorials/join-array-into-string-28455) *(Last modified: 2026-06-26)*
 - [join-url-segments-28456](https://labex.io/ko/tutorials/join-url-segments-28456) *(Last modified: 2026-06-26)*
 - [joint-feature-selection-with-multi-task-lasso-49220](https://labex.io/ko/tutorials/joint-feature-selection-with-multi-task-lasso-49220) *(Last modified: 2026-06-26)*
@@ -4819,7 +4823,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [linux-diagnosing-disk-space-issues-632795](https://labex.io/ko/tutorials/linux-diagnosing-disk-space-issues-632795) *(Last modified: 2026-06-26)*
 - [linux-digital-signatures-with-rsa-in-cryptography-632721](https://labex.io/ko/tutorials/linux-digital-signatures-with-rsa-in-cryptography-632721) *(Last modified: 2026-06-26)*
 - [linux-directory-navigation-387844](https://labex.io/ko/tutorials/linux-directory-navigation-387844) *(Last modified: 2026-06-26)*
-- [linux-discover-critical-system-resources-388032](https://labex.io/ko/tutorials/linux-discover-critical-system-resources-388032) *(Last modified: 2026-06-26)*
+- [linux-discover-critical-system-resources-388032](https://labex.io/ko/tutorials/linux-discover-critical-system-resources-388032) *(Last modified: 2026-06-27)*
 - [linux-discover-linux-system-information-36](https://labex.io/ko/tutorials/linux-discover-linux-system-information-36) *(Last modified: 2026-06-26)*
 - [linux-disk-usage-detective-388099](https://labex.io/ko/tutorials/linux-disk-usage-detective-388099) *(Last modified: 2026-06-26)*
 - [linux-display-os-info-stylishly-with-neofetch-299825](https://labex.io/ko/tutorials/linux-display-os-info-stylishly-with-neofetch-299825) *(Last modified: 2026-06-26)*
@@ -5720,7 +5724,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [nmap-exploit-suid-binaries-for-privilege-escalation-in-linux-416147](https://labex.io/ko/tutorials/nmap-exploit-suid-binaries-for-privilege-escalation-in-linux-416147) *(Last modified: 2026-06-26)*
 - [nmap-exploit-telnet-service-vulnerability-with-metasploit-416133](https://labex.io/ko/tutorials/nmap-exploit-telnet-service-vulnerability-with-metasploit-416133) *(Last modified: 2026-06-26)*
 - [nmap-exploit-tomcat-vulnerabilities-with-nmap-in-kali-linux-416130](https://labex.io/ko/tutorials/nmap-exploit-tomcat-vulnerabilities-with-nmap-in-kali-linux-416130) *(Last modified: 2026-06-26)*
-- [nmap-exploit-unreal-ircd-vulnerability-with-nmap-and-metasploit-416126](https://labex.io/ko/tutorials/nmap-exploit-unreal-ircd-vulnerability-with-nmap-and-metasploit-416126) *(Last modified: 2026-06-26)*
+- [nmap-exploit-unreal-ircd-vulnerability-with-nmap-and-metasploit-416126](https://labex.io/ko/tutorials/nmap-exploit-unreal-ircd-vulnerability-with-nmap-and-metasploit-416126) *(Last modified: 2026-06-27)*
 - [nmap-explore-and-create-nmap-scripts-415930](https://labex.io/ko/tutorials/nmap-explore-and-create-nmap-scripts-415930) *(Last modified: 2026-06-24)*
 - [nmap-explore-nmap-help-and-options-in-nmap-547101](https://labex.io/ko/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101) *(Last modified: 2026-06-26)*
 - [nmap-explore-nmap-verbosity-levels-for-network-scanning-415939](https://labex.io/ko/tutorials/nmap-explore-nmap-verbosity-levels-for-network-scanning-415939) *(Last modified: 2026-06-26)*
@@ -6578,6 +6582,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [programming-a-guessing-game-100386](https://labex.io/ko/tutorials/programming-a-guessing-game-100386) *(Last modified: 2026-06-26)*
 - [projecting-filled-contour-onto-a-3d-graph-48629](https://labex.io/ko/tutorials/projecting-filled-contour-onto-a-3d-graph-48629) *(Last modified: 2026-06-26)*
 - [publishing-a-crate-to-crates-io-100428](https://labex.io/ko/tutorials/publishing-a-crate-to-crates-io-100428) *(Last modified: 2026-06-26)*
+- [publishing-test-reports-and-build-notifications-705399](https://labex.io/ko/tutorials/publishing-test-reports-and-build-notifications-705399) *(Last modified: 2026-06-27)*
 - [pull-latest-changes-from-remote-12746](https://labex.io/ko/tutorials/pull-latest-changes-from-remote-12746) *(Last modified: 2026-06-26)*
 - [pull-matching-values-from-array-28560](https://labex.io/ko/tutorials/pull-matching-values-from-array-28560) *(Last modified: 2026-06-26)*
 - [pull-values-from-array-28563](https://labex.io/ko/tutorials/pull-values-from-array-28563) *(Last modified: 2026-06-26)*
@@ -7353,6 +7358,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [run-a-small-program-132390](https://labex.io/ko/tutorials/run-a-small-program-132390) *(Last modified: 2026-06-26)*
 - [run-function-asynchronously-28606](https://labex.io/ko/tutorials/run-function-asynchronously-28606) *(Last modified: 2026-06-26)*
 - [run-promises-in-series-28607](https://labex.io/ko/tutorials/run-promises-in-series-28607) *(Last modified: 2026-06-26)*
+- [running-pipelines-on-container-agents-705400](https://labex.io/ko/tutorials/running-pipelines-on-container-agents-705400) *(Last modified: 2026-06-27)*
 - [running-your-first-container-148982](https://labex.io/ko/tutorials/running-your-first-container-148982) *(Last modified: 2026-06-26)*
 - [rust-aliasing-concept-exploration-99200](https://labex.io/ko/tutorials/rust-aliasing-concept-exploration-99200) *(Last modified: 2026-06-26)*
 - [rust-aliasing-enhancing-code-readability-99298](https://labex.io/ko/tutorials/rust-aliasing-enhancing-code-readability-99298) *(Last modified: 2026-06-26)*
@@ -7722,6 +7728,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [treating-smart-pointers-like-regular-references-100432](https://labex.io/ko/tutorials/treating-smart-pointers-like-regular-references-100432) *(Last modified: 2026-06-26)*
 - [triangular-3d-surfaces-49013](https://labex.io/ko/tutorials/triangular-3d-surfaces-49013) *(Last modified: 2026-06-26)*
 - [tricontour-smooth-delaunay-49003](https://labex.io/ko/tutorials/tricontour-smooth-delaunay-49003) *(Last modified: 2026-06-26)*
+- [triggering-jenkins-builds-with-webhooks-705401](https://labex.io/ko/tutorials/triggering-jenkins-builds-with-webhooks-705401) *(Last modified: 2026-06-27)*
 - [trim-multiline-text-35223](https://labex.io/ko/tutorials/trim-multiline-text-35223) *(Last modified: 2026-06-26)*
 - [truncate-multiline-text-35252](https://labex.io/ko/tutorials/truncate-multiline-text-35252) *(Last modified: 2026-06-26)*
 - [truncate-string-at-whitespace-28670](https://labex.io/ko/tutorials/truncate-string-at-whitespace-28670) *(Last modified: 2026-06-26)*
@@ -7775,6 +7782,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [using-async-and-await-in-flask-136110](https://labex.io/ko/tutorials/using-async-and-await-in-flask-136110) *(Last modified: 2026-06-26)*
 - [using-box-t-for-heap-data-100431](https://labex.io/ko/tutorials/using-box-t-for-heap-data-100431) *(Last modified: 2026-06-26)*
 - [using-check-buttons-in-matplotlib-48601](https://labex.io/ko/tutorials/using-check-buttons-in-matplotlib-48601) *(Last modified: 2026-06-26)*
+- [using-jenkins-shared-libraries-705402](https://labex.io/ko/tutorials/using-jenkins-shared-libraries-705402) *(Last modified: 2026-06-27)*
 - [using-matplotlib-agg-backend-for-image-generation-48596](https://labex.io/ko/tutorials/using-matplotlib-agg-backend-for-image-generation-48596) *(Last modified: 2026-06-26)*
 - [using-matplotlib-general-timer-objects-48997](https://labex.io/ko/tutorials/using-matplotlib-general-timer-objects-48997) *(Last modified: 2026-06-26)*
 - [using-matplotlib-s-latex-for-math-typesetting-48823](https://labex.io/ko/tutorials/using-matplotlib-s-latex-for-math-typesetting-48823) *(Last modified: 2026-06-26)*
@@ -8083,7 +8091,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [wireshark-shiyong-wireshark-shibiewangluoanquanweixie-415162](https://labex.io/ko/tutorials/wireshark-shiyong-wireshark-shibiewangluoanquanweixie-415162) *(Last modified: 2026-06-25)*
 - [wireshark-simulate-phishing-in-set-549949](https://labex.io/ko/tutorials/wireshark-simulate-phishing-in-set-549949) *(Last modified: 2026-06-24)*
 - [wireshark-spoof-packets-in-scapy-549951](https://labex.io/ko/tutorials/wireshark-spoof-packets-in-scapy-549951) *(Last modified: 2026-06-24)*
-- [wireshark-track-ipv6-traffic-patterns-548851](https://labex.io/ko/tutorials/wireshark-track-ipv6-traffic-patterns-548851) *(Last modified: 2026-06-26)*
+- [wireshark-track-ipv6-traffic-patterns-548851](https://labex.io/ko/tutorials/wireshark-track-ipv6-traffic-patterns-548851) *(Last modified: 2026-06-27)*
 - [wireshark-troubleshoot-dns-queries-in-tshark-548938](https://labex.io/ko/tutorials/wireshark-troubleshoot-dns-queries-in-tshark-548938) *(Last modified: 2026-06-24)*
 - [wireshark-uncover-suspicious-dns-queries-548854](https://labex.io/ko/tutorials/wireshark-uncover-suspicious-dns-queries-548854) *(Last modified: 2026-06-26)*
 - [wireshark-use-display-filters-in-tshark-548939](https://labex.io/ko/tutorials/wireshark-use-display-filters-in-tshark-548939) *(Last modified: 2026-06-26)*
@@ -8108,6 +8116,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [write-files-in-go-15531](https://labex.io/ko/tutorials/write-files-in-go-15531) *(Last modified: 2026-06-26)*
 - [writing-markup-with-jsx-100376](https://labex.io/ko/tutorials/writing-markup-with-jsx-100376) *(Last modified: 2026-06-26)*
 - [writing-rust-functions-99320](https://labex.io/ko/tutorials/writing-rust-functions-99320) *(Last modified: 2026-06-26)*
+- [writing-scripted-jenkins-pipelines-705403](https://labex.io/ko/tutorials/writing-scripted-jenkins-pipelines-705403) *(Last modified: 2026-06-27)*
 - [xcorr-acorr-demo-49036](https://labex.io/ko/tutorials/xcorr-acorr-demo-49036) *(Last modified: 2026-06-26)*
 - [yield-statement-management-in-python-132525](https://labex.io/ko/tutorials/yield-statement-management-in-python-132525) *(Last modified: 2026-06-26)*
 - [your-first-numpy-lab-92735](https://labex.io/ko/tutorials/your-first-numpy-lab-92735) *(Last modified: 2026-06-26)*
