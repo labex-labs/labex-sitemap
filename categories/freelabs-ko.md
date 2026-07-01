@@ -4,7 +4,7 @@ layout: default
 
 # Freelabs-Ko Sitemap
 
-> Last updated: 2026-06-30 00:24 UTC
+> Last updated: 2026-07-01 00:26 UTC
 
 This file contains all freelabs-ko related links from LabEx website.
 
