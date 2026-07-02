@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2026-07-01 00:26 UTC
+> Last updated: 2026-07-02 00:25 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -10271,7 +10271,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-linux-top-command-real-time-system-monitoring-388500](https://labex.io/zh/tutorials/linux-linux-top-command-real-time-system-monitoring-388500) *(Last modified: 2026-06-28)*
 - [linux-linux-top-command-with-practical-examples-422961](https://labex.io/zh/tutorials/linux-linux-top-command-with-practical-examples-422961) *(Last modified: 2026-06-25)*
 - [linux-linux-touch-command-with-practical-examples-422962](https://labex.io/zh/tutorials/linux-linux-touch-command-with-practical-examples-422962) *(Last modified: 2026-06-25)*
-- [linux-linux-tr-command-character-translating-219198](https://labex.io/zh/tutorials/linux-linux-tr-command-character-translating-219198) *(Last modified: 2026-06-28)*
+- [linux-linux-tr-command-character-translating-219198](https://labex.io/zh/tutorials/linux-linux-tr-command-character-translating-219198) *(Last modified: 2026-07-01)*
 - [linux-linux-tr-command-with-practical-examples-422963](https://labex.io/zh/tutorials/linux-linux-tr-command-with-practical-examples-422963) *(Last modified: 2026-06-25)*
 - [linux-linux-tracepath-command-with-practical-examples-422964](https://labex.io/zh/tutorials/linux-linux-tracepath-command-with-practical-examples-422964) *(Last modified: 2026-06-25)*
 - [linux-linux-traceroute-command-with-practical-examples-422965](https://labex.io/zh/tutorials/linux-linux-traceroute-command-with-practical-examples-422965) *(Last modified: 2026-06-25)*
@@ -11540,7 +11540,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [nmap-perform-nmap-scans-and-save-results-in-different-formats-415928](https://labex.io/zh/tutorials/nmap-perform-nmap-scans-and-save-results-in-different-formats-415928) *(Last modified: 2026-06-28)*
 - [nmap-perform-penetration-testing-with-nmap-and-metasploit-416117](https://labex.io/zh/tutorials/nmap-perform-penetration-testing-with-nmap-and-metasploit-416117) *(Last modified: 2026-06-28)*
 - [nmap-perform-penetration-testing-with-nmap-in-kali-linux-416116](https://labex.io/zh/tutorials/nmap-perform-penetration-testing-with-nmap-in-kali-linux-416116) *(Last modified: 2026-06-28)*
-- [nmap-perform-privilege-escalation-on-linux-machine-with-nmap-416129](https://labex.io/zh/tutorials/nmap-perform-privilege-escalation-on-linux-machine-with-nmap-416129) *(Last modified: 2026-06-28)*
+- [nmap-perform-privilege-escalation-on-linux-machine-with-nmap-416129](https://labex.io/zh/tutorials/nmap-perform-privilege-escalation-on-linux-machine-with-nmap-416129) *(Last modified: 2026-07-01)*
 - [nmap-perform-stealth-network-scanning-with-nmap-415933](https://labex.io/zh/tutorials/nmap-perform-stealth-network-scanning-with-nmap-415933) *(Last modified: 2026-06-28)*
 - [nmap-perform-tcp-xmas-scanning-in-nmap-547106](https://labex.io/zh/tutorials/nmap-perform-tcp-xmas-scanning-in-nmap-547106) *(Last modified: 2026-06-24)*
 - [nmap-perform-udp-port-scanning-with-nmap-415938](https://labex.io/zh/tutorials/nmap-perform-udp-port-scanning-with-nmap-415938) *(Last modified: 2026-06-28)*

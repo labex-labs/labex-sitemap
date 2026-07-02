@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Pt Sitemap
 
-> Last updated: 2026-07-01 00:26 UTC
+> Last updated: 2026-07-02 00:25 UTC
 
 This file contains all courses-pt related links from LabEx website.
 
@@ -549,6 +549,7 @@ This file contains all courses-pt related links from LabEx website.
 - [prometheus-monitoring](https://labex.io/pt/courses/prometheus-monitoring)
 - [protocol-analysis-with-tshark](https://labex.io/pt/courses/protocol-analysis-with-tshark)
 - [python-cheatsheet](https://labex.io/pt/courses/python-cheatsheet)
+- [python-for-beginners](https://labex.io/pt/courses/python-for-beginners)
 - [python-for-operations](https://labex.io/pt/courses/python-for-operations)
 - [python-for-security-operations](https://labex.io/pt/courses/python-for-security-operations)
 - [python-practice-challenges](https://labex.io/pt/courses/python-practice-challenges)
