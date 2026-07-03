@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Es Sitemap
 
-> Last updated: 2026-07-02 00:25 UTC
+> Last updated: 2026-07-03 01:44 UTC
 
 This file contains all tutorials-es related links from LabEx website.
 
@@ -3517,7 +3517,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [hadoop-hadoop-applying-scheduler-288957](https://labex.io/es/tutorials/hadoop-hadoop-applying-scheduler-288957) *(Last modified: 2026-06-28)*
 - [hadoop-hadoop-cosmic-communication-quest-288990](https://labex.io/es/tutorials/hadoop-hadoop-cosmic-communication-quest-288990) *(Last modified: 2026-06-28)*
 - [hadoop-hadoop-data-block-management-271851](https://labex.io/es/tutorials/hadoop-hadoop-data-block-management-271851) *(Last modified: 2026-06-28)*
-- [hadoop-hadoop-data-replication-271852](https://labex.io/es/tutorials/hadoop-hadoop-data-replication-271852) *(Last modified: 2026-06-28)*
+- [hadoop-hadoop-data-replication-271852](https://labex.io/es/tutorials/hadoop-hadoop-data-replication-271852) *(Last modified: 2026-07-02)*
 - [hadoop-hadoop-datanode-and-namenode-management-271895](https://labex.io/es/tutorials/hadoop-hadoop-datanode-and-namenode-management-271895) *(Last modified: 2026-06-28)*
 - [hadoop-hadoop-date-mastery-for-astronomers-288963](https://labex.io/es/tutorials/hadoop-hadoop-date-mastery-for-astronomers-288963) *(Last modified: 2026-06-28)*
 - [hadoop-hadoop-dimensional-mastery-guide-288976](https://labex.io/es/tutorials/hadoop-hadoop-dimensional-mastery-guide-288976) *(Last modified: 2026-06-28)*
@@ -5788,7 +5788,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [linux-organizing-files-and-directories-387877](https://labex.io/es/tutorials/linux-organizing-files-and-directories-387877) *(Last modified: 2026-06-28)*
 - [linux-permissions-of-files-270252](https://labex.io/es/tutorials/linux-permissions-of-files-270252) *(Last modified: 2026-06-28)*
 - [linux-preserve-airship-s-mystical-archives-with-tar-271397](https://labex.io/es/tutorials/linux-preserve-airship-s-mystical-archives-with-tar-271397) *(Last modified: 2026-06-28)*
-- [linux-processing-employees-data-388132](https://labex.io/es/tutorials/linux-processing-employees-data-388132) *(Last modified: 2026-06-28)*
+- [linux-processing-employees-data-388132](https://labex.io/es/tutorials/linux-processing-employees-data-388132) *(Last modified: 2026-07-02)*
 - [linux-quick-start-to-hive-272323](https://labex.io/es/tutorials/linux-quick-start-to-hive-272323) *(Last modified: 2026-06-28)*
 - [linux-random-password-generator-development-301484](https://labex.io/es/tutorials/linux-random-password-generator-development-301484) *(Last modified: 2026-06-28)*
 - [linux-random-password-generator-development-301485](https://labex.io/es/tutorials/linux-random-password-generator-development-301485) *(Last modified: 2026-06-24)*
@@ -7925,7 +7925,7 @@ This file contains all tutorials-es related links from LabEx website.
 - [python-python-using-packages-271603](https://labex.io/es/tutorials/python-python-using-packages-271603) *(Last modified: 2026-06-24)*
 - [python-python-using-with-statement-271608](https://labex.io/es/tutorials/python-python-using-with-statement-271608) *(Last modified: 2026-06-24)*
 - [python-python-variables-and-data-types-271605](https://labex.io/es/tutorials/python-python-variables-and-data-types-271605) *(Last modified: 2026-06-28)*
-- [python-python-virtual-environment-management-96](https://labex.io/es/tutorials/python-python-virtual-environment-management-96) *(Last modified: 2026-06-28)*
+- [python-python-virtual-environment-management-96](https://labex.io/es/tutorials/python-python-virtual-environment-management-96) *(Last modified: 2026-07-02)*
 - [python-python-while-loops-271607](https://labex.io/es/tutorials/python-python-while-loops-271607) *(Last modified: 2026-06-24)*
 - [python-pythonic-json-data-handling-85](https://labex.io/es/tutorials/python-pythonic-json-data-handling-85) *(Last modified: 2026-06-28)*
 - [python-qr-code-generator-using-python-298900](https://labex.io/es/tutorials/python-qr-code-generator-using-python-298900) *(Last modified: 2026-06-28)*
