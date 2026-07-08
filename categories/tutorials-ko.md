@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ko Sitemap
 
-> Last updated: 2026-07-07 01:51 UTC
+> Last updated: 2026-07-08 01:22 UTC
 
 This file contains all tutorials-ko related links from LabEx website.
 
@@ -5277,7 +5277,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [linux-web-development-interview-questions-and-answers-593705](https://labex.io/ko/tutorials/linux-web-development-interview-questions-and-answers-593705) *(Last modified: 2026-06-25)*
 - [linux-word-count-and-sorting-388125](https://labex.io/ko/tutorials/linux-word-count-and-sorting-388125) *(Last modified: 2026-07-05)*
 - [linux-yarn-architecture-and-development-272324](https://labex.io/ko/tutorials/linux-yarn-architecture-and-development-272324) *(Last modified: 2026-07-05)*
-- [linux-your-first-linux-lab-270253](https://labex.io/ko/tutorials/linux-your-first-linux-lab-270253) *(Last modified: 2026-07-05)*
+- [linux-your-first-linux-lab-270253](https://labex.io/ko/tutorials/linux-your-first-linux-lab-270253) *(Last modified: 2026-07-07)*
 - [list-all-git-aliases-12737](https://labex.io/ko/tutorials/list-all-git-aliases-12737) *(Last modified: 2026-07-05)*
 - [list-all-stashes-12738](https://labex.io/ko/tutorials/list-all-stashes-12738) *(Last modified: 2026-07-05)*
 - [list-comprehension-for-processing-items-132712](https://labex.io/ko/tutorials/list-comprehension-for-processing-items-132712) *(Last modified: 2026-07-05)*
