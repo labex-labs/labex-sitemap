@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ko Sitemap
 
-> Last updated: 2026-07-09 01:31 UTC
+> Last updated: 2026-07-10 01:28 UTC
 
 This file contains all tutorials-ko related links from LabEx website.
 
@@ -867,7 +867,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [c-switch-case-statement-in-c-language-123352](https://labex.io/ko/tutorials/c-switch-case-statement-in-c-language-123352) *(Last modified: 2026-06-24)*
 - [c-synchronize-multithreaded-printing-with-mutex-301495](https://labex.io/ko/tutorials/c-synchronize-multithreaded-printing-with-mutex-301495) *(Last modified: 2026-06-24)*
 - [c-typing-practice-program-using-c-298834](https://labex.io/ko/tutorials/c-typing-practice-program-using-c-298834) *(Last modified: 2026-07-08)*
-- [c-use-basic-operators-in-c-438288](https://labex.io/ko/tutorials/c-use-basic-operators-in-c-438288) *(Last modified: 2026-07-08)*
+- [c-use-basic-operators-in-c-438288](https://labex.io/ko/tutorials/c-use-basic-operators-in-c-438288) *(Last modified: 2026-07-09)*
 - [c-use-increment-and-decrement-operators-in-c-435201](https://labex.io/ko/tutorials/c-use-increment-and-decrement-operators-in-c-435201) *(Last modified: 2026-07-08)*
 - [c-use-monte-carlo-simulation-for-probability-in-c-435357](https://labex.io/ko/tutorials/c-use-monte-carlo-simulation-for-probability-in-c-435357) *(Last modified: 2026-07-08)*
 - [c-use-of-gets-function-in-c-programming-123354](https://labex.io/ko/tutorials/c-use-of-gets-function-in-c-programming-123354) *(Last modified: 2026-06-24)*
@@ -5264,7 +5264,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [linux-transcribe-media-to-text-with-whisper-289658](https://labex.io/ko/tutorials/linux-transcribe-media-to-text-with-whisper-289658) *(Last modified: 2026-07-08)*
 - [linux-treasure-island-networking-adventure-271340](https://labex.io/ko/tutorials/linux-treasure-island-networking-adventure-271340) *(Last modified: 2026-07-08)*
 - [linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859](https://labex.io/ko/tutorials/linux-troubleshoot-sudo-yum-command-not-found-error-in-linux-391859) *(Last modified: 2026-07-08)*
-- [linux-troubleshooting-su-authentication-failures-on-linux-392816](https://labex.io/ko/tutorials/linux-troubleshooting-su-authentication-failures-on-linux-392816) *(Last modified: 2026-07-08)*
+- [linux-troubleshooting-su-authentication-failures-on-linux-392816](https://labex.io/ko/tutorials/linux-troubleshooting-su-authentication-failures-on-linux-392816) *(Last modified: 2026-07-09)*
 - [linux-unleashing-vidyutpada-linux-input-mastery-271366](https://labex.io/ko/tutorials/linux-unleashing-vidyutpada-linux-input-mastery-271366) *(Last modified: 2026-07-08)*
 - [linux-user-account-creation-632804](https://labex.io/ko/tutorials/linux-user-account-creation-632804) *(Last modified: 2026-07-08)*
 - [linux-user-account-management-49](https://labex.io/ko/tutorials/linux-user-account-management-49) *(Last modified: 2026-07-08)*
