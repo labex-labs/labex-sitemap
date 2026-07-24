@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ru Sitemap
 
-> Last updated: 2026-07-23 01:27 UTC
+> Last updated: 2026-07-24 01:24 UTC
 
 This file contains all tutorials-ru related links from LabEx website.
 
@@ -5177,7 +5177,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [kubernetes-scheduing-with-node-affinity-18468](https://labex.io/ru/tutorials/kubernetes-scheduing-with-node-affinity-18468) *(Last modified: 2026-07-22)*
 - [kubernetes-scheduing-with-node-selectors-15001](https://labex.io/ru/tutorials/kubernetes-scheduing-with-node-selectors-15001) *(Last modified: 2026-07-22)*
 - [kubernetes-secure-kubernetes-dashboard-access-434106](https://labex.io/ru/tutorials/kubernetes-secure-kubernetes-dashboard-access-434106) *(Last modified: 2026-07-22)*
-- [kubernetes-storing-application-data-with-persistentvolumes-9685](https://labex.io/ru/tutorials/kubernetes-storing-application-data-with-persistentvolumes-9685) *(Last modified: 2026-07-22)*
+- [kubernetes-storing-application-data-with-persistentvolumes-9685](https://labex.io/ru/tutorials/kubernetes-storing-application-data-with-persistentvolumes-9685) *(Last modified: 2026-07-23)*
 - [kubernetes-taints-and-tolerations-34029](https://labex.io/ru/tutorials/kubernetes-taints-and-tolerations-34029) *(Last modified: 2026-07-22)*
 - [kubernetes-update-and-rollback-applications-434649](https://labex.io/ru/tutorials/kubernetes-update-and-rollback-applications-434649) *(Last modified: 2026-07-22)*
 - [kubernetes-use-statefulsets-controller-9205](https://labex.io/ru/tutorials/kubernetes-use-statefulsets-controller-9205) *(Last modified: 2026-07-22)*

@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials Sitemap
 
-> Last updated: 2026-07-23 01:27 UTC
+> Last updated: 2026-07-24 01:24 UTC
 
 This file contains all tutorials related links from LabEx website.
 
@@ -8147,7 +8147,7 @@ This file contains all tutorials related links from LabEx website.
 - [kubernetes-scheduing-with-node-selectors-15001](https://labex.io/tutorials/kubernetes-scheduing-with-node-selectors-15001) *(Last modified: 2026-07-22)*
 - [kubernetes-secure-kubernetes-dashboard-access-434106](https://labex.io/tutorials/kubernetes-secure-kubernetes-dashboard-access-434106) *(Last modified: 2026-07-22)*
 - [kubernetes-simplifying-kubernetes-management-with-lens-ide-394874](https://labex.io/tutorials/kubernetes-simplifying-kubernetes-management-with-lens-ide-394874) *(Last modified: 2026-07-16)*
-- [kubernetes-storing-application-data-with-persistentvolumes-9685](https://labex.io/tutorials/kubernetes-storing-application-data-with-persistentvolumes-9685) *(Last modified: 2026-07-22)*
+- [kubernetes-storing-application-data-with-persistentvolumes-9685](https://labex.io/tutorials/kubernetes-storing-application-data-with-persistentvolumes-9685) *(Last modified: 2026-07-23)*
 - [kubernetes-taint-kubernetes-nodes-for-workload-isolation-414817](https://labex.io/tutorials/kubernetes-taint-kubernetes-nodes-for-workload-isolation-414817) *(Last modified: 2026-07-16)*
 - [kubernetes-taints-and-tolerations-34029](https://labex.io/tutorials/kubernetes-taints-and-tolerations-34029) *(Last modified: 2026-07-22)*
 - [kubernetes-troubleshoot-error-pulling-image-configuration-download-392972](https://labex.io/tutorials/kubernetes-troubleshoot-error-pulling-image-configuration-download-392972) *(Last modified: 2026-07-16)*
