@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Ru Sitemap
 
-> Last updated: 2026-07-27 01:32 UTC
+> Last updated: 2026-07-28 01:18 UTC
 
 This file contains all exercises-ru related links from LabEx website.
 
