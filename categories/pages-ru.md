@@ -4,7 +4,7 @@ layout: default
 
 # Pages-Ru Sitemap
 
-> Last updated: 2026-07-28 01:18 UTC
+> Last updated: 2026-07-29 01:21 UTC
 
 This file contains all pages-ru related links from LabEx website.
 

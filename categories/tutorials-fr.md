@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Fr Sitemap
 
-> Last updated: 2026-07-28 01:18 UTC
+> Last updated: 2026-07-29 01:21 UTC
 
 This file contains all tutorials-fr related links from LabEx website.
 
@@ -5936,7 +5936,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [matplotlib-math-fontfamily-48825](https://labex.io/fr/tutorials/matplotlib-math-fontfamily-48825) *(Last modified: 2026-07-26)*
 - [matplotlib-math-rendering-engine-48824](https://labex.io/fr/tutorials/matplotlib-math-rendering-engine-48824) *(Last modified: 2026-07-26)*
 - [matplotlib-matplotlib-bar-charts-596563](https://labex.io/fr/tutorials/matplotlib-matplotlib-bar-charts-596563) *(Last modified: 2026-07-26)*
-- [matplotlib-matplotlib-basic-line-plots-596564](https://labex.io/fr/tutorials/matplotlib-matplotlib-basic-line-plots-596564) *(Last modified: 2026-07-26)*
+- [matplotlib-matplotlib-basic-line-plots-596564](https://labex.io/fr/tutorials/matplotlib-matplotlib-basic-line-plots-596564) *(Last modified: 2026-07-28)*
 - [matplotlib-matplotlib-customizing-line-plots-596565](https://labex.io/fr/tutorials/matplotlib-matplotlib-customizing-line-plots-596565) *(Last modified: 2026-07-26)*
 - [matplotlib-matplotlib-histograms-596566](https://labex.io/fr/tutorials/matplotlib-matplotlib-histograms-596566) *(Last modified: 2026-07-26)*
 - [matplotlib-matplotlib-installation-and-import-596567](https://labex.io/fr/tutorials/matplotlib-matplotlib-installation-and-import-596567) *(Last modified: 2026-07-26)*
