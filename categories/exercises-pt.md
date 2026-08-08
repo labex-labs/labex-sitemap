@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Pt Sitemap
 
-> Last updated: 2026-08-07 02:00 UTC
+> Last updated: 2026-08-08 00:42 UTC
 
 This file contains all exercises-pt related links from LabEx website.
 
