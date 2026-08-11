@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-De Sitemap
 
-> Last updated: 2026-08-10 00:46 UTC
+> Last updated: 2026-08-11 00:46 UTC
 
 This file contains all tutorials-de related links from LabEx website.
 
@@ -8600,7 +8600,7 @@ This file contains all tutorials-de related links from LabEx website.
 - [sql-student-grade-management-system-301414](https://labex.io/de/tutorials/sql-student-grade-management-system-301414) *(Last modified: 2026-07-12)*
 - [sql-view-for-course-information-301432](https://labex.io/de/tutorials/sql-view-for-course-information-301432) *(Last modified: 2026-07-12)*
 - [sql-wuxu-reform-duration-calculation-301436](https://labex.io/de/tutorials/sql-wuxu-reform-duration-calculation-301436) *(Last modified: 2026-07-12)*
-- [sqlite-build-sqlite-database-for-contacts-552582](https://labex.io/de/tutorials/sqlite-build-sqlite-database-for-contacts-552582) *(Last modified: 2026-08-08)*
+- [sqlite-build-sqlite-database-for-contacts-552582](https://labex.io/de/tutorials/sqlite-build-sqlite-database-for-contacts-552582) *(Last modified: 2026-08-10)*
 - [sqlite-building-tables-in-sqlite-552336](https://labex.io/de/tutorials/sqlite-building-tables-in-sqlite-552336) *(Last modified: 2026-08-08)*
 - [sqlite-creating-and-managing-sqlite-databases-552337](https://labex.io/de/tutorials/sqlite-creating-and-managing-sqlite-databases-552337) *(Last modified: 2026-08-08)*
 - [sqlite-filter-sqlite-data-for-it-department-552585](https://labex.io/de/tutorials/sqlite-filter-sqlite-data-for-it-department-552585) *(Last modified: 2026-08-08)*
