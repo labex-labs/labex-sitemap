@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Ru Sitemap
 
-> Last updated: 2026-08-13 00:55 UTC
+> Last updated: 2026-08-14 00:55 UTC
 
 This file contains all courses-ru related links from LabEx website.
 
@@ -98,6 +98,7 @@ This file contains all courses-ru related links from LabEx website.
 - [kubernetes-for-beginners](https://labex.io/ru/courses/kubernetes-for-beginners)
 - [kubernetes-for-noobs](https://labex.io/ru/courses/kubernetes-for-noobs)
 - [kubernetes-fundamentals](https://labex.io/ru/courses/kubernetes-fundamentals)
+- [kubernetes-in-practice](https://labex.io/ru/courses/kubernetes-in-practice)
 - [lateral-movement-pivoting](https://labex.io/ru/courses/lateral-movement-pivoting)
 - [lfcs-practice-exam-01](https://labex.io/ru/courses/lfcs-practice-exam-01)
 - [lfcs-practice-exam-02](https://labex.io/ru/courses/lfcs-practice-exam-02)
