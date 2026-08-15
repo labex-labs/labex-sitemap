@@ -4,7 +4,7 @@ layout: default
 
 # Courses-Es Sitemap
 
-> Last updated: 2026-08-14 00:55 UTC
+> Last updated: 2026-08-15 00:31 UTC
 
 This file contains all courses-es related links from LabEx website.
 
@@ -96,7 +96,6 @@ This file contains all courses-es related links from LabEx website.
 - [keepalived-high-availability](https://labex.io/es/courses/keepalived-high-availability)
 - [kubernetes-cluster-administration](https://labex.io/es/courses/kubernetes-cluster-administration)
 - [kubernetes-for-beginners](https://labex.io/es/courses/kubernetes-for-beginners)
-- [kubernetes-for-noobs](https://labex.io/es/courses/kubernetes-for-noobs)
 - [kubernetes-fundamentals](https://labex.io/es/courses/kubernetes-fundamentals)
 - [kubernetes-in-practice](https://labex.io/es/courses/kubernetes-in-practice)
 - [lateral-movement-pivoting](https://labex.io/es/courses/lateral-movement-pivoting)
