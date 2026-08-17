@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ru Sitemap
 
-> Last updated: 2026-08-16 00:32 UTC
+> Last updated: 2026-08-17 00:32 UTC
 
 This file contains all tutorials-ru related links from LabEx website.
 
@@ -5535,7 +5535,7 @@ This file contains all tutorials-ru related links from LabEx website.
 - [linux-how-to-manipulate-linux-file-attributes-435785](https://labex.io/ru/tutorials/linux-how-to-manipulate-linux-file-attributes-435785) *(Last modified: 2026-07-16)*
 - [linux-how-to-merge-linux-text-files-efficiently-418341](https://labex.io/ru/tutorials/linux-how-to-merge-linux-text-files-efficiently-418341) *(Last modified: 2026-07-16)*
 - [linux-how-to-monitor-and-manage-file-changes-in-a-linux-environment-409923](https://labex.io/ru/tutorials/linux-how-to-monitor-and-manage-file-changes-in-a-linux-environment-409923) *(Last modified: 2026-07-16)*
-- [linux-how-to-monitor-real-time-changes-in-a-linux-log-file-with-tail-417371](https://labex.io/ru/tutorials/linux-how-to-monitor-real-time-changes-in-a-linux-log-file-with-tail-417371) *(Last modified: 2026-08-13)*
+- [linux-how-to-monitor-real-time-changes-in-a-linux-log-file-with-tail-417371](https://labex.io/ru/tutorials/linux-how-to-monitor-real-time-changes-in-a-linux-log-file-with-tail-417371) *(Last modified: 2026-08-16)*
 - [linux-how-to-mount-a-file-system-with-the-noexec-option-in-linux-415255](https://labex.io/ru/tutorials/linux-how-to-mount-a-file-system-with-the-noexec-option-in-linux-415255) *(Last modified: 2026-07-16)*
 - [linux-how-to-mount-filesystem-without-root-access-435103](https://labex.io/ru/tutorials/linux-how-to-mount-filesystem-without-root-access-435103) *(Last modified: 2026-07-16)*
 - [linux-how-to-parse-csv-data-in-linux-420581](https://labex.io/ru/tutorials/linux-how-to-parse-csv-data-in-linux-420581) *(Last modified: 2026-07-16)*

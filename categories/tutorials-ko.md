@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Ko Sitemap
 
-> Last updated: 2026-08-16 00:32 UTC
+> Last updated: 2026-08-17 00:32 UTC
 
 This file contains all tutorials-ko related links from LabEx website.
 
@@ -5005,7 +5005,7 @@ This file contains all tutorials-ko related links from LabEx website.
 - [linux-how-to-install-the-bc-command-in-linux-414536](https://labex.io/ko/tutorials/linux-how-to-install-the-bc-command-in-linux-414536) *(Last modified: 2026-08-13)*
 - [linux-how-to-list-contents-of-a-zip-archive-in-linux-409870](https://labex.io/ko/tutorials/linux-how-to-list-contents-of-a-zip-archive-in-linux-409870) *(Last modified: 2026-08-13)*
 - [linux-how-to-list-current-shell-options-with-the-set-command-in-linux-415142](https://labex.io/ko/tutorials/linux-how-to-list-current-shell-options-with-the-set-command-in-linux-415142) *(Last modified: 2026-08-13)*
-- [linux-how-to-monitor-real-time-changes-in-a-linux-log-file-with-tail-417371](https://labex.io/ko/tutorials/linux-how-to-monitor-real-time-changes-in-a-linux-log-file-with-tail-417371) *(Last modified: 2026-08-13)*
+- [linux-how-to-monitor-real-time-changes-in-a-linux-log-file-with-tail-417371](https://labex.io/ko/tutorials/linux-how-to-monitor-real-time-changes-in-a-linux-log-file-with-tail-417371) *(Last modified: 2026-08-16)*
 - [linux-how-to-resolve-ssh-copy-id-no-identities-found-error-398384](https://labex.io/ko/tutorials/linux-how-to-resolve-ssh-copy-id-no-identities-found-error-398384) *(Last modified: 2026-08-13)*
 - [linux-how-to-resolve-the-could-not-open-lock-file-var-lib-dpkg-lock-frontend-error-on-linux-400159](https://labex.io/ko/tutorials/linux-how-to-resolve-the-could-not-open-lock-file-var-lib-dpkg-lock-frontend-error-on-linux-400159) *(Last modified: 2026-08-13)*
 - [linux-how-to-sort-processes-by-different-criteria-in-htop-415299](https://labex.io/ko/tutorials/linux-how-to-sort-processes-by-different-criteria-in-htop-415299) *(Last modified: 2026-08-13)*

@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Zh Sitemap
 
-> Last updated: 2026-08-16 00:32 UTC
+> Last updated: 2026-08-17 00:32 UTC
 
 This file contains all tutorials-zh related links from LabEx website.
 
@@ -9208,7 +9208,7 @@ This file contains all tutorials-zh related links from LabEx website.
 - [linux-how-to-monitor-linux-storage-capacity-421921](https://labex.io/zh/tutorials/linux-how-to-monitor-linux-storage-capacity-421921) *(Last modified: 2026-07-16)*
 - [linux-how-to-monitor-linux-storage-space-446974](https://labex.io/zh/tutorials/linux-how-to-monitor-linux-storage-space-446974) *(Last modified: 2026-07-16)*
 - [linux-how-to-monitor-network-services-in-linux-409883](https://labex.io/zh/tutorials/linux-how-to-monitor-network-services-in-linux-409883) *(Last modified: 2026-07-16)*
-- [linux-how-to-monitor-real-time-changes-in-a-linux-log-file-with-tail-417371](https://labex.io/zh/tutorials/linux-how-to-monitor-real-time-changes-in-a-linux-log-file-with-tail-417371) *(Last modified: 2026-08-13)*
+- [linux-how-to-monitor-real-time-changes-in-a-linux-log-file-with-tail-417371](https://labex.io/zh/tutorials/linux-how-to-monitor-real-time-changes-in-a-linux-log-file-with-tail-417371) *(Last modified: 2026-08-16)*
 - [linux-how-to-monitor-system-memory-418343](https://labex.io/zh/tutorials/linux-how-to-monitor-system-memory-418343) *(Last modified: 2026-07-16)*
 - [linux-how-to-monitor-system-performance-using-the-top-command-in-linux-409884](https://labex.io/zh/tutorials/linux-how-to-monitor-system-performance-using-the-top-command-in-linux-409884) *(Last modified: 2026-07-16)*
 - [linux-how-to-mount-a-file-system-with-the-noexec-option-in-linux-415255](https://labex.io/zh/tutorials/linux-how-to-mount-a-file-system-with-the-noexec-option-in-linux-415255) *(Last modified: 2026-07-16)*
