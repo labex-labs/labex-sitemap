@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials-Fr Sitemap
 
-> Last updated: 2026-08-19 00:31 UTC
+> Last updated: 2026-08-20 00:32 UTC
 
 This file contains all tutorials-fr related links from LabEx website.
 
@@ -5777,7 +5777,7 @@ This file contains all tutorials-fr related links from LabEx website.
 - [linux-users-and-groups-creation-and-deletion-batch-301458](https://labex.io/fr/tutorials/linux-users-and-groups-creation-and-deletion-batch-301458) *(Last modified: 2026-08-18)*
 - [linux-users-and-groups-creation-and-deletion-batch-301459](https://labex.io/fr/tutorials/linux-users-and-groups-creation-and-deletion-batch-301459) *(Last modified: 2026-07-12)*
 - [linux-using-hydra-to-crack-passwords-415960](https://labex.io/fr/tutorials/linux-using-hydra-to-crack-passwords-415960) *(Last modified: 2026-08-18)*
-- [linux-using-netcat-for-simple-network-communication-415961](https://labex.io/fr/tutorials/linux-using-netcat-for-simple-network-communication-415961) *(Last modified: 2026-08-18)*
+- [linux-using-netcat-for-simple-network-communication-415961](https://labex.io/fr/tutorials/linux-using-netcat-for-simple-network-communication-415961) *(Last modified: 2026-08-19)*
 - [linux-viewing-log-and-configuration-files-in-linux-387914](https://labex.io/fr/tutorials/linux-viewing-log-and-configuration-files-in-linux-387914) *(Last modified: 2026-08-18)*
 - [linux-visualize-file-differences-with-icdiff-272381](https://labex.io/fr/tutorials/linux-visualize-file-differences-with-icdiff-272381) *(Last modified: 2026-08-18)*
 - [linux-web-development-interview-questions-and-answers-593705](https://labex.io/fr/tutorials/linux-web-development-interview-questions-and-answers-593705) *(Last modified: 2026-07-16)*
