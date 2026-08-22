@@ -4,7 +4,7 @@ layout: default
 
 # Exercises-Zh Sitemap
 
-> Last updated: 2026-08-21 00:34 UTC
+> Last updated: 2026-08-22 00:31 UTC
 
 This file contains all exercises-zh related links from LabEx website.
 
